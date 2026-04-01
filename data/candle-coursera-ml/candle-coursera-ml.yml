@@ -1,0 +1,23 @@
+name: candle-coursera-ml
+description: Rust implementations of machine learning algorithms from Coursera's
+  Machine Learning Specialization course, built using the Candle framework.
+source_url: https://github.com/vishpat/candle-coursera-ml
+category: Machine Learning
+tags:
+  - open-source
+  - education
+  - algorithms
+featured: false
+markdown: |-
+  ## Overview
+
+  Implementations of classic ML algorithms using Candle.
+
+  ## Features
+
+  - Algorithms from Andrew Ng's Coursera course.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,31 @@
+name: utah
+description: DataFrame library providing columnar data structures and operations
+  for high-performance data manipulation. Supports Rust-native data processing
+  pipelines suitable for ML feature engineering.
+source_url: https://github.com/kernelmachine/utah
+category: Machine Learning
+tags:
+  - dataframes
+  - columnar
+  - data-processing
+featured: false
+markdown: |-
+  ## Overview
+
+  Utah offers a DataFrame structure optimized for analytical workloads.
+
+  ## Features
+
+  - Columnar storage
+  - Filtering, grouping, joins
+  - Missing value handling
+  - Expression evaluation
+
+  ## Use Cases
+
+  - ETL pipelines
+  - Feature stores for ML
+  - Data wrangling
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

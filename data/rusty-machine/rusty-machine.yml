@@ -1,0 +1,22 @@
+name: rusty-machine
+description: rusty-machine is a Machine Learning library for Rust. Inactive.
+  Score 17, 1.3K stars.
+source_url: https://github.com/AtheMathmo/rusty-machine
+category: Frameworks
+tags:
+  - machine-learning
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Machine Learning library for Rust.
+
+  ## License
+
+  MIT
+
+  ## Repository Stats
+
+  - Stars: 1.3K
+updated_at: 2026-04-01 12:33

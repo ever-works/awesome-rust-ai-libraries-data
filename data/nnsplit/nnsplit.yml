@@ -1,0 +1,21 @@
+name: nnsplit
+description: Neural network-based toolkit to segment text into sentences or
+  semantic units without language-specific rules.
+source_url: https://github.com/segment-any-text/wtpsplit
+category: NLP
+tags:
+  - text-segmentation
+  - neural
+  - open-source
+markdown: >-
+  ## Overview
+
+
+  Uses multilingual models for sentence splitting. Supports zero-shot
+  segmentation.
+
+
+  ## License
+
+  MIT
+updated_at: 2026-04-01 12:33

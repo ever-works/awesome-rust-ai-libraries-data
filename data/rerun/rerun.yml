@@ -1,0 +1,22 @@
+name: rerun
+description: Visualization tool for multimodal data streams, supporting image,
+  point clouds, and logs for AI and ML debugging.
+source_url: https://github.com/rerun-io/rerun
+category: Visualization
+tags:
+  - visualization
+  - multimodal
+  - open-source
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Free, fast tool to visualize computer vision and AI data. Supports Python,
+  C++, Rust SDKs.
+
+
+  ## License
+
+  Apache-2.0
+updated_at: 2026-04-01 12:33

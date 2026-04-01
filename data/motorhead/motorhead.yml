@@ -1,0 +1,25 @@
+name: motorhead
+description: Memory and information retrieval server for LLMs, using Redis as a
+  vector store for long-term memory and compatible with OpenAI API.
+source_url: https://github.com/getmetal/motorhead
+category: Memory
+tags:
+  - open-source
+  - retrieval
+  - redis
+featured: false
+markdown: |-
+  ## Overview
+
+  Motorhead provides long-term memory for LLMs via Redis vector store.
+
+  ## Features
+
+  - Redis-based vector storage
+  - OpenAI API compatible
+  - Examples in JS and Python
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

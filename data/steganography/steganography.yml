@@ -1,0 +1,23 @@
+name: steganography
+description: Simple steganography library for embedding and extracting data in
+  images. Useful for secure data transmission or watermarking in AI-generated
+  images.
+source_url: https://github.com/teovoinea/steganography
+category: Machine Learning
+tags:
+  - steganography
+  - image-processing
+  - security
+featured: false
+markdown: |-
+  ## Overview
+
+  A simple steganography library for hiding data within images.
+
+  ## Features
+
+  - Embed secret messages in image pixels
+  - Extract hidden data
+  - Supports LSB (Least Significant Bit) method
+  - Integrates with `image` crate
+updated_at: 2026-04-01 12:33

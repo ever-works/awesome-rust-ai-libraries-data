@@ -1,0 +1,30 @@
+name: Candle
+description: Candle is a minimalist ML framework for Rust with support for
+  running Hugging Face models. It enables efficient inference and training with
+  hardware acceleration. Highly ranked with score 21 and 16K GitHub stars.
+source_url: https://github.com/huggingface/candle
+category: Frameworks
+tags:
+  - minimalist
+  - inference
+  - deep-learning
+  - open-source
+featured: true
+markdown: |-
+  ## Overview
+
+  Minimalist ML framework for Rust.
+
+  ## License
+
+  Apache-2.0
+
+  ## Repository Stats
+
+  - Stars: 16K
+  - Contributors: 160
+  - Forks: 950
+  - Dependents: 1.3K
+  - Updated: 30.11.2024
+brand: Hugging Face
+updated_at: 2026-04-01 12:33

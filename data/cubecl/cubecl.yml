@@ -1,0 +1,21 @@
+name: CubeCL
+description: CubeCL is a Rust crate developed by Tracel AI as part of the Burn
+  AI framework's projects. It supports Burn's goal of portable AI model training
+  and inference across various hardware platforms. This open-source library
+  contributes to the ecosystem of Rust-based AI tools.
+source_url: https://github.com/tracel-ai/cubecl
+category: Machine Learning
+tags:
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  CubeCL is an open-source Rust crate listed in the Burn project's resources.
+
+  ## Pricing
+
+  Free and open-source.
+brand: Tracel AI
+brand_logo_url: https://burn.dev/_astro/tracel.CzauUfTz_FOT76.webp
+updated_at: 2026-04-01 12:33

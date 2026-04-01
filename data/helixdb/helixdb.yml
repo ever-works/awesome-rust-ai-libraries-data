@@ -1,0 +1,26 @@
+name: HelixDB
+description: A powerful graph-vector database designed for intelligent data
+  storage, particularly for RAG (Retrieval-Augmented Generation) and AI
+  applications. It combines graph and vector capabilities to handle complex
+  relationships and embeddings.
+source_url: https://github.com/HelixDB/helix-db
+category: Vector Databases
+tags:
+  - graph-database
+  - vector-database
+  - rag
+featured: false
+markdown: |-
+  ## Overview
+
+  HelixDB is a graph-vector database tailored for AI and RAG systems.
+
+  ## Features
+
+  - Graph and vector data storage
+  - Optimized for intelligent data handling in AI
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

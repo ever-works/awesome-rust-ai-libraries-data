@@ -1,0 +1,10 @@
+name: Monty
+description: Minimal, secure Python interpreter for running LLM-generated code
+  in AI agents, with microsecond startup and sandboxing.
+source_url: https://github.com/pydantic/monty
+category: Tooling
+tags:
+  - interpreter
+  - sandbox
+  - agents
+updated_at: 2026-04-01 12:33

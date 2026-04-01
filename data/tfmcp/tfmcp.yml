@@ -1,0 +1,32 @@
+name: tfmcp
+description: Terraform MCP Tool, a CLI for AI assistants to manage Terraform
+  environments via Model Context Protocol. Enables agentic interaction with
+  infrastructure as code for AI systems.
+source_url: https://github.com/nwiizo/tfmcp
+category: Agentic Systems
+tags:
+  - open-source
+  - terraform
+  - ai-assistants
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Terraform MCP Tool - CLI for AI assistants to manage Terraform environments
+  via Model Context Protocol.
+
+
+  ## Features
+
+
+  - CLI interface for AI assistants
+
+  - Manages Terraform via Model Context Protocol
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

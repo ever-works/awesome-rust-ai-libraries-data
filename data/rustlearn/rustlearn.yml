@@ -1,0 +1,22 @@
+name: rustlearn
+description: rustlearn is a machine learning crate for Rust. Dead project. Score
+  16, 620 stars.
+source_url: https://github.com/maciejkula/rustlearn
+category: Frameworks
+tags:
+  - machine-learning
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Machine learning crate for Rust.
+
+  ## License
+
+  Apache-2.0
+
+  ## Repository Stats
+
+  - Stars: 620
+updated_at: 2026-04-01 12:33

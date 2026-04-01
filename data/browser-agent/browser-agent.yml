@@ -1,0 +1,31 @@
+name: browser-agent
+description: Headless browser controlled by GPT-4, using simplified page
+  representations to receive and execute instructions for web automation.
+source_url: https://github.com/m1guelpf/browser-agent
+category: Agentic Systems
+tags:
+  - open-source
+  - web-automation
+  - gpt-4
+featured: false
+markdown: >-
+  ## Overview
+
+
+  browser-agent uses GPT-4 to drive a headless browser via custom command
+  format.
+
+
+  ## Features
+
+
+  - CLICK, TYPE, ANSWER commands
+
+  - Simplified page representation for LLMs
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

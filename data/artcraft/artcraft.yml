@@ -1,0 +1,18 @@
+name: artcraft
+description: AI-powered IDE and tangible computing surface for molding scenes,
+  videos, and images like clay. A Rust-based tool for generative content
+  creation.
+source_url: https://github.com/storytold/artcraft
+category: Generative AI
+tags:
+  - open-source
+  - ai-powered
+  - creative-tools
+featured: false
+markdown: >-
+  ## Overview
+
+
+  An AI-powered IDE and tangible computing surface for molding scenes, videos,
+  and images like clay.
+updated_at: 2026-04-01 12:33

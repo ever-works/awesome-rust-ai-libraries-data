@@ -1,0 +1,19 @@
+name: graph-rs
+description: Microsoft Graph API Client and Identity Platform Client implemented
+  in Rust, useful for integrating graph data in AI applications. MIT licensed.
+source_url: https://github.com/sreeise/graph-rs-sdk
+category: Graph Processing
+tags:
+  - microsoft-graph
+  - api-client
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Client for Microsoft Graph API and Identity Platform in Rust.
+
+  ## License
+
+  MIT
+updated_at: 2026-04-01 12:33

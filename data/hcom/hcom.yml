@@ -1,0 +1,19 @@
+name: hcom
+description: Rust PTY wrapper enabling AI agents to message, watch, and spawn
+  each other across terminals. Supports Claude Code, Gemini CLI, Codex, OpenCode
+  with screen tracking, TUI, and daemon.
+source_url: https://github.com/aannoo/hcom
+category: Agentic Systems
+tags:
+  - open-source
+  - ai-agents
+  - tui
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Let AI agents message, watch, and spawn each other across terminals (Claude
+  Code, Gemini CLI, Codex, OpenCode). Rust PTY wrapper with screen tracking, TUI
+  (ratatui), and daemon client binary; Python hooks and API.
+updated_at: 2026-04-01 12:33

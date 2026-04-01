@@ -1,0 +1,10 @@
+name: Memvid
+description: Single-file portable memory layer for AI agents with vector search,
+  full-text search, and long-term recall in one .mv2 file.
+source_url: https://github.com/memvid/memvid
+category: Agentic Systems
+tags:
+  - memory
+  - vector-search
+  - portable
+updated_at: 2026-04-01 12:33

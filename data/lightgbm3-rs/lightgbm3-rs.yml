@@ -1,0 +1,10 @@
+name: lightgbm3-rs
+description: Rust bindings for LightGBM gradient boosting framework. Useful for
+  machine learning model training and inference.
+source_url: https://github.com/Mottl/lightgbm3-rs
+category: Machine Learning
+tags:
+  - gradient-boosting
+  - bindings
+  - open-source
+updated_at: 2026-04-01 12:33

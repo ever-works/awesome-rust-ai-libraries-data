@@ -1,0 +1,24 @@
+name: candle-nn
+description: Neural network building blocks for the Candle framework. Includes
+  layers, activations, and utilities for constructing real-world ML models.
+source_url: https://github.com/huggingface/candle/tree/main/candle-nn
+category: Machine Learning
+tags:
+  - open-source
+  - neural-networks
+  - layers
+featured: false
+markdown: |-
+  ## Overview
+
+  Tools to build neural networks in Candle.
+
+  ## Features
+
+  - Common NN layers and components.
+
+  ## Pricing
+
+  Free and open-source.
+brand: Hugging Face
+updated_at: 2026-04-01 12:33

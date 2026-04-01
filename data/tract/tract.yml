@@ -1,0 +1,25 @@
+name: tract
+description: tract is a tiny, no-nonsense, self-contained TensorFlow and ONNX
+  inference engine in Rust. Popular for model inference with no external
+  dependencies. Score 19, 2.2K stars.
+source_url: https://github.com/sonos/tract
+category: Inference
+tags:
+  - onnx
+  - tensorflow
+  - inference
+  - open-source
+featured: true
+markdown: |-
+  ## Overview
+
+  Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference.
+
+  ## License
+
+  Unlicensed
+
+  ## Repository Stats
+
+  - Stars: 2.2K
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,9 @@
+name: Rig
+description: Library for creating agents and modular, scalable LLM-powered applications.
+source_url: https://github.com/0xplaygrounds/rig
+category: Agentic Systems
+tags:
+  - agents
+  - llm
+  - open-source
+updated_at: 2026-04-01 12:33

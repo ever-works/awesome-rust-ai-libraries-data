@@ -1,0 +1,29 @@
+name: TVM
+description: Apache TVM is an open deep learning compiler stack for CPUs, GPUs,
+  and specialized accelerators. Rust bindings enable its use in Rust AI
+  workflows. Score 20, 12K stars.
+source_url: https://github.com/apache/tvm
+category: Compilers
+tags:
+  - compiler
+  - deep-learning
+  - open-source
+featured: true
+markdown: |-
+  ## Overview
+
+  Open deep learning compiler stack for cpu, gpu and specialized accelerators.
+
+  ## License
+
+  Apache-2.0
+
+  ## Repository Stats
+
+  - Stars: 12K
+  - Contributors: 1K
+  - Forks: 3.3K
+  - Downloads: 4.6K
+  - Updated: 30.11.2024
+brand: Apache Software Foundation
+updated_at: 2026-04-01 12:33

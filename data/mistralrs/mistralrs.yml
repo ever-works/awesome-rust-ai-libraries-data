@@ -1,0 +1,27 @@
+name: mistral.rs
+description: mistral.rs provides blazingly fast LLM inference in Rust. Optimized
+  for performance in running large language models. Score 21, 4.6K stars.
+source_url: https://github.com/EricLBuehler/mistral.rs
+category: Inference
+tags:
+  - llm
+  - inference
+  - open-source
+featured: true
+markdown: |-
+  ## Overview
+
+  Blazingly fast LLM inference.
+
+  ## License
+
+  MIT
+
+  ## Repository Stats
+
+  - Stars: 4.6K
+  - Contributors: 35
+  - Forks: 320
+  - Downloads: 1.1K
+  - Updated: 30.11.2024
+updated_at: 2026-04-01 12:33

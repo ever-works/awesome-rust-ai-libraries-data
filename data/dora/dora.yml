@@ -1,0 +1,25 @@
+name: Dora
+description: A fast and simple dataflow-oriented framework for building robotic
+  and multi-AI applications, supporting Python, Rust, and C/C++ APIs.
+source_url: https://github.com/dora-rs/dora
+category: Dataflow Frameworks
+tags:
+  - dataflow
+  - robotics
+  - multi-ai
+featured: false
+markdown: |-
+  ## Overview
+
+  Dora enables dataflow programming for robotics and AI applications.
+
+  ## Features
+
+  - Dataflow-oriented architecture
+  - Multi-language APIs (Rust, Python, C++)
+  - For robotic and multi-AI systems
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

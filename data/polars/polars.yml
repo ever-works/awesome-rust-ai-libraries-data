@@ -1,0 +1,25 @@
+name: Polars
+description: High-performance DataFrame library in Rust, serving as a faster
+  alternative to pandas for data manipulation in AI workflows.
+source_url: https://github.com/pola-rs/polars
+category: Data Processing
+tags:
+  - open-source
+  - dataframe
+  - high-performance
+featured: false
+markdown: |-
+  ## Overview
+
+  Polars is a pure Rust DataFrame library outperforming pandas.
+
+  ## Features
+
+  - Fast data processing
+  - Lazy evaluation
+  - Multi-threaded
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

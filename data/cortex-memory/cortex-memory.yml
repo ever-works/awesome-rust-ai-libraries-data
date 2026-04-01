@@ -1,0 +1,10 @@
+name: Cortex Memory
+description: Complete solution for agent memory, including extraction, vector
+  search, automated optimization, and insights dashboard.
+source_url: https://github.com/sopaco/cortex-mem
+category: Agentic Systems
+tags:
+  - memory
+  - vector-search
+  - open-source
+updated_at: 2026-04-01 12:33

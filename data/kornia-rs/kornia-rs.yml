@@ -1,0 +1,17 @@
+name: kornia-rs
+description: Low-level computer vision library in Rust with differentiable image
+  transformations.
+source_url: https://github.com/kornia/kornia-rs
+category: Computer Vision
+tags:
+  - differentiable
+  - cv
+  - open-source
+markdown: |-
+  ## Overview
+
+  Port of Kornia PyTorch ops to Rust with tch-rs backend.
+
+  ## License
+  Apache-2.0
+updated_at: 2026-04-01 12:33

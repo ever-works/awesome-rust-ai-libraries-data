@@ -1,0 +1,14 @@
+name: zkml
+description: Zero-knowledge machine learning library in Rust. Apache-2 licensed.
+source_url: https://github.com/ddkang/zkml
+category: Other
+tags:
+  - zero-knowledge
+  - ml-privacy
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  ZK proofs for ML.
+updated_at: 2026-04-01 12:33

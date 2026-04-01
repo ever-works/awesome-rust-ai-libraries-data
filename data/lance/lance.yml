@@ -1,0 +1,22 @@
+name: lance
+description: Modern columnar data format for ML and LLMs implemented in Rust,
+  supporting efficient storage and querying of vector data.
+source_url: https://github.com/lancedb/lance
+category: Data Formats
+tags:
+  - columnar
+  - ml-data
+  - open-source
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Optimized for append-heavy workloads with versioned datasets. Integrates with
+  Arrow.
+
+
+  ## License
+
+  Apache-2.0
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,23 @@
+name: autorust
+description: Rust macros that generate AI-driven Rust code at compile time,
+  leveraging LLMs for code generation.
+source_url: https://github.com/minskylab/auto-rust
+category: Code Generation
+tags:
+  - open-source
+  - macros
+  - ai-code-gen
+featured: false
+markdown: |-
+  ## Overview
+
+  autorust uses macros to produce AI-generated Rust code during compilation.
+
+  ## Features
+
+  - Compile-time AI code generation
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

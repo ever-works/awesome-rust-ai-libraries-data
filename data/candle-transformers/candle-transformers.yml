@@ -1,0 +1,25 @@
+name: candle-transformers
+description: Transformers-related utilities and model implementations for
+  Candle. Supports loading and running transformer models like BERT, GPT
+  variants.
+source_url: https://github.com/huggingface/candle/tree/main/candle-transformers
+category: Machine Learning
+tags:
+  - open-source
+  - transformers
+  - llm
+featured: false
+markdown: |-
+  ## Overview
+
+  Utilities for transformer models in Candle.
+
+  ## Features
+
+  - Support for various transformer architectures.
+
+  ## Pricing
+
+  Free and open-source.
+brand: Hugging Face
+updated_at: 2026-04-01 12:33

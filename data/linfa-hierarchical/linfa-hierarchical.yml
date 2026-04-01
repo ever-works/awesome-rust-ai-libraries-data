@@ -1,0 +1,10 @@
+name: linfa-hierarchical
+description: Agglomerative hierarchical clustering for unsupervised learning.
+  Builds cluster hierarchies. Tested implementation in linfa.
+source_url: https://crates.io/crates/linfa-hierarchical
+category: Machine Learning
+tags:
+  - open-source
+  - unsupervised-learning
+  - hierarchical-clustering
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,24 @@
+name: oneiromancer
+description: Reverse engineering assistant that uses a locally running LLM to
+  aid with source code analysis.
+source_url: https://github.com/0xdea/oneiromancer
+category: LLM Tools
+tags:
+  - open-source
+  - llm
+  - reverse-engineering
+  - cli
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Reverse engineering assistant that uses a locally running LLM to aid with
+  source code analysis.
+
+
+  ## Crate
+
+
+  [oneiromancer](https://crates.io/crates/oneiromancer)
+updated_at: 2026-04-01 12:33

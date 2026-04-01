@@ -1,0 +1,26 @@
+name: kalosm
+description: Multi-modal meta-framework in Rust for interfacing with local
+  pre-trained models using Candle. Supports controlled generation, custom
+  samplers, in-memory vector DBs, audio transcription, and more.
+source_url: https://github.com/floneum/floneum/tree/master/interfaces/kalosm
+category: Machine Learning
+tags:
+  - open-source
+  - multi-modal
+  - agents
+featured: false
+markdown: |-
+  ## Overview
+
+  Framework for local AI model interaction.
+
+  ## Features
+
+  - Controlled generation and custom samplers.
+  - In-memory vector databases.
+  - Audio transcription support.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

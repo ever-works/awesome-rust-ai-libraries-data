@@ -1,0 +1,10 @@
+name: linfa-trees
+description: Decision trees for supervised learning. Implements linear decision
+  trees, benchmarked in linfa.
+source_url: https://crates.io/crates/linfa-trees
+category: Machine Learning
+tags:
+  - open-source
+  - supervised-learning
+  - decision-trees
+updated_at: 2026-04-01 12:33

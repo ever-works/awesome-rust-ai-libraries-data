@@ -1,0 +1,17 @@
+name: aichat
+description: All-in-one LLM CLI tool with Shell Assistant, Chat-REPL, RAG, AI
+  Tools & Agents. Supports OpenAI, Claude, Gemini, Ollama, Groq, and more.
+source_url: https://github.com/sigoden/aichat
+category: LLM Tools
+tags:
+  - open-source
+  - llm
+  - cli
+featured: false
+markdown: >-
+  ## Overview
+
+
+  All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools &
+  Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+updated_at: 2026-04-01 12:33

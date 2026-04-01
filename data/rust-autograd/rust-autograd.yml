@@ -1,0 +1,23 @@
+name: rust-autograd
+description: rust-autograd provides tensors and differentiable operations like
+  TensorFlow in Rust. Dead project. Score 12, 490 stars.
+source_url: https://github.com/raskr/rust-autograd
+category: Frameworks
+tags:
+  - autograd
+  - tensors
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Tensors and differentiable operations (like TensorFlow) in Rust.
+
+  ## License
+
+  MIT
+
+  ## Repository Stats
+
+  - Stars: 490
+updated_at: 2026-04-01 12:33

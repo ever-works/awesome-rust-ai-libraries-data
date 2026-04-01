@@ -1,0 +1,15 @@
+name: graphlib
+description: Simple but powerful graph library for Rust, applicable to ML graph
+  tasks. MIT licensed.
+source_url: https://github.com/purpleprotocol/graphlib
+category: Graph Processing
+tags:
+  - graph
+  - library
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Basic graph library for Rust applications.
+updated_at: 2026-04-01 12:33

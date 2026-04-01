@@ -1,0 +1,43 @@
+name: roaring-rs
+description: Rust implementation of Roaring Bitmaps, an efficient compressed
+  bitmap data structure for handling large sets of integers. Valuable for sparse
+  data representation in machine learning and data processing.
+source_url: https://github.com/RoaringBitmap/roaring-rs
+category: Machine Learning
+tags:
+  - bitmaps
+  - compression
+  - sparse-data
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Roaring bitmaps provide excellent compression for integer sets while
+  maintaining fast operations.
+
+
+  ## Features
+
+
+  - Union, intersection, difference
+
+  - Serialization/deserialization
+
+  - Iterator support
+
+  - High performance on modern CPUs
+
+
+  ## Use Cases
+
+
+  - Inverted indexes
+
+  - Sparse tensor storage
+
+  - Set operations in ML pipelines
+
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

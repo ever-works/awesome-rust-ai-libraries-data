@@ -1,0 +1,22 @@
+name: tissue
+description: A Rust crate to quickly showcase machine learning models or magic.
+  Facilitates rapid prototyping and demonstration of ML work in Rust. Useful for
+  presentations and quick AI experiments.
+source_url: https://github.com/psiace/tissue
+category: Machine Learning
+tags:
+  - open-source
+  - prototyping
+markdown: |-
+  ## Overview
+
+  tissue allows quick showcasing of machine learning magic in Rust.
+
+  ## Links
+
+  - [Documentation](https://docs.rs/tissue)
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

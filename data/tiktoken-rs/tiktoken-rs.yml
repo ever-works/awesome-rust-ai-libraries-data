@@ -1,0 +1,10 @@
+name: tiktoken-rs
+description: Library for tokenizing text with OpenAI models using tiktoken.
+  Essential for LLM input processing in Rust.
+source_url: https://github.com/zurawiki/tiktoken-rs
+category: NLP
+tags:
+  - tokenization
+  - openai
+  - open-source
+updated_at: 2026-04-01 12:33

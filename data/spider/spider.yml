@@ -1,0 +1,24 @@
+name: spider
+description: Rust-based web crawler/spider for dumping entire websites, useful
+  for data collection in LLM training or RAG systems.
+source_url: https://github.com/spider-rs/spider
+category: Tools
+tags:
+  - open-source
+  - web-crawler
+  - data-collection
+featured: false
+markdown: |-
+  ## Overview
+
+  Spider crawls and dumps website data in Rust.
+
+  ## Features
+
+  - Full-site crawling
+  - Post-processing flexibility
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

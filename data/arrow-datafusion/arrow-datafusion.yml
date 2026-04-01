@@ -1,0 +1,19 @@
+name: arrow-datafusion
+description: Apache DataFusion SQL query engine built on Arrow, for
+  high-performance data processing in Rust.
+source_url: https://github.com/apache/datafusion
+category: Data Processing
+tags:
+  - sql
+  - query-engine
+  - open-source
+featured: true
+markdown: |-
+  ## Overview
+
+  Extensible query engine with SQL support, Parquet reader, DataFrame API.
+
+  ## License
+  Apache-2.0
+brand: Apache
+updated_at: 2026-04-01 12:33

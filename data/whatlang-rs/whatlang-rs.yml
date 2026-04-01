@@ -1,0 +1,16 @@
+name: whatlang-rs
+description: Natural language detection library for Rust with online demo,
+  detects over 100 languages.
+source_url: https://github.com/greyblake/whatlang-rs
+category: NLP
+tags:
+  - language-detection
+  - open-source
+markdown: |-
+  ## Overview
+
+  Fast and lightweight language identification based on n-grams.
+
+  ## License
+  MIT/Apache-2.0
+updated_at: 2026-04-01 12:33

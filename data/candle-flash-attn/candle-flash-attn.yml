@@ -1,0 +1,24 @@
+name: candle-flash-attn
+description: Implementation of Flash Attention v2 in Candle for efficient
+  attention computation. Improves performance for transformer models on GPUs.
+source_url: https://github.com/huggingface/candle/tree/main/candle-flash-attn
+category: Machine Learning
+tags:
+  - open-source
+  - attention
+  - flash-attention
+featured: false
+markdown: |-
+  ## Overview
+
+  Flash Attention v2 kernel for Candle.
+
+  ## Features
+
+  - Optimized attention mechanism.
+
+  ## Pricing
+
+  Free and open-source.
+brand: Hugging Face
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,43 @@
+name: plotters
+description: Rust plotting library capable of high-quality plots using bitmap or
+  vector graphics backends. Useful for visualizing machine learning results,
+  data distributions, and model performance metrics.
+source_url: https://github.com/plotters-rs/plotters
+category: Data Visualization
+tags:
+  - plotting
+  - charts
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Plotters is a fast and easy-to-use plotting library for Rust with support for
+  various backends.
+
+
+  ## Features
+
+
+  - Line, scatter, histogram, box plots
+
+  - Bitmap (PNG) and vector (SVG, PDF) output
+
+  - Multi-threaded rendering
+
+  - Customizable themes and styles
+
+
+  ## Use Cases
+
+
+  - Data analysis visualization
+
+  - ML experiment tracking
+
+  - Scientific plotting
+
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

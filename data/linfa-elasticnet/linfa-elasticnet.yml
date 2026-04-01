@@ -1,0 +1,10 @@
+name: linfa-elasticnet
+description: Elastic Net regularization for linear regression in supervised
+  learning. Combines L1 and L2 penalties. Part of the linfa framework.
+source_url: https://crates.io/crates/linfa-elasticnet
+category: Machine Learning
+tags:
+  - open-source
+  - supervised-learning
+  - regression
+updated_at: 2026-04-01 12:33

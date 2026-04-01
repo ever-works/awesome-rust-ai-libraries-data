@@ -1,0 +1,22 @@
+name: rust-bert
+description: Rust-native ready-to-use NLP pipelines and transformer-based models
+  for inference and fine-tuning.
+source_url: https://github.com/guillaume-be/rust-bert
+category: NLP
+tags:
+  - transformers
+  - bert
+  - open-source
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Provides pipelines for sentiment analysis, NER, question answering using BERT
+  and other models via tch-rs.
+
+
+  ## License
+
+  Apache-2.0
+updated_at: 2026-04-01 12:33

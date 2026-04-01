@@ -1,0 +1,11 @@
+name: linfa-clustering
+description: Clustering algorithms for unsupervised learning on unlabeled data.
+  Includes K-Means, Gaussian Mixture Models, DBSCAN, and OPTICS. Benchmarked and
+  tested as part of linfa.
+source_url: https://crates.io/crates/linfa-clustering
+category: Machine Learning
+tags:
+  - open-source
+  - unsupervised-learning
+  - clustering
+updated_at: 2026-04-01 12:33

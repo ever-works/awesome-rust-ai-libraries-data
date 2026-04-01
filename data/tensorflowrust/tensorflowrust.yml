@@ -1,0 +1,26 @@
+name: tensorflow/rust
+description: Rust language bindings for TensorFlow, enabling TensorFlow usage in
+  Rust applications. Inactive since 2023. Score 15, 5.2K stars.
+source_url: https://github.com/tensorflow/rust
+category: Bindings
+tags:
+  - tensorflow
+  - bindings
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Rust language bindings for TensorFlow.
+
+  ## License
+
+  Apache-2.0
+
+  ## Repository Stats
+
+  - Stars: 5.2K
+  - Contributors: 49
+  - Forks: 420
+  - Updated: 03.12.2023
+updated_at: 2026-04-01 12:33

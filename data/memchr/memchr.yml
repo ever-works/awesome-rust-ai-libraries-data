@@ -1,0 +1,21 @@
+name: memchr
+description: Optimized string search routines for Rust, essential for efficient
+  text processing in AI and NLP applications.
+source_url: https://github.com/BurntSushi/memchr
+category: Text Processing
+tags:
+  - string-search
+  - open-source
+  - performance
+markdown: >-
+  ## Overview
+
+
+  Provides highly optimized memory search functions for single bytes and
+  substrings in slices.
+
+
+  ## License
+
+  Unlicense/MIT
+updated_at: 2026-04-01 12:33

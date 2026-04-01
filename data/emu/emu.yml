@@ -1,0 +1,19 @@
+name: emu
+description: A language and library for GPGPU numerical computing, suitable for
+  AI model training and inference on GPUs.
+source_url: https://github.com/calebwin/emu
+category: Machine Learning
+tags:
+  - open-source
+  - gpu-computing
+  - numerical
+featured: false
+markdown: |-
+  ## Overview
+
+  Language for GPGPU numerical computing.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

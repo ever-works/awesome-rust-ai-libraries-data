@@ -1,0 +1,11 @@
+name: Tictonix
+description: Converts tokens into embeddings and encodes positions. Useful for
+  token-based embeddings in NLP pipelines.
+source_url: https://github.com/Ave-Sergeev/Tictonix
+category: NLP
+tags:
+  - embeddings
+  - tokens
+  - open-source
+featured: false
+updated_at: 2026-04-01 12:33

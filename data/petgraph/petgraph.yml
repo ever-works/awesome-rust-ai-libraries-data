@@ -1,0 +1,23 @@
+name: petgraph
+description: Graph data structure library for Rust, ideal for graph processing,
+  clustering, embedding, and machine learning tasks. Features robust graph
+  algorithms and is Apache-2 licensed with over 3K GitHub stars.
+source_url: https://github.com/petgraph/petgraph
+category: Graph Processing
+tags:
+  - graph
+  - data-structures
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  petgraph provides graph data structures and algorithms for Rust.
+
+  ## Features
+
+  - Supports directed and undirected graphs
+  - Various graph algorithms like Dijkstra, Bellman-Ford, etc.
+  - Persistent data structure support
+  - Apache-2 license
+updated_at: 2026-04-01 12:33

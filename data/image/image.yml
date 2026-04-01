@@ -1,0 +1,30 @@
+name: image
+description: Imaging processing library providing basic functions for image
+  manipulation and format conversion. Essential foundation for computer vision
+  and AI image processing in Rust.
+source_url: https://github.com/image-rs/image
+category: Machine Learning
+tags:
+  - image-processing
+  - computer-vision
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Basic imaging processing functions and methods for converting to and from
+  image formats.
+
+
+  ## Features
+
+
+  - Image loading and saving (PNG, JPEG, GIF, etc.)
+
+  - Color space conversions
+
+  - Filters, drawing, and geometric transformations
+
+  - Dynamic image crate for generic image operations
+updated_at: 2026-04-01 12:33

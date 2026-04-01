@@ -1,0 +1,16 @@
+name: sudachi.rs
+description: Rust implementation of Sudachi Japanese tokenizer, a new generation
+  of SudachiPy for efficient NLP processing.
+source_url: https://github.com/WorksApplications/sudachi.rs
+category: NLP
+tags:
+  - japanese-tokenizer
+  - open-source
+markdown: |-
+  ## Overview
+
+  Fast Japanese morphological analyzer with multiple modes.
+
+  ## License
+  Apache-2.0/MIT
+updated_at: 2026-04-01 12:33

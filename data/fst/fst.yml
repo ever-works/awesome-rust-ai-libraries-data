@@ -1,0 +1,16 @@
+name: fst
+description: Finite state transducers for compact representation of large sets and maps.
+source_url: https://github.com/BurntSushi/fst
+category: Data Structures
+tags:
+  - fst
+  - compact
+  - open-source
+markdown: |-
+  ## Overview
+
+  Ordered set/map operations with minimal memory.
+
+  ## License
+  Unlicense/MIT
+updated_at: 2026-04-01 12:33

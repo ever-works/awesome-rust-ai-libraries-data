@@ -1,0 +1,10 @@
+name: linfa-reduction
+description: "Dimensionality reduction techniques: Diffusion maps, PCA, and
+  random projections. Preprocessing tools tested in linfa."
+source_url: https://crates.io/crates/linfa-reduction
+category: Machine Learning
+tags:
+  - open-source
+  - preprocessing
+  - pca
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,22 @@
+name: gym-rs
+description: gym-rs provides OpenAI Gym bindings for Rust. Dead project. Score 13, 60 stars.
+source_url: https://github.com/MrRobb/gym-rs
+category: Reinforcement Learning
+tags:
+  - gym
+  - rl
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  OpenAI Gym bindings for Rust.
+
+  ## License
+
+  MIT
+
+  ## Repository Stats
+
+  - Stars: 60
+updated_at: 2026-04-01 12:33

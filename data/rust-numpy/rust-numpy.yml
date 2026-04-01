@@ -1,0 +1,29 @@
+name: rust-numpy
+description: rust-numpy provides PyO3-based Rust bindings for the NumPy C-API,
+  enabling seamless integration between Rust and Python's NumPy. Useful for
+  numerical computing in AI pipelines. Score 21, 1.1K stars.
+source_url: https://github.com/PyO3/rust-numpy
+category: Bindings
+tags:
+  - numpy
+  - bindings
+  - pyo3
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  PyO3-based Rust bindings of the NumPy C-API.
+
+  ## License
+
+  BSD-2-Clause
+
+  ## Repository Stats
+
+  - Stars: 1.1K
+  - Contributors: 53
+  - Forks: 110
+  - Dependents: 3.4K
+  - Updated: 28.11.2024
+updated_at: 2026-04-01 12:33

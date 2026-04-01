@@ -1,0 +1,10 @@
+name: Harmony
+description: Renderer for the harmony response format to be used with gpt-oss.
+  OpenAI-related tooling for response handling.
+source_url: https://github.com/openai/harmony
+category: API Clients
+tags:
+  - openai
+  - response-format
+  - open-source
+updated_at: 2026-04-01 12:33

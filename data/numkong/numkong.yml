@@ -1,0 +1,46 @@
+name: NumKong
+description: SIMD-accelerated library for vector distances and similarity
+  functions, optimized for x86 AVX2/AVX-512 and Arm NEON. Ideal for
+  high-performance nearest neighbor search and embedding similarity in AI
+  applications.
+source_url: https://github.com/ashvardanian/NumKong
+category: Machine Learning
+tags:
+  - simd
+  - similarity-search
+  - vector-distances
+featured: false
+markdown: >-
+  ## Overview
+
+
+  NumKong provides fast, SIMD-optimized computations for common vector distance
+  metrics and similarity functions.
+
+
+  ## Features
+
+
+  - L1, L2, Lp distances
+
+  - Cosine similarity
+
+  - Jaccard similarity
+
+  - Hamming distance
+
+  - Support for AVX2, AVX-512, NEON
+
+
+  ## Use Cases
+
+
+  - Approximate nearest neighbors
+
+  - Recommendation systems
+
+  - Clustering algorithms
+
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

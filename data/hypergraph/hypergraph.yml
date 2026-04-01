@@ -1,0 +1,43 @@
+name: hypergraph
+description: Data structure library for directed hypergraphs, enabling modeling
+  of complex relationships beyond pairwise edges. Applicable to graph neural
+  networks, knowledge graphs, and agentic systems in AI.
+source_url: https://github.com/yamafaktory/hypergraph
+category: Machine Learning
+tags:
+  - hypergraphs
+  - graphs
+  - data-structures
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Hypergraph provides tools to create, manipulate, and query directed
+  hypergraphs.
+
+
+  ## Features
+
+
+  - Hyperedge creation and management
+
+  - Traversal algorithms
+
+  - Serialization support
+
+  - Integration with petgraph-like APIs
+
+
+  ## Use Cases
+
+
+  - Higher-order network analysis
+
+  - Multi-entity relations in GNNs
+
+  - Complex dependency modeling
+
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

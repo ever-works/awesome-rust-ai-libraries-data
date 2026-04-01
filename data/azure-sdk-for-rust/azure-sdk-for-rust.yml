@@ -1,0 +1,28 @@
+name: azure-sdk-for-rust
+description: Azure SDK for Rust provides official libraries for Azure services,
+  useful for integrating cloud ML workflows. Listed in ML frameworks with score
+  20 and 720 stars.
+source_url: https://github.com/Azure/azure-sdk-for-rust
+category: Cloud
+tags:
+  - azure
+  - sdk
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  This repository is for the active development of the Azure SDK for Rust.
+
+  ## License
+
+  MIT
+
+  ## Repository Stats
+
+  - Stars: 720
+  - Contributors: 160
+  - Forks: 240
+  - Dependents: 1.3K
+  - Updated: 26.11.2024
+updated_at: 2026-04-01 12:33

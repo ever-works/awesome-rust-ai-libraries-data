@@ -1,0 +1,35 @@
+name: RuView
+description: Privacy-preserving human pose estimation system using WiFi Channel
+  State Information (CSI) and machine learning. A Rust-based tool for
+  non-intrusive pose detection without requiring cameras, relevant for edge AI
+  and computer vision applications.
+source_url: https://github.com/ruvnet/RuView
+category: Computer Vision
+tags:
+  - open-source
+  - machine-learning
+  - pose-estimation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  RuView enables human pose estimation using WiFi CSI data and machine learning
+  models.
+
+
+  ## Features
+
+
+  - Privacy-preserving (uses WiFi signals instead of cameras)
+
+  - Leverages Channel State Information for pose detection
+
+  - Implemented in Rust for performance
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

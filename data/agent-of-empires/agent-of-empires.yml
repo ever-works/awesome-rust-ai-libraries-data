@@ -1,0 +1,18 @@
+name: Agent of Empires
+description: TUI/CLI for managing multiple AI coding agent sessions with tmux,
+  git worktrees, and Docker sandboxing. Facilitates parallel AI agent operations
+  in development workflows.
+source_url: https://github.com/njbrake/agent-of-empires
+category: Agentic Systems
+tags:
+  - open-source
+  - ai-agents
+  - tui
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A TUI/CLI for managing multiple AI coding agent sessions with tmux, git
+  worktrees, and Docker sandboxing.
+updated_at: 2026-04-01 12:33

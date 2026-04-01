@@ -1,0 +1,16 @@
+name: delta-rs
+description: Native Rust library for Delta Lake table format, with Python
+  bindings for ML workflows.
+source_url: https://github.com/delta-io/delta-rs
+category: Data Formats
+tags:
+  - delta-lake
+  - open-source
+markdown: |-
+  ## Overview
+
+  ACID transactions, time travel, scalable metadata for data lakes.
+
+  ## License
+  Apache-2.0
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,23 @@
+name: leaf
+description: leaf is an Open Machine Intelligence Framework for Hackers with
+  GPU/CPU support. Dead project. Score 14, 5.6K stars.
+source_url: https://github.com/autumnai/leaf
+category: Frameworks
+tags:
+  - machine-intelligence
+  - gpu
+  - open-source
+featured: true
+markdown: |-
+  ## Overview
+
+  Open Machine Intelligence Framework for Hackers. (GPU/CPU).
+
+  ## License
+
+  Apache-2.0
+
+  ## Repository Stats
+
+  - Stars: 5.6K
+updated_at: 2026-04-01 12:33

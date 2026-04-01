@@ -1,0 +1,18 @@
+name: DeepIron
+description: A simple Rust library for machine learning and deep learning tasks.
+  Provides essential functionality for building and running ML/DL models in
+  Rust. Supports the growing ecosystem of Rust AI tools.
+source_url: https://github.com/LordSaumya/DeepIron
+category: Machine Learning
+tags:
+  - open-source
+  - deep-learning
+markdown: |-
+  ## Overview
+
+  DeepIron is a simple library for machine learning and deep learning in Rust.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

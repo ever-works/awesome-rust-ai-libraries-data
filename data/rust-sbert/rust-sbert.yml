@@ -1,0 +1,15 @@
+name: rust-sbert
+description: Rust port of sentence-transformers for generating sentence embeddings.
+source_url: https://github.com/cpcdoy/rust-sbert
+category: NLP
+tags:
+  - sentence-embeddings
+  - open-source
+markdown: |-
+  ## Overview
+
+  Uses transformer models for semantic textual similarity and embeddings.
+
+  ## License
+  Apache-2.0
+updated_at: 2026-04-01 12:33

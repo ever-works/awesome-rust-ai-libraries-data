@@ -1,0 +1,23 @@
+name: clerk
+description: LLM-based file organizer that categorizes and manages files using
+  large language models.
+source_url: https://github.com/blankenshipz/clerk
+category: Applications
+tags:
+  - open-source
+  - file-management
+  - llm
+featured: false
+markdown: |-
+  ## Overview
+
+  Clerk organizes files with LLM assistance.
+
+  ## Features
+
+  - AI-powered file organization
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

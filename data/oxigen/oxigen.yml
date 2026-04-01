@@ -1,0 +1,11 @@
+name: Oxigen
+description: Fast, parallel, extensible and adaptable genetic algorithm library.
+  Solves N-Queens for N=255 in seconds using less than 1MB RAM.
+source_url: https://github.com/Martin1887/oxigen
+category: Machine Learning
+tags:
+  - genetic-algorithms
+  - parallel
+  - open-source
+featured: false
+updated_at: 2026-04-01 12:33

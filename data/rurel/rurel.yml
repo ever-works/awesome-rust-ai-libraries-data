@@ -1,0 +1,25 @@
+name: rurel
+description: rurel is a flexible, reusable reinforcement learning (Q learning)
+  implementation in Rust. Score 11, 140 stars.
+source_url: https://github.com/milanboers/rurel
+category: Reinforcement Learning
+tags:
+  - rl
+  - q-learning
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Flexible, reusable reinforcement learning (Q learning) implementation in Rust.
+
+  ## License
+
+  MPL-2.0
+
+  ## Repository Stats
+
+  - Stars: 140
+  - Dependents: 18
+  - Updated: 25.06.2024
+updated_at: 2026-04-01 12:33

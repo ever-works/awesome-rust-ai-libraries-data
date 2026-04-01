@@ -1,0 +1,29 @@
+name: deepwiki-rs
+description: Tool to transform codebases into professional architecture
+  documentation using Rust.
+source_url: https://github.com/sopaco/deepwiki-rs
+category: Applications
+tags:
+  - open-source
+  - documentation
+  - code-analysis
+featured: false
+markdown: >-
+  ## Overview
+
+
+  deepwiki-rs is a service that generates architecture documentation from your
+  codebase.
+
+
+  ## Features
+
+
+  - Codebase to documentation transformation
+
+
+  ## Pricing
+
+
+  Free and open-source (available on crates.io).
+updated_at: 2026-04-01 12:33

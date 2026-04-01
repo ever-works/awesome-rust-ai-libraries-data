@@ -1,0 +1,10 @@
+name: linfa-pls
+description: Partial Least Squares (PLS) for dimensionality reduction and
+  regression in supervised learning. Effective for high-dimensional data.
+source_url: https://crates.io/crates/linfa-pls
+category: Machine Learning
+tags:
+  - open-source
+  - supervised-learning
+  - dimensionality-reduction
+updated_at: 2026-04-01 12:33

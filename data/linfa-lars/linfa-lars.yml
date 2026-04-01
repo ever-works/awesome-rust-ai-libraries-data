@@ -1,0 +1,12 @@
+name: linfa-lars
+description: Least Angle Regression (LARS) for linear regression in supervised
+  learning. Provides sparse regression capabilities. Part of the linfa Rust
+  machine learning framework.
+source_url: https://crates.io/crates/linfa-lars
+category: Machine Learning
+tags:
+  - open-source
+  - supervised-learning
+  - regression
+featured: false
+updated_at: 2026-04-01 12:33

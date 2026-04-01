@@ -1,0 +1,11 @@
+name: linfa-linear
+description: Linear regression models including Ordinary Least Squares (OLS) and
+  Generalized Linear Models (GLM) for supervised learning. Core regression tools
+  in linfa.
+source_url: https://crates.io/crates/linfa-linear
+category: Machine Learning
+tags:
+  - open-source
+  - supervised-learning
+  - linear-regression
+updated_at: 2026-04-01 12:33

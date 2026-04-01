@@ -1,0 +1,23 @@
+name: tokenizers
+description: Fast state-of-the-art tokenizers optimized for research and
+  production, implemented in Rust by Hugging Face for NLP tasks.
+source_url: https://github.com/huggingface/tokenizers
+category: NLP
+tags:
+  - tokenization
+  - open-source
+  - huggingface
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Provides high-performance tokenizers for modern NLP models. Supports various
+  algorithms like BPE, WordPiece, and Unigram.
+
+
+  ## License
+
+  Apache-2.0
+brand: Hugging Face
+updated_at: 2026-04-01 12:33

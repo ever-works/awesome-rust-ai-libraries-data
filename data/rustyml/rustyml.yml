@@ -1,0 +1,30 @@
+name: rustyml
+description: A high-performance machine learning and deep learning library
+  written in pure Rust. It supports ML algorithms and neural networks, ideal for
+  training and inference tasks. Key addition to Rust's AI library landscape with
+  focus on performance.
+source_url: https://github.com/SomeB1oody/RustyML
+category: Machine Learning
+tags:
+  - open-source
+  - deep-learning
+  - neural-networks
+markdown: >-
+  ## Overview
+
+
+  rustyml provides machine learning algorithms and neural network support in
+  pure Rust.
+
+
+  ## Links
+
+
+  - [Documentation](https://docs.rs/rustyml)
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

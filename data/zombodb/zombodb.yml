@@ -1,0 +1,15 @@
+name: zombodb
+description: Integration between Postgres and Elasticsearch, enabling full-text
+  search capabilities useful for ML data pipelines. Unlicensed with 4.7K stars.
+source_url: https://github.com/zombodb/zombodb
+category: Applications
+tags:
+  - postgres
+  - elasticsearch
+  - search
+featured: false
+markdown: |-
+  ## Overview
+
+  Brings Elasticsearch to Postgres.
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,16 @@
+name: Oxen
+description: Core Rust library, server, and CLI for Oxen.ai versioned data lakes for ML.
+source_url: https://github.com/Oxen-AI/Oxen
+category: Data Management
+tags:
+  - data-lake
+  - versioning
+  - open-source
+markdown: |-
+  ## Overview
+
+  Git-like for data with diff, merge for tabular data.
+
+  ## License
+  Apache-2.0
+updated_at: 2026-04-01 12:33

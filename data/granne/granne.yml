@@ -1,0 +1,23 @@
+name: granne
+description: granne is Graph-based Approximate Nearest Neighbor Search. Dead
+  project. Score 16, 320 stars.
+source_url: https://github.com/granne/granne
+category: Search
+tags:
+  - ann
+  - graph
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Graph-based Approximate Nearest Neighbor Search.
+
+  ## License
+
+  MIT
+
+  ## Repository Stats
+
+  - Stars: 320
+updated_at: 2026-04-01 12:33

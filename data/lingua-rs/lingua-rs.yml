@@ -1,0 +1,20 @@
+name: lingua-rs
+description: Accurate natural language detection library supporting 75
+  languages, optimized for performance in Rust.
+source_url: https://github.com/pemistahl/lingua-rs
+category: NLP
+tags:
+  - language-detection
+  - open-source
+markdown: >-
+  ## Overview
+
+
+  Detects language of text without external dependencies. High accuracy on short
+  texts.
+
+
+  ## License
+
+  Apache-2.0
+updated_at: 2026-04-01 12:33

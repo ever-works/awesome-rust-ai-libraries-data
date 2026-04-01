@@ -1,0 +1,16 @@
+name: imageproc
+description: Image processing library built on image crate, offering filters,
+  geometry, and drawing primitives.
+source_url: https://github.com/image-rs/imageproc
+category: Computer Vision
+tags:
+  - image-processing
+  - open-source
+markdown: |-
+  ## Overview
+
+  Supports edge detection, resizing, color operations.
+
+  ## License
+  MIT
+updated_at: 2026-04-01 12:33

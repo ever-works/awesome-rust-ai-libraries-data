@@ -1,0 +1,22 @@
+name: img_hash
+description: Perceptual image hashing library for comparing images for equality
+  and similarity. Useful for duplicate detection and similarity search in AI
+  image processing pipelines.
+source_url: https://github.com/abonander/img_hash
+category: Machine Learning
+tags:
+  - image-processing
+  - perceptual-hashing
+  - similarity
+featured: false
+markdown: |-
+  ## Overview
+
+  Perceptual image hashing and comparison for equality and similarity.
+
+  ## Features
+
+  - Structural similarity hashing (DHash, AHash, PHash)
+  - Comparison metrics (Hamming distance, normalized Hamming)
+  - Supports various image formats via the `image` crate
+updated_at: 2026-04-01 12:33

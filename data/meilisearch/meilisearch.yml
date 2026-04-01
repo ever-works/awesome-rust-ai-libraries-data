@@ -1,0 +1,22 @@
+name: MeiliSearch
+description: Lightning-fast search API that fits into apps, relevant for
+  ML-powered search and vector similarity in Rust-based systems. MIT licensed
+  with 48K stars.
+source_url: https://github.com/meilisearch/meilisearch
+category: Applications
+tags:
+  - search-engine
+  - full-text-search
+  - open-source
+featured: true
+markdown: |-
+  ## Overview
+
+  Fast search engine written in Rust.
+
+  ## Features
+
+  - Typo-tolerant search
+  - High performance
+  - MIT license
+updated_at: 2026-04-01 12:33

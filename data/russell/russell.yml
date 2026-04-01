@@ -1,0 +1,27 @@
+name: russell
+description: Rust Scientific Library providing numerical mathematics, ODE
+  solvers, special functions, and high-performance sparse linear algebra for AI
+  research.
+source_url: https://github.com/cpmech/russell
+category: Machine Learning
+tags:
+  - open-source
+  - scientific-computing
+  - linear-algebra
+featured: false
+markdown: |-
+  ## Overview
+
+  Rust Scientific Library for numerical computations.
+
+  ## Features
+
+  - Numerical mathematics
+  - Ordinary differential equations
+  - Special math functions
+  - High-performance sparse linear algebra
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

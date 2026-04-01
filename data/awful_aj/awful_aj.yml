@@ -1,0 +1,26 @@
+name: awful_aj
+description: CLI for working with OpenAI-compatible APIs using YAML templates
+  for prompt engineering. Includes a built-in vector database for persistent
+  memories.
+source_url: https://github.com/graves/awful_aj
+category: LLM Tools
+tags:
+  - open-source
+  - llm
+  - vector-database
+  - cli
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A CLI for working with OpenAI-compatible APIs, YAML templates for prompt
+  engineering and a built in Vector Database for persistent memories.
+
+
+  ## Crate
+
+
+  [awful_aj](https://crates.io/crates/awful_aj)
+brand_logo_url: ""
+updated_at: 2026-04-01 12:33

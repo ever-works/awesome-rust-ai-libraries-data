@@ -1,0 +1,24 @@
+name: whichlang
+description: Rust library for language detection using a multiclass logistic
+  regression model, useful for NLP preprocessing in LLM pipelines.
+source_url: https://github.com/quickwit-oss/whichlang
+category: NLP
+tags:
+  - open-source
+  - language-detection
+  - ml-model
+featured: false
+markdown: |-
+  ## Overview
+
+  whichlang detects languages via logistic regression.
+
+  ## Features
+
+  - Fast language identification
+  - Multiclass model
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

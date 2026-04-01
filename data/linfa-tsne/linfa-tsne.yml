@@ -1,0 +1,10 @@
+name: linfa-tsne
+description: t-SNE for dimensionality reduction in unsupervised learning.
+  Supports exact and Barnes-Hut approximation.
+source_url: https://crates.io/crates/linfa-tsne
+category: Machine Learning
+tags:
+  - open-source
+  - unsupervised-learning
+  - tsne
+updated_at: 2026-04-01 12:33

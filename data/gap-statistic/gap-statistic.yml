@@ -1,0 +1,22 @@
+name: gap-statistic
+description: gap-statistic dynamically gets the suggested clusters in data for
+  clustering analysis. Dead project. Score 16, 220 stars.
+source_url: https://github.com/milesgranger/gap_statistic
+category: Clustering
+tags:
+  - clustering
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Dynamically get the suggested clusters in the data.
+
+  ## License
+
+  Unlicense
+
+  ## Repository Stats
+
+  - Stars: 220
+updated_at: 2026-04-01 12:33

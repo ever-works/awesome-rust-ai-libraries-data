@@ -1,0 +1,24 @@
+name: Valentinus
+description: Next generation vector database built with LMDB bindings, providing
+  efficient storage and querying for vector embeddings in AI systems.
+source_url: https://github.com/kn0sys/valentinus
+category: Vector Databases
+tags:
+  - vector-database
+  - lmdb
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Valentinus is a vector database leveraging LMDB for performance.
+
+  ## Features
+
+  - Built on LMDB bindings
+  - High-performance vector storage
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

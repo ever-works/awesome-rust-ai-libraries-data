@@ -1,0 +1,22 @@
+name: rsrl
+description: rsrl is a fast, safe reinforcement learning framework in Rust. Dead
+  project. Score 14, 180 stars.
+source_url: https://github.com/tspooner/rsrl
+category: Reinforcement Learning
+tags:
+  - rl
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  A fast, safe and easy to use reinforcement learning framework in Rust.
+
+  ## License
+
+  MIT
+
+  ## Repository Stats
+
+  - Stars: 180
+updated_at: 2026-04-01 12:33

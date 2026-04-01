@@ -1,0 +1,11 @@
+name: Goose
+description: An open-source, local AI agent that automates engineering tasks.
+  Designed to run locally for privacy and efficiency in development workflows.
+source_url: https://github.com/block/goose
+category: AI Agents
+tags:
+  - open-source
+  - ai-agent
+  - local
+featured: false
+updated_at: 2026-04-01 12:33

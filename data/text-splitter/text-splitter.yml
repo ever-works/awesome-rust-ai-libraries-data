@@ -1,0 +1,17 @@
+name: text-splitter
+description: Library to split text into semantic chunks up to a desired size,
+  useful for RAG and LLM applications.
+source_url: https://github.com/benbrandt/text-splitter
+category: NLP
+tags:
+  - text-splitting
+  - semantic-chunks
+  - open-source
+markdown: |-
+  ## Overview
+
+  Supports recursive, semantic, token-based splitting strategies.
+
+  ## License
+  MIT
+updated_at: 2026-04-01 12:33

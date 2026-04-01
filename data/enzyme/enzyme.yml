@@ -1,0 +1,23 @@
+name: Enzyme
+description: Enzyme is high-performance automatic differentiation of LLVM and
+  MLIR, useful for gradient computations in ML. Score 14, 1.3K stars.
+source_url: https://github.com/EnzymeAD/Enzyme
+category: Differentiation
+tags:
+  - autodiff
+  - llvm
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  High-performance automatic differentiation of LLVM and MLIR.
+
+  ## License
+
+  Unlicensed
+
+  ## Repository Stats
+
+  - Stars: 1.3K
+updated_at: 2026-04-01 12:33

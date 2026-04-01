@@ -1,0 +1,10 @@
+name: Edgequake
+description: High-performance Graph-RAG framework that transforms documents into
+  intelligent knowledge graphs for AI applications.
+source_url: https://github.com/raphaelmansuy/edgequake
+category: Retrieval
+tags:
+  - graph-rag
+  - knowledge-graphs
+  - open-source
+updated_at: 2026-04-01 12:33

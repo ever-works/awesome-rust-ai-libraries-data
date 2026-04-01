@@ -1,0 +1,23 @@
+name: cramjam
+description: cramjam (pyrus-cramjam) provides easy access to compression
+  algorithms optimized for speed. Useful for data handling in ML pipelines.
+  Score 19, 93 stars.
+source_url: https://github.com/milesgranger/cramjam
+category: Data Processing
+tags:
+  - compression
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Your go-to for easy access to a plethora of compression algorithms.
+
+  ## License
+
+  MIT
+
+  ## Repository Stats
+
+  - Stars: 93
+updated_at: 2026-04-01 12:33

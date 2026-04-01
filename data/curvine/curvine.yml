@@ -1,0 +1,24 @@
+name: Curvine
+description: A high-performance, concurrent distributed cache system designed
+  for low-latency and high-throughput workloads in AI and big data environments.
+source_url: https://github.com/CurvineIO/curvine
+category: Caching
+tags:
+  - distributed-cache
+  - ai
+  - high-performance
+featured: false
+markdown: |-
+  ## Overview
+
+  Curvine is a distributed cache optimized for AI workloads.
+
+  ## Features
+
+  - High-performance and concurrent
+  - Low-latency for AI and big data
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

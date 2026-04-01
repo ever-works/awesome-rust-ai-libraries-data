@@ -1,0 +1,15 @@
+name: voy
+description: WASM vector similarity search written in Rust, for efficient AI
+  embedding search. Apache-2 licensed with 880 stars.
+source_url: https://github.com/tantaraio/voy
+category: Applications
+tags:
+  - vector-search
+  - wasm
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Vector similarity in WASM.
+updated_at: 2026-04-01 12:33

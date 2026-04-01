@@ -1,0 +1,33 @@
+name: m2cgen
+description: CLI tool to transpile trained classic machine learning models into
+  native Rust code with zero dependencies.
+source_url: https://github.com/BayesWitnesses/m2cgen
+category: Model Transpilation
+tags:
+  - open-source
+  - machine-learning
+  - deployment
+featured: false
+markdown: >-
+  ## Overview
+
+
+  m2cgen generates pure Rust code from trained ML models for model inference
+  without external dependencies.
+
+
+  ## Features
+
+
+  - Transpilation to Rust
+
+  - Zero runtime dependencies
+
+  - Support for classic ML models from various frameworks
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

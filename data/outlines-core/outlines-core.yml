@@ -1,0 +1,16 @@
+name: outlines-core
+description: Core library for structured generation in Rust, enabling
+  constrained text generation with LLMs.
+source_url: https://github.com/dottxt-ai/outlines-core
+category: NLP
+tags:
+  - structured-generation
+  - open-source
+markdown: |-
+  ## Overview
+
+  Provides grammars and JSON schemas for guiding LLM outputs.
+
+  ## License
+  Apache-2.0
+updated_at: 2026-04-01 12:33

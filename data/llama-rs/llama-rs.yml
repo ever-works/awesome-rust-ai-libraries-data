@@ -1,0 +1,21 @@
+name: llama-rs
+description: Ecosystem of Rust libraries for running LLMs locally (unmaintained,
+  see README). Supports inference for Llama models and more.
+source_url: https://github.com/rustformers/llm
+category: NLP
+tags:
+  - llm-inference
+  - open-source
+  - local
+markdown: >-
+  ## Overview
+
+
+  Collection of crates for LLM inference including backends like candle,
+  onnxruntime. Note: Unmaintained.
+
+
+  ## License
+
+  Apache-2.0/MIT
+updated_at: 2026-04-01 12:33

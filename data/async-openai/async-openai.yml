@@ -1,0 +1,9 @@
+name: async-openai
+description: Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
+source_url: https://github.com/64bit/async-openai
+category: API Clients
+tags:
+  - openai
+  - async
+  - open-source
+updated_at: 2026-04-01 12:33

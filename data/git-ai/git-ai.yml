@@ -1,0 +1,32 @@
+name: git-ai
+description: Git extension that tracks AI-generated code in repositories,
+  linking lines to the agent, model, and transcripts. Enhances version control
+  for AI-assisted development workflows.
+source_url: https://github.com/git-ai-project/git-ai
+category: Agentic Systems
+tags:
+  - open-source
+  - git
+  - ai-workflows
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A git extension that tracks AI-generated code in your repositories, linking
+  lines to the agent, model, and transcripts.
+
+
+  ## Features
+
+
+  - Tracks AI-generated code
+
+  - Links code lines to AI agents, models, and transcripts
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

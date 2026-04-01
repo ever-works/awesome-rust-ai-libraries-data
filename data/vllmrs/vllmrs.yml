@@ -1,0 +1,24 @@
+name: vllm.rs
+description: Minimalist vLLM implementation in Rust based on Candle. Enables
+  efficient serving and inference of large language models with a lightweight
+  footprint.
+source_url: https://github.com/guoqingbao/vllm.rs
+category: Machine Learning
+tags:
+  - open-source
+  - inference
+  - serving
+featured: false
+markdown: |-
+  ## Overview
+
+  Rust port of vLLM using Candle for LLM inference.
+
+  ## Features
+
+  - Efficient batching and serving capabilities.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,23 @@
+name: ajeto
+description: LLM-powered personal assistant implemented in Rust for handling
+  various tasks via large language models.
+source_url: https://github.com/bausano/ajeto
+category: Agentic Systems
+tags:
+  - open-source
+  - personal-assistant
+  - llm
+featured: false
+markdown: |-
+  ## Overview
+
+  Ajeto serves as an LLM-based personal assistant.
+
+  ## Features
+
+  - Task automation with LLMs
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

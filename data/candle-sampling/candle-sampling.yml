@@ -1,0 +1,24 @@
+name: candle-sampling
+description: Rust library providing advanced sampling techniques for the Candle
+  ML framework. Supports various sampling methods for improved generation in
+  language models and other tasks.
+source_url: https://github.com/EricLBuehler/candle-sampling
+category: Machine Learning
+tags:
+  - open-source
+  - sampling
+  - generation
+featured: false
+markdown: |-
+  ## Overview
+
+  Sampling techniques library for Candle.
+
+  ## Features
+
+  - Multiple sampling strategies for model inference.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

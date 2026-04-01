@@ -1,0 +1,24 @@
+name: candle-lora
+description: Efficient and ergonomic LoRA implementation for the Candle ML
+  framework in Rust. Provides out-of-the-box LoRA support for many models
+  supported by Candle, focusing on performance and ease of use.
+source_url: https://github.com/EricLBuehler/candle-lora
+category: Machine Learning
+tags:
+  - open-source
+  - lora
+  - fine-tuning
+featured: false
+markdown: |-
+  ## Overview
+
+  candle-lora is a Rust library offering efficient LoRA (Low-Rank Adaptation) support for Candle models.
+
+  ## Features
+
+  - Out-of-the-box LoRA support for numerous Candle models (see [examples](https://github.com/EricLBuehler/candle-lora/tree/master/candle-lora-transformers/examples)).
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

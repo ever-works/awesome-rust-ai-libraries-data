@@ -1,0 +1,16 @@
+name: quickwit
+description: Cloud-native search engine for observability, an open-source
+  alternative with Rust implementation for ML data retrieval. Unlicensed with
+  8.3K GitHub stars.
+source_url: https://github.com/quickwit-oss/quickwit
+category: Applications
+tags:
+  - search-engine
+  - observability
+  - open-source
+featured: true
+markdown: |-
+  ## Overview
+
+  Cloud-native search engine written in Rust.
+updated_at: 2026-04-01 12:33

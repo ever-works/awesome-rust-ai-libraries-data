@@ -1,0 +1,27 @@
+name: faiss-rs
+description: faiss-rs provides Rust bindings for Faiss, a library for efficient
+  similarity search and clustering of dense vectors. Score 16, 200 stars.
+source_url: https://github.com/Enet4/faiss-rs
+category: Search
+tags:
+  - similarity-search
+  - vector-search
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Rust language bindings for Faiss.
+
+  ## License
+
+  Apache-2.0
+
+  ## Repository Stats
+
+  - Stars: 200
+  - Contributors: 11
+  - Forks: 33
+  - Dependents: 35
+  - Updated: 18.09.2024
+updated_at: 2026-04-01 12:33

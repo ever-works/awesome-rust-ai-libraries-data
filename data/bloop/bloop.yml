@@ -1,0 +1,15 @@
+name: bloop
+description: Fast code search engine written in Rust, applicable to AI-powered
+  code analysis and search. Apache-2 licensed with 9.5K stars.
+source_url: https://github.com/BloopAI/bloop
+category: Applications
+tags:
+  - code-search
+  - semantic-search
+  - open-source
+featured: true
+markdown: |-
+  ## Overview
+
+  bloop is a code search engine.
+updated_at: 2026-04-01 12:33

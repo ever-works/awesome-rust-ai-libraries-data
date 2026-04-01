@@ -1,0 +1,17 @@
+name: opencv-rust
+description: Rust bindings for OpenCV 3 and 4, enabling computer vision tasks
+  like object detection and image manipulation.
+source_url: https://github.com/twistedfall/opencv-rust
+category: Computer Vision
+tags:
+  - opencv
+  - bindings
+  - open-source
+markdown: |-
+  ## Overview
+
+  Safe wrappers for core OpenCV modules.
+
+  ## License
+  MIT
+updated_at: 2026-04-01 12:33

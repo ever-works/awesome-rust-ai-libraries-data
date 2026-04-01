@@ -1,0 +1,22 @@
+name: autograph
+description: autograph is a machine learning library for Rust. Score 12, 320 stars.
+source_url: https://github.com/charles-r-earp/autograph
+category: Frameworks
+tags:
+  - machine-learning
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  A machine learning library for Rust.
+
+  ## License
+
+  Apache-2.0
+
+  ## Repository Stats
+
+  - Stars: 320
+  - Updated: 19.08.2024
+updated_at: 2026-04-01 12:33

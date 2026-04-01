@@ -1,0 +1,22 @@
+name: hora
+description: hora is efficient approximate nearest neighbor search algorithm
+  collections. Dead project. Score 13, 2.6K stars.
+source_url: https://github.com/hora-search/hora
+category: Search
+tags:
+  - ann
+  - open-source
+featured: true
+markdown: |-
+  ## Overview
+
+  Efficient approximate nearest neighbor search algorithm collections.
+
+  ## License
+
+  Apache-2.0
+
+  ## Repository Stats
+
+  - Stars: 2.6K
+updated_at: 2026-04-01 12:33

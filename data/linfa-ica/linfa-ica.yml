@@ -1,0 +1,10 @@
+name: linfa-ica
+description: Independent Component Analysis (ICA) for unsupervised learning.
+  Features FastICA implementation. Part of linfa toolkit.
+source_url: https://crates.io/crates/linfa-ica
+category: Machine Learning
+tags:
+  - open-source
+  - unsupervised-learning
+  - ica
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,29 @@
+name: cleora
+description: Cleora AI is a general-purpose open-source model for efficient
+  representation learning on tabular data. Score 16, 500 stars.
+source_url: https://github.com/BaseModelAI/cleora
+category: Embeddings
+tags:
+  - representation-learning
+  - tabular-data
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Cleora AI is a general-purpose open-source model for efficient representation
+  learning.
+
+
+  ## License
+
+
+  Unlicensed
+
+
+  ## Repository Stats
+
+
+  - Stars: 500
+updated_at: 2026-04-01 12:33

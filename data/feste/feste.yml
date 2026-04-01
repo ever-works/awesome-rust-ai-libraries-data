@@ -1,0 +1,10 @@
+name: Feste
+description: GPT-2 style transformer language model implemented from scratch in
+  Rust for educational purposes.
+source_url: https://github.com/tag1consulting/feste
+category: NLP
+tags:
+  - transformer
+  - educational
+  - open-source
+updated_at: 2026-04-01 12:33

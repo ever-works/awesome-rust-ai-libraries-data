@@ -1,0 +1,37 @@
+name: siteone-crawler
+description: Comprehensive website crawler, auditor, offline archiver, and
+  AI-ready markdown exporter with built-in CI/CD quality checks. A Rust crate
+  for high-quality web data collection tailored for AI and LLM training
+  datasets.
+source_url: https://github.com/janreges/siteone-crawler
+category: Data Processing
+tags:
+  - open-source
+  - web-crawler
+  - ai-ready
+featured: false
+markdown: >-
+  ## Overview
+
+
+  siteone-crawler is an all-in-one tool for crawling websites and exporting
+  AI-ready markdown.
+
+
+  ## Features
+
+
+  - Website crawling and auditing
+
+  - Offline archiving
+
+  - Markdown export optimized for AI
+
+  - CI/CD quality gating
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

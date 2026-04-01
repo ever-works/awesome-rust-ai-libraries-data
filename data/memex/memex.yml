@@ -1,0 +1,24 @@
+name: memex
+description: Rust-powered document store with semantic search capabilities for
+  LLM projects and memory management.
+source_url: https://github.com/spyglass-search/memex
+category: Memory
+tags:
+  - open-source
+  - semantic-search
+  - doc-store
+featured: false
+markdown: |-
+  ## Overview
+
+  Memex is a simple doc store + semantic search for LLMs.
+
+  ## Features
+
+  - Fully Rust implementation
+  - Semantic search integration
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

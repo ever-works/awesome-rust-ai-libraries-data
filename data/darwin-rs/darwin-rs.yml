@@ -1,0 +1,10 @@
+name: Darwin-RS
+description: Evolutionary algorithms library supporting genetic computation for
+  AI model optimization and evolution.
+source_url: https://github.com/willi-kappler/darwin-rs
+category: Machine Learning
+tags:
+  - evolutionary-algorithms
+  - open-source
+featured: false
+updated_at: 2026-04-01 12:33

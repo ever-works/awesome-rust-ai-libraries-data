@@ -1,0 +1,27 @@
+name: atoma-infer
+description: Rust library for fast AI model inference at scale using Candle.
+  Features FlashAttention2, PagedAttention for KV-cache, multi-GPU support, and
+  OpenAI API compatibility.
+source_url: https://github.com/atoma-network/atoma-infer
+category: Machine Learning
+tags:
+  - open-source
+  - inference
+  - multi-gpu
+featured: false
+markdown: |-
+  ## Overview
+
+  High-performance inference engine built on Candle.
+
+  ## Features
+
+  - FlashAttention2 for efficient attention.
+  - PagedAttention for KV-cache management.
+  - Multi-GPU support.
+  - OpenAI-compatible API.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

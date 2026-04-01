@@ -1,0 +1,24 @@
+name: kdtree-rs
+description: kdtree-rs is a K-dimensional tree in Rust for fast geospatial
+  indexing and lookup. Score 12, 230 stars.
+source_url: https://github.com/mrhooray/kdtree-rs
+category: Search
+tags:
+  - kdtree
+  - geospatial
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  K-dimensional tree in Rust for fast geospatial indexing and lookup.
+
+  ## License
+
+  Apache-2.0
+
+  ## Repository Stats
+
+  - Stars: 230
+  - Updated: 30.11.2024
+updated_at: 2026-04-01 12:33

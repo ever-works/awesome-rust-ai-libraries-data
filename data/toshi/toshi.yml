@@ -1,0 +1,15 @@
+name: Toshi
+description: Full-text search engine in Rust, inspired by Elasticsearch for AI
+  search tasks. MIT licensed with 4.2K stars.
+source_url: https://github.com/toshi-search/Toshi
+category: Applications
+tags:
+  - search-engine
+  - full-text
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Rust search engine.
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,34 @@
+name: Vibe
+description: Desktop application that transcribes audio or video files in every
+  language across platforms. Rust implementation providing accessible
+  speech-to-text capabilities for AI-driven transcription workflows.
+source_url: https://github.com/thewh1teagle/vibe
+category: Speech-to-Text
+tags:
+  - open-source
+  - transcription
+  - multi-language
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Vibe is a tool for transcribing audio and video content supporting all
+  languages on any platform.
+
+
+  ## Features
+
+
+  - Cross-platform desktop app
+
+  - Supports every language
+
+  - Audio and video transcription
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

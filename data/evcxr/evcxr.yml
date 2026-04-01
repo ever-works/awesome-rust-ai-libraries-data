@@ -1,0 +1,23 @@
+name: evcxr
+description: evcxr is a Jupyter kernel for Rust with support for plotting and
+  rich REPL. Score 18, 5.6K stars.
+source_url: https://github.com/evcxr/evcxr
+category: Development Tools
+tags:
+  - jupyter
+  - repl
+  - open-source
+featured: true
+markdown: |-
+  ## Overview
+
+  Jupyter kernel for Rust.
+
+  ## License
+
+  Unlicensed
+
+  ## Repository Stats
+
+  - Stars: 5.6K
+updated_at: 2026-04-01 12:33

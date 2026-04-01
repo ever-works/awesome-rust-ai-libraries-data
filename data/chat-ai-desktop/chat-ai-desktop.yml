@@ -1,0 +1,15 @@
+name: chat-ai-desktop
+description: Unofficial ChatGPT desktop app for Mac and Windows menubar, AI chat
+  application in Rust. MIT licensed.
+source_url: https://github.com/sonnylazuardi/chat-ai-desktop
+category: Applications
+tags:
+  - chatgpt
+  - desktop
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Desktop app for AI chat.
+updated_at: 2026-04-01 12:33

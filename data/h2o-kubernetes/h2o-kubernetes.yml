@@ -1,0 +1,15 @@
+name: h2o-kubernetes
+description: H2O Open Source Kubernetes operator and command-line tool for
+  managing ML pipelines on Kubernetes. Apache-2 licensed.
+source_url: https://github.com/h2oai/h2o-kubernetes
+category: MLOps
+tags:
+  - kubernetes
+  - mlops
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Kubernetes operator for H2O ML.
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,21 @@
+name: fancy-regex
+description: Rust library for regular expressions with advanced features like
+  lookaround and backreferences, enhancing text processing capabilities.
+source_url: https://github.com/fancy-regex/fancy-regex
+category: Text Processing
+tags:
+  - regex
+  - open-source
+  - advanced
+markdown: >-
+  ## Overview
+
+
+  Supports full regex features including recursion and conditionals on top of
+  Rust's regex engine.
+
+
+  ## License
+
+  MIT/Apache-2.0
+updated_at: 2026-04-01 12:33

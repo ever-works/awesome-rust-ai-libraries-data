@@ -1,0 +1,28 @@
+name: sprs
+description: sprs is a sparse linear algebra library for Rust, supporting sparse
+  matrices and vectors. Essential for efficient computations in ML. Score 20,
+  420 stars.
+source_url: https://github.com/sparsemat/sprs
+category: Linear Algebra
+tags:
+  - sparse
+  - matrices
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Sparse linear algebra library for rust.
+
+  ## License
+
+  Apache-2.0
+
+  ## Repository Stats
+
+  - Stars: 420
+  - Contributors: 37
+  - Forks: 45
+  - Dependents: 1.4K
+  - Updated: 19.11.2024
+updated_at: 2026-04-01 12:33

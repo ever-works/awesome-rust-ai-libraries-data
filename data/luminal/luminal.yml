@@ -1,0 +1,27 @@
+name: luminal
+description: luminal enables deep learning at the speed of light using Rust.
+  Score 14, 1.5K stars.
+source_url: https://github.com/jafioti/luminal
+category: Frameworks
+tags:
+  - deep-learning
+  - high-performance
+  - open-source
+featured: true
+markdown: |-
+  ## Overview
+
+  Deep learning at the speed of light.
+
+  ## License
+
+  Apache-2.0
+
+  ## Repository Stats
+
+  - Stars: 1.5K
+  - Contributors: 10
+  - Forks: 89
+  - Dependents: 4
+  - Updated: 09.10.2024
+updated_at: 2026-04-01 12:33

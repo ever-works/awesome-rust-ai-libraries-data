@@ -1,0 +1,22 @@
+name: tinguely
+description: A machine learning library in Rust. Offers tools for ML development
+  within the Rust ecosystem. Suitable for researchers and developers exploring
+  ML in Rust.
+source_url: https://gitlab.com/matthiaseiholzer/tinguely
+category: Machine Learning
+tags:
+  - open-source
+markdown: |-
+  ## Overview
+
+  tinguely is a machine learning library.
+
+  ## Links
+
+  - [Homepage](https://matthiaseiholzer.gitlab.io/tinguely)
+  - [Documentation](https://docs.rs/tinguely)
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

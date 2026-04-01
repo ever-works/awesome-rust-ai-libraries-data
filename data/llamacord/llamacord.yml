@@ -1,0 +1,15 @@
+name: llamacord
+description: Discord bot written in Rust that generates responses using LLMs.
+  GPL-3.0 licensed.
+source_url: https://github.com/rustformers/llmcord
+category: Applications
+tags:
+  - discord-bot
+  - llm
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  LLM-powered Discord bot.
+updated_at: 2026-04-01 12:33

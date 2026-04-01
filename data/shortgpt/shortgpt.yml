@@ -1,0 +1,23 @@
+name: shortgpt
+description: Rust tool for obtaining instant and concise answers from LLMs,
+  optimized for brevity in responses.
+source_url: https://github.com/rupeshs/shortgpt
+category: Applications
+tags:
+  - open-source
+  - chat-tool
+  - concise
+featured: false
+markdown: |-
+  ## Overview
+
+  ShortGPT provides quick, short answers from LLMs.
+
+  ## Features
+
+  - Instant concise LLM responses
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

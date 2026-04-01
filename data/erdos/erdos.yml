@@ -1,0 +1,15 @@
+name: erdos
+description: Dataflow system for building self-driving car and robotics
+  applications, relevant for agentic AI systems. Apache-2 licensed.
+source_url: https://github.com/erdos-project/erdos
+category: Applications
+tags:
+  - dataflow
+  - robotics
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Dataflow for robotics.
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,12 @@
+name: Radiate
+description: Customizable parallel genetic programming engine for supervised,
+  unsupervised, and reinforcement learning. Includes NEAT and Evtree
+  implementations.
+source_url: https://github.com/pkalivas/radiate
+category: Machine Learning
+tags:
+  - genetic-programming
+  - reinforcement-learning
+  - open-source
+featured: false
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,11 @@
+name: Forgecode
+description: A terminal-based AI pair programmer for code generation and
+  editing. It supports AI-assisted coding directly in the terminal environment.
+source_url: https://forgecode.dev
+category: AI Agents
+tags:
+  - open-source
+  - ai-coding
+  - terminal-ui
+featured: false
+updated_at: 2026-04-01 12:33

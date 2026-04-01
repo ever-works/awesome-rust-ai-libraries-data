@@ -1,0 +1,10 @@
+name: Anofox Regression
+description: Statistical regression models including OLS, Elastic Net, GLM,
+  Quantile & Isotonic with R-like inference and Wasm support.
+source_url: https://github.com/sipemu/anofox-regression
+category: Machine Learning
+tags:
+  - regression
+  - statistics
+  - wasm
+updated_at: 2026-04-01 12:33

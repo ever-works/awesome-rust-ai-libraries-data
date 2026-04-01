@@ -1,0 +1,20 @@
+name: LlamaEdge
+description: Easiest and fastest way to run customized and fine-tuned LLMs
+  anywhere, relevant for AI inference applications in Rust. Apache-2 licensed
+  with 1.1K GitHub stars.
+source_url: https://github.com/LlamaEdge/LlamaEdge
+category: Applications
+tags:
+  - llm-inference
+  - edge-computing
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Platform for running LLMs on edge devices.
+
+  ## License
+
+  Apache-2
+updated_at: 2026-04-01 12:33

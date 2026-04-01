@@ -1,0 +1,41 @@
+name: rusty-ml
+description: Comprehensive machine learning library providing classic algorithms
+  for clustering, regression, classification, including Random Forests and
+  Gradient Boosted Regression Trees. Designed to be simple, fast, and
+  easy-to-use with support for supervised and unsupervised learning. Features
+  multiple metrics like Mean Square Error and Hamming Loss while maintaining a
+  small footprint.
+source_url: https://crates.io/crates/rusty-ml
+category: Machine Learning
+tags:
+  - open-source
+  - supervised-learning
+  - unsupervised-learning
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Rusty-ml is a comprehensive machine learning library that provides numerous
+  classic algorithms that range from clustering, regression to classification,
+  etc. Some of these algorithms include Random Forests, Gradient Boosted
+  Regression Trees, supervised, and unsupervised learning.
+
+
+  Rusty-ml is also designed to be simple to learn, fast, and easy-to-use. Even
+  with the plethora of algorithms, this library still manages to maintain its
+  size and scope without compromising its simplicity.
+
+
+  ## Features
+
+
+  - Algorithms: Random Forests, Gradient Boosted Regression Trees, clustering,
+  regression, classification
+
+  - Support for supervised and unsupervised learning
+
+  - Metrics: Mean Square Error, Hamming Loss, and others
+
+  - No external dependencies, lightweight
+updated_at: 2026-04-01 12:33

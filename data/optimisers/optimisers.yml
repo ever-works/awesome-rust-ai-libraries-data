@@ -1,0 +1,26 @@
+name: optimisers
+description: Rust crate collection of optimizers including SGD with momentum,
+  AdaGrad, AdaDelta, AdaMax, NAdam, RAdam, and RMSprop. Designed for use in
+  machine learning applications with Candle compatibility.
+source_url: https://github.com/KGrewal1/optimisers
+category: Machine Learning
+tags:
+  - open-source
+  - optimizers
+  - training
+featured: false
+markdown: |-
+  ## Overview
+
+  A collection of optimizers implemented in Rust for ML training.
+
+  ## Features
+
+  - SGD with momentum
+  - AdaGrad, AdaDelta, AdaMax
+  - NAdam, RAdam, RMSprop
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

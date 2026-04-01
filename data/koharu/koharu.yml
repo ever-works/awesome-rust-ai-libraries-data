@@ -1,0 +1,36 @@
+name: Koharu
+description: ML-powered manga translator with automatic speech bubble detection,
+  OCR, inpainting, and LLM translation capabilities. Built with Candle for
+  machine learning components and Tauri for cross-platform UI.
+source_url: https://github.com/mayocream/koharu
+category: Model Inference
+tags:
+  - ocr
+  - translation
+  - candle
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Koharu is an ML-powered manga translator featuring automatic speech bubble
+  detection, OCR, inpainting, and LLM translation, built with Candle and Tauri.
+
+
+  ## Features
+
+
+  - Automatic speech bubble detection
+
+  - OCR for text extraction
+
+  - Inpainting for clean translations
+
+  - LLM-based translation
+
+
+  ## Pricing
+
+
+  Open-source and free.
+updated_at: 2026-04-01 12:33

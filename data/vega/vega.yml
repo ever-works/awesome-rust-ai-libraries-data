@@ -1,0 +1,15 @@
+name: vega
+description: Faster implementation of Apache Spark from scratch in Rust, for
+  data analysis in ML pipelines. Apache-2 licensed with 2.2K stars.
+source_url: https://github.com/rajasekarv/vega
+category: Analysis
+tags:
+  - spark-alternative
+  - big-data
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Rust Spark implementation.
+updated_at: 2026-04-01 12:33

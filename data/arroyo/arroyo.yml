@@ -1,0 +1,16 @@
+name: arroyo
+description: Distributed stream processing engine in Rust for real-time data pipelines.
+source_url: https://github.com/ArroyoSystems/arroyo
+category: Stream Processing
+tags:
+  - streaming
+  - sql
+  - open-source
+markdown: |-
+  ## Overview
+
+  SQL-based processing with Kafka, Postgres sources.
+
+  ## License
+  Apache-2.0
+updated_at: 2026-04-01 12:33

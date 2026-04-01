@@ -1,0 +1,23 @@
+name: worktrunk
+description: CLI for git worktree management designed for running AI agents in
+  parallel, with hooks, LLM commit messages, and merge workflows.
+source_url: https://github.com/max-sixty/worktrunk
+category: Agentic Systems
+tags:
+  - open-source
+  - ai-agents
+  - git
+featured: false
+markdown: >-
+  ## Overview
+
+
+  CLI for git worktree management designed for running AI agents in parallel,
+  with hooks, LLM commit messages, and merge workflows.
+
+
+  ## Crate
+
+
+  [worktrunk](https://crates.io/crates/worktrunk)
+updated_at: 2026-04-01 12:33

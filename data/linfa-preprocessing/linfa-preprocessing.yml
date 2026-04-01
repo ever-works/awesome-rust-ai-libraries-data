@@ -1,0 +1,10 @@
+name: linfa-preprocessing
+description: Data preprocessing tools including normalization, whitening, count
+  vectorization, and TF-IDF. Essential for ML pipelines in linfa. Benchmarked.
+source_url: https://crates.io/crates/linfa-preprocessing
+category: Machine Learning
+tags:
+  - open-source
+  - preprocessing
+  - normalization
+updated_at: 2026-04-01 12:33

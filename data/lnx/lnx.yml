@@ -1,0 +1,15 @@
+name: lnx
+description: Insanely fast, feature-rich searching engine that is adaptable and
+  typo-tolerant, for ML retrieval tasks. MIT licensed with 1.2K stars.
+source_url: https://github.com/lnx-search/lnx
+category: Applications
+tags:
+  - search-engine
+  - typo-tolerant
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Fast search engine in Rust.
+updated_at: 2026-04-01 12:33

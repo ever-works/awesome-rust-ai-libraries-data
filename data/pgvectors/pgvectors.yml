@@ -1,0 +1,24 @@
+name: pgvecto.rs
+description: Vector database plugin for Postgres written in Rust, optimized for
+  LLM applications and 20x faster than pgvector.
+source_url: https://github.com/tensorchord/pgvecto.rs
+category: Vector Stores
+tags:
+  - open-source
+  - postgres
+  - vector-db
+featured: false
+markdown: |-
+  ## Overview
+
+  pgvecto.rs enhances Postgres with fast vector search for LLMs.
+
+  ## Features
+
+  - 20x faster than pgvector
+  - Native Postgres integration
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,10 @@
+name: linfa-kernel
+description: Kernel methods for preprocessing and data transformation. Maps
+  features to higher-dimensional spaces. Tested in linfa.
+source_url: https://crates.io/crates/linfa-kernel
+category: Machine Learning
+tags:
+  - open-source
+  - preprocessing
+  - kernel-methods
+updated_at: 2026-04-01 12:33

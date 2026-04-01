@@ -1,0 +1,10 @@
+name: BAML
+description: Simple prompting language for building reliable AI workflows and
+  agents. Compiler written in Rust.
+source_url: https://github.com/BoundaryML/baml
+category: Tooling
+tags:
+  - prompting
+  - agents
+  - open-source
+updated_at: 2026-04-01 12:33

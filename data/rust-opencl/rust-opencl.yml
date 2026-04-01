@@ -1,0 +1,19 @@
+name: rust-opencl
+description: Rust bindings for OpenCL, enabling GPU-accelerated computations for
+  machine learning and scientific applications.
+source_url: https://github.com/luqmana/rust-opencl
+category: Machine Learning
+tags:
+  - open-source
+  - opencl
+  - gpu
+featured: false
+markdown: |-
+  ## Overview
+
+  OpenCL bindings for Rust.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

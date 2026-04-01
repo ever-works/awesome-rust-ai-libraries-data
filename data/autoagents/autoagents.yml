@@ -1,0 +1,10 @@
+name: AutoAgents
+description: Multi Agent Framework for building AI agents with native edge
+  support. Enables creation of agentic systems in Rust.
+source_url: https://github.com/liquidos-ai/AutoAgents
+category: Agentic Systems
+tags:
+  - multi-agent
+  - edge
+  - open-source
+updated_at: 2026-04-01 12:33

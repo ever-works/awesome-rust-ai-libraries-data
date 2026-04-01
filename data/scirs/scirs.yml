@@ -1,0 +1,29 @@
+name: scirs
+description: Production-ready pure Rust scientific computing library including
+  linear algebra, optimization, statistics, neural networks, and more. API
+  inspired by Python's SciPy.
+source_url: https://github.com/cool-japan/scirs
+category: Machine Learning
+tags:
+  - open-source
+  - scientific-computing
+  - neural-networks
+featured: false
+markdown: |-
+  ## Overview
+
+  Production-Ready pure Rust scientific computing.
+
+  ## Features
+
+  - Linear algebra
+  - Optimization
+  - Statistics
+  - Neural networks and more
+
+  API inspired by Python's SciPy.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,22 @@
+name: mosec
+description: High-performance ML model serving framework with dynamic batching,
+  designed for deploying and maintaining ML pipelines. Apache-2 licensed with
+  800 GitHub stars.
+source_url: https://github.com/mosecorg/mosec
+category: MLOps
+tags:
+  - model-serving
+  - dynamic-batching
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  mosec is a serving framework for ML models.
+
+  ## Features
+
+  - Dynamic batching
+  - High performance
+  - Apache-2 license
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,29 @@
+name: hnsw
+description: hnsw implements HNSW ANN for efficient approximate nearest neighbor
+  search. Dead project. Score 14, 220 stars.
+source_url: https://github.com/rust-cv/hnsw
+category: Search
+tags:
+  - hnsw
+  - ann
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  HNSW ANN from the paper Efficient and robust approximate nearest neighbor
+  search.
+
+
+  ## License
+
+
+  MIT
+
+
+  ## Repository Stats
+
+
+  - Stars: 220
+updated_at: 2026-04-01 12:33

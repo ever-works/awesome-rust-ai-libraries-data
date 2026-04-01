@@ -1,0 +1,10 @@
+name: Perpetual
+description: Self-generalizing gradient boosting machine that doesn't require
+  hyperparameter optimization. Crate available for Rust ML workflows.
+source_url: https://github.com/perpetual-ml/perpetual
+category: Machine Learning
+tags:
+  - gradient-boosting
+  - automation
+  - open-source
+updated_at: 2026-04-01 12:33

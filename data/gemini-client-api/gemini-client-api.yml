@@ -1,0 +1,11 @@
+name: gemini-client-api
+description: Library to use Google Gemini API with automatic context management,
+  schema generation, function calling and more. Rust bindings for Gemini
+  integration in AI applications.
+source_url: https://crates.io/crates/gemini-client-api
+category: Machine Learning
+tags:
+  - google-gemini
+  - api-client
+  - open-source
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,31 @@
+name: PostgresML
+description: Postgres extension for machine learning, enabling model fetching
+  and inference directly via SQL within a Postgres database instance.
+source_url: https://github.com/postgresml/postgresml
+category: Model Inference
+tags:
+  - open-source
+  - postgres-extension
+  - sql-ml
+featured: false
+markdown: >-
+  ## Overview
+
+
+  PostgresML integrates ML models into Postgres, allowing inference with SQL
+  queries.
+
+
+  ## Features
+
+
+  - In-database model inference
+
+  - SQL-based ML operations
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,11 @@
+name: linfa-ensemble
+description: Ensemble learning methods for supervised learning. Implements
+  bagging, random forests, and AdaBoost. Integrated into the linfa machine
+  learning toolkit.
+source_url: https://crates.io/crates/linfa-ensemble
+category: Machine Learning
+tags:
+  - open-source
+  - supervised-learning
+  - ensemble-methods
+updated_at: 2026-04-01 12:33

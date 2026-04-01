@@ -1,0 +1,32 @@
+name: GitButler
+description: Modern Git-based version control interface with GUI and CLI,
+  designed specifically for AI-powered workflows. Provides an intuitive
+  interface for managing repositories in AI development contexts.
+source_url: https://github.com/gitbutlerapp/gitbutler
+category: Agentic Systems
+tags:
+  - open-source
+  - git
+  - ai-workflows
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A modern Git-based version control interface with both a GUI and CLI built
+  from the ground up for AI-powered workflows.
+
+
+  ## Features
+
+
+  - GUI and CLI support
+
+  - Optimized for AI-powered development
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

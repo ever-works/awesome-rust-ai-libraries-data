@@ -1,0 +1,10 @@
+name: Genevo
+description: Execute genetic algorithm (GA) simulations in a customizable and
+  extensible way. Relevant for evolutionary computation in Rust AI applications.
+source_url: https://github.com/innoave/genevo
+category: Machine Learning
+tags:
+  - genetic-algorithms
+  - open-source
+featured: false
+updated_at: 2026-04-01 12:33

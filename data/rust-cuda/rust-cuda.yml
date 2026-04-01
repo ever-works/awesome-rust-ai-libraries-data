@@ -1,0 +1,21 @@
+name: Rust-CUDA
+description: Ecosystem of libraries and tools for writing and executing CUDA
+  kernels in Rust, accelerating AI model training and inference. Apache-2
+  licensed with 3.2K stars.
+source_url: https://github.com/Rust-GPU/Rust-CUDA
+category: Other
+tags:
+  - cuda
+  - gpu-acceleration
+  - open-source
+featured: true
+markdown: |-
+  ## Overview
+
+  Rust ecosystem for CUDA.
+
+  ## Features
+
+  - GPU kernel execution
+  - Safe Rust abstractions
+updated_at: 2026-04-01 12:33

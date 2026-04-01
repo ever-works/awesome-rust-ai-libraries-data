@@ -1,0 +1,22 @@
+name: cv
+description: Rust library implementing computer vision algorithms, abstractions,
+  and systems. Supports `#[no_std]` environments, making it suitable for
+  embedded AI and vision applications.
+source_url: https://github.com/rust-cv/cv
+category: Machine Learning
+tags:
+  - computer-vision
+  - no-std
+  - algorithms
+featured: false
+markdown: |-
+  ## Overview
+
+  Implement computer vision algorithms, abstractions, and systems.
+
+  ## Features
+
+  - `#[no_std]` supported where possible
+  - Core CV primitives and algorithms
+  - Modular design for vision pipelines
+updated_at: 2026-04-01 12:33

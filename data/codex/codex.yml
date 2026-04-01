@@ -1,0 +1,10 @@
+name: Codex
+description: Codex CLI is a coding agent from OpenAI that runs locally. Supports
+  AI-assisted coding workflows.
+source_url: https://github.com/openai/codex
+category: Agentic Systems
+tags:
+  - coding-agent
+  - openai
+  - open-source
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,20 @@
+name: Raphtory
+description: Scalable graph analytics database powered by a multithreaded
+  engine, suitable for temporal graph processing in AI and ML workflows. GPL-3.0
+  licensed.
+source_url: https://github.com/Pometry/Raphtory
+category: Graph Processing
+tags:
+  - graph-analytics
+  - temporal-graphs
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Raphtory is a scalable graph analytics database with multithreaded processing.
+
+  ## License
+
+  GPL-3.0
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,31 @@
+name: smartgpt
+description: Rust implementation enabling LLMs to complete complex tasks using
+  plugins. Provides agentic capabilities for LLMs similar to Auto-GPT.
+source_url: https://github.com/Cormanz/smartgpt
+category: Agentic Systems
+tags:
+  - open-source
+  - agents
+  - plugins
+featured: false
+markdown: >-
+  ## Overview
+
+
+  smartgpt allows LLMs to use plugins for task completion. [Details on how it
+  works via linked Twitter thread].
+
+
+  ## Features
+
+
+  - Plugin support for complex tasks
+
+  - LLM-driven automation
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

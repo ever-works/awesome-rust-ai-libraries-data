@@ -1,0 +1,30 @@
+name: ghost-flow
+description: A complete machine learning framework in Rust featuring tensors,
+  neural networks, over 85 ML algorithms, GPU acceleration, WASM, FFI, model
+  serving, optimizations, distributed training, and hardware acceleration.
+  Comprehensive toolkit for AI model training and inference in Rust.
+source_url: https://github.com/choksi2212/ghost-flow
+category: Machine Learning
+tags:
+  - open-source
+  - neural-networks
+  - gpu
+markdown: >-
+  ## Overview
+
+
+  ghost-flow is a full ML framework with tensors, NNs, 85+ algorithms, GPU,
+  WASM, FFI, serving, distributed training, and hardware accel.
+
+
+  ## Links
+
+
+  - [Documentation](https://docs.rs/ghost-flow)
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

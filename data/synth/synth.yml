@@ -1,0 +1,16 @@
+name: synth
+description: Declarative data generator for creating realistic synthetic
+  datasets for ML training.
+source_url: https://github.com/shuttle-hq/synth
+category: Data Generation
+tags:
+  - synthetic-data
+  - open-source
+markdown: |-
+  ## Overview
+
+  Define data models in YAML, generate SQL, Parquet, JSON.
+
+  ## License
+  Apache-2.0
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,23 @@
+name: dfdx
+description: dfdx provides deep learning in Rust with shape-checked tensors and
+  neural networks. Supports training and inference. Score 15, 1.7K stars.
+source_url: https://github.com/coreylowman/dfdx
+category: Frameworks
+tags:
+  - deep-learning
+  - tensors
+  - open-source
+featured: true
+markdown: |-
+  ## Overview
+
+  Deep learning in Rust, with shape checked tensors and neural networks.
+
+  ## License
+
+  Unlicensed
+
+  ## Repository Stats
+
+  - Stars: 1.7K
+updated_at: 2026-04-01 12:33

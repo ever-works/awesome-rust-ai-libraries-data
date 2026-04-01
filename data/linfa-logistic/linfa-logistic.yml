@@ -1,0 +1,11 @@
+name: linfa-logistic
+description: Logistic regression for two-class classification with partial fit
+  support. Builds probabilistic models for supervised learning. Integrated in
+  linfa.
+source_url: https://crates.io/crates/linfa-logistic
+category: Machine Learning
+tags:
+  - open-source
+  - supervised-learning
+  - classification
+updated_at: 2026-04-01 12:33

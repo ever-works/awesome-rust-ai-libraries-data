@@ -1,0 +1,23 @@
+name: tenere
+description: TUI (Terminal User Interface) for interacting with LLMs, providing
+  a command-line interface for model inference and chat.
+source_url: https://github.com/pythops/tenere
+category: Applications
+tags:
+  - open-source
+  - tui
+  - llm-chat
+featured: false
+markdown: |-
+  ## Overview
+
+  Tenere is a TUI interface built in Rust for working with LLMs.
+
+  ## Features
+
+  - Terminal-based LLM interaction
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

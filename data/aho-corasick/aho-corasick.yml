@@ -1,0 +1,21 @@
+name: aho-corasick
+description: Fast implementation of the Aho-Corasick string search algorithm in
+  Rust, useful for multiple pattern matching in text data.
+source_url: https://github.com/BurntSushi/aho-corasick
+category: Text Processing
+tags:
+  - string-search
+  - aho-corasick
+  - open-source
+markdown: >-
+  ## Overview
+
+
+  Efficiently searches for multiple patterns in a text stream using a finite
+  automaton.
+
+
+  ## License
+
+  Unlicense/MIT
+updated_at: 2026-04-01 12:33

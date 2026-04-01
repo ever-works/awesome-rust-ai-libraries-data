@@ -1,0 +1,23 @@
+name: weld
+description: weld is a high-performance runtime for data analytics applications,
+  useful for ML data processing. Dead project. Score 17, 3K stars.
+source_url: https://github.com/weld-project/weld
+category: Data Processing
+tags:
+  - analytics
+  - runtime
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  High-performance runtime for data analytics applications.
+
+  ## License
+
+  BSD-3-Clause
+
+  ## Repository Stats
+
+  - Stars: 3K
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,22 @@
+name: kodama
+description: kodama is fast hierarchical agglomerative clustering in Rust.
+  Inactive. Score 13, 91 stars.
+source_url: https://github.com/diffeo/kodama
+category: Clustering
+tags:
+  - clustering
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Fast hierarchical agglomerative clustering in Rust.
+
+  ## License
+
+  MIT
+
+  ## Repository Stats
+
+  - Stars: 91
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,10 @@
+name: linfa-nn
+description: Nearest Neighbors algorithms and distance metrics with spatial
+  indexing. Used for preprocessing and similarity search. Benchmarked in linfa.
+source_url: https://crates.io/crates/linfa-nn
+category: Machine Learning
+tags:
+  - open-source
+  - preprocessing
+  - nearest-neighbors
+updated_at: 2026-04-01 12:33

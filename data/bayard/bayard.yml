@@ -1,0 +1,15 @@
+name: bayard
+description: Full-text search and indexing server written in Rust, for ML
+  retrieval systems. MIT licensed with 1.9K stars.
+source_url: https://github.com/mosuka/bayard
+category: Applications
+tags:
+  - full-text-search
+  - indexing
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Search server in Rust.
+updated_at: 2026-04-01 12:33

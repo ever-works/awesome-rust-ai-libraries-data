@@ -1,0 +1,30 @@
+name: tch-rs
+description: tch-rs offers Rust bindings for the C++ API of PyTorch, allowing
+  PyTorch models to be used in Rust. Supports tensor operations and model
+  inference. Score 20, 4.4K stars.
+source_url: https://github.com/LaurentMazare/tch-rs
+category: Bindings
+tags:
+  - pytorch
+  - bindings
+  - deep-learning
+  - open-source
+featured: true
+markdown: |-
+  ## Overview
+
+  Rust bindings for the C++ api of PyTorch.
+
+  ## License
+
+  Apache-2.0
+
+  ## Repository Stats
+
+  - Stars: 4.4K
+  - Contributors: 77
+  - Forks: 340
+  - Downloads: 2K
+  - Dependents: 2K
+  - Updated: 18.11.2024
+updated_at: 2026-04-01 12:33

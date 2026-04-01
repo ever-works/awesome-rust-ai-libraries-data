@@ -1,0 +1,26 @@
+name: Models
+description: Terminal user interface (TUI) application for browsing AI models,
+  benchmarks, and coding agents. Provides a convenient command-line tool for
+  exploring and managing AI resources.
+source_url: https://github.com/arimxyer/models
+category: AI Tools
+tags:
+  - tui
+  - ai-models
+  - benchmarks
+featured: false
+markdown: |-
+  ## Overview
+
+  Models is a TUI for browsing AI models, benchmarks, and coding agents.
+
+  ## Features
+
+  - Browse AI models
+  - View benchmarks
+  - Explore coding agents
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-01 12:33

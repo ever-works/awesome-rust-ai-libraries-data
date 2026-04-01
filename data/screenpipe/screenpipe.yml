@@ -1,0 +1,17 @@
+name: screenpipe
+description: 24/7 local AI screen and microphone recording tool to provide full
+  context for AI apps. Compatible with Ollama and other local models.
+source_url: https://github.com/screenpipe/screenpipe
+category: RAG Tools
+tags:
+  - open-source
+  - ai-context
+  - recording
+featured: false
+markdown: >-
+  ## Overview
+
+
+  24/7 local AI screen & mic recording. Build AI apps that have the full
+  context. Works with Ollama.
+updated_at: 2026-04-01 12:33

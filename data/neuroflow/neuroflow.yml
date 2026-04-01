@@ -1,0 +1,21 @@
+name: NeuroFlow
+description: NeuroFlow is an awesome deep learning crate. Dead project. Score 13, 120 stars.
+source_url: https://github.com/MikhailKravets/NeuroFlow
+category: Frameworks
+tags:
+  - deep-learning
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Awesome deep learning crate.
+
+  ## License
+
+  MIT
+
+  ## Repository Stats
+
+  - Stars: 120
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,24 @@
+name: collenchyma
+description: Extensible, pluggable, backend-agnostic framework for parallel,
+  high-performance computations on CUDA, OpenCL, and CPU, ideal for AI
+  workloads.
+source_url: https://github.com/autumnai/collenchyma
+category: Machine Learning
+tags:
+  - open-source
+  - parallel-computing
+  - gpu
+featured: false
+markdown: |-
+  ## Overview
+
+  Framework for parallel high-performance computations.
+
+  ## Features
+
+  - Backend-agnostic (CUDA, OpenCL, CPU)
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

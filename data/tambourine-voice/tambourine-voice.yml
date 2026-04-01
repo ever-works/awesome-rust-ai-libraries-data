@@ -1,0 +1,17 @@
+name: tambourine-voice
+description: Personal AI voice interface for any app with customizable dictation
+  using chosen models and prompts. Built in Rust.
+source_url: https://github.com/kstonekuan/tambourine-voice
+category: Voice AI
+tags:
+  - open-source
+  - voice
+  - dictation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Personal AI voice interface for any app - customizable dictation that lets you
+  choose your own models and prompts, built using Rust.
+updated_at: 2026-04-01 12:33

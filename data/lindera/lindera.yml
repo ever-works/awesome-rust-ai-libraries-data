@@ -1,0 +1,21 @@
+name: lindera
+description: Multilingual morphological analysis library ported from Kuromoji,
+  MeCab, Juman, and Sudachi, suitable for NLP tokenization and analysis in Rust.
+source_url: https://github.com/lindera/lindera
+category: NLP
+tags:
+  - morphological-analysis
+  - multilingual
+  - open-source
+markdown: >-
+  ## Overview
+
+
+  Supports Japanese, Chinese, Korean tokenization and analysis. Provides
+  dictionaries and tokenizers.
+
+
+  ## License
+
+  MIT/Apache-2.0
+updated_at: 2026-04-01 12:33

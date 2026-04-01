@@ -1,0 +1,28 @@
+name: statrs
+description: statrs is a statistical computation library for Rust. It provides
+  distributions, statistics, and random variable functionality. With a
+  project-quality score of 22 and 600 GitHub stars.
+source_url: https://github.com/statrs-dev/statrs
+category: Math
+tags:
+  - statistics
+  - probability
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Statistical computation library for Rust.
+
+  ## License
+
+  MIT
+
+  ## Repository Stats
+
+  - Stars: 600
+  - Contributors: 46
+  - Forks: 84
+  - Dependents: 17K
+  - Updated: 05.11.2024
+updated_at: 2026-04-01 12:33

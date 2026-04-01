@@ -1,0 +1,26 @@
+name: Qdrant
+description: An open-source vector similarity search engine with extended
+  filtering support. Widely used in AI for efficient vector search,
+  recommendation systems, and semantic search applications.
+source_url: https://github.com/qdrant/qdrant
+category: Vector Search
+tags:
+  - vector-search
+  - open-source
+  - filtering
+featured: true
+markdown: |-
+  ## Overview
+
+  Qdrant is a vector similarity search engine that supports advanced filtering.
+
+  ## Features
+
+  - Vector similarity search
+  - Extended filtering capabilities
+  - Open source with Rust implementation
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

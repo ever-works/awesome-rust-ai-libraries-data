@@ -1,0 +1,19 @@
+name: arrow-rs
+description: Official Rust implementation of Apache Arrow, the columnar
+  in-memory analytics format.
+source_url: https://github.com/apache/arrow-rs
+category: Data Formats
+tags:
+  - arrow
+  - columnar
+  - open-source
+featured: true
+markdown: |-
+  ## Overview
+
+  Flight RPC, IPC, Parquet support for Rust.
+
+  ## License
+  Apache-2.0
+brand: Apache
+updated_at: 2026-04-01 12:33

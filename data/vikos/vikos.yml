@@ -1,0 +1,22 @@
+name: vikos
+description: A machine learning library focused on supervised training of
+  parametrized models. Enables model training in Rust for AI applications.
+  Contributes to Rust's ML capabilities with emphasis on supervised learning.
+source_url: https://github.com/blue-yonder/vikos
+category: Machine Learning
+tags:
+  - open-source
+  - supervised-learning
+markdown: |-
+  ## Overview
+
+  vikos supports supervised training of parametrized models.
+
+  ## Links
+
+  - [Documentation](https://docs.rs/vikos/)
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

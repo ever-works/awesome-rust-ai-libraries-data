@@ -1,0 +1,17 @@
+name: ollama-rs
+description: Rust library for interacting with the Ollama API, enabling easy
+  integration of local LLMs in Rust AI applications.
+source_url: https://github.com/pepperoni21/ollama-rs
+category: NLP
+tags:
+  - ollama
+  - llm-inference
+  - open-source
+markdown: |-
+  ## Overview
+
+  Asynchronous Rust client for the Ollama LLM serving API.
+
+  ## License
+  MIT
+updated_at: 2026-04-01 12:33

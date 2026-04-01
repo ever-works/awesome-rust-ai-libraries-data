@@ -1,0 +1,23 @@
+name: gptcommit
+description: Tool to generate Git commit messages using GPT models directly from
+  the command line.
+source_url: https://github.com/zurawiki/gptcommit
+category: Tools
+tags:
+  - open-source
+  - git
+  - commit-messages
+featured: false
+markdown: |-
+  ## Overview
+
+  gptcommit prepares commit messages with GPT.
+
+  ## Features
+
+  - LLM-generated commit messages
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33

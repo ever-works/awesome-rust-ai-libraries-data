@@ -1,0 +1,23 @@
+name: rusoto
+description: rusoto is an AWS SDK for Rust, useful for cloud-based ML
+  deployments and services. Dead project. Score 22, 2.7K stars.
+source_url: https://github.com/rusoto/rusoto
+category: Cloud
+tags:
+  - aws
+  - sdk
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  AWS SDK for Rust.
+
+  ## License
+
+  MIT
+
+  ## Repository Stats
+
+  - Stars: 2.7K
+updated_at: 2026-04-01 12:33

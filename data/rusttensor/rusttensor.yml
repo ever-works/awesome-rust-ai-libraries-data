@@ -1,0 +1,11 @@
+name: RustTensor
+description: Learning-focused, high-performance tensor computation library with
+  automatic differentiation and CPU/CUDA backends. Built from scratch in Rust
+  for AI model development.
+source_url: https://github.com/ramsyana/RustTensor
+category: Frameworks
+tags:
+  - tensors
+  - autodiff
+  - cuda
+updated_at: 2026-04-01 12:33

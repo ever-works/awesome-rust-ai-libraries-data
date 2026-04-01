@@ -1,0 +1,24 @@
+name: candle-onnx
+description: ONNX model evaluation support for Candle. Allows running ONNX
+  models within the Candle Rust ML framework.
+source_url: https://github.com/huggingface/candle/tree/main/candle-onnx
+category: Machine Learning
+tags:
+  - open-source
+  - onnx
+  - interoperability
+featured: false
+markdown: |-
+  ## Overview
+
+  ONNX runtime for Candle.
+
+  ## Features
+
+  - Load and execute ONNX models.
+
+  ## Pricing
+
+  Free and open-source.
+brand: Hugging Face
+updated_at: 2026-04-01 12:33

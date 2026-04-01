@@ -1,0 +1,23 @@
+name: xaynet
+description: xaynet is an agnostic Federated Machine Learning framework. Dead
+  project. Score 18, 200 stars.
+source_url: https://github.com/xaynetwork/xaynet
+category: Federated Learning
+tags:
+  - federated
+  - ml
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Xaynet represents an agnostic Federated Machine Learning framework.
+
+  ## License
+
+  Apache-2.0
+
+  ## Repository Stats
+
+  - Stars: 200
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,24 @@
+name: candle-kernels
+description: Custom CUDA kernels for the Candle ML framework. Enables optimized
+  computations for GPU acceleration in ML models.
+source_url: https://github.com/huggingface/candle/tree/main/candle-kernels
+category: Machine Learning
+tags:
+  - open-source
+  - cuda
+  - kernels
+featured: false
+markdown: |-
+  ## Overview
+
+  CUDA custom kernels for Candle.
+
+  ## Features
+
+  - Performance-optimized GPU kernels.
+
+  ## Pricing
+
+  Free and open-source.
+brand: Hugging Face
+updated_at: 2026-04-01 12:33

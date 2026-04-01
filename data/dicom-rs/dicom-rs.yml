@@ -1,0 +1,30 @@
+name: dicom-rs
+description: Pure Rust implementation of the DICOM standard for working with
+  medical imaging data. Enables interaction with DICOM objects in AI/ML
+  applications for healthcare imaging analysis.
+source_url: https://github.com/Enet4/dicom-rs
+category: Machine Learning
+tags:
+  - dicom
+  - medical-imaging
+  - computer-vision
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A pure Rust implementation of the DICOM standard, allowing users to work with
+  DICOM objects and interact with DICOM applications.
+
+
+  ## Features
+
+
+  - Fast, safe, and intuitive to use
+
+  - Read and write DICOM files
+
+  - Object model for DICOM data elements
+
+  - Support for DICOM networking (in development)
+updated_at: 2026-04-01 12:33

@@ -1,0 +1,32 @@
+name: llm-chain
+description: Rust library for chaining multiple LLMs together to enable complex
+  interactions and workflows. Supports integration with various LLM backends for
+  building advanced AI applications.
+source_url: https://github.com/sobelio/llm-chain
+category: Inference
+tags:
+  - open-source
+  - llm-chaining
+  - rust
+featured: false
+markdown: >-
+  ## Overview
+
+
+  llm-chain is a Rust crate designed for chaining LLMs, allowing developers to
+  compose LLM calls into more sophisticated pipelines.
+
+
+  ## Features
+
+
+  - Chain multiple LLM prompts and responses
+
+  - Supports various LLM providers
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-01 12:33
