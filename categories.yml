@@ -1,0 +1,116 @@
+- id: agentic-systems
+  name: Agentic Systems
+- id: text-processing
+  name: Text Processing
+- id: llm-tools
+  name: LLM Tools
+- id: nlp
+  name: NLP
+- id: transpiling
+  name: Transpiling
+- id: machine-learning
+  name: Machine Learning
+- id: optimization
+  name: Optimization
+- id: data-processing
+  name: Data Processing
+- id: data-formats
+  name: Data Formats
+- id: stream-processing
+  name: Stream Processing
+- id: generative-ai
+  name: Generative AI
+- id: api-clients
+  name: API Clients
+- id: frameworks
+  name: Frameworks
+- id: code-generation
+  name: Code Generation
+- id: cloud
+  name: Cloud
+- id: tooling
+  name: Tooling
+- id: applications
+  name: Applications
+- id: mlops
+  name: MLOps
+- id: math
+  name: Math
+- id: embeddings
+  name: Embeddings
+- id: caching
+  name: Caching
+- id: dataflow-frameworks
+  name: Dataflow Frameworks
+- id: services
+  name: Services
+- id: retrieval
+  name: Retrieval
+- id: differentiation
+  name: Differentiation
+- id: model-interpretability
+  name: Model Interpretability
+- id: development-tools
+  name: Development Tools
+- id: search
+  name: Search
+- id: ai-agents
+  name: AI Agents
+- id: data-structures
+  name: Data Structures
+- id: clustering
+  name: Clustering
+- id: tools
+  name: Tools
+- id: graph-processing
+  name: Graph Processing
+- id: reinforcement-learning
+  name: Reinforcement Learning
+- id: vector-databases
+  name: Vector Databases
+- id: computer-vision
+  name: Computer Vision
+- id: memory
+  name: Memory
+- id: model-inference
+  name: Model Inference
+- id: inference
+  name: Inference
+- id: model-transpilation
+  name: Model Transpilation
+- id: ai-tools
+  name: AI Tools
+- id: data-management
+  name: Data Management
+- id: vector-stores
+  name: Vector Stores
+- id: data-visualization
+  name: Data Visualization
+- id: vector-search
+  name: Vector Search
+- id: distributed
+  name: Distributed
+- id: visualization
+  name: Visualization
+- id: other
+  name: Other
+- id: bindings
+  name: Bindings
+- id: rag-tools
+  name: RAG Tools
+- id: linear-algebra
+  name: Linear Algebra
+- id: data-generation
+  name: Data Generation
+- id: ai-assistants
+  name: AI Assistants
+- id: voice-ai
+  name: Voice AI
+- id: compilers
+  name: Compilers
+- id: analysis
+  name: Analysis
+- id: speech-to-text
+  name: Speech To Text
+- id: federated-learning
+  name: Federated Learning
