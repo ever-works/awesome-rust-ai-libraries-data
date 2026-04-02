@@ -1,4 +1,4 @@
 # rust-ai-libraries-data
 
-This repository holds data used to generate [rust-ai-libraries](https://github.com/paradoxe35/rust-ai-libraries)
+This repository holds data used to generate [rust-ai-libraries](https://github.com/ever-works/rust-ai-libraries)
 
