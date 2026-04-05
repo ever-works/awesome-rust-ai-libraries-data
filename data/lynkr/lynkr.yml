@@ -1,0 +1,36 @@
+name: Lynkr
+description: A proxy that lets Claude Code CLI communicate with non-Anthropic
+  LLMs, manages local tools, and composes MCP servers with prompt caching, repo
+  intelligence, and Git-aware automation.
+source_url: https://github.com/lynkr/lynkr
+category: LLM Tools
+tags:
+  - proxy
+  - claude-code
+  - mcp
+markdown: >-
+  ## Overview
+
+
+  Lynkr acts as a proxy layer enabling Claude Code CLI to work with
+  non-Anthropic LLM backends while providing local tool management and MCP
+  server composition.
+
+
+  ## Features
+
+
+  - Claude Code CLI proxy for non-Anthropic LLMs
+
+  - Local tool management
+
+  - MCP server composition
+
+  - Prompt caching
+
+  - Repository intelligence
+
+  - Git-aware automation
+
+  - Anthropic backend compatible
+updated_at: 2026-04-05 00:22

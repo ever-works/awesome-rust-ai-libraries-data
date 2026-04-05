@@ -1,0 +1,26 @@
+name: PyCodeAGI
+description: AGI experiment that generates a Python application based on user
+  requirements, exploring emergent coding capabilities.
+source_url: https://github.com/dharmeshd007/PyCodeAGI
+category: Code Generation
+tags:
+  - agi
+  - python
+  - generation
+markdown: >-
+  ## Overview
+
+
+  PyCodeAGI is a small AGI experiment to generate a Python app given user
+  requirements.
+
+
+  ## Features
+
+
+  - Natural language app generation
+
+  - Python code synthesis
+
+  - AGI-focused experimentation
+updated_at: 2026-04-05 00:22

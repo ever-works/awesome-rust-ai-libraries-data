@@ -1,0 +1,44 @@
+name: BabyAGI
+description: Lightweight framework for AI task management with task
+  prioritization, autonomous execution, memory persistence, and goal-oriented
+  planning.
+source_url: https://github.com/yoheinakajima/babyagi
+category: Agentic Systems
+tags:
+  - lightweight
+  - task-management
+  - autonomous
+featured: false
+markdown: >-
+  ## Overview
+
+
+  BabyAGI is a lightweight autonomous task management framework that
+  demonstrates the principles of goal-oriented AI task execution.
+
+
+  ## Features
+
+
+  - Task prioritization for optimal execution ordering
+
+  - Autonomous execution without continuous human intervention
+
+  - Memory persistence for context retention across sessions
+
+  - Goal-oriented planning for directed task completion
+
+  - Resource optimization for efficient task handling
+
+
+  ## Technical Details
+
+
+  - Language: Python
+
+
+  ## Pricing
+
+
+  Open-source.
+updated_at: 2026-04-05 00:22

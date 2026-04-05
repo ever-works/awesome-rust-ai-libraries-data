@@ -1,0 +1,12 @@
+name: uwu
+description: The fastest text uwuifier written in Rust, providing a fun text
+  transformation tool that converts regular text into uwu-style text with high
+  performance.
+source_url: https://github.com/Daniel-Liu-c0deb0t/uwu
+category: Text Processing
+tags:
+  - fun
+  - text-transformation
+  - fast
+featured: false
+updated_at: 2026-04-05 00:22

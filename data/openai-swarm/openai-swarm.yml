@@ -1,0 +1,41 @@
+name: OpenAI Swarm
+description: Educational framework exploring ergonomic, lightweight multi-agent
+  orchestration. Managed by OpenAI's Solutions team to help developers build
+  lightweight multi-agent systems.
+source_url: https://github.com/openai/swarm
+category: Agentic Systems
+tags:
+  - educational
+  - multi-agent
+  - official
+featured: false
+markdown: >-
+  ## Overview
+
+
+  OpenAI Swarm is an educational framework managed by OpenAI's Solutions team
+  for building ergonomic, lightweight multi-agent orchestration systems.
+
+
+  ## Features
+
+
+  - Lightweight multi-agent orchestration
+
+  - Ergonomic API design
+
+  - Educational purpose with best practices
+
+  - Managed by OpenAI Solutions team
+
+  - Simple and intuitive interface
+
+  - Suitable for prototyping and learning
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: OpenAI
+updated_at: 2026-04-05 00:22

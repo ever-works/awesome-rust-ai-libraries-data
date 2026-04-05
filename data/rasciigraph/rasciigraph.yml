@@ -1,0 +1,13 @@
+name: rasciigraph
+description: Zero dependency Rust crate for making lightweight ASCII line graphs
+  in command line apps. Provides a simple API to render terminal-based charts
+  without any external dependencies, making it ideal for CLI tools and quick
+  data visualization.
+source_url: https://github.com/orhanbalci/rasciigraph
+category: Data Visualization
+tags:
+  - terminal
+  - ascii
+  - zero-dependency
+featured: false
+updated_at: 2026-04-05 00:22

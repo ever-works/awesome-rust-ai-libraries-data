@@ -1,0 +1,12 @@
+name: crfsuite-rs
+description: Rust binding to crfsuite, providing conditional random field
+  implementation for sequence labeling tasks such as named entity recognition,
+  part-of-speech tagging, and chunking.
+source_url: https://github.com/messense/crfsuite-rs
+category: Machine Learning
+tags:
+  - crf
+  - sequence-labeling
+  - bindings
+featured: false
+updated_at: 2026-04-05 00:22

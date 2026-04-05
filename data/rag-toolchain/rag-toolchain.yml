@@ -1,0 +1,38 @@
+name: RAG-Toolchain
+description: Rust toolkit for Retrieval-Augmented Generation (RAG) workflows
+  covering document ingestion, indexing, and query processing for LLMs. A
+  comprehensive solution for building knowledge-grounded AI applications.
+source_url: https://crates.io/crates/rag-toolchain
+category: RAG Tools
+tags:
+  - rag
+  - document-ingestion
+  - indexing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  RAG-Toolchain is a comprehensive Rust toolkit for building Retrieval-Augmented
+  Generation workflows. It handles the full pipeline from document ingestion
+  through indexing to query processing, enabling knowledge-grounded LLM
+  applications.
+
+
+  ## Features
+
+
+  - Document ingestion pipelines
+
+  - Indexing for efficient retrieval
+
+  - Query processing for LLM integration
+
+  - End-to-end RAG workflow support
+
+
+  ## Status
+
+
+  Active (early stage).
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,12 @@
+name: glassful
+description: Rust-like syntax for OpenGL Shading Language (GLSL). Enables
+  writing GPU shaders using Rust-like syntax, making shader development safer
+  and more ergonomic.
+source_url: https://github.com/kmcallister/glassful
+category: Machine Learning
+tags:
+  - gpu
+  - shader
+  - opengl
+featured: false
+updated_at: 2026-04-05 00:22

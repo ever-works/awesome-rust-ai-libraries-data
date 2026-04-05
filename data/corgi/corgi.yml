@@ -1,0 +1,12 @@
+name: corgi
+description: A neural network and tensor dynamic automatic differentiation
+  implementation for Rust. Provides tools for building and training neural
+  networks with dynamic computation graphs.
+source_url: https://github.com/patricksongzy/corgi
+category: Machine Learning
+tags:
+  - neural-network
+  - autodiff
+  - dynamic-graph
+featured: false
+updated_at: 2026-04-05 00:22

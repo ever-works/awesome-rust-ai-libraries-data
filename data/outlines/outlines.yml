@@ -1,0 +1,40 @@
+name: Outlines
+description: Robust text generation library for agentic AI developers, featuring
+  multiple model integrations, advanced prompting with Jinja, efficient
+  structured generation through regex, JSON schema, and context-free grammars.
+source_url: https://github.com/dottxt-ai/outlines
+category: LLM Tools
+tags:
+  - structured-generation
+  - json-schema
+  - prompting
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Outlines is a robust text generation library designed for agentic AI
+  developers, enabling creation of predictable and structured AI agent outputs.
+
+
+  ## Features
+
+
+  - Multiple model integrations
+
+  - Advanced prompting with Jinja templates
+
+  - Efficient structured generation via regex
+
+  - JSON schema-constrained generation
+
+  - Context-free grammar support
+
+  - Predictable and structured output generation
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

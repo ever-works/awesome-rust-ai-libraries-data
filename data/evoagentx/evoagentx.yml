@@ -1,0 +1,45 @@
+name: EvoAgentX
+description: Framework for building a self-evolving ecosystem of AI agents with
+  workflow optimization, agent evolution algorithms, and execution toolkits.
+source_url: https://github.com/EvoAgentX/EvoAgentX
+category: Agentic Systems
+tags:
+  - self-evolving
+  - workflow-optimization
+  - ecosystem
+featured: false
+markdown: >-
+  ## Overview
+
+
+  EvoAgentX is a framework designed to build self-evolving AI agent ecosystems
+  that can optimize their own workflows and improve over time.
+
+
+  ## Features
+
+
+  - Easy Agent and Workflow Customization
+
+  - Workflow Optimization & Self-Evolving capabilities
+
+  - Agent/workflow evolution algorithms integrated
+
+  - Execution Toolkit for running agents and workflows
+
+
+  ## Technical Details
+
+
+  - Language: Python
+
+  - License: NOASSERTION
+
+  - 2,608 GitHub stars
+
+
+  ## Pricing
+
+
+  Open-source.
+updated_at: 2026-04-05 00:22

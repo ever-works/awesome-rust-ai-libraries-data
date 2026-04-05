@@ -1,8 +1,11 @@
 name: Burn
-description: Burn is a new comprehensive dynamic Deep Learning Framework built
-  using Rust. It is ranked highly in the best-of-ml-rust list with a
-  project-quality score of 22 and 9.1K GitHub stars. Suitable for machine
-  learning model training and inference in Rust applications.
+description: Burn is a next-generation tensor library and ML framework written
+  in Rust, offering comprehensive capabilities similar to PyTorch but with
+  Rust's safety guarantees. It supports automatic differentiation, multiple
+  backends (WGPU, CUDA, tch), both dynamic and static graphs, and runs across
+  multiple devices. Designed with a flexible training pipeline and ONNX model
+  export, Burn is well-suited for deep learning research, production ML, and
+  training neural networks.
 source_url: https://github.com/tracel-ai/burn
 category: Frameworks
 tags:
@@ -27,4 +30,4 @@ markdown: |-
   - Dependents: 520
   - Updated: 29.11.2024
 brand: Tracel AI
-updated_at: 2026-04-01 12:33
+updated_at: 2026-04-05 00:22

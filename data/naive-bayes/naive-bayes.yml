@@ -1,0 +1,11 @@
+name: naive-bayes
+description: A Naive Bayes classifier written in Rust providing
+  probability-based classification for supervised learning tasks.
+source_url: https://github.com/RuiVieira/naive-bayes
+category: Machine Learning
+tags:
+  - naive-bayes
+  - classification
+  - probabilistic
+featured: false
+updated_at: 2026-04-05 00:22

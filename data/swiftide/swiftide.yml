@@ -1,0 +1,44 @@
+name: Swiftide
+description: Swiftide is a fast, streaming indexing, query, and agentic LLM
+  processing pipeline built in Rust. It features streaming data processing,
+  vector embedding pipelines, RAG support, agent orchestration, and an async
+  architecture powered by Rust's async ecosystem for efficient concurrent
+  processing. Common use cases include building RAG systems, knowledge base
+  indexing, and AI data pipelines. The project is available at
+  https://github.com/bosun-ai/swiftide.
+source_url: https://github.com/bosun-ai/swiftide
+category: RAG Tools
+tags:
+  - rag
+  - pipeline
+  - agents
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Swiftide is a Rust library for building Retrieval-Augmented Generation (RAG)
+  pipelines and agents. It provides a complete toolkit for ingesting data,
+  creating vector indices, and managing prompt injection workflows.
+
+
+  ## Features
+
+
+  - Fast data ingestion pipelines
+
+  - Vector indexing for embedding storage
+
+  - Prompt injection and management
+
+  - Agent building capabilities
+
+  - Optimized for Rust performance characteristics
+
+
+  ## Status
+
+
+  Active development.
+brand: Bosun AI
+updated_at: 2026-04-05 00:22

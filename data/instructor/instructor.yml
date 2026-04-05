@@ -1,0 +1,45 @@
+name: Instructor
+description: A Python library that facilitates working with structured outputs
+  from large language models, offering response model specification, retry
+  management, validation, and streaming support for AI agent workflows.
+source_url: https://github.com/instructor-ai/instructor
+category: LLM Tools
+tags:
+  - structured-outputs
+  - validation
+  - python
+markdown: >-
+  ## Overview
+
+
+  Instructor is a Python library designed to streamline structured output
+  handling from LLMs in AI agent workflows.
+
+
+  ## Features
+
+
+  - Response model specification
+
+  - Retry management for failed requests
+
+  - Input/output validation
+
+  - Streaming support
+
+  - LLM workflow enhancement for agents
+
+  - Pydantic integration
+
+
+  ## Use Cases
+
+
+  - Structured data extraction from LLM responses
+
+  - API response validation
+
+  - Agent output formatting
+
+  - Type-safe LLM interactions
+updated_at: 2026-04-05 00:22

@@ -1,8 +1,14 @@
 name: mistral.rs
-description: mistral.rs provides blazingly fast LLM inference in Rust. Optimized
-  for performance in running large language models. Score 21, 4.6K stars.
+description: mistral.rs is a fast, flexible LLM inference engine written in Rust
+  with Python bindings, supporting multiple model architectures including Llama,
+  Mistral, Phi, and Qwen, along with GGUF/GGML format support for high-speed
+  inference on both CPU and GPU. It features quantization, multi-GPU, and
+  streaming token generation, making it suitable for local LLM serving, AI
+  assistant backends, and embedded AI applications. The project is faster than
+  text-generation-inference for many models and offers easier deployment than
+  vLLM.
 source_url: https://github.com/EricLBuehler/mistral.rs
-category: Inference
+category: Model Inference
 tags:
   - llm
   - inference
@@ -24,4 +30,6 @@ markdown: |-
   - Forks: 320
   - Downloads: 1.1K
   - Updated: 30.11.2024
-updated_at: 2026-04-01 12:33
+brand: GitHub
+brand_logo_url: https://github.com/ericlbuehler/mistral.rs
+updated_at: 2026-04-05 00:22

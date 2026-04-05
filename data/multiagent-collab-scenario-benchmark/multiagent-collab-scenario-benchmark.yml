@@ -1,0 +1,46 @@
+name: MultiAgent Collab Scenario Benchmark
+description: Benchmark from AWS Bedrock Agents Science team for evaluating LLM
+  multi-agent collaboration systems, providing structured data and scripts for
+  collaborative agent assessment.
+source_url: https://github.com/aws/multiagent-collab-scenario-benchmark
+category: AI Agents
+tags:
+  - benchmarking
+  - multi-agent
+  - AWS
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MultiAgent Collab Scenario Benchmark is a benchmarking framework developed by
+  the AWS Bedrock Agents Science team for evaluating LLM multi-agent
+  collaboration systems. It provides structured data and scripts for
+  comprehensive collaborative agent assessment.
+
+
+  ## Features
+
+
+  - Multi-agent collaboration evaluation
+
+  - Benchmarking data and scripts
+
+  - From AWS Bedrock Agents Science team
+
+  - Structured assessment methodology
+
+  - Supports various collaboration patterns
+
+
+  ## Use Cases
+
+
+  - Benchmarking multi-agent collaboration
+
+  - Evaluating agent teamwork capabilities
+
+  - Research on collaborative AI systems
+brand: Amazon Web Services
+brand_logo_url: https://github.com/aws.png
+updated_at: 2026-04-05 00:22

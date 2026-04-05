@@ -1,0 +1,48 @@
+name: CAMEL
+description: Communicative AI agent framework for role-playing, task-oriented
+  dialogue, multi-agent conversations, behavioral analysis, and cognitive
+  architecture exploration.
+source_url: https://github.com/camel-ai/camel
+category: Agentic Systems
+tags:
+  - role-playing
+  - multi-agent
+  - cognitive-architecture
+featured: false
+markdown: >-
+  ## Overview
+
+
+  CAMEL (Communicative Agents for Mind Exploration) is a role-playing framework
+  that enables multi-agent conversations for solving and studying complex tasks.
+
+
+  ## Features
+
+
+  - Role-playing framework for agent interaction
+
+  - Task-oriented dialogue for goal-directed conversations
+
+  - Multi-agent conversations for collaborative problem solving
+
+  - Behavioral analysis for studying agent interactions
+
+  - Cognitive architecture for understanding agent reasoning
+
+
+  ## Technical Details
+
+
+  - Language: Python
+
+  - License: Apache-2.0
+
+  - 14,875 GitHub stars
+
+
+  ## Pricing
+
+
+  Open-source under the Apache-2.0 license.
+updated_at: 2026-04-05 00:22

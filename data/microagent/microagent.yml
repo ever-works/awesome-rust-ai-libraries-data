@@ -1,0 +1,28 @@
+name: MicroAgent
+description: Autonomous agents capable of self-editing their own prompts and
+  Python code, enabling adaptive behavior through self-modification.
+source_url: https://github.com/nicepkg/MicroAgent
+category: AI Agents
+tags:
+  - self-editing
+  - autonomous
+  - python
+markdown: >-
+  ## Overview
+
+
+  MicroAgent consists of agents capable of self-editing their prompts and Python
+  code.
+
+
+  ## Features
+
+
+  - Self-editing prompts
+
+  - Self-modifying Python code
+
+  - Autonomous behavior
+
+  - Adaptive capabilities
+updated_at: 2026-04-05 00:22

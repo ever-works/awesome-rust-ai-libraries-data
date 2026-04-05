@@ -1,0 +1,31 @@
+name: Agents by AI Waves
+description: Open-source framework for building autonomous language agents with
+  long-short term memory, tool usage, web navigation, multi-agent communication,
+  and human-agent interaction.
+source_url: https://github.com/aiwaves-cn/agents
+category: Agentic Systems
+tags:
+  - autonomous
+  - memory
+  - multi-agent
+markdown: |-
+  ## Overview
+
+  Agents is an open-source framework for building autonomous language agents.
+
+  ## Features
+
+  - Long-short term memory
+  - Tool usage integration
+  - Web navigation capabilities
+  - Multi-agent communication
+  - Human-agent interaction
+  - Symbolic control
+  - Natural language config files
+  - Multiple deployment interfaces
+
+  ## Customization
+
+  Fully customizable through natural language configuration files.
+brand: AI Waves
+updated_at: 2026-04-05 00:22

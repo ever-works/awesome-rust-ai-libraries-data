@@ -1,0 +1,12 @@
+name: lsh-rs
+description: Locality Sensitive Hashing (LSH) implementation in Rust with Python
+  bindings. Provides efficient approximate nearest neighbor search for
+  high-dimensional data using LSH algorithms.
+source_url: https://github.com/ritchie46/lsh-rs
+category: Vector Search
+tags:
+  - lsh
+  - nearest-neighbor
+  - python-bindings
+featured: false
+updated_at: 2026-04-05 00:22

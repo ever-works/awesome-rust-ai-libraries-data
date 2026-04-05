@@ -1,0 +1,37 @@
+name: AgentVerse
+description: Apache2-licensed Python framework for deploying multiple LLM-based
+  agents in various applications, offering task-solving and simulation
+  frameworks.
+source_url: https://github.com/OpenBMB/AgentVerse
+category: AI Agents
+tags:
+  - python
+  - multi-agent
+  - simulation
+markdown: >-
+  ## Overview
+
+
+  AgentVerse is an Apache2-licensed Python framework for deploying multiple
+  LLM-based agents.
+
+
+  ## Features
+
+
+  - Task-solving framework
+
+  - Simulation framework
+
+  - Collaborative task accomplishment
+
+  - Behavior observation among agents
+
+  - Multi-agent deployment
+
+
+  ## Licensing
+
+
+  Apache 2.0 license.
+updated_at: 2026-04-05 00:22

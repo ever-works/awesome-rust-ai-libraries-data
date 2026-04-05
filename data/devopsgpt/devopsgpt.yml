@@ -1,0 +1,23 @@
+name: DevOpsGPT
+description: AI-driven software development automation solution combining large
+  language models with DevOps tools to convert natural language requirements
+  into working software.
+source_url: https://github.com/kuafuai/DevOpsGPT
+category: Development Tools
+tags:
+  - devops
+  - llm
+  - natural-language
+markdown: |-
+  ## Overview
+
+  DevOpsGPT combines large language models with DevOps tools.
+
+  ## Features
+
+  - Natural language to software conversion
+  - Development efficiency enhancement
+  - Development cycle reduction
+  - Communication cost reduction
+  - DevOps tool integration
+updated_at: 2026-04-05 00:22

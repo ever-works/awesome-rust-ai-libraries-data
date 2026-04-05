@@ -1,0 +1,43 @@
+name: LLM Agent Ask-For-Help
+description: Benchmark that evaluates LLM agents' ability to recognize when to
+  quit sequential tasks as early as possible, testing meta-cognitive
+  self-awareness in agents.
+source_url: https://github.com/llm-agent-ask-for-help/llm-agent-ask-for-help
+category: AI Agents
+tags:
+  - benchmarking
+  - meta-cognition
+  - evaluation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  LLM Agent Ask-For-Help is a benchmark that evaluates LLM agents' ability to
+  recognize when they cannot complete sequential tasks and should quit or ask
+  for help. It tests meta-cognitive self-awareness in agents.
+
+
+  ## Features
+
+
+  - Evaluates agent self-awareness of limitations
+
+  - Sequential task evaluation
+
+  - Tests help-seeking behavior
+
+  - Meta-cognitive capability assessment
+
+  - Measures appropriate task abandonment
+
+
+  ## Use Cases
+
+
+  - Benchmarking agent self-awareness
+
+  - Evaluating when agents should quit tasks
+
+  - Research on meta-cognitive agent capabilities
+updated_at: 2026-04-05 00:22

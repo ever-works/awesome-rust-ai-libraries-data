@@ -1,0 +1,50 @@
+name: llms-from-scratch-rs
+description: A comprehensive Rust translation of the code from Sebastian
+  Raschka's 'Build an LLM from Scratch' book. Provides a complete, educational
+  implementation of building large language models from the ground up,
+  translated into idiomatic Rust code.
+source_url: https://github.com/Rust-LLM/llms-from-scratch-rs
+category: Machine Learning
+tags:
+  - educational
+  - llm
+  - transformer
+featured: false
+markdown: >-
+  ## Overview
+
+
+  llms-from-scratch-rs is a comprehensive Rust translation of the code examples
+  from Sebastian Raschka's book "Build a Large Language Model from Scratch." It
+  provides a complete, step-by-step implementation of building a large language
+  model from the ground up, translated into Rust.
+
+
+  ## Features
+
+
+  - Complete translation of Raschka's book code into idiomatic Rust
+
+  - Covers fundamental LLM concepts: tokenization, attention mechanisms, and
+  training
+
+  - Educational resource for understanding transformer architecture internals
+
+  - Step-by-step implementation from data preparation to model training
+
+  - Demonstrates building decoder-only transformer models
+
+
+  ## Use Cases
+
+
+  - Learning LLM architecture and training fundamentals through hands-on
+  implementation
+
+  - Understanding transformer internals by building them from scratch
+
+  - Educational reference for machine learning practitioners moving from Python
+  to Rust
+
+  - Complement to Sebastian Raschka's book for Rust developers
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,11 @@
+name: rusty-sr
+description: Deep learning super-resolution implementation in pure Rust. Uses
+  neural network-based approaches for image upscaling and quality enhancement.
+source_url: https://github.com/millardjn/rusty_sr
+category: Computer Vision
+tags:
+  - super-resolution
+  - deep-learning
+  - image-processing
+featured: false
+updated_at: 2026-04-05 00:22

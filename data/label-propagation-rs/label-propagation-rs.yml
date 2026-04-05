@@ -1,0 +1,13 @@
+name: label-propagation-rs
+description: Implementation of the Label Propagation Algorithm in Rust for
+  graph-based semi-supervised learning. Includes LGC (Label and Gaussian
+  Consistency) and CAMLP (Constrained Affinity Message Passing with Label
+  Propagation) algorithms.
+source_url: https://github.com/vaaaaanquish/label-propagation-rs
+category: Machine Learning
+tags:
+  - semi-supervised
+  - graph-based
+  - label-propagation
+featured: false
+updated_at: 2026-04-05 00:22

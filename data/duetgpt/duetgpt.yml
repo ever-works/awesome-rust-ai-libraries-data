@@ -1,0 +1,21 @@
+name: DuetGPT
+description: Conversational semi-autonomous developer assistant enabling AI pair
+  programming without the copy-paste workflow.
+source_url: https://github.com/Morisey/DuetGPT
+category: AI Assistants
+tags:
+  - pair-programming
+  - conversational
+  - developer-assistant
+markdown: |-
+  ## Overview
+
+  DuetGPT is a conversational semi-autonomous developer assistant.
+
+  ## Features
+
+  - AI pair programming
+  - Streamlined workflow without copy-paste
+  - Conversational interface
+  - Semi-autonomous operation
+updated_at: 2026-04-05 00:22

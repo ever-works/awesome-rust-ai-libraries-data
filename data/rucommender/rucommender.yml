@@ -1,0 +1,12 @@
+name: rucommender
+description: Rust implementation of user-based collaborative filtering for
+  recommendation systems. Provides a simple and efficient approach to generating
+  personalized recommendations based on user similarity.
+source_url: https://github.com/hja22/rucommender
+category: Recommendation
+tags:
+  - collaborative-filtering
+  - personalization
+  - recommendation
+featured: false
+updated_at: 2026-04-05 00:22

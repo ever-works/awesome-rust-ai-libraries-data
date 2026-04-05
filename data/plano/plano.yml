@@ -2,9 +2,9 @@ name: Plano
 description: AI-native proxy server and data plane for agentic apps. Enables
   efficient inference and agent workflows in Rust.
 source_url: https://github.com/katanemo/plano
-category: Inference
+category: Model Inference
 tags:
   - agentic
   - proxy
   - open-source
-updated_at: 2026-04-01 12:33
+updated_at: 2026-04-05 00:22

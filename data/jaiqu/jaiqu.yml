@@ -1,0 +1,41 @@
+name: Jaiqu
+description: An AI-powered tool for automatically transforming JSON schemas
+  using GPT-4, featuring schema validation, fuzzy term matching, and repeatable
+  jq query generation.
+source_url: https://jaiqu.jqtools.com
+category: Data Processing
+tags:
+  - json-schema
+  - gpt-4
+  - data-transformation
+markdown: >-
+  ## Overview
+
+
+  Jaiqu uses AI to automate JSON schema transformations, enabling developers to
+  convert between schemas with GPT-4 powered intelligence.
+
+
+  ## Features
+
+
+  - GPT-4 powered schema transformation
+
+  - Schema validation
+
+  - Fuzzy term matching
+
+  - Repeatable jq query generation
+
+  - Automated schema mapping
+
+
+  ## Use Cases
+
+
+  - Data format migration
+
+  - API schema transformation
+
+  - Data pipeline transformation
+updated_at: 2026-04-05 00:22

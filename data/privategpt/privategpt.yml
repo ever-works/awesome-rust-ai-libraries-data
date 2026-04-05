@@ -1,0 +1,40 @@
+name: PrivateGPT
+description: Secure, offline-capable AI tool for querying documents with Large
+  Language Models, offering high-level and low-level APIs for privacy-conscious,
+  context-aware application development.
+source_url: https://github.com/zylon-ai/private-gpt
+category: RAG Tools
+tags:
+  - privacy
+  - offline
+  - document-query
+featured: true
+markdown: >-
+  ## Overview
+
+
+  PrivateGPT is a secure, offline-capable AI tool for querying documents with
+  Large Language Models, designed for privacy-conscious use.
+
+
+  ## Features
+
+
+  - Offline operation
+
+  - Document querying with LLMs
+
+  - High-level and low-level APIs
+
+  - Privacy-first design
+
+  - Context-aware application development
+
+  - No data leaks
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

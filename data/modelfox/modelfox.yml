@@ -1,0 +1,13 @@
+name: Modelfox
+description: An all-in-one automated machine learning framework that simplifies
+  the process of training, evaluating, and deploying ML models. Designed to help
+  developers quickly build machine learning applications with minimal
+  configuration.
+source_url: https://github.com/modelfoxdotdev/modelfox
+category: Machine Learning
+tags:
+  - automl
+  - framework
+  - mlops
+featured: false
+updated_at: 2026-04-05 00:22

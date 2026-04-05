@@ -1,0 +1,12 @@
+name: tch-serde
+description: Serialization and deserialization support for tch-rs (Rust bindings
+  for PyTorch) types using serde. Enables saving and loading PyTorch tensor
+  state in Rust applications.
+source_url: https://github.com/LaurentMazare/tch-rs
+category: Machine Learning
+tags:
+  - serialization
+  - pytorch
+  - tensors
+featured: false
+updated_at: 2026-04-05 00:22

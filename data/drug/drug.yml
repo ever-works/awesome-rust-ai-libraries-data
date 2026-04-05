@@ -1,0 +1,33 @@
+name: drug
+description: A differentiable computation graph for neural networks in Rust.
+  Provides the foundational components for building computation graphs that
+  support automatic differentiation, enabling gradient-based training of neural
+  network models.
+source_url: https://crates.io/crates/drug
+category: Differentiation
+tags:
+  - computation-graph
+  - autodiff
+  - neural-networks
+featured: false
+markdown: >-
+  ## Overview
+
+
+  `drug` is a differentiable computation graph library for neural networks in
+  Rust. It provides the core infrastructure needed to build computation graphs
+  that support automatic differentiation, which is essential for training neural
+  networks via backpropagation.
+
+
+  ## Features
+
+
+  - Differentiable computation graph implementation
+
+  - Automatic differentiation support
+
+  - Neural network building blocks
+
+  - Efficient forward and backward passes
+updated_at: 2026-04-05 00:22

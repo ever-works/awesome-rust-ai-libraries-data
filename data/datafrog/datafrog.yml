@@ -1,0 +1,12 @@
+name: datafrog
+description: A lightweight Datalog engine in Rust for efficient differential
+  dataflow computation. Provides incremental, iterative query evaluation
+  suitable for large-scale data analytics.
+source_url: https://github.com/frankmcsherry/datafrog
+category: Data Processing
+tags:
+  - datalog
+  - query-engine
+  - incremental
+featured: false
+updated_at: 2026-04-05 00:22

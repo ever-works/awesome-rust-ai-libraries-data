@@ -1,0 +1,43 @@
+name: Groq
+description: GroqCloud API endpoints that support tool use with structured JSON
+  output for programmatic function execution, featuring parallel tool calling
+  across models including Llama 3, Mixtral, and Gemma.
+source_url: https://groq.com
+category: LLM Tools
+tags:
+  - tool-use
+  - parallel-calling
+  - high-performance
+markdown: >-
+  ## Overview
+
+
+  Groq provides high-performance inference API endpoints with native tool use
+  capabilities, enabling structured function calling from language models.
+
+
+  ## Supported Models for Tool Use
+
+
+  - Llama 3 70B
+
+  - Llama 3 8B
+
+  - Mixtral 8x7B
+
+  - Gemma 7B IT
+
+
+  ## Features
+
+
+  - Structured JSON output for function invocation
+
+  - Parallel tool calling support (Llama 3 models)
+
+  - High-speed inference hardware
+
+  - Programmatic operation execution
+
+  - Direct function invocation from model outputs
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,31 @@
+name: BlockAGI
+description: An AI research system that conducts iterative, domain-specific
+  research and outputs detailed narrative reports to showcase findings, enabling
+  automated knowledge gathering and synthesis.
+source_url: https://github.com/kaushikb11/blockagi
+category: Agentic Systems
+tags:
+  - iterative-research
+  - report-generation
+  - knowledge-synthesis
+markdown: >-
+  ## Overview
+
+
+  BlockAGI is a research-focused AI agent that performs iterative,
+  domain-specific research and produces comprehensive narrative reports.
+
+
+  ## Features
+
+
+  - Iterative research methodology
+
+  - Domain-specific investigation capabilities
+
+  - Detailed narrative report generation
+
+  - Automated knowledge synthesis
+
+  - Structured research workflows
+updated_at: 2026-04-05 00:22

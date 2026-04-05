@@ -1,0 +1,25 @@
+name: Autohand Code CLI
+description: Self-evolving autonomous coding agent for the terminal, using ReAct
+  pattern to reason about and modify entire codebases through natural language,
+  with 40+ tools and multi-LLM support.
+source_url: https://github.com/autohand/autohand
+category: AI Agents
+tags:
+  - autonomous
+  - cli
+  - multi-llm
+markdown: |-
+  ## Overview
+
+  Autohand Code CLI is a self-evolving autonomous coding agent for the terminal.
+
+  ## Features
+
+  - ReAct pattern reasoning
+  - 40+ development tools
+  - Multi-LLM support (OpenRouter, Anthropic, OpenAI, Ollama, local models)
+  - Semantic code search
+  - Modular skill system
+  - VS Code and Zed integration
+  - Natural language codebase modification
+updated_at: 2026-04-05 00:22

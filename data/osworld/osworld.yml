@@ -1,0 +1,46 @@
+name: OSWorld
+description: NeurIPS 2024 benchmark for evaluating multimodal AI agents on
+  open-ended tasks in real computer environments, providing realistic evaluation
+  scenarios for agent capabilities.
+source_url: https://github.com/xlang-ai/OSWorld
+category: AI Agents
+tags:
+  - benchmarking
+  - multimodal
+  - NeurIPS
+featured: false
+markdown: >-
+  ## Overview
+
+
+  OSWorld is a benchmark presented at NeurIPS 2024 for benchmarking multimodal
+  agents on open-ended tasks in real computer environments. It provides
+  realistic evaluation scenarios that test agent capabilities across diverse
+  computing tasks.
+
+
+  ## Features
+
+
+  - Multimodal agent benchmarking
+
+  - Open-ended task evaluation in real computer environments
+
+  - Diverse set of realistic computing tasks
+
+  - Published at NeurIPS 2024
+
+  - Supports evaluation of vision and language agent capabilities
+
+
+  ## Use Cases
+
+
+  - Evaluating multimodal AI agents
+
+  - Benchmarking agent capabilities on real-world computer tasks
+
+  - Research on open-ended agent evaluation
+brand: XLANG
+brand_logo_url: https://github.com/xlang-ai.png
+updated_at: 2026-04-05 00:22

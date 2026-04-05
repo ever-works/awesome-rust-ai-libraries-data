@@ -1,0 +1,36 @@
+name: NavAIGuide
+description: An extensible, mobile-friendly, multi-modal agentic framework
+  designed to integrate with mobile and desktop apps, featuring visual task
+  detection, advanced code selectors, action-oriented execution, and resilient
+  error handling.
+source_url: https://github.com/miguel711/NavAIGuide
+category: Agentic Systems
+tags:
+  - mobile
+  - multi-modal
+  - visual-tasks
+markdown: >-
+  ## Overview
+
+
+  NavAIGuide is an agentic framework designed for visual task automation across
+  mobile and desktop applications.
+
+
+  ## Features
+
+
+  - Visual task detection
+
+  - Advanced code selectors
+
+  - Action-oriented execution
+
+  - Resilient error handling
+
+  - Mobile-friendly design
+
+  - Multi-modal capabilities
+
+  - Extensible architecture
+updated_at: 2026-04-05 00:22

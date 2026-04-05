@@ -1,0 +1,25 @@
+name: AutoDev
+description: AI-powered coding assistant offering multilingual support,
+  automatic code generation, and debugging assistance, with customizable prompts
+  and specialized development tools.
+source_url: https://github.com/unit-mesh/auto-dev
+category: AI Assistants
+tags:
+  - coding-assistant
+  - multilingual
+  - debugging
+markdown: |-
+  ## Overview
+
+  AutoDev is an AI-powered coding assistant for developers.
+
+  ## Features
+
+  - Multilingual code support
+  - Automatic code generation
+  - Debugging assistance
+  - Customizable prompts
+  - Specialized tools for development, testing, documentation
+  - Custom AI agent integration
+  - UI framework for building AI agents
+updated_at: 2026-04-05 00:22

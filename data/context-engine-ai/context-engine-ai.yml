@@ -1,0 +1,35 @@
+name: context-engine-ai
+description: Lightweight context engine for AI agents that ingests events from
+  any source and queries with natural language, providing ranked results with
+  temporal decay and auto-deduplication.
+source_url: https://github.com/anthropics/context-engine-ai
+category: Memory
+tags:
+  - context
+  - natural-language-query
+  - sqlite
+markdown: >-
+  ## Overview
+
+
+  A lightweight context engine for AI agents designed for event ingestion and
+  natural language querying.
+
+
+  ## Features
+
+
+  - Event ingestion from any source
+
+  - Natural language query support
+
+  - Ranked results with temporal decay
+
+  - Auto-deduplication
+
+  - Zero configuration with SQLite
+
+  - Local TF-IDF embeddings
+
+  - Scales to pgvector and OpenAI
+updated_at: 2026-04-05 00:22

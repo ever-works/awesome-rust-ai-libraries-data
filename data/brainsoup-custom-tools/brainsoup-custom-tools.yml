@@ -1,0 +1,32 @@
+name: Brainsoup Custom Tools
+description: Multi-agent and multi-LLM native client where users can easily
+  create custom tools for their agents in any programming language, enabling
+  interaction with external services.
+source_url: https://www.brainsoup.ai
+category: AI Agents
+tags:
+  - multi-llm
+  - custom-tools
+  - multi-agent
+markdown: >-
+  ## Overview
+
+
+  Brainsoup is a multi-agent and multi-LLM native client for custom tool
+  creation.
+
+
+  ## Features
+
+
+  - Custom tool creation in any programming language
+
+  - Agent-system interaction
+
+  - External service integration
+
+  - Multi-agent support
+
+  - Multi-LLM compatibility
+brand: Brainsoup
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,12 @@
+name: onmf
+description: Fast Rust implementation of online nonnegative matrix factorization
+  as laid out in the paper 'Detect and Track Latent Factors with Online
+  Nonnegative Matrix Factorization'. Suitable for streaming data applications.
+source_url: https://github.com/snd/onmf
+category: Recommendation
+tags:
+  - nmf
+  - online-learning
+  - factorization
+featured: false
+updated_at: 2026-04-05 00:22

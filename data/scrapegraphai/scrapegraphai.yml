@@ -1,0 +1,37 @@
+name: ScrapeGraphAI
+description: Tool for creating AI agents that automate web scraping tasks
+  efficiently, enhancing data extraction capabilities through LangGraph,
+  function calls, and web scraping techniques.
+source_url: https://github.com/VinciGit00/Scrapegraph-ai
+category: AI Agents
+tags:
+  - web-scraping
+  - langgraph
+  - automation
+markdown: >-
+  ## Overview
+
+
+  ScrapeGraph AI provides a tool for creating AI agents that can automate web
+  scraping tasks efficiently.
+
+
+  ## Features
+
+
+  - AI-powered web scraping agents
+
+  - LangGraph integration
+
+  - Function calling support
+
+  - Enhanced data extraction
+
+  - Automated scraping workflows
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

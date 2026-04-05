@@ -1,0 +1,28 @@
+name: uAgents
+description: Python library by Fetch AI for creating autonomous AI agents with
+  features like easy creation, blockchain network connectivity, and
+  cryptographic security.
+source_url: https://github.com/fetchai/uAgents
+category: AI Agents
+tags:
+  - fetch-ai
+  - blockchain
+  - cryptographic-security
+featured: true
+markdown: |-
+  ## Overview
+
+  uAgents is a Python library by Fetch AI for creating autonomous AI agents.
+
+  ## Features
+
+  - Easy agent creation
+  - Blockchain network connectivity
+  - Cryptographic security
+  - Python-based
+  - Autonomous operation
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

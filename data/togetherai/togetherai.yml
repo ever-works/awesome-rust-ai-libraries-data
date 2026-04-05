@@ -1,0 +1,37 @@
+name: TogetherAI
+description: Platform facilitating efficient and accurate summarization of text
+  using advanced AI algorithms and user-friendly tools for rapid application
+  development and model training.
+source_url: https://www.together.ai
+category: Generative AI
+tags:
+  - model-serving
+  - inference
+  - fine-tuning
+markdown: >-
+  ## Overview
+
+
+  TogetherAI is a platform that facilitates efficient text processing using
+  advanced AI algorithms.
+
+
+  ## Features
+
+
+  - Advanced AI algorithms
+
+  - Text summarization
+
+  - User-friendly tools
+
+  - Model serving and inference
+
+  - Fine-tuning capabilities
+
+
+  ## Pricing
+
+
+  Pay-per-use based on model and compute usage.
+updated_at: 2026-04-05 00:22

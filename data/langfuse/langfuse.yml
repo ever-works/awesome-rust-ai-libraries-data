@@ -1,0 +1,43 @@
+name: Langfuse
+description: "An open-source LLM engineering platform offering debugging, prompt
+  management, and metrics for LLM application improvement, recognized as the #1
+  Golden Kitty winner in the AI Infra Category from Product Hunt."
+source_url: https://langfuse.com
+category: MLOps
+tags:
+  - open-source
+  - debugging
+  - prompt-management
+markdown: >-
+  ## Overview
+
+
+  Langfuse is an open-source platform for engineering and improving LLM
+  applications through debugging, monitoring, and prompt management.
+
+
+  ## Features
+
+
+  - LLM application debugging
+
+  - Prompt management tools
+
+  - Performance metrics and analytics
+
+  - Open-source architecture
+
+  - Product Hunt #1 Golden Kitty winner in AI Infra
+
+
+  ## Use Cases
+
+
+  - LLM application monitoring
+
+  - Prompt optimization
+
+  - Application debugging and testing
+
+  - Performance tracking
+updated_at: 2026-04-05 00:22

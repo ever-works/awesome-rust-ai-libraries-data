@@ -1,0 +1,12 @@
+name: c0dearm-mushin
+description: Compile-time creation of neural networks. Provides the ability to
+  define and construct neural networks at compile time for zero-overhead
+  inference.
+source_url: https://github.com/c0dearm/mushin
+category: Machine Learning
+tags:
+  - compile-time
+  - neural-network
+  - zero-overhead
+featured: false
+updated_at: 2026-04-05 00:22

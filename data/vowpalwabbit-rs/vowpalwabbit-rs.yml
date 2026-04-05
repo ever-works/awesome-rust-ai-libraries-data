@@ -1,0 +1,12 @@
+name: vowpalwabbit-rs
+description: Rusty Vowpal Wabbit - Rust bindings for the popular Vowpal Wabbit
+  online learning library. Enables fast online machine learning with support for
+  feature interactions, reductions, and large-scale sparse data.
+source_url: https://github.com/jackgerrits/vowpalwabbit-rs
+category: Machine Learning
+tags:
+  - bindings
+  - online-learning
+  - vowpal-wabbit
+featured: false
+updated_at: 2026-04-05 00:22

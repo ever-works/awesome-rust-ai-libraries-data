@@ -1,0 +1,38 @@
+name: beta9
+description: Ultrafast serverless GPU inference, sandboxes, and background jobs
+  platform, enabling developers to deploy ML workloads on GPUs with minimal
+  latency.
+source_url: https://github.com/beaker/beta9
+category: Model Serving
+tags:
+  - serverless
+  - gpu-inference
+  - cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  beta9 is a serverless GPU platform providing ultrafast inference, sandboxed
+  execution environments, and support for background ML jobs.
+
+
+  ## Features
+
+
+  - Serverless GPU inference
+
+  - Isolated sandbox environments
+
+  - Background job processing
+
+  - Auto-scaling GPU resources
+
+  - Simple deployment interface
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

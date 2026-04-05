@@ -1,0 +1,45 @@
+name: LLMAgentOODGYM
+description: Out-of-distribution benchmark study for LLM agents based on
+  BrowserGym and AgentLab, testing agent generalization to unseen scenarios and
+  environments.
+source_url: https://github.com/ServiceNowResearch/LLMAgentOODGYM
+category: AI Agents
+tags:
+  - benchmarking
+  - out-of-distribution
+  - web-agents
+featured: false
+markdown: >-
+  ## Overview
+
+
+  LLMAgentOODGYM is an out-of-distribution benchmark study for LLM agents built
+  on top of BrowserGym and AgentLab frameworks. It tests how well agents
+  generalize to scenarios and environments not seen during training.
+
+
+  ## Features
+
+
+  - Out-of-distribution evaluation for LLM agents
+
+  - Built on BrowserGym and AgentLab frameworks
+
+  - Tests agent generalization to unseen scenarios
+
+  - From ServiceNow Research
+
+  - Standardized OOD benchmarking methodology
+
+
+  ## Use Cases
+
+
+  - Evaluating LLM agent generalization
+
+  - Benchmarking agent robustness to novel scenarios
+
+  - Research on agent out-of-distribution performance
+brand: ServiceNow Research
+brand_logo_url: https://github.com/ServiceNowResearch.png
+updated_at: 2026-04-05 00:22

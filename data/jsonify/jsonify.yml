@@ -1,0 +1,43 @@
+name: Jsonify
+description: A no-code platform for AI data agents that convert webpages and
+  documents into structured JSON, enhancing efficiency for data extraction tasks
+  including web scraping, document parsing, and structured dataset building.
+source_url: https://jsonify.io
+category: Data Processing
+tags:
+  - no-code
+  - data-extraction
+  - structured-data
+markdown: >-
+  ## Overview
+
+
+  Jsonify provides a no-code platform for converting unstructured web and
+  document data into structured JSON using AI data agents.
+
+
+  ## Features
+
+
+  - Webpage scraping to JSON
+
+  - Document data extraction
+
+  - Structured dataset building
+
+  - No-code interface
+
+  - AI-powered data agents
+
+
+  ## Use Cases
+
+
+  - Web content extraction
+
+  - Document parsing
+
+  - Building structured datasets
+
+  - Customer data enrichment
+updated_at: 2026-04-05 00:22

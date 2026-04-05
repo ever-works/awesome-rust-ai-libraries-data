@@ -1,0 +1,33 @@
+name: Mendable
+description: An AI chatbot solution that enables companies to build and deploy
+  technical assistants trained on specific documentation and resources,
+  featuring enterprise-grade security and continuous model training.
+source_url: https://www.mendable.ai
+category: AI Assistants
+tags:
+  - technical-support
+  - documentation
+  - enterprise
+markdown: >-
+  ## Overview
+
+
+  Mendable provides AI chatbot solutions trained on company-specific
+  documentation for customer and employee technical support.
+
+
+  ## Features
+
+
+  - Enterprise-grade security
+
+  - Continuous model training
+
+  - Documentation-based training
+
+  - Wide range of data source integrations
+
+  - API integrations
+
+  - Technical assistant deployment
+updated_at: 2026-04-05 00:22

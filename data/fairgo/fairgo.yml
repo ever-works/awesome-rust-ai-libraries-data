@@ -1,0 +1,22 @@
+name: Fairgo
+description: AI platform to streamline and scale hiring processes using
+  real-time AI video interviews, tackling unconscious biases and ensuring all
+  candidates are interviewed without human input.
+source_url: https://fairgo.ai
+category: AI Tools
+tags:
+  - hiring
+  - video-interviews
+  - bias-reduction
+markdown: |-
+  ## Overview
+
+  Fairgo is a platform built to streamline and scale hiring processes.
+
+  ## Features
+
+  - Real-time AI video interviews
+  - Unconscious bias reduction
+  - 100% interview coverage without human input
+  - Scalable hiring workflows
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,38 @@
+name: AGiXT
+description: Advanced AI Automation Platform designed to enhance AI instruction
+  management and task execution across various providers, incorporating adaptive
+  memory, smart instruct, and a versatile plugin system.
+source_url: https://github.com/Josh-XT/AGiXT
+category: AI Agents
+tags:
+  - automation
+  - multi-provider
+  - plugins
+markdown: >-
+  ## Overview
+
+
+  AGiXT is an advanced AI Automation Platform designed to enhance AI instruction
+  management and task execution across various providers.
+
+
+  ## Features
+
+
+  - Adaptive memory for context retention
+
+  - Smart instruct capabilities
+
+  - Versatile plugin system
+
+  - Multi-provider support
+
+  - Task execution across various AI models
+
+
+  ## Goal
+
+
+  Pushing the boundaries of AI technology towards achieving Artificial General
+  Intelligence (AGI).
+updated_at: 2026-04-05 00:22

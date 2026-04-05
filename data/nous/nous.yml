@@ -1,0 +1,21 @@
+name: Nous
+description: TypeScript AI agent platform featuring autonomous agents, software
+  developer agents, AI code review agents, and more.
+source_url: https://github.com/nousresearch/nous
+category: AI Agents
+tags:
+  - typescript
+  - autonomous
+  - code-review
+markdown: |-
+  ## Overview
+
+  Nous is a TypeScript AI agent platform with multiple specialized agent types.
+
+  ## Agent Types
+
+  - Autonomous agents
+  - Software developer agents
+  - AI code review agents
+  - Additional specialized agents
+updated_at: 2026-04-05 00:22

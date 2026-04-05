@@ -1,0 +1,33 @@
+name: Lobe Chat
+description: An open-source UI framework for building ChatGPT/LLM-based chat
+  applications, featuring modern design, speech synthesis, multi-modal support,
+  extensible plugins, and free one-click deployment.
+source_url: https://github.com/lobehub/lobe-chat
+category: AI Assistants
+tags:
+  - chat-ui
+  - open-source
+  - multi-modal
+markdown: >-
+  ## Overview
+
+
+  Lobe Chat is an open-source UI framework designed for rapidly building modern
+  LLM-powered chat applications.
+
+
+  ## Features
+
+
+  - Modern design system
+
+  - Speech synthesis support
+
+  - Multi-modal capabilities
+
+  - Extensible plugin architecture
+
+  - Free one-click deployment
+
+  - ChatGPT/LLM integration
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,36 @@
+name: Command R+ by Cohere
+description: Advanced, scalable LLM optimized for enterprise needs with advanced
+  RAG, multilingual support, and sophisticated tool-use capabilities for
+  automating complex business workflows.
+source_url: https://cohere.com/command
+category: LLM Tools
+tags:
+  - enterprise
+  - rag
+  - multilingual
+markdown: >-
+  ## Overview
+
+
+  Cohere introduces Command R+, an advanced, scalable LLM optimized for
+  enterprise needs.
+
+
+  ## Features
+
+
+  - Advanced RAG capabilities
+
+  - Multilingual support
+
+  - Sophisticated tool-use
+
+  - Complex business workflow automation
+
+
+  ## Availability
+
+
+  First available on Microsoft Azure.
+brand: Cohere
+updated_at: 2026-04-05 00:22

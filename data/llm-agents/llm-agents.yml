@@ -1,0 +1,37 @@
+name: LLM Agents
+description: Framework for building AI agents that are controlled and
+  orchestrated by Large Language Models, enabling flexible task decomposition
+  and execution.
+source_url: https://github.com/anthropics/llm-agents
+category: Agentic Systems
+tags:
+  - llm-controlled
+  - task-decomposition
+  - open-source
+markdown: >-
+  ## Overview
+
+
+  LLM Agents provides a framework for building AI agents controlled by Large
+  Language Models.
+
+
+  ## Features
+
+
+  - LLM-controlled agent architecture
+
+  - Flexible task decomposition
+
+  - Dynamic agent orchestration
+
+  - Modular tool integration
+
+  - Open-source implementation
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

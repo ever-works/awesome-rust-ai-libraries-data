@@ -1,0 +1,45 @@
+name: Refuel SDK
+description: Tool for labeling, cleaning, and enriching text datasets using
+  LLMs, providing an automated pipeline for improving data quality for machine
+  learning workflows.
+source_url: https://github.com/refuel-ai/refuel-sdk
+category: Data Processing
+tags:
+  - data-cleaning
+  - data-labeling
+  - LLM-powered
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Refuel SDK is a tool for labeling, cleaning, and enriching text datasets using
+  Large Language Models. It provides an automated pipeline for improving data
+  quality, which is critical for training and evaluating ML models.
+
+
+  ## Features
+
+
+  - Automated text dataset labeling with LLMs
+
+  - Data cleaning and deduplication
+
+  - Dataset enrichment pipelines
+
+  - Improves data quality for ML workflows
+
+  - Integrates with existing data processing pipelines
+
+
+  ## Use Cases
+
+
+  - Cleaning and labeling training datasets
+
+  - Enriching existing text datasets
+
+  - Improving data quality for ML model training
+brand: Refuel AI
+brand_logo_url: https://github.com/refuel-ai.png
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,42 @@
+name: SafeTensors
+description: Rust implementation of the safetensors format for safe, zero-copy
+  serialization of model weights. Replaces PyTorch pickle-based weight storage
+  with a secure alternative widely adopted across ML frameworks.
+source_url: https://crates.io/crates/safetensors
+category: Machine Learning
+tags:
+  - serialization
+  - model-weights
+  - zero-copy
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SafeTensors is the Rust implementation of the safetensors format, a safe,
+  zero-copy serialization format for storing model weights. It was created as a
+  replacement for PyTorch's pickle-based weight storage, eliminating security
+  risks associated with arbitrary code execution during deserialization.
+
+
+  ## Features
+
+
+  - Safe, zero-copy format for storing model weights
+
+  - Replaces PyTorch pickle-based serialization
+
+  - Eliminates deserialization security vulnerabilities
+
+  - Supported by Hugging Face and widely adopted
+
+  - Fast reading with memory mapping support
+
+
+  ## Status
+
+
+  Active development.
+brand: Hugging Face
+brand_logo_url: https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg
+updated_at: 2026-04-05 00:22

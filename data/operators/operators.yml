@@ -1,0 +1,62 @@
+name: operators
+description: A multi-hardware support operator library for neural network
+  operations, providing unified interfaces for CPU, CUDA, OpenCL, Ascend, and
+  Cambricon hardware acceleration.
+source_url: https://github.com/YdrMaster/operators
+category: Machine Learning
+tags:
+  - multi-hardware
+  - operators
+  - acceleration
+featured: false
+markdown: >-
+  ## Overview
+
+
+  operators is a multi-hardware operator library providing neural network
+  computation primitives that work across diverse hardware platforms, serving as
+  a backend for projects like InfiniLM.
+
+
+  ## Features
+
+
+  - Neural network computation operators
+
+  - Multi-hardware unified interface
+
+  - Support for diverse accelerator architectures
+
+  - Hardware abstraction layer
+
+
+  ## Backend Support
+
+
+  - CPU: Host-side computation
+
+  - CUDA: NVIDIA GPU acceleration via cuda-driver
+
+  - OpenCL: Cross-platform GPU acceleration via clrt
+
+  - Ascend: Huawei Ascend NPU support via infinirt
+
+  - Cambricon: Cambricon MLU support
+
+
+  ## Dependencies
+
+
+  - clrt: OpenCL runtime bindings
+
+  - infinirt: Ascend runtime bindings
+
+  - cuda-driver: CUDA driver interface
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: operators
+updated_at: 2026-04-05 00:22

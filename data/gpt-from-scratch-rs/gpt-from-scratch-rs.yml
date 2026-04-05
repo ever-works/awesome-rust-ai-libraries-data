@@ -1,0 +1,45 @@
+name: gpt-from-scratch-rs
+description: A Rust port of Andrej Karpathy's 'Let's build GPT' tutorial,
+  demonstrating the Candle API on a toy GPT training problem. Provides an
+  educational, step-by-step implementation of GPT model training using Candle's
+  minimalist ML framework.
+source_url: https://github.com/tazz4843/gpt-from-scratch-rs
+category: Machine Learning
+tags:
+  - educational
+  - gpt
+  - candle
+featured: false
+markdown: >-
+  ## Overview
+
+
+  gpt-from-scratch-rs is a Rust port of Andrej Karpathy's popular "Let's build
+  GPT: from scratch, in code, spelled out" YouTube tutorial. It demonstrates how
+  to build and train a GPT-style language model from the ground up using the
+  Candle ML framework.
+
+
+  ## Features
+
+
+  - Step-by-step GPT model implementation following Karpathy's tutorial
+
+  - Showcases the Candle API on a practical training problem
+
+  - Educational resource for understanding GPT architecture and training
+
+  - Built entirely in Rust using Candle as the underlying ML framework
+
+  - Includes text data tokenization and character-level language modeling
+
+
+  ## Use Cases
+
+
+  - Learning GPT architecture fundamentals through hands-on implementation
+
+  - Understanding Candle's API and capabilities for model training
+
+  - Educational reference for building transformer-based models in Rust
+updated_at: 2026-04-05 00:22

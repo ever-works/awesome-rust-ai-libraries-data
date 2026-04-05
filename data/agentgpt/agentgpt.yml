@@ -1,0 +1,24 @@
+name: AgentGPT
+description: Platform that allows users to configure and deploy autonomous AI
+  agents, enabling them to name their own custom AI and guide it towards any
+  desired goal through task execution and learning.
+source_url: https://github.com/reworkd/AgentGPT
+category: AI Agents
+tags:
+  - autonomous
+  - task-execution
+  - customizable
+markdown: |-
+  ## Overview
+
+  AgentGPT allows users to configure and deploy autonomous AI agents.
+
+  ## Features
+
+  - Custom agent naming
+  - Goal-driven task execution
+  - Autonomous learning capabilities
+  - Configurable agent parameters
+  - Task execution and monitoring
+brand: Reworkd
+updated_at: 2026-04-05 00:22

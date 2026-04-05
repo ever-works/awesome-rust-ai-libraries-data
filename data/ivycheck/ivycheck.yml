@@ -1,0 +1,44 @@
+name: IvyCheck
+description: An API for real-time AI application safety checks, preventing
+  prompt injection attacks, PII data leakage, and hallucinations in agentic AI
+  development.
+source_url: https://github.com/ivycheck/ivycheck-python-sdk
+category: LLM Tools
+tags:
+  - safety
+  - prompt-injection
+  - pii-protection
+markdown: >-
+  ## Overview
+
+
+  IvyCheck provides real-time safety checking APIs for AI applications,
+  specifically designed to protect agentic AI systems from common
+  vulnerabilities.
+
+
+  ## Features
+
+
+  - Prompt injection attack prevention
+
+  - PII data leakage detection
+
+  - Hallucination detection
+
+  - Real-time safety checks
+
+  - Designed for agentic AI development
+
+
+  ## Use Cases
+
+
+  - Agentic AI security
+
+  - Production AI application safety
+
+  - Data loss prevention
+
+  - Output validation
+updated_at: 2026-04-05 00:22

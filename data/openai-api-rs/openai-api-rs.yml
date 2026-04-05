@@ -1,0 +1,36 @@
+name: openai-api-rs
+description: Alternative community-maintained Rust client for the OpenAI API.
+  Offers similar functionality to other OpenAI SDKs with a different design
+  approach, providing developers with choices for API integration.
+source_url: https://crates.io/crates/openai-api-rs
+category: API Clients
+tags:
+  - openai
+  - community
+  - api-client
+featured: false
+markdown: >-
+  ## Overview
+
+
+  openai-api-rs is a community-maintained alternative Rust client for the OpenAI
+  API. It provides similar features to other OpenAI SDKs, giving developers
+  flexibility in how they integrate OpenAI services into their Rust
+  applications.
+
+
+  ## Features
+
+
+  - Compatible with OpenAI API endpoints
+
+  - Community-maintained with regular updates
+
+  - Supports completions, chat, and other OpenAI services
+
+
+  ## Status
+
+
+  Active development.
+updated_at: 2026-04-05 00:22

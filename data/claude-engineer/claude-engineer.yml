@@ -1,0 +1,28 @@
+name: Claude Engineer
+description: Interactive command-line interface leveraging Anthropic's
+  Claude-3.5-Sonnet model to assist with software development tasks.
+source_url: https://github.com/Doriandarko/claude-engineer
+category: AI Assistants
+tags:
+  - cli
+  - claude
+  - software-development
+markdown: >-
+  ## Overview
+
+
+  Claude Engineer is an interactive CLI leveraging Anthropic's Claude-3.5-Sonnet
+  model.
+
+
+  ## Features
+
+
+  - Claude-3.5-Sonnet integration
+
+  - Interactive command-line interface
+
+  - Software development task assistance
+
+  - Direct model interaction
+updated_at: 2026-04-05 00:22

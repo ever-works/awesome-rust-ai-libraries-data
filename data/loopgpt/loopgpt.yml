@@ -1,0 +1,49 @@
+name: LoopGPT
+description: A modular auto-GPT framework with GPT 3.5 compatibility, minimal
+  prompt overhead, human-in-the-loop capability, and full state serialization
+  for easy installation via Python, CLI, or Docker.
+source_url: https://github.com/farizrahman4u/loopgpt
+category: AI Agents
+tags:
+  - auto-gpt
+  - modular
+  - gpt-3.5
+markdown: >-
+  ## Overview
+
+
+  LoopGPT is a modular Auto-GPT framework designed for easy deployment and
+  customization of autonomous AI agents.
+
+
+  ## Features
+
+
+  - 'Plug N Play' API
+
+  - GPT 3.5 compatibility
+
+  - Minimal prompt overhead
+
+  - Human-in-the-loop capability
+
+  - Full state serialization
+
+  - Python, CLI, or Docker installation
+
+  - Custom tool addition
+
+  - Course correction support
+
+  - Agent state saving and loading
+
+
+  ## Requirements
+
+
+  - Python 3.8+
+
+  - OpenAI API Key
+
+  - Optional Google search setup
+updated_at: 2026-04-05 00:22

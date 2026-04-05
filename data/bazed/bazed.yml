@@ -1,0 +1,23 @@
+name: Bazed
+description: Agent Framework empowering developers to build autonomous agent
+  swarms without requiring deep Python ML knowledge, using TypeScript for
+  enhanced autonomy and reliability.
+source_url: https://github.com/Bazed-ai/bazed-agent-framework
+category: AI Agents
+tags:
+  - typescript
+  - swarm
+  - autonomous
+markdown: |-
+  ## Overview
+
+  Bazed Agent Framework enables developers to build autonomous agent swarms.
+
+  ## Features
+
+  - No deep Python ML knowledge required
+  - TypeScript-based
+  - Enhanced autonomy and reliability
+  - Agent swarm creation
+  - Sophisticated system building
+updated_at: 2026-04-05 00:22

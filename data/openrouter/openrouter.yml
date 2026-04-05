@@ -1,0 +1,38 @@
+name: OpenRouter
+description: Platform providing access to a wide range of large language models
+  including open-source and proprietary options like ChatGPT, Gemini, and
+  Perplexity, helping users find the best models and pricing for their use
+  cases.
+source_url: https://openrouter.ai
+category: LLM Tools
+tags:
+  - model-aggregator
+  - multi-model
+  - api
+markdown: >-
+  ## Overview
+
+
+  OpenRouter is a platform providing unified access to a wide range of large
+  language models from multiple providers.
+
+
+  ## Features
+
+
+  - Access to open-source and proprietary models
+
+  - Support for ChatGPT, Gemini, Perplexity, and more
+
+  - Model comparison and pricing discovery
+
+  - Unified API interface
+
+  - Pay-per-use billing
+
+
+  ## Pricing
+
+
+  Pay-per-use based on selected model pricing.
+updated_at: 2026-04-05 00:22

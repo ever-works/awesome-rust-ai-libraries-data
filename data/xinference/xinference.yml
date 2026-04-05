@@ -1,0 +1,43 @@
+name: Xinference
+description: Replace OpenAI GPT with another LLM in your app by changing a
+  single line of code. Xinference gives you the freedom to use any LLM you need,
+  supporting language, speech recognition, and multimodal models across cloud,
+  on-premises, or laptop environments.
+source_url: https://github.com/xorbitsai/inference
+category: Model Inference
+tags:
+  - openai-compatible
+  - multi-model
+  - deployment
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Xinference is a unified inference platform that allows users to run inference
+  with any open-source language models, speech recognition models, and
+  multimodal models. It supports deployment in the cloud, on-premises, or on a
+  laptop.
+
+
+  ## Features
+
+
+  - Single line of code to replace OpenAI APIs with other LLMs
+
+  - Supports open-source language models
+
+  - Speech recognition model support
+
+  - Multimodal model support
+
+  - Cloud, on-premises, and local deployment
+
+  - RESTful API with OpenAI-compatible interface
+
+
+  ## Pricing
+
+
+  Free and open-source under the Apache 2.0 license.
+updated_at: 2026-04-05 00:22

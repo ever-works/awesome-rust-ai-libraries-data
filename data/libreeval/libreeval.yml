@@ -1,0 +1,44 @@
+name: LibreEval
+description: Open-source benchmark for detecting hallucinations in
+  Retrieval-Augmented Generation (RAG) systems, providing standardized
+  evaluation of RAG accuracy and reliability.
+source_url: https://github.com/libreeval/libreeval
+category: RAG Tools
+tags:
+  - open-source
+  - hallucination-detection
+  - evaluation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  LibreEval is an open-source benchmark designed specifically for detecting
+  hallucinations in Retrieval-Augmented Generation (RAG) systems. It provides
+  standardized evaluation methodologies to assess the accuracy and reliability
+  of RAG pipelines.
+
+
+  ## Features
+
+
+  - Hallucination detection for RAG systems
+
+  - Open-source benchmarking methodology
+
+  - Standardized evaluation protocols
+
+  - Assesses RAG pipeline accuracy
+
+  - Detects generated content reliability issues
+
+
+  ## Use Cases
+
+
+  - Evaluating RAG system accuracy
+
+  - Benchmarking hallucination rates
+
+  - Research on RAG system reliability
+updated_at: 2026-04-05 00:22

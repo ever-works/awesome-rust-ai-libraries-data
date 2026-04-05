@@ -1,0 +1,41 @@
+name: Widemem AI
+description: Lightweight Python memory layer for LLM agents with importance
+  scoring, temporal decay, 3-tier hierarchical memory, YMYL prioritization, and
+  batch conflict resolution. Local-first with SQLite + FAISS.
+source_url: https://github.com/widemem/widemem-ai
+category: Memory
+tags:
+  - memory
+  - local-first
+  - python
+markdown: >-
+  ## Overview
+
+
+  Widemem AI is a lightweight Python memory layer designed for LLM agents,
+  providing structured memory management with local-first architecture.
+
+
+  ## Features
+
+
+  - Importance scoring for memory entries
+
+  - Temporal decay to manage information relevance over time
+
+  - 3-tier hierarchical memory organization
+
+  - YMYL (Your Money or Your Life) prioritization for critical information
+
+  - Batch conflict resolution for handling contradictory memories
+
+  - Local-first architecture using SQLite + FAISS
+
+  - Lightweight and easy to integrate
+
+
+  ## Pricing
+
+
+  Open-source and free to use.
+updated_at: 2026-04-05 00:22

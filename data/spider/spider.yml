@@ -2,7 +2,7 @@ name: spider
 description: Rust-based web crawler/spider for dumping entire websites, useful
   for data collection in LLM training or RAG systems.
 source_url: https://github.com/spider-rs/spider
-category: Tools
+category: Tooling
 tags:
   - open-source
   - web-crawler
@@ -21,4 +21,4 @@ markdown: |-
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-01 12:33
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,29 @@
+name: Bland
+description: Platform for building and scaling AI-powered phone agents,
+  featuring easy integration, live data context, custom voices, and dedicated
+  infrastructure.
+source_url: https://www.bland.ai
+category: Voice AI
+tags:
+  - phone-agents
+  - telephony
+  - custom-voices
+markdown: |-
+  ## Overview
+
+  Bland AI offers a platform for building and scaling AI-powered phone agents.
+
+  ## Features
+
+  - Easy integration
+  - Live data context
+  - Custom voice support
+  - Dedicated infrastructure
+  - Scalable phone agent deployment
+
+  ## Tech Stack
+
+  - LLM: Claude Instant (Anthropic)
+  - Transcription: Whisper (OpenAI)
+  - TTS: ElevenLabs
+updated_at: 2026-04-05 00:22

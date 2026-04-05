@@ -1,0 +1,11 @@
+name: Pyspur
+description: Graph-based visual editor for designing, building, and managing LLM
+  workflows through an intuitive node-based interface for prompt engineering and
+  agent orchestration.
+source_url: https://github.com/pyspur-dev/pyspur
+category: Developer Tools
+tags:
+  - graph-editor
+  - llm-workflows
+  - visual
+updated_at: 2026-04-05 00:22

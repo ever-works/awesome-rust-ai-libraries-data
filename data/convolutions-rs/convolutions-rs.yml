@@ -1,0 +1,33 @@
+name: convolutions-rs
+description: Torch-compatible convolutions crate implemented in pure Rust.
+  Provides convolution operations designed to be API-compatible with PyTorch's
+  convolution layers, enabling easy porting of models from Python/PyTorch to
+  Rust.
+source_url: https://crates.io/crates/convolutions-rs
+category: Machine Learning
+tags:
+  - convolutions
+  - pytorch-compatible
+  - pure-rust
+featured: false
+markdown: >-
+  ## Overview
+
+
+  `convolutions-rs` is a pure Rust implementation of convolution operations that
+  aims for API compatibility with PyTorch's convolution layers. This allows
+  developers familiar with PyTorch to more easily translate their models to
+  Rust.
+
+
+  ## Features
+
+
+  - Pure Rust implementation with no external dependencies
+
+  - Torch/PyTorch-compatible API for convolution operations
+
+  - 1D, 2D, and 3D convolution support
+
+  - Suitable for porting PyTorch models to Rust
+updated_at: 2026-04-05 00:22

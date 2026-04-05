@@ -1,0 +1,40 @@
+name: Agents by Hugging Face
+description: "Hugging Face's Transformers Agents providing three main types for
+  AI code generation and other tasks: HfAgent for open-source model inference,
+  LocalAgent for local execution, and OpenAiAgent for OpenAI integration."
+source_url: https://huggingface.co/docs/transformers/transformers_agents
+category: Agentic Systems
+tags:
+  - multi-model
+  - local
+  - code-generation
+markdown: >-
+  ## Overview
+
+
+  Hugging Face's Transformers Agents provide three main types of agents for AI
+  task execution.
+
+
+  ## Agent Types
+
+
+  - **HfAgent**: Inference with open-source models
+
+  - **LocalAgent**: Using local models and tokenizers
+
+  - **OpenAiAgent**: Access to OpenAI's closed models
+
+
+  ## Capabilities
+
+
+  - Code generation
+
+  - AI task execution
+
+  - Varying levels of customization
+
+  - Local or remote execution options
+brand: Hugging Face
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,25 @@
+name: SWE Agent
+description: AI agent that takes a GitHub issue and tries to automatically fix
+  it using GPT-4 or your preferred language model.
+source_url: https://github.com/princeton-nlp/SWE-agent
+category: AI Agents
+tags:
+  - github
+  - bug-fixing
+  - gpt-4
+markdown: |-
+  ## Overview
+
+  SWE-agent takes a GitHub issue and attempts to automatically fix it.
+
+  ## Features
+
+  - Automated issue fixing
+  - GPT-4 integration
+  - Custom language model support
+  - GitHub issue parsing
+
+  ## Usage
+
+  Works with GPT-4 or any language model of choice.
+updated_at: 2026-04-05 00:22

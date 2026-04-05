@@ -1,0 +1,43 @@
+name: Lawful-Good
+description: Benchmark for assessing the legal capabilities of LLM agents,
+  evaluating their proficiency in legal reasoning, interpretation, and
+  compliance tasks.
+source_url: https://github.com/lawful-good/lawful-good
+category: AI Agents
+tags:
+  - benchmarking
+  - legal-AI
+  - evaluation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Lawful-Good is a benchmark designed to assess the legal capabilities of LLM
+  agents. It evaluates agents' proficiency in legal reasoning, statutory
+  interpretation, regulatory compliance, and other law-related tasks.
+
+
+  ## Features
+
+
+  - Legal capability assessment for LLM agents
+
+  - Tests legal reasoning and interpretation
+
+  - Evaluates compliance analysis abilities
+
+  - Standardized legal task benchmarking
+
+  - Measures domain-specific legal knowledge
+
+
+  ## Use Cases
+
+
+  - Benchmarking legal AI agents
+
+  - Evaluating LLM legal reasoning capabilities
+
+  - Research on legal domain evaluation
+updated_at: 2026-04-05 00:22

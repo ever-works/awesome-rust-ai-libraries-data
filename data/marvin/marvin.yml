@@ -1,0 +1,35 @@
+name: Marvin
+description: An open-source AI toolkit for developers focused on enhancing AI
+  agent capabilities, offering tools for natural language interfaces, image and
+  audio generation, and entity extraction.
+source_url: https://github.com/PrefectHQ/marvin
+category: AI Tools
+tags:
+  - developer-tools
+  - multimodal
+  - entity-extraction
+markdown: >-
+  ## Overview
+
+
+  Marvin is an open-source AI toolkit designed to enhance AI agent development
+  with natural language interfaces and multimodal generation capabilities.
+
+
+  ## Features
+
+
+  - Natural language interfaces
+
+  - Image generation tools
+
+  - Audio generation tools
+
+  - Entity extraction capabilities
+
+  - Scalable architecture
+
+  - Easy project integration
+
+  - Open-source and extensible
+updated_at: 2026-04-05 00:22

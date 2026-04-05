@@ -1,0 +1,27 @@
+name: Beam
+description: AI platform for Agentic Process Automation, using AI agents to
+  automate workflows with pre-trained agents, seamless integrations, and
+  industry-specific solutions.
+source_url: https://www.beam.ai
+category: AI Agents
+tags:
+  - process-automation
+  - workflows
+  - enterprise
+markdown: |-
+  ## Overview
+
+  Beam AI offers a platform for Agentic Process Automation.
+
+  ## Features
+
+  - Pre-trained AI agents
+  - Workflow automation
+  - Seamless integrations
+  - Industry-specific solutions
+  - Productivity enhancement
+
+  ## Target
+
+  Businesses of all sizes.
+updated_at: 2026-04-05 00:22

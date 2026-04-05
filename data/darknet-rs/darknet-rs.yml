@@ -1,0 +1,12 @@
+name: darknet-rs
+description: Rust bindings for darknet, the C neural network framework used by
+  YOLO. Enables running object detection and image classification models from
+  the darknet/C framework.
+source_url: https://github.com/oliverfunk/darknet-rs
+category: Computer Vision
+tags:
+  - darknet
+  - object-detection
+  - bindings
+featured: false
+updated_at: 2026-04-05 00:22

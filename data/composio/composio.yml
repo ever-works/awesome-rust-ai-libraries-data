@@ -1,0 +1,22 @@
+name: Composio
+description: Platform enabling quick integration of 90+ tools for developers and
+  agents, offering managed authentication, easy testing, and up-to-date APIs.
+source_url: https://composio.dev
+category: AI Tools
+tags:
+  - integrations
+  - authentication
+  - developer-tools
+markdown: |-
+  ## Overview
+
+  Composio enables quick integration of 90+ tools for developers and agents.
+
+  ## Features
+
+  - 90+ tool integrations
+  - Managed authentication
+  - Easy testing
+  - Up-to-date APIs
+  - Simplified development workflow
+updated_at: 2026-04-05 00:22

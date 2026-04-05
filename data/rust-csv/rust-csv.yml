@@ -1,0 +1,12 @@
+name: rust-csv
+description: A fast, flexible CSV parser for Rust with support for Serde
+  serialization. Provides efficient reading and writing of CSV files with
+  type-safe data access and configurable field handling.
+source_url: https://github.com/BurntSushi/rust-csv
+category: Data Processing
+tags:
+  - csv
+  - parser
+  - serde
+featured: false
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,12 @@
+name: alumina
+description: A deep learning library for Rust providing tensor operations,
+  automatic differentiation, and neural network layers for building and training
+  neural networks.
+source_url: https://github.com/millardjn/alumina
+category: Machine Learning
+tags:
+  - deep-learning
+  - tensor
+  - autodiff
+featured: false
+updated_at: 2026-04-05 00:22

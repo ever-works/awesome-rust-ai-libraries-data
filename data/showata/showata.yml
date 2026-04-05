@@ -1,0 +1,13 @@
+name: showata
+description: A data display library for Rust that can visualize data in the
+  browser and EVCXR Jupyter notebooks as tables, charts, and other visual
+  representations. Designed to make data exploration convenient during
+  development and analysis.
+source_url: https://github.com/procyon-rs/showata
+category: Data Visualization
+tags:
+  - jupyter
+  - browser
+  - data-display
+featured: false
+updated_at: 2026-04-05 00:22

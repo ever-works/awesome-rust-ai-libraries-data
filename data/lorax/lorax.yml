@@ -1,0 +1,41 @@
+name: Lorax
+description: Multi-LoRA inference server that scales to thousands of fine-tuned
+  LLMs, enabling cost-effective serving of multiple adapters with shared base
+  model weights.
+source_url: https://github.com/predibase/lorax
+category: Model Inference
+tags:
+  - multi-lora
+  - fine-tuned-llms
+  - inference-server
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Lorax (Low-Rank Adaptation eXchange) is a high-performance serving system
+  designed to serve thousands of fine-tuned LLMs efficiently by sharing base
+  model weights across multiple LoRA adapters.
+
+
+  ## Features
+
+
+  - Serves up to 1000s of fine-tuned models simultaneously
+
+  - Dynamic LoRA loading and activation
+
+  - Shared base model weights
+
+  - Multi-adapter support with minimal overhead
+
+  - OpenAI-compatible API
+
+  - Integration with HuggingFace ecosystem
+
+
+  ## Pricing
+
+
+  Free and open-source under the Apache 2.0 license.
+updated_at: 2026-04-05 00:22

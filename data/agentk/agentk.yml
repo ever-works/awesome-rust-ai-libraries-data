@@ -1,0 +1,27 @@
+name: AgentK
+description: Autoagentic AGI that is self-evolving and modular, designed to
+  continuously improve and adapt its capabilities through autonomous learning
+  and modular architecture.
+source_url: https://github.com/asim-shrestha/agent-k
+category: Agentic Systems
+tags:
+  - self-evolving
+  - modular
+  - agi-research
+markdown: |-
+  ## Overview
+
+  AgentK is an autoagentic AGI that is self-evolving and modular.
+
+  ## Features
+
+  - Self-evolving architecture
+  - Modular design
+  - Autonomous improvement
+  - AGI research focus
+  - Continuous capability expansion
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

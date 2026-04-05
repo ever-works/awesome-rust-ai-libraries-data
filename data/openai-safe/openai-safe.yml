@@ -1,0 +1,37 @@
+name: openai-safe
+description: Type-safe Rust bindings for the OpenAI API that use strongly typed
+  requests and responses to reduce runtime errors. Provides compile-time
+  guarantees for API interactions with OpenAI services.
+source_url: https://crates.io/crates/openai-safe
+category: API Clients
+tags:
+  - openai
+  - type-safe
+  - api-client
+featured: false
+markdown: >-
+  ## Overview
+
+
+  openai-safe focuses on type safety for OpenAI API interactions in Rust. It
+  uses strongly typed request and response structures to catch errors at compile
+  time rather than runtime, reducing the risk of API misuse.
+
+
+  ## Features
+
+
+  - Strongly typed API request and response structures
+
+  - Compile-time validation of API parameters
+
+  - Reduces runtime errors through Rust's type system
+
+  - Supports OpenAI completions, chat, and embeddings
+
+
+  ## Status
+
+
+  Active development.
+updated_at: 2026-04-05 00:22

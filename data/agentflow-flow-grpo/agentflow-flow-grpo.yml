@@ -1,0 +1,53 @@
+name: AgentFlow
+description: Trainable multi-agent framework that coordinates four specialized
+  modules (planner, executor, verifier, generator) through in-the-flow
+  optimization, achieving significant performance gains over monolithic
+  approaches by directly training the planner within multi-turn task loops using
+  Flow-GRPO reinforcement learning.
+source_url: https://github.com/tjunlp-lab/AgentFlow
+category: Agentic Systems
+tags:
+  - reinforcement-learning
+  - multi-agent
+  - trainable
+markdown: >-
+  ## Overview
+
+
+  AgentFlow is a trainable multi-agent framework that coordinates four
+  specialized modules through in-the-flow optimization, directly training the
+  planner within multi-turn task loops using Flow-GRPO reinforcement learning.
+
+
+  ## Architecture
+
+
+  The framework features four specialized modules:
+
+  - **Planner**: Coordinates task decomposition and strategy
+
+  - **Executor**: Carries out planned actions
+
+  - **Verifier**: Validates outputs and results
+
+  - **Generator**: Produces final outputs
+
+
+  ## Key Features
+
+
+  - Flow-GRPO reinforcement learning for planner training
+
+  - In-the-flow optimization during multi-turn task loops
+
+  - Significant performance gains over monolithic approaches
+
+  - Smooth integration of any tools: math, coding, scientific, search, finance,
+  news
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

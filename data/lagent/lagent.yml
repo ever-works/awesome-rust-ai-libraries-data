@@ -1,0 +1,39 @@
+name: Lagent
+description: A lightweight framework for building LLM-based agents. Provides
+  tools for agent creation, tool execution, and multi-agent coordination with
+  minimal overhead.
+source_url: https://github.com/InternLM/lagent
+category: Agentic Systems
+tags:
+  - lightweight
+  - llm-based
+  - open-source
+markdown: >-
+  ## Overview
+
+
+  Lagent is a lightweight framework designed for building LLM-based agents with
+  minimal complexity.
+
+
+  ## Features
+
+
+  - Lightweight agent architecture
+
+  - LLM integration support
+
+  - Tool execution capabilities
+
+  - Multi-agent coordination
+
+  - Easy-to-use APIs
+
+  - Built by InternLM team
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

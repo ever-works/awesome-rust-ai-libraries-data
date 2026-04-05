@@ -1,0 +1,31 @@
+name: nn
+description: A multilayer feedforward backpropagation neural network library in
+  Rust. Provides a straightforward implementation of classic feedforward neural
+  networks with backpropagation-based training.
+source_url: https://crates.io/crates/nn
+category: Machine Learning
+tags:
+  - feedforward
+  - backpropagation
+  - neural-networks
+featured: false
+markdown: >-
+  ## Overview
+
+
+  `nn` is a multilayer feedforward backpropagation neural network library for
+  Rust. It implements classic feedforward neural network architectures with
+  backpropagation for training.
+
+
+  ## Features
+
+
+  - Multilayer feedforward neural networks
+
+  - Backpropagation-based training algorithm
+
+  - Simple and straightforward API
+
+  - Pure Rust implementation
+updated_at: 2026-04-05 00:22

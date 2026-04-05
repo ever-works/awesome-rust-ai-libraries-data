@@ -1,0 +1,41 @@
+name: Eidolon
+description: AI Agent Server with a pluggable SDK and enterprise-ready
+  deployment infrastructure for agentic applications. Provides a server-first
+  approach to building and hosting AI agents.
+source_url: https://github.com/eidolon-ai/eidolon
+category: Agentic Systems
+tags:
+  - open-source
+  - agent-server
+  - enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Eidolon is the first AI Agent Server, providing a pluggable Agent SDK and
+  enterprise-ready deployment server for agentic applications. It takes a
+  server-first approach to building and hosting AI agents.
+
+
+  ## Features
+
+
+  - Pluggable agent SDK for building custom agents
+
+  - Enterprise-ready deployment server
+
+  - Server-first architecture for agentic applications
+
+  - Support for multiple LLM providers
+
+  - Agent lifecycle management
+
+  - Scalable agent orchestration
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

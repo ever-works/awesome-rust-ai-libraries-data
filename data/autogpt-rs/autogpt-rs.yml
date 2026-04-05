@@ -1,0 +1,37 @@
+name: AutoGPT-rs
+description: Rust implementation of an Auto-GPT-style agent framework that
+  automates tasks using GPT-4 or similar models with minimal human input. A
+  native Rust approach to autonomous task automation.
+source_url: https://crates.io/crates/autogpt
+category: AI Agents
+tags:
+  - auto-gpt
+  - automation
+  - gpt-4
+featured: false
+markdown: >-
+  ## Overview
+
+
+  AutoGPT-rs is a Rust implementation of the Auto-GPT agent framework. It
+  automates tasks using GPT models with minimal human intervention, providing a
+  Rust-native approach to autonomous task automation.
+
+
+  ## Features
+
+
+  - Auto-GPT-style agent architecture
+
+  - Task automation with GPT-4 and similar models
+
+  - Minimal human input required
+
+  - Native Rust implementation
+
+
+  ## Status
+
+
+  Experimental.
+updated_at: 2026-04-05 00:22

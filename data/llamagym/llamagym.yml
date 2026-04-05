@@ -1,0 +1,33 @@
+name: LlamaGym
+description: A framework that simplifies fine-tuning LLM agents with online
+  reinforcement learning, providing tools for iterating and experimenting across
+  Gym environments for efficient agent prompting and hyperparameter tuning.
+source_url: https://github.com/KhoomeiK/LlamaGym
+category: Reinforcement Learning
+tags:
+  - rlhf
+  - fine-tuning
+  - gym-environments
+markdown: >-
+  ## Overview
+
+
+  LlamaGym simplifies the process of fine-tuning LLM agents through online
+  reinforcement learning using Gym-style environments.
+
+
+  ## Features
+
+
+  - Online reinforcement learning for LLM agents
+
+  - Gym environment integration
+
+  - Efficient agent prompting
+
+  - Hyperparameter tuning tools
+
+  - Iterative experimentation framework
+
+  - Agent behavior optimization
+updated_at: 2026-04-05 00:22

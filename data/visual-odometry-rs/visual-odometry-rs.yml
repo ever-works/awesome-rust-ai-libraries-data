@@ -1,0 +1,12 @@
+name: visual-odometry-rs
+description: Visual Odometry implementation in Rust (vors). Estimates position
+  and orientation of a camera by analyzing associated camera images, used in
+  robotics, AR, and self-driving applications.
+source_url: https://github.com/takahirox/visual-odometry-rs
+category: Computer Vision
+tags:
+  - odometry
+  - robotics
+  - pose-estimation
+featured: false
+updated_at: 2026-04-05 00:22

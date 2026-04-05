@@ -1,0 +1,40 @@
+name: Elia
+description: Keyboard-centric terminal user interface for interacting with LLMs
+  like ChatGPT, Claude, Llama 3, Phi 3, Mistral, and Gemma, offering efficient
+  terminal-based interaction, multi-model switching, local model support, and
+  local SQLite storage.
+source_url: https://github.com/darrenburns/elia
+category: LLM Tools
+tags:
+  - terminal-ui
+  - multi-model
+  - keyboard-centric
+markdown: >-
+  ## Overview
+
+
+  Elia is a keyboard-centric terminal user interface for interacting with large
+  language models.
+
+
+  ## Features
+
+
+  - Terminal-based interaction
+
+  - Multi-model support: ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma
+
+  - Easy model switching
+
+  - Local model support
+
+  - Local SQLite database for conversation storage
+
+  - Efficient keyboard navigation
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

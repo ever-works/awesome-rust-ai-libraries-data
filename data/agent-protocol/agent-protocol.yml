@@ -1,0 +1,31 @@
+name: Agent Protocol
+description: Unified API standard for seamless interaction and integration
+  across diverse AI agents, promoting ecosystem growth and simplifying agent
+  development and benchmarking.
+source_url: https://agentprotocol.ai
+category: Agentic Systems
+tags:
+  - api-standard
+  - interoperability
+  - benchmarking
+markdown: >-
+  ## Overview
+
+
+  The Agent Protocol establishes a unified API standard for seamless interaction
+  and integration across diverse AI agents.
+
+
+  ## Features
+
+
+  - Unified API standard
+
+  - Cross-agent interoperability
+
+  - Ecosystem growth promotion
+
+  - Simplified agent development
+
+  - Benchmarking support
+updated_at: 2026-04-05 00:22

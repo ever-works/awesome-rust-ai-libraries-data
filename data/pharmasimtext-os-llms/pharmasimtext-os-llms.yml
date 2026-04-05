@@ -1,0 +1,41 @@
+name: PharmaSimText-OS-LLMs
+description: Repository including benchmark and agents for pharmaceutical
+  simulation testing with LLMs, evaluating agents' capabilities in healthcare
+  task execution.
+source_url: https://github.com/pharmasimtext/pharmasimtext-os-llms
+category: AI Agents
+tags:
+  - benchmarking
+  - healthcare
+  - simulation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  PharmaSimText-OS-LLMs is a repository that includes benchmarks and agents for
+  pharmaceutical simulation testing with LLMs. It evaluates agents' capabilities
+  in healthcare and pharmaceutical domain task execution.
+
+
+  ## Features
+
+
+  - Pharmaceutical simulation benchmark
+
+  - Healthcare LLM agent evaluation
+
+  - Domain-specific task assessment
+
+  - Benchmark and agent framework included
+
+
+  ## Use Cases
+
+
+  - Benchmarking healthcare AI agents
+
+  - Evaluating pharmaceutical domain capabilities
+
+  - Research on healthcare task automation
+updated_at: 2026-04-05 00:22

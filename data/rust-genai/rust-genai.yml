@@ -1,0 +1,37 @@
+name: rust-genai
+description: Multi-provider SDK (genAI) supporting OpenAI, Anthropic, xAI, Groq,
+  Ollama, and more through a single interface. Provides a developer-friendly
+  abstraction over diverse AI services.
+source_url: https://github.com/jeremychone/rust-genai
+category: API Clients
+tags:
+  - multi-provider
+  - genai
+  - groq
+featured: false
+markdown: >-
+  ## Overview
+
+
+  rust-genai is a multi-provider generative AI SDK for Rust. It supports a wide
+  range of providers including OpenAI, Anthropic, xAI, Groq, Ollama, and more,
+  all accessible through a single unified interface.
+
+
+  ## Features
+
+
+  - Support for OpenAI, Anthropic, xAI, Groq, Ollama, and more
+
+  - Single interface for many AI services
+
+  - Provider-agnostic application design
+
+  - Supports chat completions and other LLM endpoints
+
+
+  ## Status
+
+
+  Experimental.
+updated_at: 2026-04-05 00:22

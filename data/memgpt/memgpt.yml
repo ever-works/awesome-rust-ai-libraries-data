@@ -1,0 +1,33 @@
+name: MemGPT
+description: A customizable AI chatbot framework featuring self-editing memory
+  and access to unlimited data, enabling perpetual, context-rich conversations
+  through advanced memory management.
+source_url: https://github.com/cpacker/MemGPT
+category: Memory
+tags:
+  - self-editing-memory
+  - contextual
+  - chatbot
+markdown: >-
+  ## Overview
+
+
+  MemGPT introduces an innovative AI chatbot framework with self-modifying
+  memory capabilities for maintaining context in perpetual conversations.
+
+
+  ## Features
+
+
+  - Self-editing memory system
+
+  - Access to unlimited data
+
+  - Perpetual context-rich conversations
+
+  - Customizable architecture
+
+  - Advanced memory management
+
+  - LLM-driven memory operations
+updated_at: 2026-04-05 00:22

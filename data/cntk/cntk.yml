@@ -1,0 +1,32 @@
+name: cntk
+description: Rust wrapper around the Microsoft Cognitive Toolkit (CNTK),
+  providing bindings to Microsoft's deep learning framework. Enables leveraging
+  CNTK's model execution capabilities from Rust applications.
+source_url: https://crates.io/crates/cntk
+category: Bindings
+tags:
+  - microsoft
+  - deep-learning
+  - bindings
+featured: false
+markdown: >-
+  ## Overview
+
+
+  The `cntk` crate provides Rust bindings for the Microsoft Cognitive Toolkit
+  (CNTK), a unified deep-learning toolkit designed to train and deploy deep
+  learning models. It allows Rust developers to leverage CNTK's inference and
+  training capabilities.
+
+
+  ## Features
+
+
+  - Wrapper around Microsoft CNTK library
+
+  - Deep learning model loading and inference
+
+  - Access to CNTK's neural network operations
+
+  - Integration with Rust's type system
+updated_at: 2026-04-05 00:22

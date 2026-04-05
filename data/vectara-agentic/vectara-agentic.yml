@@ -1,0 +1,40 @@
+name: Vectara-agentic
+description: Framework for creating AI Assistants and agentic applications using
+  Vectara's search and knowledge retrieval capabilities as the foundation for
+  agent reasoning and tool use.
+source_url: https://github.com/vectara/vectara-agentic
+category: Frameworks
+tags:
+  - retrieval
+  - search-based
+  - agentic
+markdown: >-
+  ## Overview
+
+
+  Vectara-agentic is a framework for creating AI Assistants and agentic
+  applications powered by Vectara's search infrastructure.
+
+
+  ## Features
+
+
+  - AI assistant creation framework
+
+  - Agentic application support
+
+  - Built on Vectara search and retrieval
+
+  - Knowledge-driven agent reasoning
+
+  - Tool use integration
+
+  - Streamlined assistant deployment
+
+
+  ## Pricing
+
+
+  Free and open-source framework; Vectara service may have separate pricing.
+brand: Vectara
+updated_at: 2026-04-05 00:22

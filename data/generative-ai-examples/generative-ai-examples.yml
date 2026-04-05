@@ -1,0 +1,11 @@
+name: Generative AI Examples
+description: Reference collection of generative AI workflows optimized for
+  accelerated infrastructure and microservice architecture, providing
+  production-ready patterns for deploying generative AI applications.
+source_url: https://github.com/NVIDIA/GenerativeAIExamples
+category: Framework Examples
+tags:
+  - generative-ai
+  - nvidia
+  - reference-workflows
+updated_at: 2026-04-05 00:22

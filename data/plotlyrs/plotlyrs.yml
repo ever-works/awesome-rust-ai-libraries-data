@@ -1,0 +1,13 @@
+name: plotly.rs
+description: Plotly charting library for Rust, providing data visualization
+  capabilities built on top of the Plotly.js JavaScript library. Supports
+  interactive charts, WASM, and native targets, and can be integrated with EVCXR
+  Jupyter notebooks.
+source_url: https://github.com/igiagkiozis/plotly
+category: Data Visualization
+tags:
+  - data-visualization
+  - interactive
+  - wasm
+featured: false
+updated_at: 2026-04-05 00:22

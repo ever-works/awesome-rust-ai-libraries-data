@@ -1,0 +1,41 @@
+name: VoltAgent
+description: Open-source TypeScript framework for building AI agents with
+  built-in LLM observability, production-ready tooling, and comprehensive agent
+  lifecycle management.
+source_url: https://github.com/voltagent-ai/voltagent
+category: Agentic SDK
+tags:
+  - typescript
+  - observability
+  - open-source
+markdown: >-
+  ## Overview
+
+
+  VoltAgent is an open-source TypeScript framework designed for building AI
+  agents with first-class LLM observability.
+
+
+  ## Features
+
+
+  - TypeScript-first development
+
+  - Built-in LLM observability
+
+  - Comprehensive agent lifecycle management
+
+  - Production-ready tooling
+
+  - Agent state management
+
+  - Debugging and monitoring capabilities
+
+  - Extensible architecture
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

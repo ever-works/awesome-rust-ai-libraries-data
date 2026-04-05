@@ -1,0 +1,12 @@
+name: sail
+description: LakeSail's computation framework written in Rust, aiming to unify
+  stream and batch processing for modern data engineering and ML workflows.
+  Built on Apache Arrow and DataFusion.
+source_url: https://github.com/lakehq/sail
+category: Stream Processing
+tags:
+  - stream-processing
+  - data-engineering
+  - batch-processing
+featured: false
+updated_at: 2026-04-05 00:22

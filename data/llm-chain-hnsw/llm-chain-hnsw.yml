@@ -1,0 +1,38 @@
+name: llm-chain-hnsw
+description: Integration of llm-chain with HNSW vector search, enabling semantic
+  retrieval of context for LLM prompts. Combines prompting frameworks with
+  approximate nearest neighbor search for RAG workflows.
+source_url: https://crates.io/crates/llm-chain-hnsw
+category: Embeddings
+tags:
+  - hnsw
+  - semantic-search
+  - llm-chain
+featured: false
+markdown: >-
+  ## Overview
+
+
+  llm-chain-hnsw integrates the llm-chain library with HNSW (Hierarchical
+  Navigable Small World) vector search. It enables semantic retrieval of context
+  for prompts, a key component of Retrieval-Augmented Generation (RAG)
+  workflows.
+
+
+  ## Features
+
+
+  - Integration of llm-chain with HNSW vector search
+
+  - Semantic context retrieval for LLM prompts
+
+  - Approximate nearest neighbor search for fast document retrieval
+
+  - Supports RAG pipelines
+
+
+  ## Status
+
+
+  Active development.
+updated_at: 2026-04-05 00:22

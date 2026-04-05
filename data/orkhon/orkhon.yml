@@ -1,0 +1,12 @@
+name: Orkhon
+description: An ML inference framework and server runtime written in Rust.
+  Provides a production-ready environment for deploying and serving machine
+  learning models with high performance and reliability.
+source_url: https://github.com/vertexclique/orkhon
+category: Model Inference
+tags:
+  - inference
+  - server
+  - ml-serving
+featured: false
+updated_at: 2026-04-05 00:22

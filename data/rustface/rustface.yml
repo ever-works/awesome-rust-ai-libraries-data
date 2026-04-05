@@ -1,0 +1,11 @@
+name: rustface
+description: Face detection library for the Rust programming language. Provides
+  a Haar cascade-based face detector that can locate faces in images with
+  bounding boxes and landmark points.
+source_url: https://github.com/atomic77/rustface
+category: Computer Vision
+tags:
+  - face-detection
+  - image-processing
+featured: false
+updated_at: 2026-04-05 00:22

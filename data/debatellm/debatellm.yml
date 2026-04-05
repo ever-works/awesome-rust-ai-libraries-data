@@ -1,0 +1,44 @@
+name: DebateLLM
+description: Benchmark for evaluating multi-agent debate between language models
+  for truthfulness in Q&A tasks, testing whether debate between models improves
+  answer accuracy.
+source_url: https://github.com/debatellm/debatellm
+category: AI Agents
+tags:
+  - benchmarking
+  - multi-agent-debate
+  - truthfulness
+featured: false
+markdown: >-
+  ## Overview
+
+
+  DebateLLM is a benchmark that evaluates multi-agent debate between language
+  models for assessing truthfulness in question and answer tasks. It
+  investigates whether structured debate between LLMs can improve answer
+  accuracy and truthfulness.
+
+
+  ## Features
+
+
+  - Multi-agent debate framework for LLMs
+
+  - Truthfulness evaluation in Q&A
+
+  - Structured debate protocols
+
+  - Measures accuracy improvement through debate
+
+  - Benchmark for LLM truthfulness assessment
+
+
+  ## Use Cases
+
+
+  - Evaluating truthfulness in LLM responses
+
+  - Testing multi-agent debate methodologies
+
+  - Research on self-correction through debate
+updated_at: 2026-04-05 00:22

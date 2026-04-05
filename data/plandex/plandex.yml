@@ -1,0 +1,20 @@
+name: Plandex
+description: AI coding engine designed for complex tasks, providing structured
+  AI-assisted programming capabilities.
+source_url: https://github.com/nicepkg/plandex
+category: Code Generation
+tags:
+  - coding
+  - complex-tasks
+  - ai-engine
+markdown: |-
+  ## Overview
+
+  Plandex is an AI coding engine built for complex programming tasks.
+
+  ## Features
+
+  - AI-powered coding assistance
+  - Complex task handling
+  - Structured programming workflows
+updated_at: 2026-04-05 00:22

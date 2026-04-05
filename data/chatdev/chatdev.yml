@@ -1,0 +1,40 @@
+name: ChatDev
+description: Virtual software company utilizing intelligent agents to
+  revolutionize the digital world through programming, offering a highly
+  customizable framework with innovative approaches like Experiential
+  Co-Learning.
+source_url: https://github.com/OpenBMB/ChatDev
+category: Agentic Systems
+tags:
+  - multi-agent
+  - software-development
+  - customizable
+markdown: >-
+  ## Overview
+
+
+  ChatDev is a virtual software company utilizing intelligent agents to
+  revolutionize programming.
+
+
+  ## Features
+
+
+  - Intelligent agent-based development
+
+  - Experiential Co-Learning
+
+  - Docker support
+
+  - Git management integration
+
+  - Human-Agent Interaction
+
+  - Highly customizable framework
+
+
+  ## Innovation
+
+
+  Integrates innovative approaches for collaborative software development.
+updated_at: 2026-04-05 00:22

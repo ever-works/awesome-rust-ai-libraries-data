@@ -1,0 +1,37 @@
+name: MCPHost
+description: CLI host application that enables Large Language Models (LLMs) to
+  interact with external tools through the Model Context Protocol (MCP).
+source_url: https://github.com/anthropics/mcphost
+category: LLM Tools
+tags:
+  - mcp
+  - cli
+  - tool-calling
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCPHost serves as a CLI host that bridges LLMs with external tools via the
+  Model Context Protocol, enabling agents to access tools and resources.
+
+
+  ## Features
+
+
+  - CLI-based MCP host
+
+  - Enables LLM tool interaction
+
+  - Supports Model Context Protocol
+
+  - Lightweight terminal interface
+
+  - Compatible with MCP server ecosystem
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

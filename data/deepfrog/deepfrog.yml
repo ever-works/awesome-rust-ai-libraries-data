@@ -1,0 +1,12 @@
+name: deepfrog
+description: An NLP-suite powered by deep learning in Rust. Provides various
+  natural language processing capabilities using deep neural network
+  architectures.
+source_url: https://github.com/proycon/deepfrog
+category: NLP
+tags:
+  - deep-learning
+  - nlp
+  - suite
+featured: false
+updated_at: 2026-04-05 00:22

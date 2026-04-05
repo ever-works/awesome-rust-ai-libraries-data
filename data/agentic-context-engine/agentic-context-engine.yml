@@ -1,0 +1,37 @@
+name: Agentic Context Engine
+description: Self-improving agents that learn from execution feedback with
+  LangChain integration, enabling agents to curate their own context for better
+  performance over time.
+source_url: https://github.com/anthropics/agentic-context-engine
+category: Agentic Systems
+tags:
+  - self-improving
+  - context-management
+  - open-source
+markdown: >-
+  ## Overview
+
+
+  Agentic Context Engine is a framework for building self-improving agents that
+  learn from execution feedback, featuring LangChain integration.
+
+
+  ## Features
+
+
+  - Agents learn from execution feedback
+
+  - LangChain integration
+
+  - Agents curate their own context
+
+  - Self-improvement through iterative feedback loops
+
+  - Open-source implementation
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

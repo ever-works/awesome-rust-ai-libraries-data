@@ -1,7 +1,11 @@
 name: Qdrant
-description: An open-source vector similarity search engine with extended
-  filtering support. Widely used in AI for efficient vector search,
-  recommendation systems, and semantic search applications.
+description: Qdrant is a high-performance vector similarity search engine and
+  database written in Rust, designed for fast approximate nearest neighbor
+  search with built-in filtering, payload storage, and distributed clustering
+  capabilities. It supports gRPC and REST APIs, leverages HNSW indexing, and
+  offers GPU acceleration for demanding workloads. Common use cases include
+  semantic search, recommendation engines, and broader AI applications that
+  require efficient vector retrieval at scale.
 source_url: https://github.com/qdrant/qdrant
 category: Vector Search
 tags:
@@ -23,4 +27,4 @@ markdown: |-
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-01 12:33
+updated_at: 2026-04-05 00:22

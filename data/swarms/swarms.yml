@@ -1,0 +1,41 @@
+name: Swarms
+description: Multi-agent collaboration framework for production-grade
+  applications, solving issues like short memory and high costs, with
+  customizable tools for specific needs. Used by RBC, John Deere, and AI
+  startups.
+source_url: https://github.com/kyegomez/swarms
+category: Agentic Systems
+tags:
+  - multi-agent
+  - collaboration
+  - enterprise
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Swarms orchestrates multi-agent collaboration for production-grade
+  applications, solving issues like short memory and high costs.
+
+
+  ## Features
+
+
+  - Multi-agent collaboration orchestration
+
+  - Short memory issue resolution
+
+  - Cost optimization
+
+  - Customizable tools for specific needs
+
+  - Used by RBC, John Deere, and AI startups
+
+  - Production-grade architecture
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

@@ -1,7 +1,11 @@
 name: dfdx
-description: dfdx provides deep learning in Rust with shape-checked tensors and
-  neural networks. Supports training and inference. Score 15, 1.7K stars.
-source_url: https://github.com/coreylowman/dfdx
+description: dfdx is a shape-safe deep learning library in Rust that provides
+  compile-time shape checking using Rust's type system and const generics — like
+  PyTorch but with compile-time guarantees and no runtime shape errors. It
+  supports automatic differentiation and both CPU and CUDA backends for
+  GPU-accelerated computation. The library is designed for neural network
+  research, tensor operations, and deep learning experiments.
+source_url: https://github.com/chelsea0x3b/dfdx
 category: Frameworks
 tags:
   - deep-learning
@@ -20,4 +24,4 @@ markdown: |-
   ## Repository Stats
 
   - Stars: 1.7K
-updated_at: 2026-04-01 12:33
+updated_at: 2026-04-05 00:22

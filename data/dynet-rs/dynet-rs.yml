@@ -1,0 +1,12 @@
+name: dynet-rs
+description: The Rust Language Bindings for DyNet, a neural network library.
+  Provides dynamic neural network computation capabilities through DyNet's C++
+  backend.
+source_url: https://github.com/chantera/dynet-rs
+category: Machine Learning
+tags:
+  - dynet
+  - neural-network
+  - bindings
+featured: false
+updated_at: 2026-04-05 00:22

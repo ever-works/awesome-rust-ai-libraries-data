@@ -1,0 +1,30 @@
+name: NPI
+description: An open-source platform providing tool-use APIs for AI agents, with
+  installation and setup instructions for integrating AI tools and services.
+source_url: https://github.com/npi-ai/npi
+category: AI Tools
+tags:
+  - tool-apis
+  - open-source
+  - integrations
+markdown: >-
+  ## Overview
+
+
+  NPI is an open-source platform that provides standardized tool-use APIs for AI
+  agents to interact with external tools and services.
+
+
+  ## Features
+
+
+  - Standardized tool-use APIs
+
+  - Open-source platform
+
+  - Installation and setup documentation
+
+  - Agent tool integration
+
+  - Extensible API framework
+updated_at: 2026-04-05 00:22

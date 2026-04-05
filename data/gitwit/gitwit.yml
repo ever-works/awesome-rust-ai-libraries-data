@@ -1,0 +1,43 @@
+name: GitWit
+description: An online AI-powered tool that accelerates web app development,
+  supporting React, Tailwind, and NodeJS with a claimed 3X speed increase and
+  over 1000 projects generated.
+source_url: https://gitwit.dev
+category: Code Generation
+tags:
+  - web-development
+  - react
+  - low-code
+markdown: >-
+  ## Overview
+
+
+  GitWit is an AI-powered online tool designed to accelerate web application
+  development with support for modern web technologies.
+
+
+  ## Features
+
+
+  - React framework support
+
+  - Tailwind CSS integration
+
+  - NodeJS backend support
+
+  - AI-assisted code generation
+
+  - Claims 3X development speed improvement
+
+  - Over 1000 projects generated
+
+
+  ## Technology Stack
+
+
+  - React for frontend
+
+  - Tailwind CSS for styling
+
+  - NodeJS for backend
+updated_at: 2026-04-05 00:22

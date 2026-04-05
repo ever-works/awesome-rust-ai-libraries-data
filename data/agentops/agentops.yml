@@ -1,0 +1,28 @@
+name: AgentOps
+description: Platform to improve AI agent development with tools for
+  observability, evaluations, and replay analytics, offering streamlined testing
+  and debugging for compliant AI agents.
+source_url: https://www.agentops.ai
+category: AI Agents
+tags:
+  - observability
+  - testing
+  - analytics
+markdown: |-
+  ## Overview
+
+  AgentOps aims to improve AI agent development with comprehensive tooling.
+
+  ## Features
+
+  - Agent observability
+  - Evaluation tools
+  - Replay analytics
+  - Testing and debugging support
+  - Compliance monitoring
+  - User-friendly interface
+
+  ## Resources
+
+  Comprehensive documentation and community support available.
+updated_at: 2026-04-05 00:22

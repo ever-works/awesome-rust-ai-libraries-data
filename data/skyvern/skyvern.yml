@@ -1,0 +1,11 @@
+name: Skyvern
+description: Automates browser-based workflows using large language models and
+  computer vision, enabling AI agents to interact with web applications and
+  complete tasks that typically require human interaction.
+source_url: https://github.com/Skyvern-AI/skyvern
+category: Browser Automation
+tags:
+  - browser-automation
+  - computer-vision
+  - llm
+updated_at: 2026-04-05 00:22

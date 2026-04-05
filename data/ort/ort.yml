@@ -1,0 +1,46 @@
+name: Ort
+description: Ort is a fast ML inference and training library for ONNX models
+  written in Rust, powered by ONNX Runtime. It provides high-performance ONNX
+  Runtime bindings with GPU acceleration and dynamic batching capabilities.
+  Developers use it for deploying pre-trained models, running production
+  inference, and building cross-platform AI applications. The library supersedes
+  older Rust ONNX Runtime bindings with a more complete and modern API.
+source_url: https://github.com/pykeio/ort
+category: Model Inference
+tags:
+  - onnx
+  - microsoft
+  - cross-platform
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Ort provides Rust bindings for Microsoft's ONNX Runtime, allowing Rust
+  applications to load and execute ONNX-format machine learning models on both
+  CPU and GPU. It supersedes the older onnxruntime-rs crate with a more complete
+  and modern API.
+
+
+  ## Features
+
+
+  - Bindings to Microsoft ONNX Runtime for model execution
+
+  - CPU and GPU inference support
+
+  - Supersedes older onnxruntime-rs with improved API design
+
+  - Supports all ONNX model operators and execution providers
+
+  - Compatible with models exported from PyTorch, TensorFlow, and other
+  frameworks
+
+
+  ## Status
+
+
+  Active development.
+brand: pyke.io
+brand_logo_url: https://pyke.io/assets/favicon.svg
+updated_at: 2026-04-05 00:22

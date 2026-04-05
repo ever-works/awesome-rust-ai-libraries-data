@@ -1,0 +1,37 @@
+name: Second Brain AI Agent
+description: Streamlit app to dialog with your second brain notes using OpenAI
+  and ChromaDB locally, enabling conversational search over personal notes and
+  knowledge.
+source_url: https://github.com/nicepkg/second-brain-ai
+category: AI Assistants
+tags:
+  - personal-knowledge
+  - local
+  - streamlit
+markdown: >-
+  ## Overview
+
+
+  A streamlit app to dialog with your second brain notes using OpenAI and
+  ChromaDB locally.
+
+
+  ## Features
+
+
+  - Conversational interface for personal notes
+
+  - OpenAI integration
+
+  - ChromaDB for local vector storage
+
+  - Second brain knowledge retrieval
+
+  - Streamlit-based UI
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

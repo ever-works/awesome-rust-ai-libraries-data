@@ -1,0 +1,37 @@
+name: Tokenizations
+description: Library for aligning tokenizer output with original text, enabling
+  precise mapping of token indices back to their source substrings. Essential
+  for tasks requiring text-token correspondence in NLP pipelines.
+source_url: https://github.com/robinstanley/tokenizations
+category: Text Processing
+tags:
+  - token-alignment
+  - nlp
+  - text-processing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Tokenizations provides alignment between tokenizer output and original text.
+  It maps token indices back to their source substrings, which is essential for
+  tasks like named entity recognition, span extraction, and text highlighting.
+
+
+  ## Features
+
+
+  - Aligns tokenized output with original source text
+
+  - Maps token indices to character-level substrings
+
+  - Useful for NER, span extraction, and text highlighting
+
+  - Supports multiple tokenizer formats
+
+
+  ## Status
+
+
+  Active development.
+updated_at: 2026-04-05 00:22

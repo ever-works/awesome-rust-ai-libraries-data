@@ -1,0 +1,39 @@
+name: Basaran
+description: Open-source alternative to the OpenAI text completion API,
+  providing a compatible streaming API for Hugging Face Transformer language
+  models. Supports models hosted via the Hugging Face Transformers library.
+source_url: https://github.com/hyperonym/basaran
+category: LLM Tools
+tags:
+  - open-source
+  - text-completion
+  - streaming
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Basaran provides an OpenAI-compatible API layer for Hugging Face Transformer
+  models, allowing developers to use open-source models with the same interface
+  as OpenAI's text completion API.
+
+
+  ## Features
+
+
+  - OpenAI-compatible streaming API
+
+  - Works with any Hugging Face Transformers model
+
+  - Real-time text streaming
+
+  - No dependency on proprietary APIs
+
+  - Self-hosted deployment
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

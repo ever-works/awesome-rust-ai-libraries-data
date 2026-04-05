@@ -1,0 +1,36 @@
+name: AIBrix
+description: Cost-efficient and pluggable Infrastructure components for GenAI
+  inference, providing modular building blocks for AI workloads.
+source_url: https://github.com/vllm-project/aibrix
+category: Model Serving
+tags:
+  - kubernetes
+  - genai
+  - infrastructure
+featured: false
+markdown: >-
+  ## Overview
+
+
+  AIBrix provides cost-efficient and pluggable infrastructure components
+  designed specifically for GenAI inference workloads.
+
+
+  ## Features
+
+
+  - Pluggable infrastructure architecture
+
+  - Cost optimization for GenAI workloads
+
+  - Kubernetes-native components
+
+  - Modular design for easy customization
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: vLLM Project
+updated_at: 2026-04-05 00:22

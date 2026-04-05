@@ -1,0 +1,37 @@
+name: Claude 3 Artifacts
+description: Open-source Flask-React chat application that interacts with Claude
+  AI, featuring file uploads, Markdown rendering, and code highlighting,
+  inspired by Claude Artifacts.
+source_url: https://github.com/PierrunoYT/claude-3-artifacts
+category: LLM Tools
+tags:
+  - open-source
+  - flask
+  - react
+markdown: >-
+  ## Overview
+
+
+  Claude 3 Artifacts by PierrunoYT is an open-source Flask-React chat
+  application.
+
+
+  ## Features
+
+
+  - Claude AI integration
+
+  - File uploads
+
+  - Markdown rendering
+
+  - Code highlighting
+
+  - Inspired by Claude Artifacts
+
+
+  ## Contribution
+
+
+  Seeking contributors to expand capabilities.
+updated_at: 2026-04-05 00:22

@@ -2,7 +2,7 @@ name: onnxruntime-rs
 description: onnxruntime-rs is a Rust wrapper for Microsoft's ONNX Runtime. Dead
   project. Score 15, 280 stars.
 source_url: https://github.com/nbigaouette/onnxruntime-rs
-category: Inference
+category: Model Inference
 tags:
   - onnx
   - runtime
@@ -20,4 +20,4 @@ markdown: |-
   ## Repository Stats
 
   - Stars: 280
-updated_at: 2026-04-01 12:33
+updated_at: 2026-04-05 00:22

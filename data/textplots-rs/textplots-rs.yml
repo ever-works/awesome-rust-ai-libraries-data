@@ -1,0 +1,13 @@
+name: textplots-rs
+description: Terminal-based plotting library for Rust that renders ASCII line
+  graphs directly in the command line. Useful for quick data visualization in
+  terminal applications without requiring external dependencies or a graphical
+  display.
+source_url: https://github.com/loony-bean/textplots-rs
+category: Data Visualization
+tags:
+  - terminal
+  - ascii
+  - lightweight
+featured: false
+updated_at: 2026-04-05 00:22

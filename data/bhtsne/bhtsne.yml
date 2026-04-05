@@ -1,0 +1,12 @@
+name: bhtsne
+description: Parallel Barnes-Hut t-SNE implementation written in Rust.
+  Efficiently reduces high-dimensional data for visualization while maintaining
+  local structure and relationships.
+source_url: https://github.com/wushumin/bhtsne
+category: Data Visualization
+tags:
+  - dimensionality-reduction
+  - tsne
+  - parallel
+featured: false
+updated_at: 2026-04-05 00:22

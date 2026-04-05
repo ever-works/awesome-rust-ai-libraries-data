@@ -1,0 +1,46 @@
+name: Anthropic Claude 3
+description: Anthropic's suite of Claude 3 models with superior reasoning, rapid
+  responses, and diverse cognitive capabilities for AI agents without
+  compromising user privacy.
+source_url: https://www.anthropic.com/claude
+category: LLM Tools
+tags:
+  - claude
+  - reasoning
+  - privacy
+markdown: >-
+  ## Overview
+
+
+  Anthropic's new suite of Claude 3 models improves AI agents with superior
+  reasoning, rapid responses, and diverse cognitive capabilities.
+
+
+  ## Features
+
+
+  - Superior reasoning capabilities
+
+  - Rapid response times
+
+  - Diverse cognitive capabilities
+
+  - User privacy protection
+
+
+  ## Models
+
+
+  - claude-3-opus-20240229
+
+  - claude-3-sonnet-20240229
+
+  - claude-3-haiku-20240307
+
+
+  ## Function Calling
+
+
+  Function calling (tool use) is supported across all Claude 3 models.
+brand: Anthropic
+updated_at: 2026-04-05 00:22

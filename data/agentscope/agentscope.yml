@@ -1,0 +1,37 @@
+name: AgentScope
+description: Framework for building LLM-empowered multi-agent applications in an
+  easier way, providing streamlined abstractions for creating, coordinating, and
+  deploying multi-agent systems.
+source_url: https://github.com/modelscope/agentscope
+category: Agentic Systems
+tags:
+  - multi-agent
+  - open-source
+  - llm
+markdown: >-
+  ## Overview
+
+
+  AgentScope is an open-source framework designed to simplify the development of
+  LLM-empowered multi-agent applications.
+
+
+  ## Features
+
+
+  - Simplified API for multi-agent application development
+
+  - LLM integration support
+
+  - Agent orchestration and coordination
+
+  - Easy deployment workflows
+
+  - Backed by ModelScope community
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

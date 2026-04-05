@@ -1,0 +1,12 @@
+name: cv-rs
+description: Rust CV mono-repo containing pure-Rust dependencies which attempt
+  to encapsulate the capabilities of OpenCV, OpenMVG, and vSLAM frameworks in a
+  cohesive set of APIs. Provides computer vision primitives and algorithms.
+source_url: https://github.com/rust-cv/cv
+category: Computer Vision
+tags:
+  - computer-vision
+  - pure-rust
+  - vslam
+featured: false
+updated_at: 2026-04-05 00:22

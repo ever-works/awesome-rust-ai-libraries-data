@@ -1,0 +1,41 @@
+name: MLServer
+description: An inference server for machine learning models with support for
+  multiple frameworks, multi-model serving, and standardized Kubernetes
+  integration.
+source_url: https://github.com/SeldonIO/MLServer
+category: Model Inference
+tags:
+  - inference-server
+  - multi-framework
+  - kubernetes
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MLServer is a flexible, multi-framework inference server designed for ML
+  models. It provides a standardized way to serve models in production
+  environments.
+
+
+  ## Features
+
+
+  - Support for multiple ML frameworks
+
+  - Multi-model serving capability
+
+  - Standardized REST and gRPC APIs
+
+  - Kubernetes-native deployment
+
+  - Prometheus metrics integration
+
+  - Pluggable runtime architecture
+
+
+  ## Pricing
+
+
+  Free and open-source under the Apache 2.0 license.
+updated_at: 2026-04-05 00:22

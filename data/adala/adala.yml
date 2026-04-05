@@ -1,0 +1,31 @@
+name: Adala
+description: Framework for autonomous data labeling agents, supporting Python
+  3.8 to 3.11, with features for customizable, intelligent data processing and
+  integration into Python Notebooks.
+source_url: https://github.com/HumanSignal/Adala
+category: Data Processing
+tags:
+  - data-labeling
+  - autonomous
+  - python
+markdown: >-
+  ## Overview
+
+
+  Adala is a framework for autonomous data labeling agents supporting Python 3.8
+  to 3.11.
+
+
+  ## Features
+
+
+  - Autonomous data labeling
+
+  - Python 3.8-3.11 compatibility
+
+  - Customizable intelligent data processing
+
+  - Python Notebook integration
+
+  - Flexible agent configurations
+updated_at: 2026-04-05 00:22

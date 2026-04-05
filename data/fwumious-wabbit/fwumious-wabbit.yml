@@ -1,0 +1,12 @@
+name: Fwumious Wabbit
+description: Fast online machine learning toolkit written in Rust, inspired by
+  Vowpal Wabbit. Provides efficient online learning algorithms for large-scale
+  sparse data classification and regression tasks.
+source_url: https://github.com/outbrain/fwumious_wabbit
+category: Machine Learning
+tags:
+  - online-learning
+  - sparse
+  - classification
+featured: false
+updated_at: 2026-04-05 00:22

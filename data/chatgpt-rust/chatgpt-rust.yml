@@ -1,0 +1,37 @@
+name: ChatGPT Rust
+description: Specialized Rust wrapper for ChatGPT that manages conversations,
+  message history, and function calling. Simplifies building conversational
+  interfaces using GPT models.
+source_url: https://crates.io/crates/chatgpt
+category: API Clients
+tags:
+  - chatgpt
+  - conversational-ai
+  - function-calling
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ChatGPT Rust is a specialized wrapper for the ChatGPT API, designed to manage
+  the full lifecycle of conversations. It handles message history, context
+  management, and function calling support.
+
+
+  ## Features
+
+
+  - Conversation state management
+
+  - Automatic message history tracking
+
+  - Function calling support
+
+  - Simplified chat completion API
+
+
+  ## Status
+
+
+  Active development.
+updated_at: 2026-04-05 00:22

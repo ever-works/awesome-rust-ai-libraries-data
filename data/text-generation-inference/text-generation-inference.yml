@@ -1,0 +1,40 @@
+name: Text Generation Inference
+description: High-performance text generation server written in Rust by Hugging
+  Face, designed for hosting transformer models with gRPC and HTTP APIs. The
+  production inference backend powering Hugging Face Inference API.
+source_url: https://github.com/huggingface/text-generation-inference
+category: Model Inference
+tags:
+  - serving
+  - transformers
+  - production
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Text Generation Inference (TGI) is a high-performance, production-ready text
+  generation server built in Rust by Hugging Face. It powers the Hugging Face
+  Inference API and is a widely used solution for serving transformer-based
+  language models.
+
+
+  ## Features
+
+
+  - High-performance text generation serving
+
+  - Native Rust implementation for safety and speed
+
+  - gRPC and HTTP API support
+
+  - Optimized for hosting transformer models (LLaMA, BLOOM, StarCoder, etc.)
+
+  - Tensor parallelism for multi-GPU inference
+
+  - Optimized inference with continuous batching
+
+  - Production-ready deployment architecture
+brand: Hugging Face
+brand_logo_url: https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg
+updated_at: 2026-04-05 00:22

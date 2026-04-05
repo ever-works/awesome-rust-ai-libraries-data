@@ -1,0 +1,37 @@
+name: Traces by Weights & Biases
+description: Enhances AI agent observability by providing intuitive
+  visualizations for debugging LLMs, allowing practitioners to review past
+  results, debug errors, and gain insights into model behavior.
+source_url: https://wandb.ai/site/products/traces
+category: MLOps
+tags:
+  - tracing
+  - visualization
+  - debugging
+markdown: >-
+  ## Overview
+
+
+  W&B Traces enhances AI agent observability by providing intuitive
+  visualizations for debugging LLMs.
+
+
+  ## Features
+
+
+  - Intuitive visualizations for LLM debugging
+
+  - Review past results
+
+  - Error debugging
+
+  - Model behavior insights
+
+  - AI agent observability
+
+
+  ## Pricing
+
+
+  See Weights & Biases pricing for details.
+updated_at: 2026-04-05 00:22

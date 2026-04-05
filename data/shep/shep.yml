@@ -1,0 +1,39 @@
+name: Shep
+description: SDLC control center enabling AI coding agents to autonomously
+  handle complete feature lifecycle, orchestrating multi-session development
+  using Claude Code, Cursor CLI, or Gemini with configurable approval gates.
+source_url: https://shep.dev
+category: Development Tools
+tags:
+  - sdlc
+  - autonomous-coding
+  - orchestration
+markdown: >-
+  ## Overview
+
+
+  Shep is an SDLC control center that enables AI coding agents to autonomously
+  handle the complete feature lifecycle.
+
+
+  ## Features
+
+
+  - Complete feature lifecycle management
+
+  - Multi-session development orchestration
+
+  - Support for Claude Code, Cursor CLI, and Gemini
+
+  - Configurable approval gates
+
+  - Live web dashboard
+
+  - Autonomous coding agent management
+
+
+  ## Pricing
+
+
+  See website for current pricing.
+updated_at: 2026-04-05 00:22

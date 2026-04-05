@@ -1,0 +1,44 @@
+name: fastText (Rust)
+description: Rust binding to Facebook's fastText library for word embeddings and
+  text classification. Enables efficient text representation and classification
+  tasks using the well-established fastText algorithm.
+source_url: https://crates.io/crates/fasttext
+category: Text Processing
+tags:
+  - embeddings
+  - text-classification
+  - fasttext
+featured: false
+markdown: >-
+  ## Overview
+
+
+  This crate provides Rust bindings to Facebook's fastText library, a widely
+  used tool for learning word embeddings and performing text classification. It
+  bridges Rust applications with the efficient C++ fastText algorithm.
+
+
+  ## Features
+
+
+  - Bindings to Facebook's fastText C++ library
+
+  - Word embedding generation and usage
+
+  - Text classification support
+
+  - Efficient training and inference for large corpora
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Status
+
+
+  Maintained with minor updates.
+brand: Meta
+updated_at: 2026-04-05 00:22

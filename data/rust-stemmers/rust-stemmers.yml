@@ -1,0 +1,12 @@
+name: rust-stemmers
+description: Stemming algorithm implementations for various languages in Rust.
+  Provides efficient text normalization for search and NLP pipelines with
+  support for common Western and non-Western languages.
+source_url: https://github.com/CurrySoftware/rust-stemmers
+category: NLP
+tags:
+  - stemming
+  - multilingual
+  - text-processing
+featured: false
+updated_at: 2026-04-05 00:22

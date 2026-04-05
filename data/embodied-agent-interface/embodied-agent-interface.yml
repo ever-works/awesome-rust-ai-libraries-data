@@ -1,0 +1,42 @@
+name: Embodied Agent Interface
+description: Project for benchmarking LLMs for embodied decision making,
+  providing evaluation frameworks for agents that interact with physical or
+  simulated environments.
+source_url: https://embodied-agent-interface.github.io
+category: AI Agents
+tags:
+  - benchmarking
+  - embodied-agents
+  - decision-making
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Embodied Agent Interface is a project and benchmark for evaluating LLMs in
+  embodied decision-making scenarios. It provides evaluation frameworks for
+  agents that need to interact with physical or simulated environments to
+  accomplish tasks.
+
+
+  ## Features
+
+
+  - Benchmarks LLMs for embodied decision making
+
+  - Evaluates physical environment interaction
+
+  - Task-based evaluation in simulated/real environments
+
+  - Standardized metrics for embodied agent performance
+
+
+  ## Use Cases
+
+
+  - Benchmarking embodied AI agents
+
+  - Evaluating robotic agent capabilities
+
+  - Research on physical world agent interactions
+updated_at: 2026-04-05 00:22

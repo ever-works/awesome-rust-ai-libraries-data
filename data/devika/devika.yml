@@ -1,0 +1,23 @@
+name: Devika
+description: Open-source AI software engineer designed to understand and execute
+  high-level coding tasks by researching, planning, and writing code,
+  positioning as a competitive alternative to Devin.
+source_url: https://github.com/stitionai/devika
+category: AI Assistants
+tags:
+  - open-source
+  - software-engineer
+  - autonomous
+markdown: |-
+  ## Overview
+
+  Devika is an open-source AI software engineer.
+
+  ## Features
+
+  - High-level coding task understanding
+  - Research capabilities
+  - Planning and execution
+  - Competitive alternative to Cognition AI's Devin
+  - Autonomous code generation
+updated_at: 2026-04-05 00:22

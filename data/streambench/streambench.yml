@@ -1,0 +1,43 @@
+name: StreamBench
+description: Pioneering benchmark to evaluate LLM agents' ability to improve
+  over time in streaming scenarios, testing continuous learning and adaptation
+  capabilities.
+source_url: https://github.com/streambench/streambench
+category: AI Agents
+tags:
+  - benchmarking
+  - streaming
+  - continuous-learning
+featured: false
+markdown: >-
+  ## Overview
+
+
+  StreamBench is a benchmark designed to evaluate LLM agents' ability to improve
+  over time in streaming scenarios. It tests continuous learning and adaptation
+  capabilities as agents process ongoing streams of tasks and information.
+
+
+  ## Features
+
+
+  - Evaluates LLM agent improvement over time
+
+  - Streaming scenario benchmarking
+
+  - Tests continuous learning capabilities
+
+  - Assesses adaptation to evolving tasks
+
+  - Pioneering methodology for temporal agent evaluation
+
+
+  ## Use Cases
+
+
+  - Benchmarking continuous learning in agents
+
+  - Evaluating agent improvement in streaming contexts
+
+  - Research on temporal agent capabilities
+updated_at: 2026-04-05 00:22

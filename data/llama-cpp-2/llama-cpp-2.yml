@@ -1,0 +1,38 @@
+name: llama-cpp-2
+description: Low-level Rust binding that closely mirrors the llama.cpp C API as
+  a thin wrapper. Provides direct access to llama.cpp functionality with minimal
+  abstraction, ideal for developers who want fine-grained control.
+source_url: https://crates.io/crates/llama-cpp-2
+category: Model Inference
+tags:
+  - llama.cpp
+  - bindings
+  - low-level
+featured: false
+markdown: >-
+  ## Overview
+
+
+  llama-cpp-2 is a low-level Rust binding that mirrors the llama.cpp C API as
+  closely as possible. Unlike higher-level wrappers, it provides a thin layer
+  over the raw C interface, giving developers direct control over llama.cpp's
+  full feature set.
+
+
+  ## Features
+
+
+  - Thin Rust wrapper closely mirroring llama.cpp C API
+
+  - Direct access to all llama.cpp functions and data structures
+
+  - Minimal abstraction overhead for maximum control
+
+  - Suitable for building custom higher-level abstractions on top
+
+
+  ## Status
+
+
+  Active development.
+updated_at: 2026-04-05 00:22

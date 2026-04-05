@@ -1,0 +1,39 @@
+name: Llama Agentic System
+description: Agentic components of the Llama Stack APIs, providing building
+  blocks for constructing Llama-based AI agents with tool use, memory, and
+  multi-turn interactions.
+source_url: https://github.com/meta-llama/llama-agentic-system
+category: Agentic Systems
+tags:
+  - llama-stack
+  - open-source
+  - multi-turn
+markdown: >-
+  ## Overview
+
+
+  Llama Agentic System provides the agentic components of the Llama Stack APIs
+  for building Llama-based AI agents.
+
+
+  ## Features
+
+
+  - Part of the Llama Stack ecosystem
+
+  - Tool use and function calling support
+
+  - Memory management for agents
+
+  - Multi-turn interaction handling
+
+  - Integration with Llama models
+
+  - Modular API components
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

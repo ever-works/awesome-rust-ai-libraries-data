@@ -1,0 +1,13 @@
+name: gbdt-rs
+description: MesaTEE GBDT-RS is a fast and secure Gradient Boosting Decision
+  Tree library, supporting Trusted Execution Environments (TEEs) such as Intel
+  SGX and ARM TrustZone. Designed for privacy-preserving machine learning in
+  secure enclaves.
+source_url: https://github.com/mesalock-linux/gbdt-rs
+category: Machine Learning
+tags:
+  - gbdt
+  - tee
+  - secure
+featured: false
+updated_at: 2026-04-05 00:22

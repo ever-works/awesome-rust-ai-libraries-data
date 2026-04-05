@@ -1,0 +1,28 @@
+name: Fazm
+description: Open-source, voice-controlled AI computer agent for macOS that
+  controls your entire desktop through natural language - any app, file, or
+  workflow. Built in Swift/SwiftUI, local-first, MIT licensed.
+source_url: https://github.com/kevinmcmahondev/fazm
+category: AI Agents
+tags:
+  - voice-control
+  - macos
+  - local-first
+markdown: |-
+  ## Overview
+
+  Fazm is an open-source, voice-controlled AI computer agent for macOS.
+
+  ## Features
+
+  - Voice-controlled interaction
+  - Controls entire desktop through natural language
+  - Any app, file, or workflow support
+  - Built in Swift/SwiftUI
+  - Local-first architecture
+  - MIT licensed
+
+  ## Platform
+
+  macOS only.
+updated_at: 2026-04-05 00:22

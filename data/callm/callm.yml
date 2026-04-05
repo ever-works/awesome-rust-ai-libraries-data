@@ -1,0 +1,40 @@
+name: CallM
+description: High-level API for running local LLMs such as LLaMA 2 and Mistral
+  on CPUs and GPUs, powered by the Candle ML framework backend. Provides a
+  simple interface for deploying transformer models in Rust applications.
+source_url: https://crates.io/crates/callm
+category: Model Inference
+tags:
+  - llm
+  - candle
+  - local-inference
+featured: false
+markdown: >-
+  ## Overview
+
+
+  CallM is a high-level Rust crate that provides an easy-to-use API for running
+  local LLMs on both CPUs and GPUs. It leverages the Candle ML framework as its
+  backend, supporting models like LLaMA 2 and Mistral.
+
+
+  ## Features
+
+
+  - High-level API abstracting away low-level model loading and inference
+  details
+
+  - Supports LLaMA 2, Mistral, and other popular open-weight LLMs
+
+  - CPU and GPU inference via Candle backend
+
+  - Simple integration into Rust applications
+
+
+  ## Status
+
+
+  Active development.
+brand: Hugging Face
+brand_logo_url: https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg
+updated_at: 2026-04-05 00:22

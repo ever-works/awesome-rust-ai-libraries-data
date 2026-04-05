@@ -1,0 +1,12 @@
+name: rust-xgboost
+description: Rust language bindings for XGBoost, the popular gradient boosted
+  tree library. Enables using XGBoost's optimized gradient boosting
+  implementation within Rust applications with native Rust ergonomics.
+source_url: https://github.com/davechallis/rust-xgboost
+category: Machine Learning
+tags:
+  - bindings
+  - xgboost
+  - gbdt
+featured: false
+updated_at: 2026-04-05 00:22

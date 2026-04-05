@@ -1,0 +1,30 @@
+name: JARVIS
+description: A Microsoft research project aimed at advancing artificial general
+  intelligence through cutting-edge research and facilitating broader community
+  engagement in AGI development.
+source_url: https://github.com/microsoft/JARVIS
+category: Agentic Systems
+tags:
+  - microsoft
+  - agi
+  - research
+markdown: >-
+  ## Overview
+
+
+  JARVIS by Microsoft is an AGI research initiative that aims to advance
+  artificial general intelligence through innovative research and community
+  collaboration.
+
+
+  ## Features
+
+
+  - AGI-focused research
+
+  - Community engagement platform
+
+  - Cutting-edge AI research
+
+  - Microsoft-backed initiative
+updated_at: 2026-04-05 00:22

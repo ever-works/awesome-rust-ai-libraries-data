@@ -1,0 +1,11 @@
+name: CrewAI Examples
+description: A collection of examples demonstrating how to use the CrewAI
+  framework to automate workflows with multi-agent collaboration and task
+  orchestration.
+source_url: https://github.com/crewAIInc/crewAI-examples
+category: Frameworks & SDKs
+tags:
+  - multi-agent
+  - examples
+  - crewai
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,46 @@
+name: everyrow
+description: AI-powered data operations SDK for running LLM agents on pandas
+  DataFrames with natural language processing, web research agents, and Claude
+  Code integration.
+source_url: https://github.com/everyrow/everyrow
+category: Data Processing
+tags:
+  - dataframes
+  - natural-language
+  - data-operations
+featured: false
+markdown: >-
+  ## Overview
+
+
+  everyrow is an AI-powered data operations SDK designed for applying LLM agents
+  to pandas DataFrames at scale using natural language instructions.
+
+
+  ## Features
+
+
+  - Screen, rank, dedupe, and merge rows with natural language
+
+  - Web research agents applied per row for enriched data
+
+  - Scales to tens of thousands of rows for large datasets
+
+  - Claude Code integration for development workflows
+
+
+  ## Technical Details
+
+
+  - Language: Python
+
+  - License: MIT
+
+  - 25 GitHub stars
+
+
+  ## Pricing
+
+
+  Open-source under the MIT license.
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,33 @@
+name: GhostClaw
+description: A local AI agent that runs on your computer with no containers or
+  cloud dependencies, messaging on Telegram like a co-worker. Sets up in 10
+  minutes and operates entirely locally.
+source_url: https://github.com/GhostClaw/ghostclaw
+category: AI Assistants
+tags:
+  - local-first
+  - telegram
+  - no-cloud
+markdown: >-
+  ## Overview
+
+
+  GhostClaw is a local AI agent accessible via Telegram that runs entirely on
+  your computer without containers or cloud dependencies.
+
+
+  ## Features
+
+
+  - Runs locally with no cloud dependencies
+
+  - Telegram-based interface for natural interaction
+
+  - Quick 10-minute setup
+
+  - No containers required
+
+  - Privacy-focused design
+
+  - Acts as a co-worker-style assistant
+updated_at: 2026-04-05 00:22

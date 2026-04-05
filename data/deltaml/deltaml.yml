@@ -1,0 +1,33 @@
+name: deltaml
+description: An open-source machine learning framework in Rust, providing a
+  comprehensive set of tools for building, training, and deploying machine
+  learning models. Designed with a focus on performance and developer
+  productivity.
+source_url: https://crates.io/crates/deltaml
+category: Machine Learning
+tags:
+  - open-source
+  - framework
+  - machine-learning
+featured: false
+markdown: >-
+  ## Overview
+
+
+  DeltaML is an open-source machine learning framework built entirely in Rust,
+  denoted by the delta symbol (Δ). It provides a comprehensive ecosystem for
+  developing machine learning applications with Rust's performance and safety
+  characteristics.
+
+
+  ## Features
+
+
+  - Comprehensive ML framework with training and inference capabilities
+
+  - Open-source under a permissive license
+
+  - Built with Rust's memory safety and performance guarantees
+
+  - Designed for developer productivity
+updated_at: 2026-04-05 00:22

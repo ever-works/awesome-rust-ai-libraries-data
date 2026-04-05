@@ -1,0 +1,12 @@
+name: rs-nlp
+description: Rust-nlp is a natural language processing library in Rust providing
+  core NLP algorithms including tokenization, stemming, and text analysis tools
+  for building NLP pipelines.
+source_url: https://github.com/Freyskeyd/nlp
+category: NLP
+tags:
+  - nlp
+  - text-processing
+  - tokenization
+featured: false
+updated_at: 2026-04-05 00:22

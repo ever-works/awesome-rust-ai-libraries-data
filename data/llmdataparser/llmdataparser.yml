@@ -1,0 +1,41 @@
+name: LLMDataParser
+description: Python library providing a collection of parsers for various
+  benchmark datasets used in the evaluation of Large Language Models,
+  streamlining dataset loading and processing.
+source_url: https://github.com/llmdataparser/llmdataparser
+category: Data Processing
+tags:
+  - parsers
+  - benchmark-datasets
+  - evaluation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  LLMDataParser is a Python library that provides a collection of parsers for
+  various benchmark datasets used in the evaluation of Large Language Models. It
+  streamlines the process of loading and processing evaluation datasets.
+
+
+  ## Features
+
+
+  - Collection of dataset parsers for LLM benchmarks
+
+  - Streamlined dataset loading and processing
+
+  - Supports multiple benchmark dataset formats
+
+  - Python library with easy integration
+
+
+  ## Use Cases
+
+
+  - Loading benchmark datasets for LLM evaluation
+
+  - Parsing evaluation datasets
+
+  - Research on LLM benchmarking
+updated_at: 2026-04-05 00:22

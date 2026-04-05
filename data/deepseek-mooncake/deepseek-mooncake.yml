@@ -1,0 +1,38 @@
+name: DeepSeek-Mooncake
+description: Mooncake is the serving platform for Kimi, a leading LLM service
+  provided by Moonshot AI, providing high-performance distributed inference
+  serving.
+source_url: https://github.com/kvcache-ai/Mooncake
+category: Model Inference
+tags:
+  - distributed-inference
+  - kv-cache
+  - high-performance
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Mooncake is a serving platform designed for Kimi, a leading large language
+  model service by Moonshot AI. It provides high-performance distributed
+  inference capabilities.
+
+
+  ## Features
+
+
+  - Distributed inference architecture
+
+  - Optimized KV cache management
+
+  - High-throughput serving
+
+  - Production-proven at scale
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: Moonshot AI
+updated_at: 2026-04-05 00:22

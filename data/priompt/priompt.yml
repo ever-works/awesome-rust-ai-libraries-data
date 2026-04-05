@@ -1,0 +1,39 @@
+name: Priompt
+description: JSX-based library for designing prompts with priorities, optimizing
+  inclusion of content within token limits. Inspired by React with support for
+  installation, examples, and principles.
+source_url: https://github.com/anysphere/priompt
+category: LLM Tools
+tags:
+  - prompt-engineering
+  - jsx
+  - token-optimization
+markdown: >-
+  ## Overview
+
+
+  Priompt is a JSX-based library for designing prompts with priorities, aiming
+  to optimize inclusion of content within token limits.
+
+
+  ## Features
+
+
+  - JSX-based prompt design
+
+  - Priority-based content inclusion
+
+  - Token limit optimization
+
+  - React-inspired architecture
+
+  - Installation support and examples
+
+  - Principles and future considerations documented
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

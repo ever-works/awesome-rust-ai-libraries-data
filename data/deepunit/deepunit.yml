@@ -1,0 +1,21 @@
+name: Deepunit
+description: AI agent designed to generate unit tests for complete code coverage
+  across your project, requiring only your repository as input.
+source_url: https://deepunit.ai
+category: Development Tools
+tags:
+  - unit-testing
+  - code-coverage
+  - automation
+markdown: |-
+  ## Overview
+
+  Deepunit is an AI agent for generating unit tests.
+
+  ## Features
+
+  - Automated unit test generation
+  - Complete code coverage
+  - Repository-only input requirement
+  - Integration with existing projects
+updated_at: 2026-04-05 00:22

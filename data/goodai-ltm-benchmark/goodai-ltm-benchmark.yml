@@ -1,0 +1,46 @@
+name: GoodAI LTM Benchmark
+description: Library for benchmarking the Long Term Memory and Continual
+  Learning capabilities of LLM-based agents, providing standardized tests for
+  memory retention and learning over time.
+source_url: https://github.com/goodai-labs/ltm-benchmark
+category: AI Agents
+tags:
+  - benchmarking
+  - long-term-memory
+  - continual-learning
+featured: false
+markdown: >-
+  ## Overview
+
+
+  GoodAI's Long Term Memory (LTM) Benchmark is a library designed to benchmark
+  the long-term memory and continual learning capabilities of LLM-based agents.
+  It provides comprehensive tests and code for evaluating how well agents retain
+  and utilize information over extended interactions.
+
+
+  ## Features
+
+
+  - Benchmarks long-term memory capabilities of LLM agents
+
+  - Tests continual learning abilities
+
+  - Standardized test suite with all tests and code included
+
+  - Evaluates memory retention across extended sessions
+
+  - Open-source for community contributions
+
+
+  ## Use Cases
+
+
+  - Benchmarking agent memory systems
+
+  - Evaluating continual learning in LLM agents
+
+  - Research on long-term memory architectures
+brand: GoodAI
+brand_logo_url: https://github.com/goodai-labs.png
+updated_at: 2026-04-05 00:22

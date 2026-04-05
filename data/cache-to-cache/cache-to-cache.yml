@@ -1,0 +1,45 @@
+name: Cache-to-Cache
+description: Novel paradigm for direct semantic communication between LLMs via
+  KV-Cache, enabling multi-agent system integration with neural cache projection
+  and fusion.
+source_url: https://github.com/microsoft/Cache-to-Cache
+category: Agentic Systems
+tags:
+  - kv-cache
+  - semantic-communication
+  - novel-paradigm
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Cache-to-Cache introduces a novel approach for LLM-to-LLM communication by
+  directly sharing KV-Cache semantics rather than natural language, enabling
+  more efficient multi-agent interactions.
+
+
+  ## Features
+
+
+  - Direct semantic communication via KV-Cache between LLMs
+
+  - Multi-agent system integration with efficient data sharing
+
+  - Neural cache projection and fusion mechanisms
+
+
+  ## Technical Details
+
+
+  - Language: Python
+
+  - License: Apache-2.0
+
+  - 87 GitHub stars
+
+
+  ## Pricing
+
+
+  Open-source under the Apache-2.0 license.
+updated_at: 2026-04-05 00:22

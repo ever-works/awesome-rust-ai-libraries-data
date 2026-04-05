@@ -1,0 +1,34 @@
+name: Guidance
+description: A programming paradigm that enhances control and efficiency in
+  model generation by integrating constraints like regex and context-free
+  grammars, stateful control, and a simplified interface for complex generation
+  scenarios.
+source_url: https://github.com/guidance-ai/guidance
+category: LLM Tools
+tags:
+  - constrained-generation
+  - regex
+  - grammar
+markdown: >-
+  ## Overview
+
+
+  Guidance is a programming paradigm for language model generation that provides
+  fine-grained control over output through constraints and stateful execution.
+
+
+  ## Features
+
+
+  - Regex-based output constraints
+
+  - Context-free grammar (CFG) constraints
+
+  - Stateful generation control
+
+  - Simplified interface for complex generation
+
+  - Enhanced control over model outputs
+
+  - Efficient generation workflows
+updated_at: 2026-04-05 00:22

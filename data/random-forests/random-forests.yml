@@ -1,0 +1,12 @@
+name: random-forests
+description: A Rust library for Random Forests providing ensemble decision tree
+  classification and regression with configurable parameters for tree depth,
+  number of estimators, and feature subsets.
+source_url: https://github.com/RuiVieira/random-forests
+category: Machine Learning
+tags:
+  - random-forest
+  - ensemble
+  - decision-trees
+featured: false
+updated_at: 2026-04-05 00:22

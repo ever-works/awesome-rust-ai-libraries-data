@@ -1,0 +1,32 @@
+name: Streamlit Agent by Langchain
+description: Showcases various LangChain agents as Streamlit apps, including
+  basic streaming, memory-based conversation, MRKL functionality, minimal search
+  agent, document querying, database communication, and pandas DataFrame
+  interaction.
+source_url: https://github.com/langchain-ai/streamlit-agent
+category: AI Agents
+tags:
+  - streamlit
+  - langchain
+  - demo-apps
+markdown: |-
+  ## Overview
+
+  This repository showcases various LangChain agents as Streamlit apps.
+
+  ## Features
+
+  - Basic streaming app
+  - Memory-based conversation app
+  - MRKL functionality replication
+  - Minimal agent with search capability
+  - Chatbots with feedback options
+  - Document querying
+  - Database communication
+  - Pandas DataFrame interaction
+  - LangChain and Streamlit integrations
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

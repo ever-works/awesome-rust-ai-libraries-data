@@ -1,0 +1,25 @@
+name: DJD Agent Score
+description: On-chain reputation scoring API for AI agent wallets on Base L2,
+  returning 0-100 trust scores across 5 behavioral dimensions with x402
+  micropayments and ERC-8004.
+source_url: https://github.com/agent-score/djd-agent-score
+category: AI Tools
+tags:
+  - blockchain
+  - reputation
+  - base-l2
+markdown: |-
+  ## Overview
+
+  DJD Agent Score provides on-chain reputation scoring for AI agent wallets.
+
+  ## Features
+
+  - 0-100 trust scores
+  - 5 behavioral dimensions
+  - Transaction pattern analysis
+  - Multi-chain attestations
+  - x402 micropayments
+  - TypeScript SDK
+  - ERC-8004 on-chain reputation publication
+updated_at: 2026-04-05 00:22

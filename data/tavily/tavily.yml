@@ -1,0 +1,40 @@
+name: Tavily
+description: Comprehensive research assistant offering a Search API for LLMs,
+  ensuring real-time, accurate, and bias-reduced data gathering and organization
+  for individual and enterprise needs.
+source_url: https://tavily.com
+category: Search
+tags:
+  - search-api
+  - real-time
+  - llm-integration
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Tavily AI is a comprehensive research assistant platform with a Search API
+  designed for LLMs.
+
+
+  ## Features
+
+
+  - Search API for LLMs
+
+  - Real-time data gathering
+
+  - Accurate and bias-reduced results
+
+  - Data organization
+
+  - Suitable for individual and enterprise use
+
+  - Rapid insights generation
+
+
+  ## Pricing
+
+
+  Free tier and paid plans available.
+updated_at: 2026-04-05 00:22

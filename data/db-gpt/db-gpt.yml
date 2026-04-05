@@ -1,0 +1,27 @@
+name: DB-GPT
+description: Platform revolutionizing database interactions using private LLM
+  technology, enabling streamlined AI-native data app development with
+  multi-model management and Text2SQL optimization.
+source_url: https://github.com/eosphoros-ai/DB-GPT
+category: Data Processing
+tags:
+  - databases
+  - text2sql
+  - private-llm
+markdown: |-
+  ## Overview
+
+  DB-GPT revolutionizes database interactions using private LLM technology.
+
+  ## Features
+
+  - AI-native data app development
+  - Multi-model management
+  - Text2SQL optimization
+  - Fine-tuning capabilities
+  - Bespoke application creation
+
+  ## Target
+
+  Enterprises and developers in the Data 3.0 era.
+updated_at: 2026-04-05 00:22

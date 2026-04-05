@@ -1,0 +1,21 @@
+name: BabyAGI UI
+description: Web application interface that makes it easier to run and develop
+  with BabyAGI in a ChatGPT-like interface.
+source_url: https://github.com/yoheinakajima/babyagi-ui
+category: Agentic Systems
+tags:
+  - web-interface
+  - development
+  - babyagi
+markdown: |-
+  ## Overview
+
+  BabyAGI UI provides a ChatGPT-like web application interface for BabyAGI.
+
+  ## Features
+
+  - Web-based interface
+  - ChatGPT-like experience
+  - Simplified BabyAGI execution
+  - Development-friendly
+updated_at: 2026-04-05 00:22

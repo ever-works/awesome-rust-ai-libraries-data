@@ -1,0 +1,13 @@
+name: vector
+description: A high-performance observability data pipeline written in Rust.
+  Collects, transforms, and routes logs and metrics to various destinations,
+  widely used for logging and metrics infrastructure.
+source_url: https://github.com/timberio/vector
+category: Data Processing
+tags:
+  - observability
+  - data-pipeline
+  - logging
+featured: true
+brand: Datadog
+updated_at: 2026-04-05 00:22

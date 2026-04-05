@@ -1,0 +1,38 @@
+name: rust-stop-words
+description: Stopword lists for various languages in Rust, designed for text
+  cleaning in NLP pipelines. Provides commonly filtered words across multiple
+  languages for preprocessing text before analysis or model input.
+source_url: https://crates.io/crates/rust-stop-words
+category: Text Processing
+tags:
+  - stopwords
+  - nlp
+  - multilingual
+featured: false
+markdown: >-
+  ## Overview
+
+
+  rust-stop-words provides curated lists of common stopwords in various
+  languages. These lists are used to filter out high-frequency words that
+  typically carry little semantic meaning, a standard preprocessing step in NLP
+  pipelines.
+
+
+  ## Features
+
+
+  - Stopword lists for multiple languages
+
+  - Easy integration into Rust NLP text-processing pipelines
+
+  - Useful for text cleaning and feature extraction
+
+  - Low-overhead, dependency-free implementation
+
+
+  ## Status
+
+
+  Active development.
+updated_at: 2026-04-05 00:22

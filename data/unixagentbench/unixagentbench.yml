@@ -1,0 +1,44 @@
+name: UnixAgentBench
+description: Benchmark for evaluating LLM agents performing tasks on Unix
+  systems, testing their ability to navigate, script, and manage Unix
+  environments through natural language.
+source_url: https://github.com/unixagentbench/unixagentbench
+category: AI Agents
+tags:
+  - benchmarking
+  - unix
+  - system-administration
+featured: false
+markdown: >-
+  ## Overview
+
+
+  UnixAgentBench is a benchmark designed to evaluate LLM agents' ability to
+  perform tasks on Unix operating systems. It tests agents' proficiency in
+  navigation, scripting, file management, and system administration through
+  natural language instructions.
+
+
+  ## Features
+
+
+  - Evaluates LLM agents on Unix system tasks
+
+  - Tests navigation and file manipulation capabilities
+
+  - Assesses scripting and automation skills
+
+  - Natural language to Unix command translation
+
+  - System administration task evaluation
+
+
+  ## Use Cases
+
+
+  - Benchmarking Unix-capable agents
+
+  - Evaluating agents on system administration tasks
+
+  - Research on OS-level agent interactions
+updated_at: 2026-04-05 00:22

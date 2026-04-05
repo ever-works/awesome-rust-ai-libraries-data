@@ -1,0 +1,27 @@
+name: Continue
+description: Open-source autopilot plugin for VS Code and JetBrains, enhancing
+  coding with LLMs through task autocomplete, natural language edits, file
+  generation, and customization.
+source_url: https://continue.dev
+category: AI Assistants
+tags:
+  - open-source
+  - ide-plugin
+  - autocomplete
+markdown: |-
+  ## Overview
+
+  Continue is an open-source autopilot plugin for VS Code and JetBrains.
+
+  ## Features
+
+  - Task autocomplete
+  - Tab autocomplete
+  - Natural language edits
+  - File generation
+  - Full customization
+
+  ## Licensing
+
+  Apache 2.0 license.
+updated_at: 2026-04-05 00:22

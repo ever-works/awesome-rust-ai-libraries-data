@@ -1,0 +1,39 @@
+name: Cal.ai
+description: Open-source AI scheduling assistant that manages email
+  communications for booking, rearranging, and inquiring about meetings,
+  leveraging a LangChain Agent Executor.
+source_url: https://cal.com/ai
+category: AI Assistants
+tags:
+  - open-source
+  - scheduling
+  - langchain
+markdown: >-
+  ## Overview
+
+
+  Cal.ai is an open-source AI scheduling assistant for managing email
+  communications.
+
+
+  ## Features
+
+
+  - Email-based scheduling management
+
+  - Booking meetings
+
+  - Rearranging appointments
+
+  - Meeting inquiry handling
+
+  - LangChain Agent Executor integration
+
+  - MailParser integration
+
+
+  ## Security
+
+
+  Efficient scheduling without API key exposure.
+updated_at: 2026-04-05 00:22

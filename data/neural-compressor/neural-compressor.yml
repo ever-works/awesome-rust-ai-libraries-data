@@ -1,0 +1,44 @@
+name: Neural Compressor
+description: State-of-the-art low-bit LLM quantization library
+  (INT8/FP8/INT4/FP4/NF4) with leading model compression techniques for
+  TensorFlow, PyTorch, and ONNX Runtime. Enables efficient model inference on
+  various hardware.
+source_url: https://github.com/intel/neural-compressor
+category: Optimization
+tags:
+  - quantization
+  - model-compression
+  - intel
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Intel Neural Compressor is an open-source library that provides
+  state-of-the-art model compression techniques including quantization, pruning,
+  and knowledge distillation. It supports low-bit quantization (INT8, FP8, INT4,
+  FP4, NF4) for large language models.
+
+
+  ## Features
+
+
+  - Multi-framework support: TensorFlow, PyTorch, ONNX Runtime
+
+  - INT8/FP8/INT4/FP4/NF4 quantization
+
+  - Automatic mixed precision and sparsity
+
+  - Built-in benchmarking tools
+
+  - Hardware-aware optimization for Intel and other platforms
+
+  - Model compression techniques including pruning and distillation
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: Intel
+updated_at: 2026-04-05 00:22

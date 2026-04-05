@@ -1,22 +1,13 @@
 name: sonic
-description: Fast, lightweight, schema-less search backend as an alternative to
-  Elasticsearch, useful for ML search applications. MPL-2.0 licensed with 20K
-  stars.
+description: Fast, lightweight, and schema-less search backend written in Rust.
+  Serves as an alternative to Elasticsearch with minimal memory footprint and
+  high-speed full-text search capabilities.
 source_url: https://github.com/valeriansaliou/sonic
-category: Applications
+category: Search
 tags:
-  - search-backend
+  - search-engine
+  - full-text
   - lightweight
-  - open-source
-featured: true
-markdown: |-
-  ## Overview
-
-  Sonic is a search backend written in Rust.
-
-  ## Features
-
-  - Fast search
-  - Schema-less
-  - MPL-2.0 license
-updated_at: 2026-04-01 12:33
+featured: false
+brand: Valerian Saliou
+updated_at: 2026-04-05 00:22

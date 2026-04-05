@@ -1,0 +1,45 @@
+name: GPTeam
+description: A collaborative AI project utilizing GPT-4 to create multi-agent
+  systems aimed at enhancing productivity and communication, featuring agent
+  memory, interaction capabilities, and integration with third-party services.
+source_url: https://github.com/101dotxyz/GPTeam
+category: Agentic Systems
+tags:
+  - multi-agent
+  - collaborative-ai
+  - gpt-4
+markdown: >-
+  ## Overview
+
+
+  GPTeam is a multi-agent AI system that creates collaborative teams of AI
+  agents powered by GPT-4, designed to work together to enhance productivity.
+
+
+  ## Features
+
+
+  - Multi-agent collaboration framework
+
+  - Agent memory systems for context retention
+
+  - Inter-agent communication and coordination
+
+  - Third-party service integration
+
+  - GPT-4 powered agent capabilities
+
+  - Configurable agent teams
+
+
+  ## Architecture
+
+
+  - Multiple AI agents with specialized roles
+
+  - Shared memory for coordination
+
+  - Communication protocols between agents
+
+  - External tool and service integration points
+updated_at: 2026-04-05 00:22

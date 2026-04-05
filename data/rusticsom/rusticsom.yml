@@ -1,0 +1,12 @@
+name: RusticSOM
+description: A Rust library for Self-Organizing Maps (SOM), implementing
+  unsupervised neural network-based dimensionality reduction and clustering.
+  Provides tools for visualizing high-dimensional data on 2D grids.
+source_url: https://github.com/avinashshenoy97/RusticSOM
+category: Clustering
+tags:
+  - self-organizing-map
+  - dimensionality-reduction
+  - neural-network
+featured: false
+updated_at: 2026-04-05 00:22

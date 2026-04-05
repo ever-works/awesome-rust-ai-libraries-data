@@ -1,0 +1,46 @@
+name: LMQL
+description: A Python-based programming language for large language models that
+  allows seamless integration of LLMs into code with advanced features like
+  conditional logic, constraints, and multi-model support.
+source_url: https://lmql.ai
+category: LLM Tools
+tags:
+  - programming-language
+  - constraints
+  - multi-model
+markdown: >-
+  ## Overview
+
+
+  LMQL is a domain-specific programming language designed specifically for
+  working with large language models, providing native integration of LLMs into
+  code.
+
+
+  ## Features
+
+
+  - Python-based syntax
+
+  - Conditional logic for LLM operations
+
+  - Output constraint specification
+
+  - Multi-model support
+
+  - Seamless code integration
+
+  - Type-safe LLM programming
+
+
+  ## Use Cases
+
+
+  - Structured LLM prompting
+
+  - Constrained text generation
+
+  - Multi-model orchestration
+
+  - LLM-powered application development
+updated_at: 2026-04-05 00:22

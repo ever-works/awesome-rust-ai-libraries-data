@@ -1,0 +1,34 @@
+name: LangSmith
+description: A comprehensive tool by LangChain for debugging, testing,
+  evaluating, and monitoring LLM applications, providing seamless integration
+  with LangChain for AI agent observability.
+source_url: https://www.langchain.com/langsmith
+category: MLOps
+tags:
+  - debugging
+  - evaluation
+  - monitoring
+markdown: >-
+  ## Overview
+
+
+  LangSmith is a platform by LangChain designed for the full lifecycle
+  management of LLM applications, from development through production
+  monitoring.
+
+
+  ## Features
+
+
+  - Application debugging tools
+
+  - Testing framework for LLM apps
+
+  - Evaluation capabilities
+
+  - Production monitoring
+
+  - Seamless LangChain integration
+
+  - Comprehensive AI agent observability
+updated_at: 2026-04-05 00:22

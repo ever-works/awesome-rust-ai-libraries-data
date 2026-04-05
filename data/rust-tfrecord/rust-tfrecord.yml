@@ -1,0 +1,12 @@
+name: rust-tfrecord
+description: A Rust crate that reads and writes TensorFlow TFRecord files.
+  Enables interoperability between Rust ML applications and TensorFlow data
+  pipelines by supporting the TFRecord binary format.
+source_url: https://github.com/alexwiltsco/rust-tfrecord
+category: Data Formats
+tags:
+  - tensorflow
+  - data-loading
+  - tfrecord
+featured: false
+updated_at: 2026-04-05 00:22

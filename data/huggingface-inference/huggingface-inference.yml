@@ -1,0 +1,35 @@
+name: HuggingFace Inference
+description: Client for the HuggingFace Inference Endpoint API, enabling calls
+  to hosted models for text completions and other ML tasks directly from Rust
+  applications.
+source_url: https://crates.io/crates/huggingface_inference_rs
+category: API Clients
+tags:
+  - huggingface
+  - inference-api
+  - hosted-models
+featured: false
+markdown: >-
+  ## Overview
+
+
+  This crate provides a Rust client for the HuggingFace Inference Endpoint API.
+  It allows Rust applications to call models hosted on Hugging Face's
+  infrastructure for completions and other ML tasks.
+
+
+  ## Features
+
+
+  - Call hosted HuggingFace models via inference endpoints
+
+  - Text completion and generation support
+
+  - Integration with HuggingFace's managed infrastructure
+
+
+  ## Status
+
+
+  Active development.
+updated_at: 2026-04-05 00:22

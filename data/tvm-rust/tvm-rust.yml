@@ -1,0 +1,12 @@
+name: tvm-rust
+description: Rust bindings for TVM runtime, Apache TVM's machine learning
+  compiler framework. Enables deployment and inference of compiled ML models
+  with TVM's optimized runtime in Rust applications.
+source_url: https://github.com/ehsanmok/tvm-rust
+category: Model Inference
+tags:
+  - tvm
+  - compiler
+  - runtime
+featured: false
+updated_at: 2026-04-05 00:22

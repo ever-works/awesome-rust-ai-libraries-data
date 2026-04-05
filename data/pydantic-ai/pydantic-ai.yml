@@ -1,0 +1,48 @@
+name: Pydantic AI
+description: Production-grade agent framework built on Pydantic featuring
+  type-safe development, multi-model support, structured responses, dependency
+  injection, and Logfire integration.
+source_url: https://github.com/pydantic/pydantic-ai
+category: Agentic Systems
+tags:
+  - type-safe
+  - pydantic
+  - structured-responses
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Pydantic AI is a production-grade agent framework built on top of Pydantic,
+  emphasizing type safety, structured outputs, and developer experience.
+
+
+  ## Features
+
+
+  - Type-safe development leveraging Pydantic's validation
+
+  - Multi-model support for various LLM backends
+
+  - Structured responses for reliable data extraction
+
+  - Dependency injection for modular architecture
+
+  - Logfire integration for observability and debugging
+
+
+  ## Technical Details
+
+
+  - Language: Python
+
+  - License: MIT
+
+  - 14,433 GitHub stars
+
+
+  ## Pricing
+
+
+  Open-source under the MIT license.
+updated_at: 2026-04-05 00:22

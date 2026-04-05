@@ -1,0 +1,42 @@
+name: Sayna
+description: Open-source voice infrastructure layer for AI agents providing
+  unified APIs for STT/TTS, real-time audio streaming, SIP Telephony, and
+  multi-provider support including OpenAI, Deepgram, ElevenLabs, Google, and
+  Azure.
+source_url: https://github.com/sayna-ai/sayna
+category: Voice AI
+tags:
+  - voice-infrastructure
+  - stt-tts
+  - multi-provider
+markdown: >-
+  ## Overview
+
+
+  Sayna is an open-source voice infrastructure layer for AI agents providing
+  unified APIs for voice capabilities.
+
+
+  ## Features
+
+
+  - Unified APIs for STT/TTS
+
+  - Real-time audio streaming
+
+  - SIP Telephony support
+
+  - Multi-provider support: OpenAI, Deepgram, ElevenLabs, Google, Azure
+
+  - Self-hostable
+
+  - WebSocket/REST interfaces
+
+  - Voice-enabled agent development
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

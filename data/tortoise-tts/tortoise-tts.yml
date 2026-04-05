@@ -1,0 +1,37 @@
+name: Tortoise TTS
+description: Multi-voice text-to-speech system trained with an emphasis on
+  quality, producing natural-sounding speech output with multiple voice options.
+source_url: https://github.com/neonbjb/tortoise-tts
+category: Voice AI
+tags:
+  - multi-voice
+  - quality-focused
+  - text-to-speech
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Tortoise TTS is a multi-voice text-to-speech system trained with an emphasis
+  on quality.
+
+
+  ## Features
+
+
+  - Multi-voice support
+
+  - Quality-focused training
+
+  - Natural-sounding speech output
+
+  - Open source
+
+  - Research-backed approach
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

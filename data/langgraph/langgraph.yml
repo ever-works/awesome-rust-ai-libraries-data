@@ -1,0 +1,45 @@
+name: LangGraph
+description: A Python library for building stateful, multi-actor applications
+  with LLMs, enabling cyclic coordination across multiple computation steps
+  particularly suited for agent-like behaviors with streaming support.
+source_url: https://github.com/langchain-ai/langgraph
+category: Frameworks
+tags:
+  - python
+  - stateful
+  - agent-patterns
+markdown: >-
+  ## Overview
+
+
+  LangGraph is a Python library that facilitates the construction of stateful,
+  multi-actor LLM applications through cyclic graph-based orchestration.
+
+
+  ## Features
+
+
+  - Stateful application development
+
+  - Multi-actor coordination
+
+  - Cyclic computation graphs
+
+  - Agent-like behavior patterns
+
+  - Streaming support
+
+  - Comprehensive guides and examples
+
+
+  ## Architecture
+
+
+  - Graph-based workflow orchestration
+
+  - State persistence
+
+  - Multi-actor coordination
+
+  - Conditional edge routing
+updated_at: 2026-04-05 00:22

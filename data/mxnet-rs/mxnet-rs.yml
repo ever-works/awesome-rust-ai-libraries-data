@@ -1,0 +1,11 @@
+name: mxnet-rs
+description: Rust bindings for Apache MXNet deep learning framework. Enables
+  training and inference with MXNet models directly from Rust applications.
+source_url: https://github.com/jakelee8/mxnet-rs
+category: Machine Learning
+tags:
+  - mxnet
+  - deep-learning
+  - bindings
+featured: false
+updated_at: 2026-04-05 00:22

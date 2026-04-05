@@ -1,0 +1,38 @@
+name: Pydantic
+description: Python library facilitating data validation through type hints,
+  particularly useful for AI agents, offering fast validation capabilities and
+  compatibility with various development tools.
+source_url: https://github.com/pydantic/pydantic
+category: Data Processing
+tags:
+  - data-validation
+  - python
+  - type-hints
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Pydantic is a Python library facilitating data validation through type hints,
+  particularly useful for AI agent development.
+
+
+  ## Features
+
+
+  - Data validation through type hints
+
+  - Fast validation capabilities
+
+  - AI agent compatibility
+
+  - Wide development tool integration
+
+  - Python-based
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

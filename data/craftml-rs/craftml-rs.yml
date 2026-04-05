@@ -1,0 +1,12 @@
+name: craftml-rs
+description: A Rust implementation of CRAFTML, an Efficient Clustering-based
+  Random Forest for Extreme Multi-label Learning. Designed for classification
+  problems with extremely large label spaces.
+source_url: https://github.com/tomtung/craftml-rs
+category: Machine Learning
+tags:
+  - extreme-multi-label
+  - random-forest
+  - clustering
+featured: false
+updated_at: 2026-04-05 00:22

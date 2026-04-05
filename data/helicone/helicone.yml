@@ -1,0 +1,38 @@
+name: Helicone
+description: An open-source observability platform for large language models,
+  providing request logging, caching, rate limiting, cost and latency tracking,
+  UI-based prompt iteration, and collaboration tools for LLM application
+  development.
+source_url: https://www.helicone.ai
+category: MLOps
+tags:
+  - observability
+  - open-source
+  - llm-ops
+markdown: >-
+  ## Overview
+
+
+  Helicone is an open-source observability platform designed specifically for
+  monitoring and managing LLM applications in production.
+
+
+  ## Features
+
+
+  - Request logging and tracking
+
+  - Response caching for efficiency
+
+  - Rate limiting capabilities
+
+  - Cost tracking and monitoring
+
+  - Latency tracking
+
+  - UI-based prompt iteration
+
+  - Collaboration tools for teams
+
+  - Open-source architecture
+updated_at: 2026-04-05 00:22

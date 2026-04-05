@@ -1,0 +1,40 @@
+name: GNAP
+description: Git-Native Agent Protocol — an open RFC for coordinating AI agent
+  teams through a git repository. Zero servers, zero databases required; 4 JSON
+  files define the entire coordination protocol with language/runtime agnostic
+  compatibility.
+source_url: https://github.com/nicholasgriffintn/GNAP
+category: Agentic Systems
+tags:
+  - git-native
+  - protocol
+  - serverless
+markdown: >-
+  ## Overview
+
+
+  GNAP (Git-Native Agent Protocol) is an open RFC for coordinating AI agent
+  teams entirely through a git repository.
+
+
+  ## Features
+
+
+  - Zero servers, zero databases required
+
+  - Only 4 JSON files define the entire coordination protocol
+
+  - Language/runtime agnostic
+
+  - Immutable git history provides audit trail
+
+  - Decentralized agent coordination
+
+  - Version control integration
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

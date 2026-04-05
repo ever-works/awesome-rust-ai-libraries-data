@@ -1,0 +1,35 @@
+name: LM Studio
+description: A platform for running various local LLMs like LLaMa, Falcon, and
+  MPT offline, featuring a chat UI, OpenAI-compatible server, and model
+  downloads from Hugging Face with support for Mac, Windows, and Linux.
+source_url: https://lmstudio.ai
+category: Model Inference
+tags:
+  - local-llm
+  - chat-ui
+  - cross-platform
+markdown: >-
+  ## Overview
+
+
+  LM Studio provides a user-friendly platform for running local language models
+  offline across multiple platforms.
+
+
+  ## Features
+
+
+  - Support for multiple local LLMs (LLaMa, Falcon, MPT, etc.)
+
+  - Chat UI for model interaction
+
+  - OpenAI-compatible server
+
+  - Hugging Face model downloads
+
+  - Cross-platform support (Mac, Windows, Linux)
+
+  - Privacy-focused with no data collection
+
+  - Free for personal use
+updated_at: 2026-04-05 00:22

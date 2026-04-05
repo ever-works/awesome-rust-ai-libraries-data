@@ -1,0 +1,33 @@
+name: autograd
+description: A Rust crate providing tensors and differentiable operations for
+  building neural networks. Offers automatic differentiation capabilities
+  essential for training deep learning models through gradient-based
+  optimization.
+source_url: https://crates.io/crates/autograd
+category: Differentiation
+tags:
+  - autodiff
+  - tensors
+  - gradients
+featured: false
+markdown: >-
+  ## Overview
+
+
+  The `autograd` crate provides tensor operations and automatic differentiation
+  support for Rust. It enables the construction of computation graphs and
+  efficient gradient computation, which are fundamental for training neural
+  networks.
+
+
+  ## Features
+
+
+  - Tensor data structures and operations
+
+  - Automatic differentiation through computation graphs
+
+  - Support for gradient-based optimization
+
+  - Differentiable operations for building neural networks
+updated_at: 2026-04-05 00:22

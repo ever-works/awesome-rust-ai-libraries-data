@@ -1,0 +1,29 @@
+name: Miranda
+description: A platform that simplifies dashboard creation, serving as an
+  AI-powered tool for generating data visualizations and business intelligence
+  dashboards.
+source_url: https://github.com/miranda-ai/miranda
+category: Data Visualization
+tags:
+  - dashboards
+  - bi
+  - ai-powered
+markdown: >-
+  ## Overview
+
+
+  Miranda simplifies dashboard creation, aiming to be an accessible 'Canva for
+  dashboards' with AI-powered assistance.
+
+
+  ## Features
+
+
+  - AI-assisted dashboard creation
+
+  - Simplified visualization building
+
+  - Intuitive interface
+
+  - Business intelligence capabilities
+updated_at: 2026-04-05 00:22

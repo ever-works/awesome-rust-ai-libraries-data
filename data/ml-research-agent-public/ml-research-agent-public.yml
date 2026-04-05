@@ -1,0 +1,44 @@
+name: ML-Research-Agent-Public
+description: Public, general-purpose agent for machine learning research
+  benchmarking, providing a foundation for comparing and evaluating ML research
+  acceleration capabilities.
+source_url: https://github.com/ml-research-agent/ml-research-agent-public
+category: AI Agents
+tags:
+  - benchmarking
+  - ml-research
+  - evaluation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ML-Research-Agent-Public is a general-purpose agent framework for machine
+  learning research benchmarking. It provides a foundation for comparing and
+  evaluating AI agents' capabilities in accelerating ML research and development
+  workflows.
+
+
+  ## Features
+
+
+  - General-purpose ML research agent
+
+  - Foundation for comparing agent capabilities
+
+  - Evaluates research acceleration abilities
+
+  - Supports various ML research tasks
+
+  - Open-source for community contributions
+
+
+  ## Use Cases
+
+
+  - Benchmarking ML research agents
+
+  - Evaluating AI-driven research acceleration
+
+  - Research on automated ML workflows
+updated_at: 2026-04-05 00:22

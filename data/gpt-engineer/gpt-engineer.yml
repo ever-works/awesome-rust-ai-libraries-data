@@ -1,0 +1,42 @@
+name: GPT Engineer
+description: An AI-powered software generation tool that allows users to specify
+  software requirements in natural language and automatically generates,
+  executes, and iteratively improves code while fostering open-source community
+  collaboration.
+source_url: https://github.com/gpt-engineer-org/gpt-engineer
+category: Code Generation
+tags:
+  - natural-language-programming
+  - code-generation
+  - open-source
+markdown: >-
+  ## Overview
+
+
+  GPT-Engineer is an AI-powered development tool that converts natural language
+  specifications into working software code.
+
+
+  ## Features
+
+
+  - Natural language software specification
+
+  - Automatic code generation and execution
+
+  - Iterative improvement suggestions
+
+  - Community-driven open-source development
+
+  - Collaborative development ecosystem
+
+
+  ## Use Cases
+
+
+  - Rapid prototyping from natural language descriptions
+
+  - Automated code scaffolding
+
+  - Learning tool for understanding AI-driven development
+updated_at: 2026-04-05 00:22

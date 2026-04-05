@@ -1,0 +1,12 @@
+name: rkm
+description: A generic k-means implementation written in Rust. Provides a
+  flexible, type-generic clustering algorithm that works with various distance
+  metrics and data structures.
+source_url: https://github.com/genbattle/rkm
+category: Clustering
+tags:
+  - k-means
+  - clustering
+  - generic
+featured: false
+updated_at: 2026-04-05 00:22

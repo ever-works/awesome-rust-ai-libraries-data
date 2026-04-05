@@ -1,0 +1,13 @@
+name: tensorboard-rs
+description: A Rust library for writing TensorBoard events, enabling
+  visualization of training metrics, model graphs, and other ML debugging data
+  from Rust machine learning programs using TensorBoard's rich visualization
+  capabilities.
+source_url: https://github.com/pipehappy1/tensorboard-rs
+category: Machine Learning
+tags:
+  - tensorboard
+  - visualization
+  - debugging
+featured: false
+updated_at: 2026-04-05 00:22

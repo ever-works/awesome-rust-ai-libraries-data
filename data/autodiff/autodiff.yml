@@ -1,0 +1,38 @@
+name: Autodiff
+description: General automatic differentiation library in Rust supporting both
+  forward and reverse mode AD. Provides the foundational mathematical operations
+  needed for gradient-based machine learning and neural network training.
+source_url: https://crates.io/crates/autodiff
+category: Differentiation
+tags:
+  - automatic-differentiation
+  - forward-mode
+  - reverse-mode
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Autodiff is a general-purpose automatic differentiation library for Rust,
+  implementing both forward-mode and reverse-mode AD. It provides the core
+  mathematical primitives needed for gradient-based optimization in machine
+  learning.
+
+
+  ## Features
+
+
+  - Forward-mode automatic differentiation
+
+  - Reverse-mode automatic differentiation (backpropagation)
+
+  - General-purpose AD interface usable in ML and scientific computing
+
+  - Chainable differentiation operations
+
+
+  ## Status
+
+
+  Active development.
+updated_at: 2026-04-05 00:22

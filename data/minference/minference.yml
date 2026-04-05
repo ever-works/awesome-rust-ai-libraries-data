@@ -1,0 +1,43 @@
+name: MInference
+description: To speed up Long-context LLMs' inference, MInference uses
+  approximate and dynamic sparse attention calculation, reducing inference
+  latency by up to 10x for pre-filling on an A100 while maintaining accuracy.
+  Recognized at NeurIPS'24 Spotlight and ICLR'25.
+source_url: https://github.com/microsoft/MInference
+category: Model Inference
+tags:
+  - long-context
+  - sparse-attention
+  - latency-optimization
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MInference is a research-backed inference optimization system that
+  significantly speeds up long-context LLM inference through approximate and
+  dynamic sparse attention computation.
+
+
+  ## Features
+
+
+  - Approximate and dynamic sparse attention calculation
+
+  - Up to 10x inference latency reduction for pre-filling on A100
+
+  - Maintains accuracy while reducing computation
+
+  - Supports long-context LLM inference
+
+  - NeurIPS'24 Spotlight paper
+
+  - ICLR'25 publication
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Microsoft
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,47 @@
+name: Floom
+description: AI gateway and agent/pipeline marketplace with Kubernetes-style
+  architecture, pipeline orchestration, and DevOps-friendly deployment.
+source_url: https://github.com/floomai/floom
+category: AI Tools
+tags:
+  - ai-gateway
+  - marketplace
+  - kubernetes
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Floom is an AI gateway and marketplace that enables streamlined integration of
+  AI agents and pipelines using a Kubernetes-style architecture.
+
+
+  ## Features
+
+
+  - AI pipeline orchestration for complex workflows
+
+  - Agent marketplace integration for discovery and deployment
+
+  - Kubernetes-style architecture for scalable deployments
+
+  - Streamlined AI integration for developer experience
+
+  - DevOps-friendly deployment for production operations
+
+
+  ## Technical Details
+
+
+  - Language: C#
+
+  - License: MIT
+
+  - 45 GitHub stars
+
+
+  ## Pricing
+
+
+  Open-source under the MIT license.
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,43 @@
+name: SimCourt
+description: Benchmark and framework for court simulation using LLM-based
+  agents, evaluating multi-agent legal reasoning and judicial simulation
+  capabilities.
+source_url: https://github.com/simcourt/simcourt
+category: AI Agents
+tags:
+  - benchmarking
+  - legal
+  - simulation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SimCourt is a benchmark and framework for simulating court proceedings using
+  LLM-based agents. It evaluates agents' capabilities in legal reasoning,
+  argumentation, and judicial process simulation.
+
+
+  ## Features
+
+
+  - Court simulation framework using LLM agents
+
+  - Evaluates legal reasoning capabilities
+
+  - Multi-agent judicial simulation
+
+  - Benchmark for legal AI assessment
+
+  - Standardized evaluation protocol for court simulation
+
+
+  ## Use Cases
+
+
+  - Benchmarking legal reasoning in LLM agents
+
+  - Simulating court proceedings with AI agents
+
+  - Research on legal AI evaluation
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,45 @@
+name: Parsee Datasets
+description: Collection of datasets, case studies and benchmarks for extracting
+  structured information from PDFs, HTML files and images, created by the
+  Parsee.ai team for document AI evaluation.
+source_url: https://github.com/parseeai/parsee-datasets
+category: Data Processing
+tags:
+  - document-AI
+  - information-extraction
+  - benchmarks
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Parsee Datasets is a collection of datasets, case studies, and benchmarks
+  designed for evaluating structured information extraction from various
+  document formats. Created by the Parsee.ai team, it covers PDFs, HTML files,
+  and images.
+
+
+  ## Features
+
+
+  - Datasets for document information extraction
+
+  - Covers PDFs, HTML files, and images
+
+  - Benchmark case studies
+
+  - Evaluation metrics for extraction accuracy
+
+  - Supports document AI development
+
+
+  ## Use Cases
+
+
+  - Benchmarking document AI extraction tools
+
+  - Evaluating information extraction from various formats
+
+  - Research on document understanding systems
+brand: Parsee.ai
+updated_at: 2026-04-05 00:22

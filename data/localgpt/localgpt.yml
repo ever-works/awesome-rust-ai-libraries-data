@@ -1,0 +1,35 @@
+name: LocalGPT
+description: An open-source project for secure, private document interactions
+  locally, featuring comprehensive model support, embeddings, API for RAG
+  applications, and GUI options with a focus on privacy.
+source_url: https://github.com/PromtEngineer/localGPT
+category: AI Assistants
+tags:
+  - local
+  - privacy
+  - document-chat
+markdown: >-
+  ## Overview
+
+
+  LocalGPT enables private, offline interactions with documents through local AI
+  processing.
+
+
+  ## Features
+
+
+  - Comprehensive model support
+
+  - Embedding capabilities
+
+  - RAG application API
+
+  - GUI options
+
+  - Privacy-first local processing
+
+  - Secure document interaction
+
+  - No data sent to external servers
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,11 @@
+name: rust-cv-convert
+description: Type conversion library among popular Rust computer vision
+  libraries. Simplifies interoperability between different CV crates in the Rust
+  ecosystem.
+source_url: https://github.com/NilsTUD/rust-cv-convert
+category: Computer Vision
+tags:
+  - type-conversion
+  - interoperability
+featured: false
+updated_at: 2026-04-05 00:22

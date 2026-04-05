@@ -1,0 +1,37 @@
+name: IntelliAgent
+description: "Chatbot Portal with Agent: a streamlined workflow for building
+  agent-based applications. Provides an accessible interface for creating and
+  deploying AI agents."
+source_url: https://github.com/anthropics/IntelliAgent
+category: Frameworks
+tags:
+  - agent-building
+  - portal
+  - workflow
+markdown: >-
+  ## Overview
+
+
+  IntelliAgent is a Chatbot Portal with Agent providing a streamlined workflow
+  for building agent-based applications.
+
+
+  ## Features
+
+
+  - Streamlined agent-building workflow
+
+  - Chatbot portal interface
+
+  - Agent deployment capabilities
+
+  - Simplified application creation
+
+  - Built-in agent orchestration
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

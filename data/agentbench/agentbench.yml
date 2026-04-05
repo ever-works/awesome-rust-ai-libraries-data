@@ -1,0 +1,35 @@
+name: AgentBench
+description: Benchmark designed to evaluate Large Language Models as agents
+  across a diverse set of environments, enhancing framework usability and
+  extending model evaluations.
+source_url: https://github.com/THUDM/AgentBench
+category: Agentic Systems
+tags:
+  - benchmarking
+  - evaluation
+  - llm
+markdown: >-
+  ## Overview
+
+
+  AgentBench v0.2 is a benchmark designed to evaluate Large Language Models as
+  agents across diverse environments.
+
+
+  ## Features
+
+
+  - Multi-environment evaluation
+
+  - Enhanced framework usability
+
+  - Extended model evaluations
+
+  - Agent behavior benchmarking
+
+
+  ## Version
+
+
+  Currently at v0.2.
+updated_at: 2026-04-05 00:22

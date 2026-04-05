@@ -1,0 +1,12 @@
+name: simsearch-rs
+description: A simple and lightweight fuzzy search engine that works in memory,
+  searching for similar strings. Provides fast fuzzy matching for small to
+  medium sized text datasets without requiring external dependencies.
+source_url: https://github.com/andylokandy/simsearch-rs
+category: Search
+tags:
+  - fuzzy-search
+  - in-memory
+  - lightweight
+featured: false
+updated_at: 2026-04-05 00:22

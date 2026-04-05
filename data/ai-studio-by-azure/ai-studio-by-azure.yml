@@ -1,0 +1,32 @@
+name: AI Studio by Azure
+description: Platform for developing generative AI applications and custom
+  copilots, featuring prebuilt models, training capabilities, free Azure Cosmos
+  DB access, and built-in security.
+source_url: https://ai.azure.com
+category: Agentic Systems
+tags:
+  - generative-ai
+  - copilot
+  - azure
+markdown: >-
+  ## Overview
+
+
+  Azure AI Studio offers a platform for developing generative AI applications
+  and custom copilots.
+
+
+  ## Features
+
+
+  - Prebuilt models
+
+  - Training capabilities
+
+  - Free Azure Cosmos DB access for 90 days
+
+  - Built-in security
+
+  - No extra charge during preview
+brand: Microsoft
+updated_at: 2026-04-05 00:22

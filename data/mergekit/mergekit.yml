@@ -1,0 +1,31 @@
+name: MergeKit
+description: Arcee AI's toolkit for merging pre-trained large language models,
+  enabling the creation of more versatile AI systems by combining knowledge from
+  different sources.
+source_url: https://github.com/arcee-ai/mergekit
+category: Machine Learning
+tags:
+  - model-merging
+  - llm
+  - open-source
+markdown: >-
+  ## Overview
+
+
+  MergeKit by Arcee AI provides tools for merging pre-trained large language
+  models to create more capable AI systems.
+
+
+  ## Features
+
+
+  - Pre-trained LLM merging
+
+  - Knowledge combination from multiple models
+
+  - Enhanced model versatility
+
+  - Similar capabilities to RAG through model fusion
+
+  - Open-source implementation
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,40 @@
+name: IBM Bee
+description: IBM's open-source framework for building scalable agentic
+  applications, providing tools and abstractions for developing enterprise-grade
+  AI agent systems.
+source_url: https://github.com/i-am-bee/bee-agent-framework
+category: Agentic Systems
+tags:
+  - enterprise
+  - scalable
+  - ibm
+markdown: >-
+  ## Overview
+
+
+  IBM Bee is the framework for building scalable agentic applications, backed by
+  IBM's open-source initiative.
+
+
+  ## Features
+
+
+  - Scalable agentic application architecture
+
+  - Enterprise-grade capabilities
+
+  - Modular component design
+
+  - Multi-agent coordination
+
+  - IBM ecosystem integration
+
+  - Production-ready abstractions
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: IBM
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,33 @@
+name: LiteLLM
+description: A library that provides OpenAI API-compatible proxy support and
+  added support for the OpenAI Assistants API, enabling seamless integration of
+  stateful operations and automatic RAG pipelines into existing chatbots.
+source_url: https://github.com/BerriAI/litellm
+category: LLM Tools
+tags:
+  - proxy
+  - openai-compatible
+  - multi-model
+markdown: >-
+  ## Overview
+
+
+  LiteLLM provides a unified interface and proxy for accessing multiple LLM
+  providers through an OpenAI-compatible API.
+
+
+  ## Features
+
+
+  - OpenAI API-compatible proxy
+
+  - OpenAI Assistants API support
+
+  - Stateful operation integration
+
+  - Automatic RAG pipeline integration
+
+  - Multi-model support
+
+  - Existing chatbot compatibility
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,41 @@
+name: Gated 402 API
+description: An API using a Stacks smart contract to control access, issuing a
+  200 status for access approval and a 402 with payment instructions for denial,
+  enabling micropayment-gated API access.
+source_url: https://github.com/pseudozach/gated-402-api
+category: API Clients
+tags:
+  - smart-contracts
+  - micropayments
+  - stacks
+markdown: >-
+  ## Overview
+
+
+  Gated 402 API is a payment-gated API system that uses Stacks smart contracts
+  to control access through micropayments.
+
+
+  ## Features
+
+
+  - Smart contract-based access control on Stacks blockchain
+
+  - HTTP 200 status for approved access
+
+  - HTTP 402 status with payment instructions for denied access
+
+  - Micropayment infrastructure
+
+  - Automated payment verification
+
+
+  ## Use Cases
+
+
+  - Monetizing API endpoints
+
+  - Pay-per-use service models
+
+  - Blockchain-based access control
+updated_at: 2026-04-05 00:22

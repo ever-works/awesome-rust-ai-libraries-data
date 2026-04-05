@@ -1,0 +1,47 @@
+name: maidenx
+description: A lightweight and fast AI framework in Rust focused on simplicity
+  and performance, with an educational focus that mirrors PyTorch's architecture
+  for ease of learning and adoption.
+source_url: https://crates.io/crates/maidenx
+category: Machine Learning
+tags:
+  - lightweight
+  - educational
+  - pytorch-like
+featured: false
+markdown: >-
+  ## Overview
+
+
+  maidenx is a lightweight and fast AI framework in Rust that emphasizes
+  simplicity and performance. It is designed with an educational focus,
+  mirroring PyTorch's architecture to make it approachable for developers
+  familiar with PyTorch.
+
+
+  ## Features
+
+
+  - Lightweight design for fast execution
+
+  - Educational focus for learning neural network concepts
+
+  - Architecture mirrors PyTorch for familiarity
+
+  - CPU and CUDA backend support
+
+
+  ## Backend Support
+
+
+  - CPU: Host-side computation
+
+  - CUDA: NVIDIA GPU acceleration
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: maidenx
+updated_at: 2026-04-05 00:22

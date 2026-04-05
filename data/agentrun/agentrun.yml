@@ -1,0 +1,28 @@
+name: AgentRun
+description: Fast and easy platform to run AI-generated Python code safely,
+  providing a secure execution environment for AI code outputs.
+source_url: https://github.com/AgentRun-AgentRun/agentrun
+category: Agentic Systems
+tags:
+  - python
+  - safe-execution
+  - sandbox
+markdown: >-
+  ## Overview
+
+
+  AgentRun provides the easiest and fastest way to run AI-generated Python code
+  safely.
+
+
+  ## Features
+
+
+  - Safe Python code execution
+
+  - Fast runtime
+
+  - Security isolation
+
+  - AI output execution support
+updated_at: 2026-04-05 00:22

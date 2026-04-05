@@ -1,0 +1,48 @@
+name: Autonomous-GPT
+description: Framework for autonomous GPT agents with internet access, long-term
+  memory, goal-oriented behavior, file operations, and command execution
+  capabilities.
+source_url: https://github.com/SidU/autonomous-gpt
+category: Agentic Systems
+tags:
+  - autonomous
+  - goal-oriented
+  - long-term-memory
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Autonomous-GPT is a framework for building autonomous AI agents powered by GPT
+  models that can operate independently to achieve defined goals.
+
+
+  ## Features
+
+
+  - Internet access capabilities for real-time information retrieval
+
+  - Long-term memory for persistent context across sessions
+
+  - Goal-oriented behavior for directed autonomous operation
+
+  - File operations for reading and writing files
+
+  - Command execution for system-level task automation
+
+
+  ## Technical Details
+
+
+  - Language: Python
+
+  - License: NOASSERTION
+
+  - 179,412 GitHub stars
+
+
+  ## Pricing
+
+
+  Open-source.
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,48 @@
+name: Flappy
+description: Production-ready Rust LLM agent SDK with type-safe agent
+  development, multi-language support, performance optimization, and
+  developer-friendly design.
+source_url: https://github.com/flappy-ai/flappy
+category: Agentic Systems
+tags:
+  - rust
+  - production-grade
+  - performance-optimized
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Flappy is a production-ready LLM agent SDK written in Rust that provides
+  type-safe agent development with performance optimization.
+
+
+  ## Features
+
+
+  - Production-grade reliability for real-world deployments
+
+  - Type-safe agent development leveraging Rust's type system
+
+  - Multi-language support for broader ecosystem integration
+
+  - Performance optimized with Rust's zero-cost abstractions
+
+  - Developer-friendly SDK design
+
+
+  ## Technical Details
+
+
+  - Language: Rust
+
+  - License: Apache-2.0
+
+  - 307 GitHub stars
+
+
+  ## Pricing
+
+
+  Open-source under the Apache-2.0 license.
+updated_at: 2026-04-05 00:22

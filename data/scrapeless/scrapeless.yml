@@ -1,0 +1,43 @@
+name: Scrapeless
+description: Enterprise-grade, AI-driven web scraping toolkit with a powerful
+  Scraping Browser for AI agents and automation. Features stealth mode, CAPTCHA
+  bypassing, high concurrency, and Puppeteer/Playwright integration.
+source_url: https://scrapeless.com
+category: Scraping
+tags:
+  - enterprise
+  - captcha-bypass
+  - stealth-mode
+markdown: >-
+  ## Overview
+
+
+  Scrapeless provides an enterprise-grade, AI-driven web scraping toolkit with a
+  powerful Scraping Browser for AI agents and automation.
+
+
+  ## Features
+
+
+  - Stealth mode
+
+  - CAPTCHA bypassing
+
+  - High concurrency support
+
+  - Puppeteer and Playwright integration
+
+  - Universal Scraping API
+
+  - Scraping API
+
+  - Deep SerpApi
+
+  - Rotating proxies
+
+
+  ## Pricing
+
+
+  See website for current pricing.
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,34 @@
+name: Waii
+description: Swift and straightforward AI agent for converting natural language
+  to SQL queries, seamlessly integrable with applications.
+source_url: https://www.waii.com
+category: LLM Tools
+tags:
+  - text-to-sql
+  - natural-language
+  - data-query
+markdown: >-
+  ## Overview
+
+
+  Waii is a swift and straightforward AI agent for converting natural language
+  to SQL queries.
+
+
+  ## Features
+
+
+  - Natural language to SQL conversion
+
+  - Seamless application integration
+
+  - Quick query generation
+
+  - AI-powered understanding
+
+
+  ## Pricing
+
+
+  See website for current pricing.
+updated_at: 2026-04-05 00:22

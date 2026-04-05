@@ -1,0 +1,32 @@
+name: Lumos
+description: A modular, open-source language agent framework with unified data
+  formats that competes with or outperforms GPT-series and larger agents across
+  various complex interactive tasks.
+source_url: https://github.com/allenai/lumos
+category: Agentic Systems
+tags:
+  - modular
+  - open-source
+  - unified-formats
+markdown: >-
+  ## Overview
+
+
+  Lumos is an open-source language agent framework that uses unified data
+  formats and modular architecture to achieve competitive performance on complex
+  interactive tasks.
+
+
+  ## Features
+
+
+  - Modular architecture
+
+  - Unified data formats
+
+  - Competitive with GPT-series agents
+
+  - Performs well on complex interactive tasks
+
+  - Open-source implementation
+updated_at: 2026-04-05 00:22

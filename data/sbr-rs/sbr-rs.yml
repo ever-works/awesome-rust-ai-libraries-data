@@ -1,0 +1,12 @@
+name: sbr-rs
+description: Deep recommender systems framework for Rust. Implements
+  state-of-the-art neural recommendation algorithms for building
+  production-quality recommendation engines.
+source_url: https://github.com/maciejkula/sbr-rs
+category: Recommendation
+tags:
+  - deep-learning
+  - recommender
+  - neural
+featured: false
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,40 @@
+name: Hugging Face Hub (hf-hub)
+description: Rust client to download models and datasets from the Hugging Face
+  Hub, mirroring the functionality of the Python huggingface_hub library.
+  Essential for accessing the Hugging Face model ecosystem from Rust.
+source_url: https://crates.io/crates/hf-hub
+category: API Clients
+tags:
+  - huggingface
+  - model-hub
+  - downloads
+featured: false
+markdown: >-
+  ## Overview
+
+
+  hf-hub is a Rust client for the Hugging Face Hub, enabling programmatic
+  downloads of models and datasets. It mirrors many features of the Python
+  huggingface_hub library, bridging the gap between Rust and the Hugging Face
+  ecosystem.
+
+
+  ## Features
+
+
+  - Download models from the Hugging Face Hub
+
+  - Download datasets from the Hub
+
+  - Mirrors Python huggingface_hub functionality
+
+  - Authentication and repository management support
+
+
+  ## Status
+
+
+  Active development.
+brand: Hugging Face
+brand_logo_url: https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg
+updated_at: 2026-04-05 00:22

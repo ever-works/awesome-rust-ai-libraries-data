@@ -1,0 +1,12 @@
+name: rust-kmedoids
+description: k-Medoids clustering in Rust with the FasterPAM algorithm. Provides
+  a robust clustering alternative to k-means that is less sensitive to outliers
+  and works with arbitrary distance metrics.
+source_url: https://github.com/kno10/rust-kmedoids
+category: Clustering
+tags:
+  - k-medoids
+  - clustering
+  - fasterpam
+featured: false
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,38 @@
+name: Tarsier
+description: Open-source utility library by Reworkd aimed at enhancing web
+  interaction for AI agents by visually tagging interactable elements,
+  facilitating actions based on text or screenshots for GPT-4(V) with OCR
+  utilities.
+source_url: https://github.com/reworkd/tarsier
+category: AI Tools
+tags:
+  - web-interaction
+  - ocr
+  - visual-tagging
+markdown: >-
+  ## Overview
+
+
+  Tarsier is an open-source utility library by Reworkd, aimed at enhancing web
+  interaction for AI agents.
+
+
+  ## Features
+
+
+  - Visually tags interactable elements
+
+  - Supports actions based on text or screenshots
+
+  - GPT-4(V) compatibility
+
+  - OCR utilities
+
+  - Web interaction enhancement
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

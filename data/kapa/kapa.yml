@@ -1,0 +1,37 @@
+name: Kapa
+description: An AI-powered chatbot service for developers that automates
+  answering technical questions by learning from technical resources, helping
+  identify documentation gaps with features including data security, PII
+  anonymization, and continuous updating.
+source_url: https://www.kapa.ai
+category: AI Assistants
+tags:
+  - developer-tools
+  - documentation
+  - chatbot
+markdown: >-
+  ## Overview
+
+
+  Kapa.ai offers AI-powered chatbot services specifically designed for developer
+  technical support, learning from documentation and resources to provide
+  accurate answers.
+
+
+  ## Features
+
+
+  - Automated technical question answering
+
+  - Learning from technical documentation
+
+  - Documentation gap identification
+
+  - Data security
+
+  - PII anonymization
+
+  - Continuous knowledge updates
+
+  - Multi-source knowledge integration
+updated_at: 2026-04-05 00:22

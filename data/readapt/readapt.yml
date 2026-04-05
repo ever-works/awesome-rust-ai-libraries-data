@@ -1,0 +1,36 @@
+name: Readapt
+description: A Rust library for reinforcement learning that provides tools for
+  training artificial agents. The name reflects the concept of an agent
+  persistently learning and relearning through repeated attempts to achieve a
+  goal.
+source_url: https://github.com/vagmcs/readapt
+category: Reinforcement Learning
+tags:
+  - reinforcement-learning
+  - open-source
+  - rust
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Readapt is a reinforcement learning library written in Rust. The term
+  "readapt" signifies an artificial agent caught in a continuous cycle of
+  learning and relearning — persistently adapting through repeated attempts to
+  achieve a goal.
+
+
+  ## License
+
+
+  MIT license.
+
+
+  ## Contributing
+
+
+  The project accepts contributions via pull requests. See the CONTRIBUTING.md
+  file in the repository for guidelines.
+brand: vagmcs
+brand_logo_url: https://github.com/vagmcs.png
+updated_at: 2026-04-05 00:22

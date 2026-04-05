@@ -1,0 +1,40 @@
+name: WONNX
+description: 100% Rust ONNX inference runtime built on wgpu (WebGPU), enabling
+  execution of ONNX models both natively and in browser environments. A fully
+  native alternative to C++-based ONNX runtimes.
+source_url: https://crates.io/crates/wonnx
+category: Model Inference
+tags:
+  - onnx
+  - webgpu
+  - webassembly
+featured: false
+markdown: >-
+  ## Overview
+
+
+  WONNX is a fully native Rust implementation of an ONNX inference runtime based
+  on wgpu (WebGPU). Unlike wrapper bindings to C++ libraries, it implements ONNX
+  operators entirely in Rust, enabling model execution both in native
+  applications and via WebAssembly in web browsers.
+
+
+  ## Features
+
+
+  - 100% Rust ONNX inference runtime with no C++ FFI
+
+  - Built on wgpu (WebGPU) for GPU-accelerated inference
+
+  - Runs natively and in WebAssembly/browser environments
+
+  - Supports a growing set of ONNX operators
+
+  - Zero external runtime dependencies beyond wgpu
+
+
+  ## Status
+
+
+  Active development.
+updated_at: 2026-04-05 00:22

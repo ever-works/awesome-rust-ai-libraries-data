@@ -1,0 +1,22 @@
+name: Axflow
+description: TypeScript framework designed for AI development, offering a
+  modular collection of tools for building natural language applications with a
+  code-first approach.
+source_url: https://axflow.dev
+category: LLM Tools
+tags:
+  - typescript
+  - modular
+  - natural-language
+markdown: |-
+  ## Overview
+
+  Axflow is a TypeScript framework designed for AI development.
+
+  ## Features
+
+  - Modular tool collection
+  - Natural language application building
+  - Code-first approach
+  - LLM integration into scalable solutions
+updated_at: 2026-04-05 00:22

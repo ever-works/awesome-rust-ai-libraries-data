@@ -1,0 +1,39 @@
+name: Tokengrams
+description: Tool from EleutherAI for computing and storing token n-grams from
+  large text corpora. Designed for dataset analysis and understanding
+  token-level patterns in language model training data.
+source_url: https://github.com/EleutherAI/tokengrams
+category: Text Processing
+tags:
+  - n-grams
+  - dataset-analysis
+  - eleutherai
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Tokengrams is a tool developed by EleutherAI for computing and storing token
+  n-grams from large text corpora. It aids in dataset analysis by revealing
+  token-level patterns, co-occurrence statistics, and frequency distributions in
+  training data.
+
+
+  ## Features
+
+
+  - Computes token n-grams from large text corpora
+
+  - Efficient storage and retrieval of n-gram statistics
+
+  - Designed for dataset analysis in language model research
+
+  - Supports analysis of token-level patterns and frequencies
+
+
+  ## Status
+
+
+  Experimental
+brand: EleutherAI
+updated_at: 2026-04-05 00:22

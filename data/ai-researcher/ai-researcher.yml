@@ -1,0 +1,38 @@
+name: AI Researcher
+description: AI agent leveraging Claude 3 and SERPAPI for in-depth topic
+  research, refining subtopic analyses into a comprehensive report with
+  customizable parameters.
+source_url: https://github.com/anthropics/ai-researcher
+category: AI Agents
+tags:
+  - research
+  - claude-3
+  - serp-api
+markdown: >-
+  ## Overview
+
+
+  The AI Researcher is an AI agent that leverages Claude 3 and SERPAPI for
+  in-depth topic research, refining subtopic analyses into comprehensive
+  reports.
+
+
+  ## Features
+
+
+  - Claude 3 integration for analysis
+
+  - SERPAPI for web search
+
+  - Subtopic refinement and analysis
+
+  - Comprehensive report generation
+
+  - Customizable research parameters
+
+
+  ## Requirements
+
+
+  Requires API keys for Claude 3 and SERPAPI functionality.
+updated_at: 2026-04-05 00:22

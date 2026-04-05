@@ -1,0 +1,12 @@
+name: blingfire-rs
+description: Rust wrapper for the BlingFire tokenization library, providing fast
+  and efficient text tokenization for NLP pipelines with support for multiple
+  languages and model formats.
+source_url: https://github.com/reinfer/blingfire-rs
+category: NLP
+tags:
+  - tokenization
+  - blingfire
+  - fast
+featured: false
+updated_at: 2026-04-05 00:22

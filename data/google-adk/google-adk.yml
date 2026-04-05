@@ -1,0 +1,49 @@
+name: Google ADK
+description: Google's Agent Development Kit for building, evaluating, and
+  deploying AI agents with code-first development, modular multi-agent systems,
+  and cloud-native deployment.
+source_url: https://github.com/google/adk
+category: Agentic Systems
+tags:
+  - google
+  - deployment
+  - code-first
+featured: true
+markdown: >-
+  ## Overview
+
+
+  The Google Agent Development Kit (ADK) provides tools for building,
+  evaluating, and deploying production-ready AI agents with a code-first
+  approach.
+
+
+  ## Features
+
+
+  - Code-first development approach for programmatic agent building
+
+  - Modular multi-agent systems for complex orchestrations
+
+  - Model-agnostic and deployment-agnostic design
+
+  - Built-in developer UI (adk-web) for visualization and debugging
+
+  - Deploy on Cloud Run or Vertex AI for scalable production
+
+
+  ## Technical Details
+
+
+  - Language: Python
+
+  - License: Apache-2.0
+
+  - 18,645 GitHub stars
+
+
+  ## Pricing
+
+
+  Open-source under the Apache-2.0 license.
+updated_at: 2026-04-05 00:22

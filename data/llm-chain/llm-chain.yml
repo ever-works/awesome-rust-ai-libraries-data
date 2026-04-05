@@ -3,7 +3,7 @@ description: Rust library for chaining multiple LLMs together to enable complex
   interactions and workflows. Supports integration with various LLM backends for
   building advanced AI applications.
 source_url: https://github.com/sobelio/llm-chain
-category: Inference
+category: Model Inference
 tags:
   - open-source
   - llm-chaining
@@ -29,4 +29,4 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-04-01 12:33
+updated_at: 2026-04-05 00:22

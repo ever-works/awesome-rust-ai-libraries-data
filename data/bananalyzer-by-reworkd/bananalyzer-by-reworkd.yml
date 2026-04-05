@@ -1,0 +1,23 @@
+name: Bananalyzer by Reworkd
+description: Framework for evaluating AI agents on web tasks, utilizing
+  Playwright for creating diverse datasets of website snapshots for reliable
+  assessments.
+source_url: https://github.com/reworkd/bananalyzer
+category: Agentic Systems
+tags:
+  - evaluation
+  - web-tasks
+  - playwright
+markdown: |-
+  ## Overview
+
+  Bananalyzer is a framework for evaluating AI agents on web tasks.
+
+  ## Features
+
+  - Playwright-based web task evaluation
+  - Diverse website snapshot datasets
+  - Reliable and varied assessments
+  - Agent benchmarking
+brand: Reworkd
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,10 @@
+name: Floki
+description: Framework designed to simplify agentic workflows, enabling
+  developers to build and manage AI agent pipelines with minimal complexity.
+source_url: https://github.com/The-Pocket/Floki
+category: Frameworks & SDKs
+tags:
+  - agentic
+  - workflow
+  - ai-agents
+updated_at: 2026-04-05 00:22

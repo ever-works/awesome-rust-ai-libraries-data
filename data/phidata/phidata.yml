@@ -1,0 +1,41 @@
+name: Phidata
+description: Framework for building multi-modal AI Agents with memory,
+  knowledge, tools, and reasoning capabilities, featuring a beautiful Agent UI
+  for conversational interaction.
+source_url: https://github.com/phidatahq/phidata
+category: Agentic Systems
+tags:
+  - multi-modal
+  - tools
+  - memory
+markdown: >-
+  ## Overview
+
+
+  Phidata is a framework for building multi-modal AI Agents with comprehensive
+  capabilities including memory, knowledge, tools, and reasoning.
+
+
+  ## Features
+
+
+  - Multi-modal agent support
+
+  - Persistent memory systems
+
+  - Knowledge base integration
+
+  - Tool execution capabilities
+
+  - Agent reasoning capabilities
+
+  - Beautiful Agent UI for chat interface
+
+  - Conversational AI integration
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

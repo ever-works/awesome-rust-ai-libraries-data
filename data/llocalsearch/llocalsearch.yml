@@ -1,0 +1,39 @@
+name: LLocalSearch
+description: Completely locally running search aggregator using LLM Agents.
+  Users can ask questions and the system uses a chain of LLMs to find answers,
+  with visible agent progress. No OpenAI or Google API keys needed.
+source_url: https://github.com/nikolaykhodov/llocalsearch
+category: Search
+tags:
+  - local
+  - privacy
+  - multi-llm
+markdown: >-
+  ## Overview
+
+
+  LLocalSearch is a completely locally running search aggregator using LLM
+  Agents.
+
+
+  ## Features
+
+
+  - Fully local operation
+
+  - LLM Agent-based search
+
+  - Chain of LLMs for answer finding
+
+  - Visible agent progress tracking
+
+  - No OpenAI or Google API keys required
+
+  - Privacy-preserving
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

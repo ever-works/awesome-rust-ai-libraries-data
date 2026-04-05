@@ -1,0 +1,44 @@
+name: Kwaak
+description: Kwaak is an AI-powered software development agent written in Rust
+  that provides code analysis, automated refactoring, repository understanding,
+  and multi-file editing capabilities. It supports use cases such as automated
+  code review, development assistance, and documentation generation. The project
+  is available at https://github.com/bosun-ai/kwaak and orchestrates AI coding
+  workflows to accelerate software development tasks.
+source_url: https://github.com/bosun-ai/kwaak
+category: AI Agents
+tags:
+  - coding-agent
+  - parallel
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Kwaak is an open-source application from Bosun AI that orchestrates multiple
+  AI coding agents running in parallel on a codebase. Built on Swiftide, it
+  leverages Rust's concurrency capabilities to coordinate multiple agents
+  simultaneously.
+
+
+  ## Features
+
+
+  - Runs multiple AI coding agents in parallel
+
+  - Code analysis and modification workflows
+
+  - Built on the Swiftide framework
+
+  - Open-source implementation
+
+  - Concurrent agent orchestration
+
+
+  ## Status
+
+
+  Active development.
+brand: Bosun AI
+updated_at: 2026-04-05 00:22

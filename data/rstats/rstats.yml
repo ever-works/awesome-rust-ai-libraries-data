@@ -1,0 +1,12 @@
+name: rstats
+description: Statistics and linear algebra library for Rust providing
+  information measures, Cholesky matrix decomposition, and other statistical
+  computation utilities in pure Rust.
+source_url: https://github.com/graytowne/rstats
+category: Machine Learning
+tags:
+  - statistics
+  - linear-algebra
+  - matrix-decomposition
+featured: false
+updated_at: 2026-04-05 00:22

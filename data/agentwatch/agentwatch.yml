@@ -1,0 +1,39 @@
+name: AgentWatch
+description: Multi-agent observability library with cascade failure detection,
+  heartbeat-based liveness monitoring, cross-agent correlation, and forensic
+  replay. Provides fleet-level monitoring above per-agent tracing tools.
+source_url: https://github.com/anthropics/agentwatch
+category: Monitoring
+tags:
+  - observability
+  - multi-agent
+  - monitoring
+markdown: >-
+  ## Overview
+
+
+  AgentWatch is a multi-agent observability library designed to provide
+  fleet-level monitoring that operates above per-agent tracing tools.
+
+
+  ## Features
+
+
+  - Cascade failure detection across agent networks
+
+  - Heartbeat-based liveness monitoring for agents
+
+  - Cross-agent correlation for understanding inter-agent dependencies
+
+  - Forensic replay for debugging and analysis
+
+  - Fleet-level monitoring dashboard
+
+  - Multi-agent system observability
+
+
+  ## Pricing
+
+
+  Open-source and free to use.
+updated_at: 2026-04-05 00:22

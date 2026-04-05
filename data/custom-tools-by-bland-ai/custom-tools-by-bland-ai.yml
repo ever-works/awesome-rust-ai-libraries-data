@@ -1,0 +1,23 @@
+name: Custom Tools by Bland AI
+description: Custom tools enabling AI agents to interact with any web API
+  mid-call for actions like messaging, scheduling, ticket creation, and CRM
+  updates.
+source_url: https://docs.bland.ai/custom-tools
+category: AI Tools
+tags:
+  - web-api
+  - tool-integration
+  - phone-agents
+markdown: |-
+  ## Overview
+
+  Custom tools by Bland AI enable agents to interact with any web API mid-call.
+
+  ## Features
+
+  - Mid-call API interaction
+  - Message sending
+  - Appointment scheduling
+  - Support ticket creation
+  - CRM system updates
+updated_at: 2026-04-05 00:22

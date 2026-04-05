@@ -1,0 +1,12 @@
+name: Bandit
+description: Bandit algorithms implementation in Rust, providing multi-armed
+  bandit strategies including epsilon-greedy, UCB, Thompson Sampling, and other
+  exploration-exploitation algorithms for online decision making.
+source_url: https://github.com/Ragnaroek/bandit
+category: Machine Learning
+tags:
+  - bandits
+  - online-learning
+  - exploration
+featured: false
+updated_at: 2026-04-05 00:22

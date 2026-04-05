@@ -1,0 +1,12 @@
+name: liblinear-rs
+description: Rust language bindings for the LIBLINEAR C/C++ library, providing
+  fast linear classification algorithms including linear SVM and logistic
+  regression for large-scale sparse data.
+source_url: https://github.com/shadeMe/liblinear-rs
+category: Machine Learning
+tags:
+  - bindings
+  - svm
+  - classification
+featured: false
+updated_at: 2026-04-05 00:22

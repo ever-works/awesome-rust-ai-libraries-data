@@ -1,0 +1,52 @@
+name: Kyanite
+description: A neural network inference library written in Rust, supporting ONNX
+  models and featuring a custom Graph IR for optimized inference execution on
+  CPU and CUDA backends.
+source_url: https://crates.io/crates/kyanite
+category: Model Inference
+tags:
+  - onnx
+  - neural-network
+  - gpu
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Kyanite is a neural network inference library written in Rust. It provides
+  ONNX model support and includes a custom Graph IR for representing and
+  optimizing computation graphs during inference.
+
+
+  ## Features
+
+
+  - Neural network inference execution
+
+  - ONNX model loading and execution
+
+  - Custom Graph IR for computation graph representation
+
+  - CPU and CUDA backend support
+
+
+  ## Backend Support
+
+
+  - CPU: Host-side inference computation
+
+  - CUDA: NVIDIA GPU acceleration via manual CUDA bindings
+
+
+  ## Dependencies
+
+
+  - Manual bindings to CUDA
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: Kyanite
+updated_at: 2026-04-05 00:22

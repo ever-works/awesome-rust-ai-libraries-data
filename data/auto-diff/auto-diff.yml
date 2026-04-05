@@ -1,0 +1,32 @@
+name: auto-diff
+description: A neural network library in Rust providing automatic
+  differentiation capabilities. Designed for building and training neural
+  networks with efficient gradient computation through its autodiff engine.
+source_url: https://crates.io/crates/auto-diff
+category: Differentiation
+tags:
+  - neural-networks
+  - autodiff
+  - deep-learning
+featured: false
+markdown: >-
+  ## Overview
+
+
+  `auto-diff` is a neural network library written in Rust that focuses on
+  automatic differentiation. It provides the core building blocks for
+  constructing and training neural networks, leveraging Rust's performance and
+  safety guarantees.
+
+
+  ## Features
+
+
+  - Automatic differentiation engine
+
+  - Neural network layer implementations
+
+  - Gradient-based training support
+
+  - Rust-first design with performance optimizations
+updated_at: 2026-04-05 00:22

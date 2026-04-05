@@ -1,0 +1,39 @@
+name: Distserve
+description: Disaggregated serving system for Large Language Models (LLMs) that
+  separates prefill and decode phases across different servers for improved
+  efficiency and resource utilization.
+source_url: https://github.com/LLMServe/DistServe
+category: Model Inference
+tags:
+  - distributed
+  - llm-serving
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  DistServe is a disaggregated LLM serving system that separates the prefill and
+  decode phases across different servers, optimizing resource allocation and
+  improving overall throughput.
+
+
+  ## Features
+
+
+  - Separates prefill and decode computation phases
+
+  - Optimizes resource allocation across servers
+
+  - Improved throughput for LLM serving
+
+  - Handles variable request patterns efficiently
+
+  - Disaggregated architecture for scalability
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

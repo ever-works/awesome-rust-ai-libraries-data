@@ -1,0 +1,12 @@
+name: tensorrt-rs
+description: Rust library for running TensorRT-accelerated deep learning models.
+  Provides bindings to NVIDIA TensorRT, enabling high-performance GPU inference
+  for deep neural networks on NVIDIA hardware.
+source_url: https://github.com/mstallmo/tensorrt-rs
+category: Model Inference
+tags:
+  - tensorrt
+  - nvidia
+  - gpu-accelerated
+featured: false
+updated_at: 2026-04-05 00:22

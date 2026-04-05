@@ -1,0 +1,12 @@
+name: tinysearch
+description: A tiny, full-text search engine for static websites built with Rust
+  and WebAssembly. Provides lightweight, fast search capabilities that can be
+  embedded directly into static sites without requiring a backend server.
+source_url: https://github.com/tinysearch/tinysearch
+category: Search
+tags:
+  - wasm
+  - full-text-search
+  - static-sites
+featured: false
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,24 @@
+name: Devon
+description: Aimed at perfecting code correction for fill-in-the-middle, bug
+  spotting, and completion tasks, using JSON for metadata in edits with looping
+  until user termination.
+source_url: https://github.com/anthropics/devon
+category: Development Tools
+tags:
+  - code-correction
+  - bug-detection
+  - completion
+markdown: |-
+  ## Overview
+
+  Devon aims to perfect code correction tasks.
+
+  ## Features
+
+  - Fill-in-the-middle code correction
+  - Bug spotting
+  - Code completion
+  - JSON metadata for edits
+  - Looping until user termination
+  - Function update support
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,39 @@
+name: KubeAI
+description: AI Inference Operator for Kubernetes providing the easiest way to
+  serve ML models in production, supporting VLMs, LLMs, embeddings, and
+  speech-to-text workloads.
+source_url: https://github.com/substratusai/kubeai
+category: Model Serving
+tags:
+  - kubernetes
+  - inference-operator
+  - production
+featured: false
+markdown: >-
+  ## Overview
+
+
+  KubeAI is a Kubernetes operator that simplifies serving ML models in
+  production. It provides a unified interface for serving various model types
+  including VLMs, LLMs, embeddings, and speech-to-text models.
+
+
+  ## Features
+
+
+  - Kubernetes-native operator architecture
+
+  - Supports VLMs, LLMs, and embeddings
+
+  - Speech-to-text model support
+
+  - Auto-scaling and resource management
+
+  - Simplified deployment workflows
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

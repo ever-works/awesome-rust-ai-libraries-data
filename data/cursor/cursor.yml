@@ -1,0 +1,23 @@
+name: Cursor
+description: AI-enhanced programming editor focusing on code discussion,
+  editing, and debugging, with plans for advanced features like repository
+  healing and AI-generated documentation.
+source_url: https://cursor.sh
+category: AI Assistants
+tags:
+  - editor
+  - debugging
+  - ai-powered
+markdown: |-
+  ## Overview
+
+  Cursor is an AI-enhanced programming editor.
+
+  ## Features
+
+  - Code discussion
+  - Code editing
+  - Debugging assistance
+  - Plans for repository healing
+  - Plans for AI-generated documentation
+updated_at: 2026-04-05 00:22

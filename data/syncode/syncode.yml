@@ -1,0 +1,39 @@
+name: Syncode
+description: Efficient and general syntactical decoding for Large Language
+  Models. Enforces syntactic constraints during generation to produce structured
+  outputs like JSON, code, or domain-specific formats.
+source_url: https://github.com/shubhamugare/syncode
+category: LLM Tools
+tags:
+  - guided-decoding
+  - structured-output
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Syncode enables syntactically constrained decoding for large language models,
+  ensuring generated outputs conform to specific grammatical rules or structured
+  formats like JSON, XML, or code syntax.
+
+
+  ## Features
+
+
+  - Syntactic constraint enforcement during generation
+
+  - Support for multiple output formats
+
+  - Integration with various LLM frameworks
+
+  - Reduces post-processing requirements
+
+  - General-purpose structured output generation
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

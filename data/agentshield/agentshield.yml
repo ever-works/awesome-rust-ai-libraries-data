@@ -1,0 +1,44 @@
+name: AgentShield
+description: Open-source security scanner for AI agent skills, MCP servers, and
+  plugins. Features 30 rules, AST analysis, cross-file tracking, and 5-dimension
+  scoring. Zero install, 100% offline, MIT licensed.
+source_url: https://github.com/oxsecurity/agentshield
+category: AI Agents
+tags:
+  - security
+  - scanner
+  - mcp
+featured: false
+markdown: >-
+  ## Overview
+
+
+  AgentShield is an open-source security scanner specifically designed for AI
+  agent skills, Model Context Protocol (MCP) servers, and plugins.
+
+
+  ## Features
+
+
+  - 30 built-in security rules
+
+  - Abstract Syntax Tree (AST) analysis
+
+  - Cross-file security tracking
+
+  - 5-dimension scoring system
+
+  - Zero installation requirement
+
+  - 100% offline operation
+
+  - MIT licensed
+
+  - Available on npm
+
+
+  ## Pricing
+
+
+  Free and open-source under MIT license.
+updated_at: 2026-04-05 00:22

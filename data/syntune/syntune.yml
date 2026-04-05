@@ -1,0 +1,40 @@
+name: Syntune
+description: Tool for building LLM fine-tuning datasets, providing structured
+  workflows for creating high-quality datasets optimized for language model
+  instruction tuning.
+source_url: https://github.com/syntune/syntune
+category: Data Generation
+tags:
+  - fine-tuning
+  - dataset-creation
+  - instruction-tuning
+markdown: >-
+  ## Overview
+
+
+  Syntune is a tool designed for building LLM fine-tuning datasets. It provides
+  structured workflows for creating high-quality datasets optimized for language
+  model instruction tuning and adaptation.
+
+
+  ## Features
+
+
+  - Dataset building for LLM fine-tuning
+
+  - Instruction tuning workflows
+
+  - Structured data preparation
+
+  - Quality-focused dataset creation
+
+
+  ## Use Cases
+
+
+  - Building fine-tuning datasets
+
+  - Preparing instruction tuning data
+
+  - Dataset curation for LLM training
+updated_at: 2026-04-05 00:22

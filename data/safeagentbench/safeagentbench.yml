@@ -1,0 +1,44 @@
+name: SafeAgentBench
+description: Benchmark for evaluating safe task planning of embodied LLM agents,
+  testing agents' ability to perform tasks while maintaining safety constraints
+  in physical environments.
+source_url: https://github.com/safeagentbench/safeagentbench
+category: AI Agents
+tags:
+  - benchmarking
+  - safety
+  - embodied-agents
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SafeAgentBench is a benchmark designed for evaluating the safety of task
+  planning performed by embodied LLM agents. It tests agents' ability to execute
+  tasks in physical or simulated environments while maintaining safety
+  constraints and avoiding hazardous actions.
+
+
+  ## Features
+
+
+  - Evaluates safe task planning for embodied agents
+
+  - Tests safety constraint adherence
+
+  - Assesses hazard avoidance in agent behaviors
+
+  - Standardized benchmarking for embodied agent safety
+
+  - Supports research on safe robotics and agent behaviors
+
+
+  ## Use Cases
+
+
+  - Benchmarking embodied agent safety
+
+  - Evaluating safe task planning in agents
+
+  - Research on safety-aware agent design
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,49 @@
+name: GenoMAS
+description: Multi-agent framework for scientific discovery and automated data
+  analysis with guided planning, typed message-passing, and domain-agnostic
+  scientific workflow automation.
+source_url: https://github.com/GenoMAS/GenoMAS
+category: Agentic Systems
+tags:
+  - scientific-discovery
+  - data-analysis
+  - typed-message-passing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  GenoMAS is a multi-agent framework specifically designed for scientific
+  discovery workflows and automated data analysis with a domain-agnostic
+  approach.
+
+
+  ## Features
+
+
+  - Guided planning framework for structured scientific workflows
+
+  - Typed message-passing protocol for reliable inter-agent communication
+
+  - Heterogeneous LLM architecture for diverse analytical tasks
+
+  - Domain-agnostic design applicable across scientific fields
+
+  - Scientific workflow automation for reproducible research
+
+
+  ## Technical Details
+
+
+  - Language: Python
+
+  - License: MIT
+
+  - 123 GitHub stars
+
+
+  ## Pricing
+
+
+  Open-source under the MIT license.
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,58 @@
+name: zyx
+description: A tensor library for machine learning in Rust featuring lazy
+  execution and automatic differentiation, with support for CUDA, OpenCL, and
+  WGPU backends for flexible hardware acceleration.
+source_url: https://crates.io/crates/zyx
+category: Machine Learning
+tags:
+  - tensor
+  - autodiff
+  - gpu
+featured: false
+markdown: >-
+  ## Overview
+
+
+  zyx is a tensor library for machine learning in Rust that focuses on efficient
+  tensor operations with lazy execution and automatic differentiation,
+  supporting multiple GPU backends.
+
+
+  ## Features
+
+
+  - Tensor operations for machine learning workloads
+
+  - Lazy execution model for computation optimization
+
+  - Automatic differentiation (AutoDiff) for gradient-based training
+
+  - Multi-backend GPU support: CUDA, OpenCL, WGPU
+
+
+  ## Backend Support
+
+
+  - CUDA: NVIDIA GPU acceleration via manual CUDA bindings
+
+  - OpenCL: Cross-platform GPU acceleration via manual OpenCL bindings
+
+  - WGPU: WebGPU-based acceleration via wgpu and vulkano
+
+
+  ## Dependencies
+
+
+  - wgpu: WebGPU implementation
+
+  - vulkano: Vulkan bindings
+
+  - Manual bindings to CUDA, OpenCL, and HSA
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: zyx
+updated_at: 2026-04-05 00:22

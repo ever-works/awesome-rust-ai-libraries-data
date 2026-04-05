@@ -1,0 +1,12 @@
+name: petal-neighbors
+description: Nearest neighbor search algorithms from Petabi, including a ball
+  tree and a vantage point tree implementation in Rust. Provides efficient
+  approximate nearest neighbor search for high-dimensional data.
+source_url: https://github.com/petabi/petal-neighbors
+category: Vector Search
+tags:
+  - nearest-neighbor
+  - ball-tree
+  - vantage-point
+featured: false
+updated_at: 2026-04-05 00:22

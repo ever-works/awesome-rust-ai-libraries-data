@@ -1,0 +1,36 @@
+name: Agent by Stately AI
+description: Software for building intelligent agents that interact via chat and
+  events, with examples including joke generation, tic-tac-toe, and weather
+  querying.
+source_url: https://github.com/statelyai/agent
+category: Agentic Systems
+tags:
+  - state-machines
+  - interactive
+  - open-source
+markdown: >-
+  ## Overview
+
+
+  Stately Agent is software for building intelligent agents that interact via
+  chat and events.
+
+
+  ## Features
+
+
+  - Chat-based agent interaction
+
+  - Event-driven architecture
+
+  - Pre-built examples (joke generation, tic-tac-toe, weather querying)
+
+  - OpenAI API integration
+
+
+  ## Requirements
+
+
+  Requires installation and an OpenAI API key.
+brand: Stately AI
+updated_at: 2026-04-05 00:22

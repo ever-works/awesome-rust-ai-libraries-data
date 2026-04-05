@@ -1,0 +1,41 @@
+name: Overcooked-AI LLM
+description: Research project applying LLM multi-agent planning on the
+  OvercookedAI benchmark, testing cooperative planning and coordination between
+  language model agents.
+source_url: https://github.com/sisl/overcooked_ai
+category: AI Agents
+tags:
+  - multi-agent
+  - cooperative-planning
+  - research
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Overcooked-AI LLM is a research project that applies LLM multi-agent planning
+  on the OvercookedAI benchmark. It explores how language models can coordinate
+  and cooperate in complex, time-sensitive task environments.
+
+
+  ## Features
+
+
+  - LLM multi-agent planning on Overcooked benchmark
+
+  - Cooperative task coordination evaluation
+
+  - Time-sensitive environment testing
+
+  - Language model collaboration assessment
+
+
+  ## Use Cases
+
+
+  - Research on LLM cooperative planning
+
+  - Evaluating agent coordination capabilities
+
+  - Benchmarking multi-agent collaboration
+updated_at: 2026-04-05 00:22

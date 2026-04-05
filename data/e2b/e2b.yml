@@ -1,0 +1,22 @@
+name: E2B
+description: E2B Sandbox offers secure cloud environments tailored for AI agents
+  and apps, facilitating long-running sessions with various tools and LLM
+  integration.
+source_url: https://e2b.dev
+category: Agentic Systems
+tags:
+  - sandbox
+  - cloud
+  - secure
+markdown: |-
+  ## Overview
+
+  E2B Sandbox offers secure cloud environments for AI agents and apps.
+
+  ## Features
+
+  - Secure cloud environments
+  - Long-running session support
+  - Various tools integration
+  - Any LLM compatibility
+updated_at: 2026-04-05 00:22

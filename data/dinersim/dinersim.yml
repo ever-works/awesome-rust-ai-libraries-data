@@ -1,0 +1,43 @@
+name: DinerSim
+description: Restaurant simulation benchmark for evaluating LLM-based
+  multi-agent cooperation, testing collaborative planning and coordination in a
+  simulated restaurant environment.
+source_url: https://github.com/dinersim/dinersim
+category: AI Agents
+tags:
+  - benchmarking
+  - multi-agent-cooperation
+  - simulation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  DinerSim is a restaurant simulation benchmark designed to evaluate LLM-based
+  multi-agent cooperation capabilities. It tests agents' ability to collaborate,
+  coordinate roles, and manage tasks in a simulated restaurant environment.
+
+
+  ## Features
+
+
+  - Restaurant simulation environment
+
+  - Multi-agent cooperation evaluation
+
+  - Collaborative task planning assessment
+
+  - Role-based agent coordination testing
+
+  - Standardized simulation benchmark
+
+
+  ## Use Cases
+
+
+  - Benchmarking multi-agent cooperation
+
+  - Evaluating collaborative task planning
+
+  - Research on agent coordination strategies
+updated_at: 2026-04-05 00:22

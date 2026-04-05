@@ -1,0 +1,23 @@
+name: Browserbase
+description: Managed headless web browser API with robust features like session
+  recording, logging, and debugging, ensuring secure connections to isolated web
+  browsers.
+source_url: https://www.browserbase.com
+category: AI Tools
+tags:
+  - headless-browser
+  - debugging
+  - cloud
+markdown: |-
+  ## Overview
+
+  Browserbase offers a managed headless web browser API.
+
+  ## Features
+
+  - Session recording
+  - Logging capabilities
+  - Debugging tools
+  - Secure connections
+  - Isolated web browser environments
+updated_at: 2026-04-05 00:22

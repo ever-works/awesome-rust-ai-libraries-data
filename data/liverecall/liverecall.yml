@@ -1,0 +1,46 @@
+name: LiveRecall
+description: An open-source alternative to Microsoft's Recall that utilizes
+  semantic search and encryption to capture and retrieve screen snapshots,
+  enabling AI agents to assist with research and task augmentation based on
+  indexed personal activities.
+source_url: https://github.com/live-recall/live-recall
+category: Memory
+tags:
+  - screen-capture
+  - semantic-search
+  - privacy
+markdown: >-
+  ## Overview
+
+
+  LiveRecall is an open-source tool for capturing, indexing, and retrieving
+  screen activity snapshots using semantic search.
+
+
+  ## Features
+
+
+  - Screen snapshot capture and indexing
+
+  - Semantic search for activity retrieval
+
+  - Encryption for privacy
+
+  - AI agent assistance for research
+
+  - Task augmentation based on personal activity history
+
+  - Open-source alternative to Microsoft Recall
+
+
+  ## Use Cases
+
+
+  - Personal productivity enhancement
+
+  - Research and content creation assistance
+
+  - Journaling and blog post creation
+
+  - Activity-based knowledge retrieval
+updated_at: 2026-04-05 00:22

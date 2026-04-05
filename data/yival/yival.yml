@@ -1,0 +1,39 @@
+name: YiVal
+description: Automatic Prompt Engineering Assistant for GenAI Applications. An
+  open-source platform for evaluating, tuning and optimizing prompts, model
+  configs, and retrieval parameters.
+source_url: https://github.com/YiVal/YiVal
+category: LLM Tools
+tags:
+  - prompt-engineering
+  - evaluation
+  - tuning
+featured: false
+markdown: >-
+  ## Overview
+
+
+  YiVal is an automatic prompt engineering assistant for building, evaluating,
+  and optimizing generative AI applications. It provides a systematic way to
+  refine prompts, model configurations, and retrieval strategies.
+
+
+  ## Features
+
+
+  - Automated prompt optimization
+
+  - Model configuration tuning
+
+  - Retrieval parameter optimization
+
+  - Evaluation and benchmarking tools
+
+  - Open-source prompt engineering workflow
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,43 @@
+name: ShampooSalesAgent
+description: A minimal LLM sales agent framework for fast deployment and
+  benchmarking, supporting OpenAI models, Claude, and HuggingFace models for
+  sales automation tasks.
+source_url: https://github.com/shampoosalesagent/shampoosalesagent
+category: AI Agents
+tags:
+  - sales-automation
+  - benchmarking
+  - multi-model
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ShampooSalesAgent is a minimal LLM sales agent framework designed for fast
+  deployment and benchmarking. It supports multiple model providers including
+  OpenAI, Claude, and HuggingFace models for sales automation tasks.
+
+
+  ## Features
+
+
+  - Minimal LLM sales agent framework
+
+  - Fast deployment capabilities
+
+  - Supports OpenAI, Claude, and HuggingFace models
+
+  - Built-in benchmarking support
+
+  - Sales automation workflows
+
+
+  ## Use Cases
+
+
+  - Rapid sales agent deployment
+
+  - Benchmarking sales AI agents
+
+  - Multi-model agent comparison
+updated_at: 2026-04-05 00:22

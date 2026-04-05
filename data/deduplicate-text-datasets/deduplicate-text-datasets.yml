@@ -1,0 +1,14 @@
+name: deduplicate-text-datasets
+description: A repository containing code to deduplicate language model datasets
+  as described in the paper 'Deduplicating Training Data Makes Language Models
+  Better'. Includes the ExactSubstr deduplication implementation written in
+  Rust, used to improve LM training data quality by removing duplicate examples.
+source_url: https://github.com/google-research/deduplicate-text-datasets
+category: Data Processing
+tags:
+  - data-deduplication
+  - language-models
+  - google-research
+featured: false
+brand: Google Research
+updated_at: 2026-04-05 00:22

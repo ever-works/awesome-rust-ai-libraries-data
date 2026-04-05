@@ -1,0 +1,41 @@
+name: LangServe
+description: A deployment tool that turns LangChain runnables and chains into
+  REST APIs, providing automatic schema inference, efficient endpoints, and a
+  playground page with plans for hosted one-click deployments.
+source_url: https://github.com/langchain-ai/langserve
+category: MLOps
+tags:
+  - deployment
+  - rest-api
+  - langchain
+markdown: >-
+  ## Overview
+
+
+  LangServe simplifies the deployment of LangChain applications by converting
+  them into production-ready REST APIs.
+
+
+  ## Features
+
+
+  - Automatic REST API generation from LangChain chains
+
+  - Schema inference
+
+  - Efficient API endpoints
+
+  - Playground page for testing
+
+  - One-click deployment plans (hosted version)
+
+
+  ## Use Cases
+
+
+  - Deploying LangChain applications
+
+  - Creating AI-powered APIs
+
+  - Rapid prototyping of LLM services
+updated_at: 2026-04-05 00:22

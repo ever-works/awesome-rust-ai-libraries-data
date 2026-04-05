@@ -1,0 +1,39 @@
+name: Evolutionary Model Merge
+description: Sakana AI's evolutionary model merge (EMM) combines 500,000
+  open-source models using evolutionary techniques to create new foundation
+  models, empowering AI with combined knowledge.
+source_url: https://github.com/SakanaAI/evolutionary-model-merge
+category: Machine Learning
+tags:
+  - evolutionary-computation
+  - model-merging
+  - foundation-models
+markdown: >-
+  ## Overview
+
+
+  Sakana AI's evolutionary model merge (EMM) combines open-source models using
+  evolutionary techniques.
+
+
+  ## Features
+
+
+  - Combines 500,000 open-source models
+
+  - Evolutionary techniques for model fusion
+
+  - Groundbreaking benchmark results
+
+  - Creates new foundation models
+
+  - Not explicitly optimized for specific benchmarks
+
+  - Empowers AI with combined knowledge
+
+
+  ## Vision
+
+
+  A significant step toward AGI, akin to Retrieval Augmented Generation.
+updated_at: 2026-04-05 00:22

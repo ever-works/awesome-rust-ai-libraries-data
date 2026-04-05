@@ -1,0 +1,23 @@
+name: Azure Speech Service
+description: Azure's speech service supporting a wide range of languages and
+  locales with over 400 neural voices in more than 140 languages, including
+  multilingual voice capabilities.
+source_url: https://azure.microsoft.com/en-us/products/ai-services/speech-to-text
+category: Voice AI
+tags:
+  - speech
+  - neural-voices
+  - multilingual
+markdown: |-
+  ## Overview
+
+  The Azure Speech service supports a wide range of languages and locales.
+
+  ## Features
+
+  - Over 400 neural voices
+  - More than 140 languages and locales
+  - Multilingual voice support
+  - Speech synthesis capabilities
+brand: Microsoft
+updated_at: 2026-04-05 00:22

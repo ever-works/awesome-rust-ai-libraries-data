@@ -1,0 +1,35 @@
+name: Astra Assistants API
+description: Backend implementation of the OpenAI Assistants API utilizing
+  AstraDB powered by Apache Cassandra, supporting persistent threads, files,
+  streaming, and function calling.
+source_url: https://github.com/datastax/astra-assistants-api
+category: LLM Tools
+tags:
+  - astra-db
+  - openai-compatible
+  - backend
+markdown: >-
+  ## Overview
+
+
+  The astra-assistants-api provides a backend implementation of the OpenAI
+  Assistants API.
+
+
+  ## Features
+
+
+  - Persistent threads
+
+  - File management
+
+  - Assistant management
+
+  - Streaming support
+
+  - Function calling
+
+  - AstraDB powered by Apache Cassandra and JVector
+
+  - Compatible with existing OpenAI apps by changing a single line of code
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,43 @@
+name: Kserve
+description: Standardized Serverless ML Inference Platform on Kubernetes,
+  providing a Kubernetes-native platform for serving machine learning models at
+  scale.
+source_url: https://github.com/kserve/kserve
+category: Model Serving
+tags:
+  - kubernetes
+  - serverless
+  - ml-inference
+featured: true
+markdown: >-
+  ## Overview
+
+
+  KServe is a highly scalable, standards-based Model Inference Platform on
+  Kubernetes. It supports many ML frameworks including TensorFlow, PyTorch,
+  ONNX, and XGBoost.
+
+
+  ## Features
+
+
+  - Serverless inference with scale-to-zero
+
+  - Support for multiple ML frameworks
+
+  - Inference graph for multi-model composition
+
+  - Canary and A/B testing deployments
+
+  - Auto-scaling based on requests and concurrency
+
+  - Model storage and versioning
+
+
+  ## Pricing
+
+
+  Free and open-source under the Apache 2.0 license.
+images:
+  - https://github.com/kserve/kserve/raw/master/docs/logo/kserve.png
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,49 @@
+name: Cordum
+description: Safety-first agent orchestration platform with pre-dispatch policy
+  evaluation, output scanning, quarantine, job scheduling, and MCP server
+  integration.
+source_url: https://github.com/cordum-ai/cordum
+category: AI Tools
+tags:
+  - safety
+  - policy-evaluation
+  - security
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Cordum is a safety-first agent orchestration platform designed to ensure
+  secure agent execution through pre-dispatch policy evaluation and output
+  quarantining.
+
+
+  ## Features
+
+
+  - Pre-dispatch safety policy evaluation before agent execution
+
+  - Output scanning and quarantine for dangerous content
+
+  - Job scheduling and workflow engine for orchestration
+
+  - MCP server integration for tool connectivity
+
+  - gRPC safety kernel for secure communication
+
+
+  ## Technical Details
+
+
+  - Language: Go
+
+  - License: NOASSERTION
+
+  - 462 GitHub stars
+
+
+  ## Pricing
+
+
+  Open-source.
+updated_at: 2026-04-05 00:22

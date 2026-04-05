@@ -1,0 +1,39 @@
+name: rust-tokenizers
+description: High-performance Rust tokenizer implementations supporting popular
+  NLP tokenization schemes including BERT WordPiece and SentencePiece. Provides
+  a standalone alternative to the Hugging Face tokenizers library.
+source_url: https://crates.io/crates/rust-tokenizers
+category: Text Processing
+tags:
+  - tokenization
+  - nlp
+  - performance
+featured: false
+markdown: >-
+  ## Overview
+
+
+  rust-tokenizers is a standalone Rust crate providing high-performance
+  implementations of popular tokenizer algorithms used in NLP. It supports BERT
+  WordPiece, SentencePiece, and other common tokenization schemes.
+
+
+  ## Features
+
+
+  - Support for BERT WordPiece tokenization
+
+  - SentencePiece support for subword tokenization
+
+  - High-performance implementations optimized for speed
+
+  - Independent of the Hugging Face tokenizers library
+
+  - Suitable for building custom NLP pipelines in Rust
+
+
+  ## Status
+
+
+  Active development.
+updated_at: 2026-04-05 00:22

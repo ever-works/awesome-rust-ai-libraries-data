@@ -1,0 +1,11 @@
+name: extractous
+description: Fast and efficient unstructured data extraction library written in
+  Rust. Provides functionality to extract content and metadata from various file
+  formats and data sources.
+source_url: https://github.com/yobix-ai/extractous
+category: Data Processing
+tags:
+  - data-extraction
+  - unstructured-data
+featured: false
+updated_at: 2026-04-05 00:22

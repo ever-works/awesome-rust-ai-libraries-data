@@ -1,0 +1,11 @@
+name: n8n
+description: Fair-code workflow automation platform with native AI capabilities.
+  Combines visual building with custom code, supports self-hosted or cloud
+  deployment with 400+ integrations for building AI-driven automation pipelines.
+source_url: https://n8n.io
+category: Workflow Automation
+tags:
+  - fair-code
+  - ai-automation
+  - low-code
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,12 @@
+name: preexplorer
+description: A Rust library for easily externalizing the plotting process from
+  Rust to gnuplot. Allows developers to generate plotting data in Rust and
+  render visualizations using gnuplot's powerful rendering engine.
+source_url: https://github.com/saona-raimundo/preexplorer
+category: Data Visualization
+tags:
+  - gnuplot
+  - plotting
+  - externalization
+featured: false
+updated_at: 2026-04-05 00:22

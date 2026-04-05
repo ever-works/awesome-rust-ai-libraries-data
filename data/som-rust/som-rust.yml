@@ -1,0 +1,13 @@
+name: som-rust
+description: Self-Organizing Map (SOM) implementation in Rust. A type of
+  Artificial Neural Network trained using unsupervised, competitive learning to
+  produce a low-dimensional, discretized representation (feature map) of
+  higher-dimensional data.
+source_url: https://github.com/selforgmap/som-rust
+category: Clustering
+tags:
+  - self-organizing-map
+  - neural-network
+  - unsupervised
+featured: false
+updated_at: 2026-04-05 00:22

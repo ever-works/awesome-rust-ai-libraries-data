@@ -1,0 +1,26 @@
+name: Cody
+description: AI coding assistant with an enterprise version offering enhanced
+  security, scalability, and control, supporting various IDEs with AI-powered
+  autocomplete and chat assistance.
+source_url: https://sourcegraph.com/cody
+category: AI Assistants
+tags:
+  - enterprise
+  - code-completion
+  - ide
+markdown: |-
+  ## Overview
+
+  Cody is an AI coding assistant with an enterprise version.
+
+  ## Features
+
+  - Enhanced security for enterprises
+  - Scalability
+  - Organization-level control
+  - Multi-IDE support
+  - AI-powered autocomplete
+  - Chat assistance
+  - Custom commands
+brand: Sourcegraph
+updated_at: 2026-04-05 00:22

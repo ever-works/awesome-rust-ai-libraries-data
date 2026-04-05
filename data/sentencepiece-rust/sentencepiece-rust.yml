@@ -1,0 +1,37 @@
+name: SentencePiece (Rust)
+description: Rust bindings to Google's SentencePiece tokenizer, supporting
+  unigram language model segmentation. Enables subword tokenization in Rust
+  applications using the widely adopted SentencePiece algorithm.
+source_url: https://crates.io/crates/sentencepiece
+category: Text Processing
+tags:
+  - tokenization
+  - sentencepiece
+  - google
+featured: false
+markdown: >-
+  ## Overview
+
+
+  This crate provides Rust bindings to Google's SentencePiece tokenizer.
+  SentencePiece is a subword segmentation tool that implements unigram language
+  model segmentation, widely used for tokenization in many NLP models.
+
+
+  ## Features
+
+
+  - Bindings to Google's SentencePiece C++ library
+
+  - Unigram language model segmentation
+
+  - Compatible with pretrained SentencePiece models
+
+  - Subword tokenization for multilingual text
+
+
+  ## Status
+
+
+  Active development.
+updated_at: 2026-04-05 00:22

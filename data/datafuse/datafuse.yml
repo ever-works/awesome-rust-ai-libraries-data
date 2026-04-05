@@ -1,0 +1,14 @@
+name: datafuse
+description: Modern cloud data framework written in Rust, built as a
+  cost-effective alternative to Snowflake. Supports cloud object storage, ANSI
+  SQL, and provides efficient data processing capabilities for analytical
+  workloads.
+source_url: https://github.com/datafuselabs/databend
+category: Data Processing
+tags:
+  - cloud-data
+  - sql-engine
+  - analytics
+featured: false
+brand: Databend
+updated_at: 2026-04-05 00:22

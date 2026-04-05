@@ -1,0 +1,34 @@
+name: Gobii
+description: Open-source platform for deploying and managing browser-use AI
+  agents at scale with a conversational interface and API.
+source_url: https://github.com/nicedoc/goobii
+category: AI Agents
+tags:
+  - open-source
+  - browser-automation
+  - scale
+markdown: >-
+  ## Overview
+
+
+  Gobii is an open-source platform for deploying and managing browser-use agents
+  at scale.
+
+
+  ## Features
+
+
+  - Browser-use agent deployment
+
+  - Scalable agent management
+
+  - Conversational interface
+
+  - API access
+
+
+  ## Licensing
+
+
+  Open-source.
+updated_at: 2026-04-05 00:22

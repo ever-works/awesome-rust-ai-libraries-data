@@ -1,0 +1,48 @@
+name: AI Legion
+description: Swarm framework for autonomous agents with multi-agent
+  coordination, dynamic task allocation, emergent behavior support, and
+  real-time collaboration.
+source_url: https://github.com/eumemic/ai-legion
+category: Agentic Systems
+tags:
+  - swarm
+  - emergent-behavior
+  - coordination
+featured: false
+markdown: >-
+  ## Overview
+
+
+  AI Legion is a swarm-based framework that enables multi-agent coordination
+  with dynamic task allocation and emergent behavior patterns.
+
+
+  ## Features
+
+
+  - Multi-agent coordination for distributed task processing
+
+  - Dynamic task allocation based on agent capabilities
+
+  - Emergent behavior support for self-organizing systems
+
+  - Flexible agent roles adaptable to different contexts
+
+  - Real-time collaboration between agents
+
+
+  ## Technical Details
+
+
+  - Language: TypeScript
+
+  - License: MIT
+
+  - 1,430 GitHub stars
+
+
+  ## Pricing
+
+
+  Open-source under the MIT license.
+updated_at: 2026-04-05 00:22

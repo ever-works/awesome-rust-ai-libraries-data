@@ -1,7 +1,12 @@
 name: linfa
-description: linfa is a Rust machine learning framework consisting of modular
-  crates for common ML tasks. It provides algorithms for clustering, regression,
-  and more. Score 21, 3.8K stars.
+description: Linfa is a comprehensive machine learning framework for Rust, often
+  described as scikit-learn but in Rust. It provides classification, regression,
+  clustering, dimensionality reduction, cross-validation, and a unified pipeline
+  API, implementing algorithms such as PCA, SVM, decision trees, k-means, and
+  logistic regression. Designed for traditional ML, data science, and
+  statistical modeling workflows, it offers a modular, performant, and
+  memory-safe alternative to Python ML ecosystems while leveraging Rust's type
+  safety and zero-cost abstractions.
 source_url: https://github.com/rust-ml/linfa
 category: Frameworks
 tags:
@@ -25,4 +30,4 @@ markdown: |-
   - Forks: 250
   - Dependents: 550
   - Updated: 03.07.2024
-updated_at: 2026-04-01 12:33
+updated_at: 2026-04-05 00:22

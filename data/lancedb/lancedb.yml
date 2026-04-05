@@ -1,7 +1,11 @@
 name: LanceDB
-description: A serverless, low-latency vector database for AI applications. It
-  supports efficient storage and retrieval of high-dimensional vectors essential
-  for AI/ML workflows like semantic search and recommendation systems.
+description: "LanceDB is a serverless vector database for AI applications, built
+  in Rust on the Lance columnar format for scalable performance from laptop to
+  cloud. It offers fast vector similarity search, hybrid search, multi-modal
+  data support, and an embedded/serverless architecture that requires no
+  infrastructure management. The database is ideal for RAG applications,
+  recommendation systems, and AI-powered search. Source:
+  https://github.com/lancedb/lancedb"
 source_url: https://github.com/lancedb/lancedb
 category: Vector Databases
 tags:
@@ -29,4 +33,4 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-04-01 12:33
+updated_at: 2026-04-05 00:22

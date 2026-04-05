@@ -1,0 +1,13 @@
+name: texture-synthesis
+description: Example-based texture synthesis written in Rust. Generates novel
+  textures from a set of example images, enabling procedural texture generation
+  for graphics and creative applications.
+source_url: https://github.com/EmbarkStudios/texture-synthesis
+category: Computer Vision
+tags:
+  - texture-synthesis
+  - generative
+  - graphics
+featured: false
+brand: Embark Studios
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,48 @@
+name: Project Alice
+description: Framework and platform for building and deploying agentic workflows
+  with no-code and coding interfaces, visual workflow builder, and live demo
+  capabilities.
+source_url: https://github.com/peterchensha/project-alice
+category: Agentic Systems
+tags:
+  - no-code
+  - visual-builder
+  - workflow-deployment
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Project Alice is a framework and platform for building and deploying agentic
+  workflows, supporting both code and no-code development approaches.
+
+
+  ## Features
+
+
+  - No-code and coding interface for diverse developer needs
+
+  - Visual workflow builder for intuitive orchestration design
+
+  - Live demo available for easy evaluation
+
+  - Workflow deployment platform for production use
+
+  - Currently in alpha stage development
+
+
+  ## Technical Details
+
+
+  - Language: Python
+
+  - License: BSD-3-Clause
+
+  - 253 GitHub stars
+
+
+  ## Pricing
+
+
+  Open-source under the BSD-3-Clause license.
+updated_at: 2026-04-05 00:22

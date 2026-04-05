@@ -1,0 +1,34 @@
+name: ADAS
+description: Automated Design of Agentic Systems - a framework for automatically
+  designing and optimizing agentic AI system architectures.
+source_url: https://github.com/automl/ADAS
+category: Agentic Systems
+tags:
+  - automl
+  - system-design
+  - optimization
+markdown: >-
+  ## Overview
+
+
+  ADAS provides automated design of agentic systems for optimizing AI agent
+  architectures.
+
+
+  ## Features
+
+
+  - Automated system design
+
+  - Agentic system optimization
+
+  - Architecture search
+
+  - AutoML integration
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

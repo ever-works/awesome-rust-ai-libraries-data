@@ -1,0 +1,39 @@
+name: Sammo
+description: Library for prompt engineering and optimization (Structure-aware
+  Multi-Objective Metaprompt Optimization). Automatically optimizes prompts
+  across multiple objectives using structure-aware techniques.
+source_url: https://github.com/oughtinc/sammo
+category: LLM Tools
+tags:
+  - prompt-optimization
+  - metaprompt
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Sammo is a library for structure-aware multi-objective metaprompt
+  optimization, designed to automatically optimize prompts across multiple goals
+  and constraints.
+
+
+  ## Features
+
+
+  - Structure-aware prompt optimization
+
+  - Multi-objective optimization
+
+  - Metaprompt engineering capabilities
+
+  - Automated prompt refinement
+
+  - Evaluation-driven optimization
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

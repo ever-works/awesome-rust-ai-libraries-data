@@ -1,0 +1,38 @@
+name: Allms
+description: Unified Rust client for multiple LLM APIs including OpenAI,
+  Anthropic, Mistral, and others. Provides a common interface across different
+  AI providers, simplifying provider-agnostic application development.
+source_url: https://crates.io/crates/allms
+category: API Clients
+tags:
+  - multi-provider
+  - unified-api
+  - llm
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Allms is a unified client library that abstracts over multiple LLM APIs. It
+  provides a single, common interface for interacting with OpenAI, Anthropic,
+  Mistral, and other providers, enabling provider-agnostic application
+  development.
+
+
+  ## Features
+
+
+  - Single interface for multiple LLM API providers
+
+  - Supports OpenAI, Anthropic, Mistral, and more
+
+  - Common chat and completion traits
+
+  - Easy provider switching without code changes
+
+
+  ## Status
+
+
+  Active development.
+updated_at: 2026-04-05 00:22

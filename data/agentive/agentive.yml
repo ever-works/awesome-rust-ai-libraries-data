@@ -1,0 +1,25 @@
+name: Agentive
+description: Platform for AI Automation Agency owners, offering tools for
+  creating, managing, and deploying custom AI solutions with model selection,
+  tool integration, and training with own data.
+source_url: https://www.agentive.ai
+category: AI Agents
+tags:
+  - agency
+  - automation
+  - deployment
+markdown: |-
+  ## Overview
+
+  Agentive is a platform for AI Automation Agency owners.
+
+  ## Features
+
+  - Custom AI solution creation
+  - Model selection
+  - Tool integration
+  - Prompt crafting
+  - Versioning
+  - Training with own data
+  - Simplified AI agent delivery
+updated_at: 2026-04-05 00:22

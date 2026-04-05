@@ -1,0 +1,12 @@
+name: ffsvm-rust
+description: FFVM stands for "Really Fast Support Vector Machine". A
+  high-performance SVM implementation in Rust for fast supervised classification
+  and regression tasks.
+source_url: https://github.com/ralfbiedert/ffsvm-rust
+category: Machine Learning
+tags:
+  - svm
+  - fast
+  - supervised
+featured: false
+updated_at: 2026-04-05 00:22

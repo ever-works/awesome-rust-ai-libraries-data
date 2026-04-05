@@ -1,0 +1,31 @@
+name: data-to-paper
+description: An AI-driven research system that transforms raw data into
+  human-verifiable research papers, automating the entire research pipeline from
+  data analysis to publication-ready output.
+source_url: https://github.com/nitzano/data-to-paper
+category: Agentic Systems
+tags:
+  - research-automation
+  - paper-generation
+  - data-analysis
+markdown: >-
+  ## Overview
+
+
+  data-to-paper is an AI-driven system that automates the research process from
+  data to human-verifiable research papers.
+
+
+  ## Features
+
+
+  - End-to-end research automation
+
+  - AI-driven data analysis
+
+  - Human-verifiable research paper generation
+
+  - Automated scientific methodology
+
+  - Reproducible research outputs
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,26 @@
+name: CLIN
+description: Interactive continual learning agent by Allen Institute for AI that
+  adapts rapidly to tasks, using Java, Python, and the ScienceWorld environment
+  with GPT model support.
+source_url: https://github.com/allenai/clin
+category: Agentic Systems
+tags:
+  - continual-learning
+  - interactive
+  - rapid-adaptation
+markdown: |-
+  ## Overview
+
+  CLIN by Allen Institute for AI is an interactive continual learning agent.
+
+  ## Features
+
+  - Rapid task adaptation
+  - Interactive learning
+  - ScienceWorld environment support
+  - GPT-3.5-turbo and GPT-4 compatibility
+
+  ## Setup
+
+  Requires Java, Python, and ScienceWorld environment.
+updated_at: 2026-04-05 00:22

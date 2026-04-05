@@ -1,0 +1,39 @@
+name: Gazelle
+description: Joint speech-language model that responds directly to audio input.
+  A smart and low-latency speech-to-speech dialogue model that bypasses
+  intermediate text representation.
+source_url: https://github.com/advanced-intelligence/gazelle
+category: Voice AI
+tags:
+  - speech-language
+  - real-time
+  - audio
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Gazelle is a joint speech-language model designed to respond directly to audio
+  input without intermediate text processing, enabling faster and more natural
+  speech interactions.
+
+
+  ## Features
+
+
+  - Direct audio-to-audio processing
+
+  - Joint speech-language architecture
+
+  - Low-latency speech response
+
+  - Bypasses text intermediate representation
+
+  - Real-time dialogue capability
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

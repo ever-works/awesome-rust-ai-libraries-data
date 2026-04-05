@@ -1,0 +1,29 @@
+name: AIOS
+description: LLM Agent Operating System by AGI Research that enables an
+  operating system 'with soul', serving as an important step towards AGI by
+  managing AI agents as a system resource.
+source_url: https://github.com/agiresearch/AIOS
+category: Agentic Systems
+tags:
+  - operating-system
+  - llm
+  - agi
+markdown: >-
+  ## Overview
+
+
+  AIOS by AGI Research is an LLM Agent Operating System designed to enable an
+  operating system with advanced AI capabilities.
+
+
+  ## Features
+
+
+  - LLM agent management
+
+  - System-level AI integration
+
+  - Agent scheduling and resource allocation
+
+  - Framework for AGI development
+updated_at: 2026-04-05 00:22

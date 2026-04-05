@@ -1,0 +1,34 @@
+name: fann
+description: Rust wrapper for the Fast Artificial Neural Network (FANN) library,
+  providing bindings to a well-established neural network library. Enables
+  training and inference with feedforward neural networks through a
+  Rust-friendly API.
+source_url: https://crates.io/crates/fann
+category: Bindings
+tags:
+  - neural-networks
+  - fann
+  - bindings
+featured: false
+markdown: >-
+  ## Overview
+
+
+  The `fann` crate provides Rust bindings for the Fast Artificial Neural Network
+  (FANN) library, a free open source neural network library originally written
+  in C. It wraps the FANN C API to provide a safe and idiomatic Rust interface.
+
+
+  ## Features
+
+
+  - Wrapper around the established FANN C library
+
+  - Feedforward neural network training and inference
+
+  - Multiple backpropagation algorithms
+
+  - Activation function support
+
+  - Model serialization and loading
+updated_at: 2026-04-05 00:22

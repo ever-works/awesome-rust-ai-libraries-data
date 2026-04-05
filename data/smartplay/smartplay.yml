@@ -1,0 +1,44 @@
+name: SmartPlay
+description: Benchmark for LLM agents using a variety of games to test important
+  agent capabilities including planning, reasoning, and interaction in game
+  environments.
+source_url: https://github.com/andyz245/SmartPlay
+category: AI Agents
+tags:
+  - benchmarking
+  - game-evaluation
+  - planning
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SmartPlay is a benchmark for Large Language Models that uses a variety of
+  games to test various important LLM capabilities as agents. It evaluates
+  planning, reasoning, sequential decision-making, and interaction abilities
+  through game-based tasks.
+
+
+  ## Features
+
+
+  - Game-based benchmark for LLM agents
+
+  - Tests planning and reasoning capabilities
+
+  - Evaluates sequential decision-making
+
+  - Multiple game environments for diverse testing
+
+  - Quantitative metrics for agent capabilities
+
+
+  ## Use Cases
+
+
+  - Benchmarking LLM agent capabilities through games
+
+  - Evaluating planning and reasoning in agents
+
+  - Research on game-based agent evaluation
+updated_at: 2026-04-05 00:22

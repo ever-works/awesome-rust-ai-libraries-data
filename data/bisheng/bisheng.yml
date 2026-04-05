@@ -1,0 +1,38 @@
+name: Bisheng
+description: Open LLM DevOps platform for next-generation Enterprise AI
+  applications with comprehensive GenAI features, workflow management, model
+  management, and deployment capabilities.
+source_url: https://github.com/dataelement/bisheng
+category: LLM Tools
+tags:
+  - devops
+  - enterprise
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Bisheng is an open LLM DevOps platform designed for next-generation Enterprise
+  AI applications, powered by DeepFlow and LLMOps concepts.
+
+
+  ## Features
+
+
+  - GenAI application development and deployment
+
+  - Workflow management and orchestration
+
+  - Model management and fine-tuning
+
+  - Enterprise-grade deployment capabilities
+
+  - Comprehensive AI application lifecycle management
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,36 @@
+name: Lyzr
+description: An enterprise-grade AI agent platform for easy configuration,
+  deployment, and management of AI agents, supporting multiple LLMs and
+  databases with ISO-compliant safety, white-glove onboarding, and 24/7
+  enterprise support.
+source_url: https://www.lyzr.ai
+category: AI Agents
+tags:
+  - enterprise
+  - managed
+  - iso-compliant
+markdown: >-
+  ## Overview
+
+
+  Lyzr provides an enterprise-grade platform for deploying and managing AI
+  agents with robust safety and support features.
+
+
+  ## Features
+
+
+  - Easy agent configuration and deployment
+
+  - Multi-LLM support
+
+  - Database integration
+
+  - ISO-compliant safety standards
+
+  - White-glove onboarding
+
+  - 24/7 enterprise support
+
+  - Agent management dashboard
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,43 @@
+name: DatasetGPT
+description: Command-line interface tool to generate textual and conversational
+  datasets using LLMs, automating the creation of training and evaluation data
+  for NLP tasks.
+source_url: https://github.com/radi-cho/datasetGPT
+category: Data Generation
+tags:
+  - CLI
+  - synthetic-data
+  - dataset-generation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  DatasetGPT is a CLI tool for generating textual and conversational datasets
+  using Large Language Models. It automates the creation of training and
+  evaluation data for natural language processing tasks.
+
+
+  ## Features
+
+
+  - Command-line interface for dataset generation
+
+  - Textual and conversational data creation
+
+  - Prompt-based dataset customization
+
+  - Automated data generation workflows
+
+  - Supports multiple output formats
+
+
+  ## Use Cases
+
+
+  - Generating conversational training data
+
+  - Creating text datasets for NLP tasks
+
+  - Research on LLM-generated datasets
+updated_at: 2026-04-05 00:22

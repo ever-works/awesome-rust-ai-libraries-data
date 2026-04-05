@@ -1,0 +1,44 @@
+name: VisualWebArena
+description: Benchmark for evaluating multimodal AI agents on web navigation and
+  interaction tasks, extending web agent evaluation with visual understanding
+  capabilities.
+source_url: https://github.com/web-arena-x/visualwebarena
+category: AI Agents
+tags:
+  - benchmarking
+  - multimodal
+  - web-agents
+featured: false
+markdown: >-
+  ## Overview
+
+
+  VisualWebArena is a benchmark specifically designed for evaluating multimodal
+  agents on web-based tasks. It extends traditional web agent evaluation by
+  requiring agents to process both visual and textual information to navigate
+  and interact with web pages.
+
+
+  ## Features
+
+
+  - Multimodal web agent benchmarking
+
+  - Combines visual and textual understanding for web tasks
+
+  - Realistic web navigation scenarios
+
+  - Evaluates agent interaction capabilities with web interfaces
+
+  - Supports evaluation of vision-language models as agents
+
+
+  ## Use Cases
+
+
+  - Benchmarking multimodal web navigation agents
+
+  - Evaluating vision-language models on web tasks
+
+  - Research on multimodal agent capabilities
+updated_at: 2026-04-05 00:22

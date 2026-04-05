@@ -1,0 +1,50 @@
+name: Mastra
+description: TypeScript AI agent framework with assistants, RAG, and
+  observability, featuring type-safe development, multi-model routing, MCP
+  generation, and tool integration.
+source_url: https://github.com/mastra-ai/mastra
+category: Agentic Systems
+tags:
+  - typescript
+  - observability
+  - mcp
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Mastra is a TypeScript-native AI agent framework that provides type-safe
+  development with built-in RAG, routing, and observability capabilities.
+
+
+  ## Features
+
+
+  - Type-safe development with full TypeScript support
+
+  - Multi-model support and router (GPT-4, Claude, Gemini, Llama)
+
+  - Structured responses for reliable data handling
+
+  - API generation for exposing agents as services
+
+  - MCP generation for protocol-compatible tool integration
+
+  - Tool integration for extended agent capabilities
+
+
+  ## Technical Details
+
+
+  - Language: TypeScript
+
+  - License: NOASSERTION
+
+  - 20,636 GitHub stars
+
+
+  ## Pricing
+
+
+  Open-source.
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,38 @@
+name: Latent
+description: Open-source prompt engineering platform to build, evaluate, and
+  refine prompts with AI. Provides tools for systematic prompt iteration and
+  testing.
+source_url: https://github.com/latent-lab/latent
+category: LLM Tools
+tags:
+  - prompt-engineering
+  - evaluation
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Latent is an open-source prompt engineering platform designed to build,
+  evaluate, and refine prompts with AI in a systematic way.
+
+
+  ## Features
+
+
+  - Prompt building and iterative development
+
+  - AI-powered evaluation tools
+
+  - Systematic prompt testing
+
+  - Version control and collaboration
+
+  - Open-source implementation
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

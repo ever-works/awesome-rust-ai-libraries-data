@@ -1,0 +1,12 @@
+name: stamm
+description: Generic decision tree implementation for Rust, providing a flexible
+  tree-building framework with support for various split criteria and pruning
+  strategies.
+source_url: https://github.com/Entscheider/stamm
+category: Machine Learning
+tags:
+  - decision-trees
+  - supervised
+  - generic
+featured: false
+updated_at: 2026-04-05 00:22

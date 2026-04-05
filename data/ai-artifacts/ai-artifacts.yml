@@ -1,0 +1,35 @@
+name: ai-artifacts
+description: Project implementing Anthropic's Artifacts UI using E2B's Code
+  Interpreter SDK for secure AI code execution and Claude Sonnet 3.5 for code
+  generation.
+source_url: https://github.com/e2b-dev/ai-artifacts
+category: Code Generation
+tags:
+  - artifacts
+  - claude
+  - secure-execution
+markdown: >-
+  ## Overview
+
+
+  This project implements Anthropic's Artifacts UI, using E2B's Code Interpreter
+  SDK for secure AI code execution.
+
+
+  ## Features
+
+
+  - Anthropic's Artifacts UI implementation
+
+  - E2B Code Interpreter SDK for secure execution
+
+  - Claude Sonnet 3.5 for code generation
+
+  - Sandbox code execution
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,42 @@
+name: Hugging Face Tokenizers
+description: Fast BPE and WordPiece tokenizer implementations in Rust, powering
+  Hugging Face's tokenizers library. Used extensively for GPT-2, BERT, and other
+  transformer models with industry-leading performance.
+source_url: https://github.com/huggingface/tokenizers
+category: Text Processing
+tags:
+  - tokenization
+  - bpe
+  - wordpiece
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Hugging Face Tokenizers is a Rust-based library providing fast tokenization
+  for transformer models. It implements Byte-Pair Encoding (BPE), WordPiece, and
+  other tokenization algorithms with exceptional performance, and is the
+  foundation of tokenization across the Hugging Face ecosystem.
+
+
+  ## Features
+
+
+  - High-performance BPE and WordPiece tokenization in Rust
+
+  - Used for GPT-2, BERT, RoBERTa, and many other models
+
+  - Pre-tokenization and post-processing pipelines
+
+  - Training tokenizers from scratch on custom corpora
+
+  - Bindings available for Python (via PyO3) while implemented in Rust
+
+
+  ## Status
+
+
+  Active development, widely used in production.
+brand: Hugging Face
+brand_logo_url: https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg
+updated_at: 2026-04-05 00:22

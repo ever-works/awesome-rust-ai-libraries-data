@@ -1,0 +1,37 @@
+name: Anchor-Chain
+description: Statically-typed async framework for LLM workflows, enabling
+  definition of agents and tools in Rust using YAML or code. Provides a
+  type-safe foundation for building complex AI pipeline orchestrations.
+source_url: https://crates.io/crates/anchor-chain
+category: LLM Tools
+tags:
+  - workflow-orchestration
+  - agents
+  - statically-typed
+markdown: >-
+  ## Overview
+
+
+  Anchor-Chain is a statically-typed, asynchronous framework designed
+  specifically for defining LLM workflows in Rust. It enables developers to
+  describe agents and tools declaratively using YAML or programmatically with
+  code.
+
+
+  ## Features
+
+
+  - Statically-typed workflow definitions
+
+  - Async-first architecture
+
+  - Declarative YAML or programmatic agent definitions
+
+  - Tool integration for agentic workflows
+
+
+  ## Status
+
+
+  Active development.
+updated_at: 2026-04-05 00:22

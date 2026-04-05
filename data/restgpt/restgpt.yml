@@ -1,0 +1,37 @@
+name: RestGPT
+description: LLM-based autonomous agent controlling real-world applications via
+  RESTful APIs, enabling automated interaction with web services through natural
+  language commands.
+source_url: https://github.com/Yifan-Song793/RestGPT
+category: AI Agents
+tags:
+  - rest-api
+  - autonomous
+  - llm-driven
+markdown: >-
+  ## Overview
+
+
+  RestGPT is an LLM-based autonomous agent controlling real-world applications
+  via RESTful APIs.
+
+
+  ## Features
+
+
+  - RESTful API control
+
+  - LLM-driven autonomous operation
+
+  - Real-world application interaction
+
+  - Natural language commands
+
+  - Automated web service interaction
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

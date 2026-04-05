@@ -1,0 +1,29 @@
+name: AI Agent Crew
+description: Langchain and CrewAI project featuring AI agents equipped with
+  Bitcoin wallets, facilitating automated operations within a blockchain
+  environment.
+source_url: https://github.com/ai-agent-crew
+category: AI Agents
+tags:
+  - blockchain
+  - bitcoin
+  - automation
+markdown: >-
+  ## Overview
+
+
+  AI Agent Crew leverages Langchain and CrewAI to launch AI agents equipped with
+  Bitcoin wallets for automated blockchain operations.
+
+
+  ## Features
+
+
+  - Bitcoin wallet integration
+
+  - Automated blockchain operations
+
+  - Built on Langchain and CrewAI frameworks
+
+  - Multi-agent coordination
+updated_at: 2026-04-05 00:22

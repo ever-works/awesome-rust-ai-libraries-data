@@ -1,0 +1,37 @@
+name: OpenAI TTS
+description: OpenAI's Text-to-Speech API that converts text into high-quality,
+  natural-sounding spoken audio in multiple languages, with various voice
+  options and customization capabilities.
+source_url: https://platform.openai.com/docs/guides/text-to-speech
+category: Voice AI
+tags:
+  - text-to-speech
+  - multi-language
+  - api
+markdown: >-
+  ## Overview
+
+
+  The OpenAI Text-to-Speech (TTS) API allows users to convert text into
+  high-quality, natural-sounding spoken audio.
+
+
+  ## Features
+
+
+  - High-quality, natural-sounding speech synthesis
+
+  - Multiple language support
+
+  - Various voice options
+
+  - Customization capabilities
+
+  - API-based access for integration
+
+
+  ## Pricing
+
+
+  Pay-per-use via OpenAI's API pricing model.
+updated_at: 2026-04-05 00:22

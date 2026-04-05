@@ -1,0 +1,22 @@
+name: Enact
+description: Python framework for building generative software that integrates
+  machine learning models or APIs, offering execution tracking, replay, and
+  asynchronous flows.
+source_url: https://github.com/dair-ai/enact
+category: Frameworks
+tags:
+  - python
+  - generative-software
+  - async
+markdown: |-
+  ## Overview
+
+  Enact is a Python framework for building generative software.
+
+  ## Features
+
+  - ML model and API integration
+  - Execution tracking and replay
+  - Asynchronous flow support
+  - Higher-order generative processes
+updated_at: 2026-04-05 00:22

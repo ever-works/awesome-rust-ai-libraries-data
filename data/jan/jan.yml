@@ -1,0 +1,43 @@
+name: Jan
+description: An open-source, development-stage ChatGPT alternative that operates
+  fully offline on diverse hardware platforms, supporting universal
+  architectures from PCs to multi-GPU clusters.
+source_url: https://github.com/janhq/jan
+category: Model Inference
+tags:
+  - offline
+  - local-llm
+  - open-source
+markdown: >-
+  ## Overview
+
+
+  Jan is an open-source alternative to ChatGPT that runs entirely offline across
+  various hardware platforms.
+
+
+  ## Features
+
+
+  - Fully offline operation
+
+  - Cross-platform support (PCs to multi-GPU clusters)
+
+  - Universal architecture compatibility
+
+  - Open-source and community-driven
+
+  - Privacy-first design
+
+  - Development stage
+
+
+  ## Supported Hardware
+
+
+  - Personal computers
+
+  - Multi-GPU clusters
+
+  - Various universal architectures
+updated_at: 2026-04-05 00:22

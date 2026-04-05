@@ -1,0 +1,11 @@
+name: AutoPR
+description: Runs AI-powered workflows over your codebase, automating code
+  review, refactoring, and other development tasks through intelligent
+  agent-based processes.
+source_url: https://github.com/coder/autopr
+category: Developer Tools
+tags:
+  - ai-powered
+  - code-automation
+  - github
+updated_at: 2026-04-05 00:22

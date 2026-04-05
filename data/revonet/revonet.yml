@@ -1,0 +1,35 @@
+name: revonet
+description: Rust implementation of a real-coded genetic algorithm for solving
+  optimization problems and training neural networks through neuroevolution.
+  Provides an evolutionary approach to neural network training as an alternative
+  to gradient-based methods.
+source_url: https://crates.io/crates/revonet
+category: Machine Learning
+tags:
+  - neuroevolution
+  - genetic-algorithm
+  - optimization
+featured: false
+markdown: >-
+  ## Overview
+
+
+  `revonet` implements a real-coded genetic algorithm for solving optimization
+  problems and training neural networks, also known as neuroevolution. It
+  provides an evolutionary approach to neural network training that does not
+  rely on gradient computation.
+
+
+  ## Features
+
+
+  - Real-coded genetic algorithm implementation
+
+  - Neural network training through neuroevolution
+
+  - Optimization problem solving
+
+  - Gradient-free training approach
+
+  - Alternative to backpropagation-based methods
+updated_at: 2026-04-05 00:22

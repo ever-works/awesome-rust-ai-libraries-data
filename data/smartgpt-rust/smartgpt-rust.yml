@@ -1,0 +1,38 @@
+name: SmartGPT (rust)
+description: Framework for modular LLM agents that separates LLMs, tools,
+  memory, and other components for building AutoGPT-like systems in Rust.
+  Provides a composable architecture for autonomous agents.
+source_url: https://crates.io/crates/smartgpt
+category: AI Agents
+tags:
+  - autogpt
+  - modular
+  - framework
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SmartGPT is a Rust framework for building modular LLM-based agents. It
+  separates concerns by providing distinct components for LLMs, tools, memory,
+  and workflow orchestration, enabling the construction of AutoGPT-like
+  autonomous systems.
+
+
+  ## Features
+
+
+  - Modular architecture separating LLMs, tools, and memory
+
+  - AutoGPT-like system building
+
+  - Composable agent components
+
+  - Extensible tool integration
+
+
+  ## Status
+
+
+  Experimental.
+updated_at: 2026-04-05 00:22

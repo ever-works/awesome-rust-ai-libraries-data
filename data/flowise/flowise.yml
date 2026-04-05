@@ -1,0 +1,47 @@
+name: Flowise
+description: Drag and drop UI framework for building LLM flows with visual flow
+  builder, custom LLM integrations, API generation, and Docker deployment.
+source_url: https://github.com/FlowiseAI/Flowise
+category: Agentic Systems
+tags:
+  - visual-builder
+  - drag-and-drop
+  - docker
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Flowise is a drag-and-drop UI framework that simplifies building LLM-powered
+  applications through a visual interface.
+
+
+  ## Features
+
+
+  - Visual flow builder for intuitive workflow design
+
+  - Custom LLM integrations for various model providers
+
+  - API generation for exposing flows as REST endpoints
+
+  - Authentication support for secure deployments
+
+  - Docker deployment for containerized production use
+
+
+  ## Technical Details
+
+
+  - Language: TypeScript
+
+  - License: NOASSERTION
+
+  - 47,784 GitHub stars
+
+
+  ## Pricing
+
+
+  Open-source.
+updated_at: 2026-04-05 00:22

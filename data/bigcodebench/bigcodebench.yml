@@ -1,0 +1,48 @@
+name: BigCodeBench
+description: Benchmark for evaluating code generation capabilities of AI models,
+  designed to assess progress toward more advanced code synthesis and generation
+  quality.
+source_url: https://github.com/bigcode-project/bigcodebench
+category: AI Agents
+tags:
+  - benchmarking
+  - code-generation
+  - evaluation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  BigCodeBench is a benchmark designed for evaluating code generation
+  capabilities of AI models, with a focus on assessing progress toward more
+  advanced code synthesis. It provides standardized evaluation of code
+  generation quality and correctness.
+
+
+  ## Features
+
+
+  - Evaluates code generation towards AGI-level capabilities
+
+  - Standardized benchmarking methodology
+
+  - Tests code quality and correctness
+
+  - Supports comparison across different models
+
+  - Part of the BigCode Project ecosystem
+
+
+  ## Use Cases
+
+
+  - Evaluating code generation models
+
+  - Benchmarking AI-assisted code synthesis
+
+  - Tracking progress in code generation capabilities
+
+  - Comparing model performance on coding tasks
+brand: BigCode Project
+brand_logo_url: https://github.com/bigcode-project.png
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,21 @@
+name: CollosalAI Chat
+description: Implementation of LLM with RLHF (Reinforcement Learning from Human
+  Feedback), powered by the Colossal-AI project for training large language
+  models.
+source_url: https://github.com/hpcaitech/ColossalAI
+category: Machine Learning
+tags:
+  - rlhf
+  - llm
+  - training
+markdown: |-
+  ## Overview
+
+  CollosalAI Chat implements LLM with RLHF, powered by the Colossal-AI project.
+
+  ## Features
+
+  - RLHF implementation
+  - Large language model training
+  - ColossalAI framework integration
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,43 @@
+name: saplings
+description: Framework for building smarter agents using tree search algorithms
+  to boost reasoning abilities with minimal setup required.
+source_url: https://github.com/Saplings-AI/saplings
+category: Agentic Systems
+tags:
+  - tree-search
+  - reasoning
+  - minimal-setup
+featured: false
+markdown: >-
+  ## Overview
+
+
+  saplings enhances agent reasoning capabilities by integrating popular tree
+  search algorithms with minimal code overhead.
+
+
+  ## Features
+
+
+  - Boost reasoning abilities through search-augmented generation
+
+  - Supports popular search algorithms for diverse reasoning strategies
+
+  - Minimal setup requiring just 2 lines of code
+
+
+  ## Technical Details
+
+
+  - Language: Python
+
+  - License: Apache-2.0
+
+  - 269 GitHub stars
+
+
+  ## Pricing
+
+
+  Open-source under the Apache-2.0 license.
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,37 @@
+name: AIFS
+description: Offers simple and efficient local semantic search capability for
+  folders, leveraging Unstructured.IO for advanced data processing and ChromaDB
+  for fast, similarity-based searching of embeddings.
+source_url: https://github.com/run-llama/llama_index
+category: Search
+tags:
+  - semantic-search
+  - local
+  - embeddings
+markdown: >-
+  ## Overview
+
+
+  AIFS offers a simple and efficient local semantic search capability for
+  folders.
+
+
+  ## Features
+
+
+  - Local semantic search for folders
+
+  - Unstructured.IO integration for data processing
+
+  - ChromaDB for similarity-based searching
+
+  - Fast embedding retrieval
+
+  - Efficient search performance
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

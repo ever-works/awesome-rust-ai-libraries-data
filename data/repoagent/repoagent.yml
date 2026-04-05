@@ -1,0 +1,21 @@
+name: RepoAgent
+description: LLM-powered repository agent designed to assist developers and
+  teams in generating documentation and understanding repositories quickly.
+source_url: https://github.com/THUDM/RepoAgent
+category: AI Assistants
+tags:
+  - documentation
+  - llm
+  - developer-tools
+markdown: |-
+  ## Overview
+
+  RepoAgent is an LLM-powered repository agent for developer assistance.
+
+  ## Features
+
+  - Automated documentation generation
+  - Repository understanding
+  - Team collaboration support
+  - LLM-powered analysis
+updated_at: 2026-04-05 00:22

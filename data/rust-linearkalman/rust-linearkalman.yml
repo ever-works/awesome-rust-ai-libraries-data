@@ -1,0 +1,12 @@
+name: rust-linearkalman
+description: Kalman filtering and smoothing implementation in Rust. Provides
+  algorithms for optimal state estimation in linear dynamical systems, useful
+  for sensor fusion, tracking, and signal processing.
+source_url: https://github.com/rbagd/rust-linearkalman
+category: Statistical Modeling
+tags:
+  - kalman-filter
+  - smoothing
+  - state-estimation
+featured: false
+updated_at: 2026-04-05 00:22

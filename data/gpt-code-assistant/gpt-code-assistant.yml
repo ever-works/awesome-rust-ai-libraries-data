@@ -1,0 +1,36 @@
+name: GPT Code Assistant
+description: Open-source coding assistant leveraging language models to search,
+  retrieve, explore and understand any codebase. Supports GPT, Gemini, Claude,
+  and LLaMA models.
+source_url: https://github.com/42dot/gpt-code-assistant
+category: Development Tools
+tags:
+  - code-assistant
+  - open-source
+  - multi-model
+featured: false
+markdown: >-
+  ## Overview
+
+
+  An open-source coding assistant that uses language models to search, retrieve,
+  explore and understand codebases.
+
+
+  ## Features
+
+
+  - Supports GPT, Gemini, Claude, and LLaMA models
+
+  - Codebase-wide search and retrieval
+
+  - Code exploration and understanding
+
+  - Open-source implementation
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

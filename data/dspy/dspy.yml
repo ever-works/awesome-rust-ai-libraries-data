@@ -1,0 +1,22 @@
+name: DSPY
+description: Framework that compiles declarative language model calls into
+  self-improving pipelines, enabling systematic optimization of LM prompts and
+  weights within complex systems.
+source_url: https://github.com/stanfordnlp/dspy
+category: LLM Tools
+tags:
+  - prompt-optimization
+  - pipelines
+  - self-improving
+markdown: |-
+  ## Overview
+
+  DSPY is a cutting-edge framework for optimizing language model pipelines.
+
+  ## Features
+
+  - Declarative LM call compilation
+  - Self-improving pipelines
+  - Systematic prompt optimization
+  - Weight optimization within complex systems
+updated_at: 2026-04-05 00:22

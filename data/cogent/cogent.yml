@@ -1,0 +1,12 @@
+name: cogent
+description: Simple neural network library for classification written in Rust.
+  Provides straightforward neural network implementations for supervised
+  learning tasks.
+source_url: https://github.com/JonathanWoollett-Light/cogent
+category: Machine Learning
+tags:
+  - neural-network
+  - classification
+  - simple
+featured: false
+updated_at: 2026-04-05 00:22

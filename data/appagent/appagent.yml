@@ -1,0 +1,37 @@
+name: AppAgent
+description: Mobile-friendly LLM-based multimodal agent framework to operate
+  smartphone apps, enabling human-like interactions for a wide range of
+  applications without system back-end access.
+source_url: https://github.com/mnotgod96/AppAgent
+category: AI Agents
+tags:
+  - mobile
+  - multimodal
+  - app-automation
+markdown: >-
+  ## Overview
+
+
+  AppAgent is a mobile-friendly LLM-based multimodal agent framework developed
+  to operate smartphone apps.
+
+
+  ## Features
+
+
+  - Human-like app interactions
+
+  - Wide application support
+
+  - No back-end access required
+
+  - Multimodal processing
+
+  - LLM-based operation
+
+
+  ## Use Cases
+
+
+  Automating smartphone app operations without requiring system-level access.
+updated_at: 2026-04-05 00:22

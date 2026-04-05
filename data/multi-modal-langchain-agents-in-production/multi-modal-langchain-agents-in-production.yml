@@ -1,0 +1,26 @@
+name: Multi-Modal LangChain Agents in Production
+description: Solution for deploying LangChain Agents and connecting them to
+  Telegram for production use.
+source_url: https://github.com/sugarforever/chat-llm-advanced
+category: Agentic Systems
+tags:
+  - langchain
+  - telegram
+  - production
+markdown: >-
+  ## Overview
+
+
+  Deploy LangChain Agents and connect them to Telegram for production
+  deployment.
+
+
+  ## Features
+
+
+  - LangChain agent deployment
+
+  - Telegram integration
+
+  - Production-ready setup
+updated_at: 2026-04-05 00:22

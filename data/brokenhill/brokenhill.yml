@@ -1,0 +1,39 @@
+name: Brokenhill
+description: Productionized Greedy Coordinate Gradient (GCG) attack tool for
+  Large Language Models. Enables adversarial testing by finding input suffixes
+  that bypass content filters and cause undesired model behavior.
+source_url: https://github.com/graydon2/brokenhill
+category: LLM Tools
+tags:
+  - adversarial
+  - security
+  - testing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Brokenhill is a productionized Greedy Coordinate Gradient (GCG) attack tool
+  for Large Language Models. It implements adversarial attacks that find input
+  suffixes to bypass safety filters and test model robustness.
+
+
+  ## Features
+
+
+  - Greedy Coordinate Gradient (GCG) attacks
+
+  - Automated adversarial suffix generation
+
+  - Production-grade implementation
+
+  - Support for multiple model architectures
+
+  - Evaluates model vulnerability to prompt injection
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

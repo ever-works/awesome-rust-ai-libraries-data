@@ -1,0 +1,12 @@
+name: txtai.rs
+description: AI-powered search engine for Rust, implementing semantic search,
+  extractive QA, and summarization. Provides a unified pipeline for building
+  intelligent text search applications with transformer-based models.
+source_url: https://github.com/neuml/txtai.rs
+category: Search
+tags:
+  - semantic-search
+  - ai-powered
+  - transformer
+featured: false
+updated_at: 2026-04-05 00:22

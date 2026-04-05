@@ -1,0 +1,44 @@
+name: minions
+description: Extensible framework for AI assistants featuring custom behavior
+  definition, tool integration, state management, event handling, and parallel
+  execution.
+source_url: https://github.com/SamsungLabs/minions
+category: Agentic Systems
+tags:
+  - extensible
+  - parallel-execution
+  - assistant-framework
+featured: false
+markdown: >-
+  ## Overview
+
+
+  minions is an extensible framework for building AI assistants with a focus on
+  customizability, parallel task execution, and robust tool integration.
+
+
+  ## Features
+
+
+  - Custom behavior definition for tailored agent responses
+
+  - Tool integration for extended agent capabilities
+
+  - State management for persistent context
+
+  - Event handling for reactive agent behavior
+
+  - Parallel execution for concurrent task processing
+
+
+  ## Technical Details
+
+
+  - Language: Python
+
+
+  ## Pricing
+
+
+  Open-source.
+updated_at: 2026-04-05 00:22

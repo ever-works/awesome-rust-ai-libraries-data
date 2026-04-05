@@ -1,0 +1,39 @@
+name: LanguageModels
+description: Library that enables exploration of large language models using
+  only 512MB of RAM. Designed for lightweight LLM experimentation on
+  resource-constrained hardware.
+source_url: https://github.com/maxbbraun/langugemodels
+category: Model Optimization
+tags:
+  - low-memory
+  - lightweight
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  LanguageModels is a lightweight library for exploring large language models
+  with minimal RAM requirements (512MB), making LLM experimentation accessible
+  on resource-constrained hardware.
+
+
+  ## Features
+
+
+  - Runs LLMs in just 512MB of RAM
+
+  - Lightweight exploration toolkit
+
+  - Open-source implementation
+
+  - Resource-efficient model handling
+
+  - Suitable for edge devices
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

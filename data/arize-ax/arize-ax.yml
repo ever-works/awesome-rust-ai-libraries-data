@@ -1,0 +1,26 @@
+name: Arize AX
+description: Free tool to trace, evaluate, and iterate during development and
+  monitor and evaluate AI agents in production.
+source_url: https://github.com/Arize-ai/phoenix
+category: Agentic Systems
+tags:
+  - monitoring
+  - evaluation
+  - production
+markdown: |-
+  ## Overview
+
+  Arize AX is a free tool for AI agent development and production monitoring.
+
+  ## Features
+
+  - Agent tracing during development
+  - Iterative improvement tools
+  - Production monitoring
+  - Evaluation capabilities
+
+  ## Pricing
+
+  Free to use.
+brand: Arize AI
+updated_at: 2026-04-05 00:22

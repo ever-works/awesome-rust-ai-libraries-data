@@ -1,0 +1,26 @@
+name: Fetch
+description: Fetch AI platform for launching AI apps and services, featuring
+  agent hosting, analytics, IoT gateways, Web3 open network for AI Agents, and
+  facilitation of AI/ML model deployment.
+source_url: https://fetch.ai
+category: Agentic Systems
+tags:
+  - web3
+  - iot
+  - agent-hosting
+markdown: |-
+  ## Overview
+
+  Fetch by Fetch AI offers a platform for launching AI apps and services.
+
+  ## Features
+
+  - Agent hosting
+  - Analytics
+  - IoT gateways
+  - Web3-based open network for AI Agents
+  - Connectivity and transactions
+  - Dynamic marketplaces
+  - AI/ML model deployment and monetization
+brand: Fetch AI
+updated_at: 2026-04-05 00:22

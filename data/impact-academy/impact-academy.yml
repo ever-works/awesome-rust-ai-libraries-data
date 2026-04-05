@@ -1,0 +1,43 @@
+name: Impact Academy
+description: Auto-enhance meta-benchmark for measuring the ability of LLM agents
+  to improve other LLM agents, evaluating meta-learning and agent
+  self-improvement capabilities.
+source_url: https://github.com/impact-academy/impact-academy
+category: AI Agents
+tags:
+  - meta-benchmarking
+  - agent-improvement
+  - meta-learning
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Impact Academy is a meta-benchmark that measures the ability of LLM agents to
+  improve other LLM agents automatically. It evaluates meta-learning
+  capabilities and agent self-improvement mechanisms.
+
+
+  ## Features
+
+
+  - Meta-benchmark for agent improvement evaluation
+
+  - Tests LLM agents' ability to enhance other agents
+
+  - Auto-enhancement methodology
+
+  - Measures meta-learning capabilities
+
+  - Evaluates agent self-improvement strategies
+
+
+  ## Use Cases
+
+
+  - Benchmarking agent self-improvement
+
+  - Evaluating meta-learning in LLM agents
+
+  - Research on automated agent enhancement
+updated_at: 2026-04-05 00:22

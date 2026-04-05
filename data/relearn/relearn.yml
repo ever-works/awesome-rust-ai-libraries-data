@@ -1,0 +1,12 @@
+name: relearn
+description: Reinforcement learning with Rust providing core algorithms for
+  training agents to learn optimal policies through trial and error interactions
+  with environments.
+source_url: https://github.com/edlanglois/relearn
+category: Reinforcement Learning
+tags:
+  - rl
+  - reinforcement
+  - learning
+featured: false
+updated_at: 2026-04-05 00:22

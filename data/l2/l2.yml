@@ -1,0 +1,13 @@
+name: L2
+description: A fast, PyTorch-style tensor and automatic differentiation library
+  written entirely in Rust. Provides a familiar API for deep learning
+  practitioners transitioning from Python, with dynamic computation graphs and
+  GPU acceleration support.
+source_url: https://github.com/bilal2vec/l2
+category: Machine Learning
+tags:
+  - deep-learning
+  - autodiff
+  - tensors
+featured: false
+updated_at: 2026-04-05 00:22

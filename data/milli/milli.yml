@@ -1,0 +1,13 @@
+name: milli
+description: Search engine library for Meilisearch written in Rust. Provides the
+  core full-text search, indexing, and ranking functionality that powers the
+  MeiliSearch engine.
+source_url: https://github.com/meilisearch/milli
+category: Search
+tags:
+  - search-engine
+  - full-text
+  - meilisearch
+featured: false
+brand: Meili
+updated_at: 2026-04-05 00:22

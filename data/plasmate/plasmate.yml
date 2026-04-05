@@ -1,0 +1,42 @@
+name: Plasmate
+description: A browser engine built for AI agents that compiles HTML into a
+  Semantic Object Model (SOM), providing 10x token compression vs raw HTML.
+  Features V8 JS rendering, CDP compatibility, authenticated browsing, and MCP
+  server integration.
+source_url: https://github.com/anthropics/plasmate
+category: AI Agents
+tags:
+  - browser
+  - mcp
+  - token-optimization
+markdown: >-
+  ## Overview
+
+
+  Plasmate is a browser engine purpose-built for AI agents, designed to optimize
+  how agents interact with web content.
+
+
+  ## Features
+
+
+  - Compiles HTML into Semantic Object Model (SOM) format
+
+  - 10x token compression compared to raw HTML
+
+  - V8 JavaScript rendering engine
+
+  - Chrome DevTools Protocol (CDP) compatibility
+
+  - Authenticated browsing support
+
+  - Integrated MCP server for agent communication
+
+  - Optimized for AI agent web navigation and interaction
+
+
+  ## Pricing
+
+
+  Open-source and free to use.
+updated_at: 2026-04-05 00:22

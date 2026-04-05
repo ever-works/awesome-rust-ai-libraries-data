@@ -1,0 +1,48 @@
+name: CleverBee
+description: Deep research assistant agent with web browsing capabilities,
+  featuring MCP tool support, multi-LLM research, automated web browsing, and
+  token tracking.
+source_url: https://github.com/cedriking/cleverbee
+category: AI Assistants
+tags:
+  - deep-research
+  - web-browsing
+  - mcp
+featured: false
+markdown: >-
+  ## Overview
+
+
+  CleverBee is a deep research assistant agent designed for automated web
+  research with interactive UI, token tracking, and multi-LLM support.
+
+
+  ## Features
+
+
+  - Interactive web UI via Chainlit
+
+  - MCP tool support for external integrations
+
+  - Multi-LLM research with configurable LLM selection
+
+  - Automated web browsing with Playwright
+
+  - Token tracking and cost estimation
+
+
+  ## Technical Details
+
+
+  - Language: Python
+
+  - License: AGPL-3.0
+
+  - 309 GitHub stars
+
+
+  ## Pricing
+
+
+  Open-source under the AGPL-3.0 license.
+updated_at: 2026-04-05 00:22

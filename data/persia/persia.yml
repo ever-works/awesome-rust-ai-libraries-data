@@ -1,0 +1,12 @@
+name: PERSIA
+description: High performance distributed framework for training deep learning
+  recommendation models based on PyTorch. Supports large-scale recommendation
+  model training across multiple GPUs and nodes with embedding parallelism.
+source_url: https://github.com/PersiaML/PERSIA
+category: Recommendation
+tags:
+  - distributed
+  - recommendation
+  - pytorch
+featured: false
+updated_at: 2026-04-05 00:22

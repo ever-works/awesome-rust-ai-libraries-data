@@ -1,0 +1,12 @@
+name: brassfibre
+description: A Rust library providing multi-dtype columnar storage, similar to
+  DataFrames in pandas and R. Designed for efficient data processing and
+  analysis with type-safe column operations.
+source_url: https://github.com/sinhrks/brassfibre
+category: Data Processing
+tags:
+  - dataframe
+  - columnar
+  - data-analysis
+featured: false
+updated_at: 2026-04-05 00:22

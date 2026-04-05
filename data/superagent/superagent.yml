@@ -1,0 +1,28 @@
+name: Superagent
+description: Open-source AI assistant framework backed by Y Combinator,
+  facilitating the integration of large language models and generative AI into
+  applications for QA, chatbots, and content generation.
+source_url: https://github.com/superagent-ai/superagent
+category: AI Agents
+tags:
+  - yc-backed
+  - llm-integration
+  - framework
+markdown: |-
+  ## Overview
+
+  Superagent is an open-source AI assistant framework backed by Y Combinator.
+
+  ## Features
+
+  - LLM and generative AI integration
+  - Question answering support
+  - Chatbot capabilities
+  - Content generation
+  - Open-source architecture
+  - Y Combinator backed
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

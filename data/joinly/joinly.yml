@@ -1,0 +1,21 @@
+name: joinly
+description: Voice-first AI Assistant for online meetings that can actively
+  participate and solve tasks live during the meeting.
+source_url: https://github.com/joinly-ai/joinly
+category: AI Assistants
+tags:
+  - voice
+  - meetings
+  - live-participation
+markdown: |-
+  ## Overview
+
+  joinly is a voice-first AI Assistant for online meetings.
+
+  ## Features
+
+  - Voice-first interaction
+  - Active meeting participation
+  - Live task solving during meetings
+  - Online meeting integration
+updated_at: 2026-04-05 00:22

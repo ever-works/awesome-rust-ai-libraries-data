@@ -1,0 +1,38 @@
+name: Azure OpenAI (az-openai-rs)
+description: Rust client for Azure's OpenAI Service, providing compatibility
+  with OpenAI API endpoints while using Azure-specific authentication and
+  infrastructure. Enables access to OpenAI models through Azure.
+source_url: https://crates.io/crates/az-openai-rs
+category: API Clients
+tags:
+  - azure
+  - openai
+  - cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  az-openai-rs is a Rust client for Azure's OpenAI Service. It provides
+  compatibility with OpenAI API endpoints while using Azure-specific
+  authentication methods (Azure endpoints and keys), enabling seamless
+  integration with Azure infrastructure.
+
+
+  ## Features
+
+
+  - Compatible with OpenAI API via Azure endpoints
+
+  - Azure-specific authentication (Azure keys and endpoints)
+
+  - Access to OpenAI models through Azure's managed service
+
+  - Integration with Azure infrastructure and security
+
+
+  ## Status
+
+
+  Active development.
+updated_at: 2026-04-05 00:22

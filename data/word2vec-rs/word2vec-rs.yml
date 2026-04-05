@@ -1,0 +1,12 @@
+name: word2vec-rs
+description: Pure Rust implementation of Word2Vec for generating word
+  embeddings. Provides skip-gram and CBOW models for learning distributed word
+  representations from text corpora.
+source_url: https://github.com/mklf/word2vec-rs
+category: NLP
+tags:
+  - word-embeddings
+  - word2vec
+  - pure-rust
+featured: false
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,43 @@
+name: FlowBench
+description: EMNLP 2024 benchmark for evaluating workflow-guided planning
+  capabilities of LLM-based agents, assessing their ability to follow and
+  execute complex multi-step workflows.
+source_url: https://github.com/chenwilliam77/flowbench
+category: AI Agents
+tags:
+  - benchmarking
+  - workflow-evaluation
+  - EMNLP
+featured: false
+markdown: >-
+  ## Overview
+
+
+  FlowBench is a benchmark presented at EMNLP 2024 for revisiting and evaluating
+  workflow-guided planning capabilities of LLM-based agents. It assesses how
+  well agents can follow, plan, and execute complex multi-step workflows.
+
+
+  ## Features
+
+
+  - Workflow-guided planning evaluation for LLM agents
+
+  - Presented at EMNLP 2024
+
+  - Tests multi-step task planning and execution
+
+  - Standardized workflow evaluation protocols
+
+  - Assesses agent ability to follow complex procedures
+
+
+  ## Use Cases
+
+
+  - Evaluating LLM agent workflow planning
+
+  - Benchmarking multi-step reasoning in agents
+
+  - Assessing procedural task execution capabilities
+updated_at: 2026-04-05 00:22

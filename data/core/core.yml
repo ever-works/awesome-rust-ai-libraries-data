@@ -1,0 +1,38 @@
+name: Core
+description: Automated prompt engineering platform that removes manual effort
+  from prompt creation and optimization. Uses AI to iteratively improve prompts
+  for large language models.
+source_url: https://github.com/anthropics/core
+category: LLM Tools
+tags:
+  - prompt-engineering
+  - automation
+  - optimization
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Core is an automated prompt engineering platform that systematizes the process
+  of creating, testing, and optimizing prompts for large language models.
+
+
+  ## Features
+
+
+  - Automated prompt generation and refinement
+
+  - Prompt versioning and tracking
+
+  - A/B testing for prompts
+
+  - Performance metrics and analytics
+
+  - Integration with major LLM providers
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

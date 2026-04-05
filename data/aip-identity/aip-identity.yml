@@ -1,0 +1,40 @@
+name: AIP Identity
+description: Agent Identity Protocol providing cryptographic identity
+  (Ed25519/DID), vouch-based trust graphs, and end-to-end encrypted messaging
+  for AI agents. Available via PyPI (pip install aip-identity) with CLI and
+  Python SDK.
+source_url: https://github.com/AIP-Identity/aip-identity
+category: AI Agents
+tags:
+  - identity
+  - cryptography
+  - e2e-encryption
+featured: false
+markdown: >-
+  ## Overview
+
+
+  AIP (Agent Identity Protocol) is a decentralized identity system designed for
+  AI agents, providing cryptographic verification mechanisms and trust-based
+  communication networks.
+
+
+  ## Features
+
+
+  - Cryptographic Ed25519/DID identity for agents
+
+  - Vouch-based trust graphs
+
+  - End-to-end encrypted messaging
+
+  - CLI for agent identity management
+
+  - Python SDK via PyPI (`pip install aip-identity`)
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

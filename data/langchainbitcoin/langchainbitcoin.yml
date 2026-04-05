@@ -1,0 +1,31 @@
+name: LangChainBitcoin
+description: A toolset for enabling LangChain agents to interact with Bitcoin,
+  the Lightning Network, and APIs requiring L402-based authentication, featuring
+  Bitcoin transactions and automated Lightning payments.
+source_url: https://github.com/michaelhly/langchain-bitcoin
+category: LLM Tools
+tags:
+  - bitcoin
+  - lightning-network
+  - l402
+markdown: >-
+  ## Overview
+
+
+  LangChainBitcoin provides specialized tools for connecting LangChain agents to
+  the Bitcoin ecosystem including the Lightning Network.
+
+
+  ## Features
+
+
+  - Bitcoin transaction capabilities
+
+  - Lightning Network integration
+
+  - L402-based authentication support
+
+  - API traversal with automated Lightning payments
+
+  - LangChain agent compatibility
+updated_at: 2026-04-05 00:22

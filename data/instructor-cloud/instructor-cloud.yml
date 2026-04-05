@@ -1,0 +1,31 @@
+name: Instructor Cloud
+description: A platform for rapid text model extraction with real-time
+  streaming, leveraging GPT-4 and a FastAPI-based service architecture for
+  high-throughput structured data extraction.
+source_url: https://github.com/instructor-ai/instructor-cloud
+category: LLM Tools
+tags:
+  - structured-extraction
+  - real-time
+  - streaming
+markdown: >-
+  ## Overview
+
+
+  Instructor Cloud provides a cloud platform for extracting structured models
+  from text at high speed with real-time streaming capabilities.
+
+
+  ## Features
+
+
+  - Rapid model extraction from text
+
+  - Real-time streaming support
+
+  - GPT-4 integration
+
+  - FastAPI-based service architecture
+
+  - Open-source and community-driven
+updated_at: 2026-04-05 00:22

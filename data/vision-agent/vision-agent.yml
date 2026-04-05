@@ -1,0 +1,26 @@
+name: Vision Agent
+description: Library that helps you utilize agent frameworks to generate code to
+  solve vision tasks, combining AI agents with computer vision.
+source_url: https://github.com/landing-ai/vision-agent
+category: Computer Vision
+tags:
+  - vision
+  - code-generation
+  - agent-framework
+markdown: >-
+  ## Overview
+
+
+  Vision Agent is a library that utilizes agent frameworks to generate code for
+  solving vision tasks.
+
+
+  ## Features
+
+
+  - Vision task code generation
+
+  - Agent framework integration
+
+  - Computer vision capabilities
+updated_at: 2026-04-05 00:22

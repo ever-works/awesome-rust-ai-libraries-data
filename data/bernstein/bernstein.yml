@@ -1,0 +1,42 @@
+name: Bernstein
+description: Deterministic multi-agent orchestrator that spawns parallel AI
+  coding agents (Claude Code, Codex CLI, Gemini CLI) from a single goal,
+  verifies with tests, and auto-commits with zero LLM tokens used for
+  coordination.
+source_url: https://github.com/anthropics/bernstein
+category: Agentic Systems
+tags:
+  - deterministic
+  - coding-agents
+  - zero-token-coordination
+markdown: >-
+  ## Overview
+
+
+  Bernstein is a deterministic multi-agent orchestrator focused on coordinating
+  AI coding agents in parallel.
+
+
+  ## Features
+
+
+  - Spawns parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI)
+
+  - Single goal-based orchestration
+
+  - Test-based verification
+
+  - Auto-commit capabilities
+
+  - Zero LLM tokens used for coordination
+
+  - Deterministic execution
+
+  - Support for multiple coding agent backends
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

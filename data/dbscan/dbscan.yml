@@ -1,0 +1,12 @@
+name: dbscan
+description: A naive DBSCAN implementation in Rust providing density-based
+  spatial clustering of applications with noise. Identifies clusters of
+  arbitrary shape based on point density.
+source_url: https://github.com/savish/dbscan
+category: Clustering
+tags:
+  - dbscan
+  - density-based
+  - noise
+featured: false
+updated_at: 2026-04-05 00:22

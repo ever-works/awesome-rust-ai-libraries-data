@@ -1,0 +1,38 @@
+name: entroly
+description: Information-theoretic Context Engineering Engine that uses
+  reinforcement learning to intelligently prune and select optimal RAG
+  fragments. Helps optimize context window usage for LLM applications.
+source_url: https://github.com/juyterman1000/entroly
+category: RAG Tools
+tags:
+  - context-engineering
+  - reinforcement-learning
+  - rag-optimization
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Entroly is an Information-theoretic Context Engineering Engine designed to
+  optimize the selection and pruning of RAG (Retrieval-Augmented Generation)
+  fragments for LLM applications.
+
+
+  ## Features
+
+
+  - Uses reinforcement learning to intelligently prune and select optimal RAG
+  fragments
+
+  - Information-theoretic approach to context engineering
+
+  - Optimizes context window usage for large language models
+
+  - Helps improve the quality and relevance of retrieved context fragments
+
+
+  ## License
+
+
+  Open-source.
+updated_at: 2026-04-05 00:22

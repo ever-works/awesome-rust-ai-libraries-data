@@ -1,0 +1,10 @@
+name: phoebe
+description: A Rust-based AI project structured as a workspace with multiple
+  crates. The repository has been archived by the owner.
+source_url: https://github.com/samestep/phoebe
+category: Machine Learning
+tags:
+  - rust
+  - archived
+  - workspace
+updated_at: 2026-04-05 00:22

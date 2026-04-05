@@ -1,0 +1,38 @@
+name: Perplexity-Inspired LLM Answer Engine
+description: Versatile answer engine leveraging Groq, Mistral AI, Langchain.JS,
+  Brave Search, Serper API, and OpenAI to deliver efficient responses with
+  RAG-based citation-backed search queries for reduced hallucination.
+source_url: https://github.com/developersdigest/llm-answer-engine
+category: LLM Tools
+tags:
+  - rag
+  - answer-engine
+  - multi-provider
+markdown: >-
+  ## Overview
+
+
+  A versatile answer engine combining multiple LLM providers and search APIs to
+  deliver sophisticated responses with citation-backed queries.
+
+
+  ## Features
+
+
+  - Leverages Groq, Mistral AI, Langchain.JS, Brave Search, Serper API, and
+  OpenAI
+
+  - RAG for citation-backed search queries
+
+  - Reduced hallucination through source citations
+
+  - Efficient answer delivery
+
+  - Multi-provider integration
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

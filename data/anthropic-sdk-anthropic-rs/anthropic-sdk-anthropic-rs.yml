@@ -1,0 +1,35 @@
+name: Anthropic SDK (anthropic-rs)
+description: Rust client for Anthropic's Claude API with support for streaming
+  completions. Provides access to Claude language models through a
+  Rust-idiomatic interface.
+source_url: https://crates.io/crates/anthropic
+category: API Clients
+tags:
+  - anthropic
+  - claude
+  - streaming
+featured: false
+markdown: >-
+  ## Overview
+
+
+  anthropic-rs is a Rust client for Anthropic's Claude API, enabling Rust
+  applications to interact with the Claude family of language models. It
+  supports streaming completions for real-time response generation.
+
+
+  ## Features
+
+
+  - Access to Anthropic Claude API from Rust
+
+  - Streaming completions for real-time token output
+
+  - Supports Claude model family
+
+
+  ## Status
+
+
+  Active work in progress.
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,39 @@
+name: Empower Functions
+description: GPT-4 level function calling models for real-world tool usage
+  scenarios. Provides fine-tuned models that excel at understanding and
+  executing function calls in practical applications.
+source_url: https://github.com/openai/Empower-Functions
+category: LLM Tools
+tags:
+  - function-calling
+  - tool-use
+  - openai
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Empower Functions provides function calling models that achieve GPT-4 level
+  performance for real-world tool usage. These models are fine-tuned to excel at
+  understanding and executing function calls in practical applications.
+
+
+  ## Features
+
+
+  - GPT-4 level function calling capability
+
+  - Real-world tool usage optimization
+
+  - Fine-tuned for specific function schemas
+
+  - High accuracy in parameter extraction
+
+  - Integration with existing tool frameworks
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

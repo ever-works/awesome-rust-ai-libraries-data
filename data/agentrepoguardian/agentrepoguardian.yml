@@ -1,0 +1,38 @@
+name: AgentRepoguardian
+description: An AI agent that performs automated security scans and
+  vulnerability analysis of code repositories, leveraging LLMs to identify
+  potential security issues in software projects.
+source_url: https://github.com/hubert-kasperek/AgentRepoguardian
+category: AI Agents
+tags:
+  - security-scanning
+  - vulnerability-analysis
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  AgentRepoguardian is an AI-powered agent designed to automate security
+  scanning and vulnerability analysis across code repositories.
+
+
+  ## Features
+
+
+  - Automated security scanning
+
+  - Vulnerability analysis using LLMs
+
+  - Repository-wide code scanning
+
+  - AI-powered threat detection
+
+  - Security report generation
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

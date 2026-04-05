@@ -1,0 +1,32 @@
+name: mininn
+description: A minimalist deep learning crate for Rust, designed to be
+  lightweight and easy to use for building and training neural networks. Focuses
+  on simplicity while providing essential deep learning functionality.
+source_url: https://crates.io/crates/mininn
+category: Machine Learning
+tags:
+  - deep-learning
+  - neural-networks
+  - minimalist
+featured: false
+markdown: >-
+  ## Overview
+
+
+  `mininn` is a minimalist deep learning library for Rust that provides
+  essential components for building and training neural networks. It aims to be
+  lightweight and approachable while still offering the core features needed for
+  deep learning tasks.
+
+
+  ## Features
+
+
+  - Lightweight and minimalist design
+
+  - Neural network construction and training
+
+  - Easy-to-use API for rapid prototyping
+
+  - Suitable for learning and small-scale projects
+updated_at: 2026-04-05 00:22

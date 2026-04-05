@@ -1,0 +1,13 @@
+name: chord_rs
+description: A Rust crate for creating beautiful interactive Chord Diagrams.
+  Provides a pro version with additional features, allowing developers to embed
+  chord diagrams in web applications for visualizing relationships between
+  entities.
+source_url: https://github.com/shahinrostami/chord_rs
+category: Data Visualization
+tags:
+  - chord-diagram
+  - interactive
+  - svg
+featured: false
+updated_at: 2026-04-05 00:22

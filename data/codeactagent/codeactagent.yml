@@ -1,0 +1,23 @@
+name: CodeActAgent
+description: Agent trained on CodeActInstruct, showcasing superior performance
+  with dynamic code execution and multi-turn interactions for more effective LLM
+  agents.
+source_url: https://github.com/xingyaoww/code-act
+category: AI Agents
+tags:
+  - code-execution
+  - multi-turn
+  - training
+markdown: |-
+  ## Overview
+
+  CodeActAgent, trained on CodeActInstruct, showcases superior performance.
+
+  ## Features
+
+  - Dynamic code execution
+  - Multi-turn interactions
+  - Superior in-domain performance
+  - Superior out-of-domain performance
+  - Effective LLM agent capabilities
+updated_at: 2026-04-05 00:22

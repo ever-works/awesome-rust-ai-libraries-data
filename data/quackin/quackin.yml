@@ -1,0 +1,12 @@
+name: quackin
+description: A recommender systems framework for Rust providing flexible tools
+  and algorithms for building and deploying recommendation engines with Rust
+  performance and safety.
+source_url: https://github.com/chrisvittal/quackin
+category: Recommendation
+tags:
+  - framework
+  - recommendation
+  - algorithms
+featured: false
+updated_at: 2026-04-05 00:22

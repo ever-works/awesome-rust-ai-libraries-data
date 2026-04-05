@@ -1,0 +1,39 @@
+name: Open Assistant API
+description: Self-hosted, open-source framework enabling the creation of
+  customized AI assistants. Supports integration with OpenAI's LLM and LangChain
+  SDK, and is compatible with OpenAI's Assistants API for seamless
+  orchestration.
+source_url: https://github.com/open-assistant-ai/open-assistant
+category: AI Agents
+tags:
+  - open-source
+  - self-hosted
+  - assistants-api
+markdown: >-
+  ## Overview
+
+
+  The Open Assistant API is a self-hosted, open-source framework that enables
+  the creation of customized AI assistants with orchestration and extension
+  capabilities.
+
+
+  ## Features
+
+
+  - Self-hosted deployment
+
+  - Compatible with OpenAI's Assistants API
+
+  - Integration with OpenAI's LLM and LangChain SDK
+
+  - Seamless orchestration and extension capabilities
+
+  - Customizable AI assistant creation
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

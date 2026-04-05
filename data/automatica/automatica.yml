@@ -1,0 +1,12 @@
+name: automatica
+description: Automatic Control Systems Library written in Rust. Provides tools
+  for modeling, analysis, and design of automatic control systems including
+  state-space and transfer function representations.
+source_url: https://github.com/Daingun/automatica
+category: Statistical Modeling
+tags:
+  - control-systems
+  - state-space
+  - engineering
+featured: false
+updated_at: 2026-04-05 00:22

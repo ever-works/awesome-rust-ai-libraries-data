@@ -1,0 +1,38 @@
+name: Aidialer
+description: Full stack application for interruptible, low-latency, near-human
+  quality AI phone calls built using LLMs, speech understanding, and
+  speech-to-text models from Hugging Face.
+source_url: https://github.com/SkunkworksAI/aidialer
+category: Voice AI
+tags:
+  - voice-ai
+  - phone-calls
+  - real-time
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Aidialer is a comprehensive application for building AI-powered phone call
+  systems with interruptible, low-latency, near-human quality conversations.
+
+
+  ## Features
+
+
+  - Interruptible voice interactions
+
+  - Near-human quality speech synthesis
+
+  - Low-latency response processing
+
+  - Built with LangChain, Hugging Face STT/TTS models
+
+  - Full stack application for phone-based AI conversations
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

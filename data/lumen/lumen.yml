@@ -1,0 +1,31 @@
+name: Lumen
+description: A vision-first browser agent with self-healing deterministic replay
+  over CDP, using a screenshot-model-action loop with multi-provider support for
+  Anthropic and Google models.
+source_url: https://github.com/LumenLabs/lumen
+category: Agentic Systems
+tags:
+  - browser-automation
+  - vision-first
+  - deterministic-replay
+markdown: >-
+  ## Overview
+
+
+  Lumen is a vision-first browser agent that operates through a
+  screenshot-to-model-to-action loop with deterministic replay capabilities.
+
+
+  ## Features
+
+
+  - Vision-first browser interaction
+
+  - Self-healing deterministic replay over CDP (Chrome DevTools Protocol)
+
+  - Screenshot -> model -> action loop
+
+  - Multi-provider LLM support (Anthropic, Google)
+
+  - Deterministic automation with self-healing
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,49 @@
+name: Neurolink
+description: Multi-provider AI agent framework with workflow orchestration
+  capabilities, unifying 12+ providers with an edge-first architecture and
+  production-grade streaming.
+source_url: https://github.com/kaushikb11/neurolink
+category: Agentic Systems
+tags:
+  - multi-provider
+  - edge-first
+  - production-grade
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Neurolink is a multi-agent framework that unifies 12+ AI providers including
+  OpenAI, Google, Anthropic, AWS, Azure, Groq, Together AI, Mistral, Cohere,
+  Fireworks, Cloudflare, and Ollama into a single platform.
+
+
+  ## Features
+
+
+  - Multi-agent framework with workflow orchestration capabilities
+
+  - Unified interface for 12+ AI providers across cloud and local
+
+  - Edge-first architecture supporting both local and cloud deployment
+
+  - Production-grade streaming and tool calling
+
+  - Battle-tested at Juspay processing 15M+ requests per month
+
+
+  ## Technical Details
+
+
+  - Language: TypeScript
+
+  - License: MIT
+
+  - 123 GitHub stars
+
+
+  ## Pricing
+
+
+  Open-source under the MIT license.
+updated_at: 2026-04-05 00:22

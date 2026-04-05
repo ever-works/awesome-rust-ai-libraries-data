@@ -1,0 +1,33 @@
+name: MultiOn
+description: An AI platform that automates actions within web browsers such as
+  form filling, data retrieval, and executing web searches by mimicking human
+  interaction, available through a Chrome extension and developer API.
+source_url: https://www.multion.ai
+category: Agentic Systems
+tags:
+  - browser-automation
+  - web-actions
+  - api
+markdown: >-
+  ## Overview
+
+
+  MultiOn provides AI-powered browser automation that performs web tasks
+  autonomously, mimicking human interaction without manual input.
+
+
+  ## Features
+
+
+  - Automated form filling
+
+  - Data retrieval from websites
+
+  - Web search execution
+
+  - Human-like browser interaction
+
+  - Chrome extension
+
+  - Developer API for integration
+updated_at: 2026-04-05 00:22

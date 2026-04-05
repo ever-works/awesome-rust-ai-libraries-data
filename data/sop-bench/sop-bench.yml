@@ -1,0 +1,42 @@
+name: SOP-Bench
+description: Benchmark for evaluating LLM agents' ability to solve real-world
+  standard operating procedures, testing their adherence to structured process
+  documentation.
+source_url: https://github.com/sop-bench/sop-bench
+category: AI Agents
+tags:
+  - benchmarking
+  - SOP
+  - real-world-tasks
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SOP-Bench is a benchmark designed to evaluate LLM agents' ability to solve
+  real-world standard operating procedures. It tests agents' capability to
+  follow structured process documentation and execute documented procedures
+  accurately.
+
+
+  ## Features
+
+
+  - Evaluates SOP adherence by LLM agents
+
+  - Real-world procedure testing
+
+  - Structured process evaluation
+
+  - Measures accuracy in following documented procedures
+
+
+  ## Use Cases
+
+
+  - Benchmarking agents on procedural tasks
+
+  - Evaluating SOP compliance in AI agents
+
+  - Research on structured task execution
+updated_at: 2026-04-05 00:22

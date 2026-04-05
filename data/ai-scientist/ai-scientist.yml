@@ -1,0 +1,30 @@
+name: AI Scientist
+description: A research project focused on fully automated open-ended scientific
+  discovery using AI, enabling autonomous research workflows from hypothesis
+  generation to experimental design and analysis.
+source_url: https://github.com/SakanaAI/AI-Scientist
+category: Agentic Systems
+tags:
+  - scientific-research
+  - automated-discovery
+  - open-ended
+markdown: >-
+  ## Overview
+
+
+  The AI Scientist is a research initiative toward fully automated open-ended
+  scientific discovery, using AI to conduct entire research workflows
+  autonomously.
+
+
+  ## Features
+
+
+  - Automated scientific research pipeline
+
+  - Open-ended discovery capabilities
+
+  - End-to-end research automation
+
+  - AI-driven hypothesis generation and testing
+updated_at: 2026-04-05 00:22

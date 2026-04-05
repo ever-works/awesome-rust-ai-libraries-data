@@ -1,0 +1,12 @@
+name: pair-adjacent-violators
+description: Implementation of the Pair Adjacent Violators algorithm for
+  isotonic regression in Rust. Provides monotonic regression fitting for ordered
+  data with statistical guarantees.
+source_url: https://github.com/sanity/pair_adjacent_violators
+category: Statistical Modeling
+tags:
+  - isotonic-regression
+  - monotonic
+  - statistics
+featured: false
+updated_at: 2026-04-05 00:22

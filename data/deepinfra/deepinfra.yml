@@ -1,0 +1,23 @@
+name: DeepInfra
+description: Platform simplifying the deployment and management of machine
+  learning models, offering open-source models for text generation and
+  embeddings with REST API integration.
+source_url: https://deepinfra.com
+category: AI Tools
+tags:
+  - deployment
+  - rest-api
+  - open-source-models
+markdown: |-
+  ## Overview
+
+  DeepInfra simplifies the deployment and management of machine learning models.
+
+  ## Features
+
+  - Open-source model deployment
+  - Text generation models
+  - Embedding models
+  - REST API integration
+  - Simplified management
+updated_at: 2026-04-05 00:22

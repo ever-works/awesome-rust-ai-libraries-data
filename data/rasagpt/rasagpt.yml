@@ -1,0 +1,28 @@
+name: RasaGPT
+description: Headless LLM chatbot platform built on top of Rasa and Langchain,
+  combining conversational AI with large language model capabilities.
+source_url: https://github.com/paulpierre/RasaGPT
+category: AI Agents
+tags:
+  - headless
+  - rasa
+  - langchain
+markdown: >-
+  ## Overview
+
+
+  RasaGPT is the first headless LLM chatbot platform built on top of Rasa and
+  Langchain.
+
+
+  ## Features
+
+
+  - Headless architecture
+
+  - Rasa integration
+
+  - Langchain integration
+
+  - LLM-powered conversations
+updated_at: 2026-04-05 00:22

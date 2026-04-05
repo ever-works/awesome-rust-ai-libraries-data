@@ -1,0 +1,26 @@
+name: ThinkGPT
+description: Agent techniques to augment your LLM and push it beyond its limits,
+  providing enhanced cognitive capabilities.
+source_url: https://github.com/shroominic/thinkgpt
+category: Agentic Systems
+tags:
+  - augmentation
+  - llm
+  - techniques
+markdown: >-
+  ## Overview
+
+
+  ThinkGPT provides agent techniques to augment large language models beyond
+  their native capabilities.
+
+
+  ## Features
+
+
+  - LLM augmentation techniques
+
+  - Enhanced cognitive capabilities
+
+  - Agent-based enhancements
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,12 @@
+name: spiril
+description: Rust library for genetic algorithms providing a framework for
+  evolutionary computation and optimization. Supports crossover, mutation,
+  selection, and fitness evaluation for solving complex optimization problems.
+source_url: https://github.com/Jeffail/spiril
+category: Optimization
+tags:
+  - genetic-algorithm
+  - evolutionary
+  - optimization
+featured: false
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,12 @@
+name: deeprust
+description: Machine learning crate in Rust providing neural network
+  implementations and learning algorithms. A Rust-focused approach to deep
+  learning components.
+source_url: https://github.com/dvigneshwer/deeprust
+category: Machine Learning
+tags:
+  - deep-learning
+  - neural-network
+  - crate
+featured: false
+updated_at: 2026-04-05 00:22

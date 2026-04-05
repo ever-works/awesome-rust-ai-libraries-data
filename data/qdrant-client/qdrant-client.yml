@@ -1,0 +1,43 @@
+name: Qdrant-Client
+description: Rust client for the Qdrant vector database, enabling efficient
+  storage and querying of embedding vectors. Provides a robust API for vector
+  similarity search and semantic retrieval in Rust applications.
+source_url: https://crates.io/crates/qdrant-client
+category: Vector Databases
+tags:
+  - vector-database
+  - embeddings
+  - similarity-search
+featured: false
+markdown: >-
+  ## Overview
+
+
+  The Qdrant-Client is the official Rust client for the Qdrant vector database.
+  It enables efficient storage, indexing, and querying of embedding vectors,
+  supporting semantic search and recommendation systems in Rust applications.
+
+
+  ## Features
+
+
+  - Full Rust client for Qdrant vector database
+
+  - Store and query embedding vectors efficiently
+
+  - Vector similarity search (cosine, Euclidean, dot product)
+
+  - Payload filtering and metadata management
+
+  - CRUD operations for collections and points
+
+  - Async API support
+
+
+  ## Status
+
+
+  Active development.
+brand: Qdrant
+brand_logo_url: https://qdrant.tech/img/logo.svg
+updated_at: 2026-04-05 00:22

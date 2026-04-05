@@ -1,0 +1,46 @@
+name: Hanzi
+description: An open-source MCP server and Chrome extension that gives AI agents
+  access to your real signed-in browser for task-level automation. Features
+  built-in skills for LinkedIn prospecting, E2E testing, and social posting,
+  working with Claude Code, Cursor, Codex, and Windsurf.
+source_url: https://github.com/hanzi-ai/hanzi
+category: Agentic Systems
+tags:
+  - mcp
+  - browser-automation
+  - workflow-automation
+markdown: >-
+  ## Overview
+
+
+  Hanzi is an open-source MCP server and Chrome extension that enables AI agents
+  to interact with a real signed-in browser for comprehensive task automation.
+
+
+  ## Features
+
+
+  - MCP server integration
+
+  - Chrome extension for browser access
+
+  - Task-level automation via single tool calls
+
+  - Built-in skills:
+    - LinkedIn prospecting
+    - End-to-end testing
+    - Social media posting
+  - Compatible with Claude Code, Cursor, Codex, and Windsurf
+
+  - Quick setup: npx hanzi-in-chrome setup
+
+
+  ## Architecture
+
+
+  - MCP server for agent communication
+
+  - Chrome extension for browser control
+
+  - Pre-built skill library
+updated_at: 2026-04-05 00:22

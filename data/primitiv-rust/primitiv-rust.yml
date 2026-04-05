@@ -1,0 +1,11 @@
+name: primitiv-rust
+description: Rust binding of primitiv, a machine learning framework. Provides a
+  simple and modular neural network framework in Rust.
+source_url: https://github.com/primitiv/primitiv-rust
+category: Machine Learning
+tags:
+  - deep-learning
+  - neural-network
+  - bindings
+featured: false
+updated_at: 2026-04-05 00:22

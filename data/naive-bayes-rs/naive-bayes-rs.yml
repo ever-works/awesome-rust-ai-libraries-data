@@ -1,0 +1,12 @@
+name: naive-bayes-rs
+description: A Rust library with homemade machine learning models to classify
+  the MNIST dataset. Built as an attempt to get familiar with advanced Rust
+  concepts while implementing classification algorithms from scratch.
+source_url: https://github.com/nkaush/naive-bayes-rs
+category: Machine Learning
+tags:
+  - naive-bayes
+  - mnist
+  - educational
+featured: false
+updated_at: 2026-04-05 00:22

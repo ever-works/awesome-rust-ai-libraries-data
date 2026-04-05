@@ -1,0 +1,35 @@
+name: misanthropy
+description: Another Rust binding for Anthropic's Claude API providing easy
+  access to Claude models. An alternative experimental implementation for
+  interacting with Anthropic's services.
+source_url: https://github.com/cortesi/misanthropy
+category: API Clients
+tags:
+  - anthropic
+  - claude
+  - experimental
+featured: false
+markdown: >-
+  ## Overview
+
+
+  misanthropy is an experimental Rust binding for Anthropic's API, providing an
+  alternative way to access Claude language models. It offers an easy-to-use
+  interface for interacting with Anthropic's completion endpoints.
+
+
+  ## Features
+
+
+  - Simple binding for Anthropic's Claude API
+
+  - Easy access to Claude models
+
+  - Alternative experimental implementation
+
+
+  ## Status
+
+
+  Experimental.
+updated_at: 2026-04-05 00:22

@@ -1,0 +1,41 @@
+name: PolicyLayer
+description: Non-custodial spending controls for AI agents with crypto wallets.
+  Enforces daily spending limits, per-transaction caps, recipient whitelists,
+  and rate limiting without holding private keys.
+source_url: https://www.policylayer.com
+category: AI Agents
+tags:
+  - crypto
+  - spending-limits
+  - security
+featured: false
+markdown: >-
+  ## Overview
+
+
+  PolicyLayer provides non-custodial spending controls specifically designed for
+  AI agents using crypto wallets. It enforces security policies without
+  requiring custody of private keys.
+
+
+  ## Features
+
+
+  - Daily spending limits
+
+  - Per-transaction caps
+
+  - Recipient whitelists
+
+  - Rate limiting
+
+  - Prevents wallet drains from bugs, prompt injection, or infinite loops
+
+  - Non-custodial — private keys never held by the service
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:22

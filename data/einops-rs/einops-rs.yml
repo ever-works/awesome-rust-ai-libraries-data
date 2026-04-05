@@ -1,0 +1,13 @@
+name: einops-rs
+description: Simplistic API for deep learning tensor operations in Rust, ported
+  from the popular Python einops library. Provides readable and composable
+  tensor manipulation operations that simplify reshaping, reduction, and
+  reordering of neural network tensors.
+source_url: https://github.com/VasanthakumarV/einops
+category: Machine Learning
+tags:
+  - deep-learning
+  - tensors
+  - api
+featured: false
+updated_at: 2026-04-05 00:22

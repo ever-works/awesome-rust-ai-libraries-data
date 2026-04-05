@@ -1,0 +1,22 @@
+name: Assistants API by OpenAI
+description: OpenAI API facilitating development of AI agents, offering tools
+  such as Code Interpretation and Function calling for embedding intelligent
+  functionalities.
+source_url: https://platform.openai.com/docs/assistants/overview
+category: LLM Tools
+tags:
+  - api
+  - function-calling
+  - code-interpretation
+markdown: |-
+  ## Overview
+
+  The Assistants API facilitates the development of AI agents.
+
+  ## Tools
+
+  - Code Interpretation
+  - Function calling
+  - Embedding AI functionalities in applications
+brand: OpenAI
+updated_at: 2026-04-05 00:22
