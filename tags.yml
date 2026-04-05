@@ -255,7 +255,7 @@
 - id: git
   name: Git
 - id: ai-workflows
-  name: Ai Workflows
+  name: AI Workflows
 - id: ai-agent
   name: Ai Agent
 - id: local
@@ -656,3 +656,1881 @@
   name: Elasticsearch
 - id: search
   name: Search
+- id: ai-devices
+  name: Ai Devices
+- id: speech-to-speech
+  name: Speech To Speech
+- id: neural-network
+  name: Neural Network
+- id: crate
+  name: Crate
+- id: recommendation
+  name: Recommendation
+- id: automatic-differentiation
+  name: Automatic Differentiation
+- id: reverse-mode
+  name: Reverse Mode
+- id: gradient-computation
+  name: Gradient Computation
+- id: gpgpu
+  name: Gpgpu
+- id: ai-automation
+  name: Ai Automation
+- id: integrations
+  name: Integrations
+- id: data-labeling
+  name: Data Labeling
+- id: autonomous
+  name: Autonomous
+- id: python
+  name: Python
+- id: automl
+  name: Automl
+- id: system-design
+  name: System Design
+- id: collaborative
+  name: Collaborative
+- id: prompt-optimization
+  name: Prompt Optimization
+- id: evaluation
+  name: Evaluation
+- id: automated-tuning
+  name: Automated Tuning
+- id: safety-kernel
+  name: Safety Kernel
+- id: posix-inspired
+  name: Posix Inspired
+- id: policy-engine
+  name: Policy Engine
+- id: api-standard
+  name: Api Standard
+- id: benchmarking
+  name: Benchmarking
+- id: security-scanning
+  name: Security Scanning
+- id: vulnerability-analysis
+  name: Vulnerability Analysis
+- id: state-machines
+  name: State Machines
+- id: interactive
+  name: Interactive
+- id: blockchain
+  name: Blockchain
+- id: typescript
+  name: Typescript
+- id: ai-integration
+  name: Ai Integration
+- id: production-ready
+  name: Production Ready
+- id: workflow
+  name: Workflow
+- id: cryptographic-identity
+  name: Cryptographic Identity
+- id: w3c-did
+  name: W3c Did
+- id: async-execution
+  name: Async Execution
+- id: trainable
+  name: Trainable
+- id: stanford-research
+  name: Stanford Research
+- id: task-execution
+  name: Task Execution
+- id: customizable
+  name: Customizable
+- id: social-network
+  name: Social Network
+- id: microblogging
+  name: Microblogging
+- id: cloudflare
+  name: Cloudflare
+- id: self-improving
+  name: Self Improving
+- id: context-management
+  name: Context Management
+- id: security-scanner
+  name: Security Scanner
+- id: vulnerability-detection
+  name: Vulnerability Detection
+- id: compliance
+  name: Compliance
+- id: red-teaming
+  name: Red Teaming
+- id: vulnerability-scanning
+  name: Vulnerability Scanning
+- id: devtools
+  name: Devtools
+- id: agency
+  name: Agency
+- id: self-evolving
+  name: Self Evolving
+- id: modular
+  name: Modular
+- id: agi-research
+  name: Agi Research
+- id: web-agents
+  name: Web Agents
+- id: frontend
+  name: Frontend
+- id: zero-trust
+  name: Zero Trust
+- id: trust-layer
+  name: Trust Layer
+- id: testing
+  name: Testing
+- id: safe-execution
+  name: Safe Execution
+- id: multi-model
+  name: Multi Model
+- id: javascript
+  name: Javascript
+- id: browser-native
+  name: Browser Native
+- id: event-driven
+  name: Event Driven
+- id: scanner
+  name: Scanner
+- id: mcp
+  name: Mcp
+- id: agent-search
+  name: Agent Search
+- id: module-evolution
+  name: Module Evolution
+- id: tsinghua-university
+  name: Tsinghua University
+- id: operations
+  name: Operations
+- id: productivity
+  name: Productivity
+- id: configuration-driven
+  name: Configuration Driven
+- id: plugin-ecosystem
+  name: Plugin Ecosystem
+- id: secure
+  name: Secure
+- id: simulation
+  name: Simulation
+- id: monitoring
+  name: Monitoring
+- id: sales
+  name: Sales
+- id: multi-provider
+  name: Multi Provider
+- id: customer-service
+  name: Customer Service
+- id: real-time
+  name: Real Time
+- id: bitcoin
+  name: Bitcoin
+- id: artifacts
+  name: Artifacts
+- id: claude
+  name: Claude
+- id: secure-execution
+  name: Secure Execution
+- id: e-commerce
+  name: E Commerce
+- id: swarm
+  name: Swarm
+- id: emergent-behavior
+  name: Emergent Behavior
+- id: coordination
+  name: Coordination
+- id: research
+  name: Research
+- id: claude-3
+  name: Claude 3
+- id: serp-api
+  name: Serp Api
+- id: scientific-research
+  name: Scientific Research
+- id: automated-discovery
+  name: Automated Discovery
+- id: open-ended
+  name: Open Ended
+- id: conversational-ai
+  name: Conversational Ai
+- id: multi-framework
+  name: Multi Framework
+- id: generative-ai
+  name: Generative Ai
+- id: copilot
+  name: Copilot
+- id: genai
+  name: Genai
+- id: infrastructure
+  name: Infrastructure
+- id: pair-programming
+  name: Pair Programming
+- id: voice-ai
+  name: Voice Ai
+- id: phone-calls
+  name: Phone Calls
+- id: operating-system
+  name: Operating System
+- id: agi
+  name: Agi
+- id: identity
+  name: Identity
+- id: cryptography
+  name: Cryptography
+- id: e2e-encryption
+  name: E2e Encryption
+- id: unified-api
+  name: Unified Api
+- id: tensor
+  name: Tensor
+- id: workflow-orchestration
+  name: Workflow Orchestration
+- id: statically-typed
+  name: Statically Typed
+- id: tee
+  name: Tee
+- id: web3
+  name: Web3
+- id: gpu-accelerated
+  name: Gpu Accelerated
+- id: quantization
+  name: Quantization
+- id: reasoning
+  name: Reasoning
+- id: privacy
+  name: Privacy
+- id: anthropic
+  name: Anthropic
+- id: personalization
+  name: Personalization
+- id: 24x7
+  name: 24x7
+- id: summarization
+  name: Summarization
+- id: comparison
+  name: Comparison
+- id: sales-research
+  name: Sales Research
+- id: bdr
+  name: Bdr
+- id: mobile
+  name: Mobile
+- id: app-automation
+  name: App Automation
+- id: floating-point
+  name: Floating Point
+- id: assertions
+  name: Assertions
+- id: acl
+  name: ACL
+- id: interactive-agents
+  name: Interactive Agents
+- id: time-series
+  name: Time Series
+- id: forecasting
+  name: Forecasting
+- id: arima
+  name: Arima
+- id: production
+  name: Production
+- id: api
+  name: Api
+- id: function-calling
+  name: Function Calling
+- id: code-interpretation
+  name: Code Interpretation
+- id: astra-db
+  name: Astra Db
+- id: openai-compatible
+  name: Openai Compatible
+- id: backend
+  name: Backend
+- id: enterprise
+  name: Enterprise
+- id: commercial-friendly
+  name: Commercial Friendly
+- id: autonomous-companies
+  name: Autonomous Companies
+- id: expert-personas
+  name: Expert Personas
+- id: continuous-deployment
+  name: Continuous Deployment
+- id: learning
+  name: Learning
+- id: planning
+  name: Planning
+- id: coding-assistant
+  name: Coding Assistant
+- id: debugging
+  name: Debugging
+- id: forward-mode
+  name: Forward Mode
+- id: microsoft
+  name: Microsoft
+- id: conversation
+  name: Conversation
+- id: auto-gpt
+  name: Auto Gpt
+- id: framework
+  name: Framework
+- id: leaderboard
+  name: Leaderboard
+- id: gradients
+  name: Gradients
+- id: multi-llm
+  name: Multi Llm
+- id: control-systems
+  name: Control Systems
+- id: state-space
+  name: State Space
+- id: engineering
+  name: Engineering
+- id: goal-oriented
+  name: Goal Oriented
+- id: hr
+  name: Hr
+- id: chatbot
+  name: Chatbot
+- id: code-automation
+  name: Code Automation
+- id: github
+  name: Github
+- id: bedrock
+  name: Bedrock
+- id: foundation-models
+  name: Foundation Models
+- id: strongly-typed
+  name: Strongly Typed
+- id: natural-language
+  name: Natural Language
+- id: cloud
+  name: Cloud
+- id: speech
+  name: Speech
+- id: neural-voices
+  name: Neural Voices
+- id: web-interface
+  name: Web Interface
+- id: development
+  name: Development
+- id: babyagi
+  name: Babyagi
+- id: task-management
+  name: Task Management
+- id: game-evaluation
+  name: Game Evaluation
+- id: web-tasks
+  name: Web Tasks
+- id: playwright
+  name: Playwright
+- id: bandits
+  name: Bandits
+- id: online-learning
+  name: Online Learning
+- id: exploration
+  name: Exploration
+- id: text-completion
+  name: Text Completion
+- id: batching
+  name: Batching
+- id: inference-optimization
+  name: Inference Optimization
+- id: lead-qualification
+  name: Lead Qualification
+- id: process-automation
+  name: Process Automation
+- id: inference-api
+  name: Inference Api
+- id: deterministic
+  name: Deterministic
+- id: coding-agents
+  name: Coding Agents
+- id: zero-token-coordination
+  name: Zero Token Coordination
+- id: serverless
+  name: Serverless
+- id: gpu-inference
+  name: Gpu Inference
+- id: gym-environment
+  name: Gym Environment
+- id: devops
+  name: Devops
+- id: phone-agents
+  name: Phone Agents
+- id: telephony
+  name: Telephony
+- id: custom-voices
+  name: Custom Voices
+- id: blingfire
+  name: Blingfire
+- id: fast
+  name: Fast
+- id: iterative-research
+  name: Iterative Research
+- id: report-generation
+  name: Report Generation
+- id: knowledge-synthesis
+  name: Knowledge Synthesis
+- id: orchestration
+  name: Orchestration
+- id: custom-tools
+  name: Custom Tools
+- id: data-analysis
+  name: Data Analysis
+- id: adversarial
+  name: Adversarial
+- id: headless-browser
+  name: Headless Browser
+- id: browser-automation
+  name: Browser Automation
+- id: compile-time
+  name: Compile Time
+- id: zero-overhead
+  name: Zero Overhead
+- id: kv-cache
+  name: Kv Cache
+- id: semantic-communication
+  name: Semantic Communication
+- id: novel-paradigm
+  name: Novel Paradigm
+- id: prompt-injection
+  name: Prompt Injection
+- id: scheduling
+  name: Scheduling
+- id: langchain
+  name: Langchain
+- id: local-inference
+  name: Local Inference
+- id: role-playing
+  name: Role Playing
+- id: cognitive-architecture
+  name: Cognitive Architecture
+- id: api-governance
+  name: Api Governance
+- id: gbdt
+  name: Gbdt
+- id: catboost
+  name: Catboost
+- id: multi-app
+  name: Multi App
+- id: change-point
+  name: Change Point
+- id: bayesian
+  name: Bayesian
+- id: charting
+  name: Charting
+- id: pay-as-you-go
+  name: Pay As You Go
+- id: software-development
+  name: Software Development
+- id: nodejs
+  name: Nodejs
+- id: chrome-extension
+  name: Chrome Extension
+- id: code-preview
+  name: Code Preview
+- id: text-generation
+  name: Text Generation
+- id: assistant
+  name: Assistant
+- id: chord-diagram
+  name: Chord Diagram
+- id: svg
+  name: Svg
+- id: flask
+  name: Flask
+- id: react
+  name: React
+- id: tutorial
+  name: Tutorial
+- id: vite
+  name: Vite
+- id: api-gateway
+  name: Api Gateway
+- id: multi-service
+  name: Multi Service
+- id: x402
+  name: X402
+- id: deep-research
+  name: Deep Research
+- id: web-browsing
+  name: Web Browsing
+- id: continual-learning
+  name: Continual Learning
+- id: rapid-adaptation
+  name: Rapid Adaptation
+- id: transparency
+  name: Transparency
+- id: code-execution
+  name: Code Execution
+- id: multi-turn
+  name: Multi Turn
+- id: docker
+  name: Docker
+- id: devin-inspired
+  name: Devin Inspired
+- id: code-completion
+  name: Code Completion
+- id: ide
+  name: Ide
+- id: simple
+  name: Simple
+- id: data-models
+  name: Data Models
+- id: cohere
+  name: Cohere
+- id: nlp
+  name: Nlp
+- id: rlhf
+  name: Rlhf
+- id: comfyui
+  name: ComfyUI
+- id: authentication
+  name: Authentication
+- id: developer-tools
+  name: Developer Tools
+- id: analysis
+  name: Analysis
+- id: ux
+  name: Ux
+- id: context
+  name: Context
+- id: natural-language-query
+  name: Natural Language Query
+- id: sqlite
+  name: Sqlite
+- id: ide-plugin
+  name: Ide Plugin
+- id: autocomplete
+  name: Autocomplete
+- id: convolutions
+  name: Convolutions
+- id: pytorch-compatible
+  name: Pytorch Compatible
+- id: safety
+  name: Safety
+- id: policy-evaluation
+  name: Policy Evaluation
+- id: prompt-engineering
+  name: Prompt Engineering
+- id: stateful-tools
+  name: Stateful Tools
+- id: shared-state
+  name: Shared State
+- id: dynamic-graph
+  name: Dynamic Graph
+- id: whatsapp
+  name: Whatsapp
+- id: crm
+  name: Crm
+- id: webgpu
+  name: Webgpu
+- id: extreme-multi-label
+  name: Extreme Multi Label
+- id: random-forest
+  name: Random Forest
+- id: examples
+  name: Examples
+- id: crewai
+  name: Crewai
+- id: beta
+  name: Beta
+- id: tool-development
+  name: Tool Development
+- id: role-play
+  name: Role Play
+- id: crf
+  name: Crf
+- id: sequence-labeling
+  name: Sequence Labeling
+- id: editor
+  name: Editor
+- id: web-api
+  name: Web Api
+- id: tool-integration
+  name: Tool Integration
+- id: multi-backend
+  name: Multi Backend
+- id: vslam
+  name: Vslam
+- id: darknet
+  name: Darknet
+- id: object-detection
+  name: Object Detection
+- id: questionnaire
+  name: Questionnaire
+- id: data-integration
+  name: Data Integration
+- id: chainlit
+  name: Chainlit
+- id: research-automation
+  name: Research Automation
+- id: paper-generation
+  name: Paper Generation
+- id: no-code
+  name: No Code
+- id: personal-data
+  name: Personal Data
+- id: datalog
+  name: Datalog
+- id: incremental
+  name: Incremental
+- id: cloud-data
+  name: Cloud Data
+- id: sql-engine
+  name: Sql Engine
+- id: dataset-generation
+  name: Dataset Generation
+- id: databases
+  name: Databases
+- id: text2sql
+  name: Text2sql
+- id: private-llm
+  name: Private Llm
+- id: dbscan
+  name: Dbscan
+- id: density-based
+  name: Density Based
+- id: noise
+  name: Noise
+- id: multi-agent-debate
+  name: Multi Agent Debate
+- id: truthfulness
+  name: Truthfulness
+- id: data-deduplication
+  name: Data Deduplication
+- id: language-models
+  name: Language Models
+- id: google-research
+  name: Google Research
+- id: data-science
+  name: Data Science
+- id: autonomous-analysis
+  name: Autonomous Analysis
+- id: agentic-llm
+  name: Agentic Llm
+- id: suite
+  name: Suite
+- id: voice-bots
+  name: Voice Bots
+- id: low-latency
+  name: Low Latency
+- id: conversational
+  name: Conversational
+- id: rest-api
+  name: Rest Api
+- id: open-source-models
+  name: Open Source Models
+- id: inference-engine
+  name: Inference Engine
+- id: unit-testing
+  name: Unit Testing
+- id: code-coverage
+  name: Code Coverage
+- id: autonomous-data-science
+  name: Autonomous Data Science
+- id: adaptive-optimization
+  name: Adaptive Optimization
+- id: no-predefined-workflow
+  name: No Predefined Workflow
+- id: software-engineer
+  name: Software Engineer
+- id: code-correction
+  name: Code Correction
+- id: bug-detection
+  name: Bug Detection
+- id: completion
+  name: Completion
+- id: evolutionary-algorithm
+  name: Evolutionary Algorithm
+- id: genetic
+  name: Genetic
+- id: stable-diffusion
+  name: Stable Diffusion
+- id: diffusion
+  name: Diffusion
+- id: visual-builder
+  name: Visual Builder
+- id: multi-agent-cooperation
+  name: Multi Agent Cooperation
+- id: negotiation
+  name: Negotiation
+- id: strategy
+  name: Strategy
+- id: llm-serving
+  name: Llm Serving
+- id: reputation
+  name: Reputation
+- id: base-l2
+  name: Base L2
+- id: chat
+  name: Chat
+- id: llamacpp
+  name: Llama.cpp
+- id: computation-graph
+  name: Computation Graph
+- id: developer-assistant
+  name: Developer Assistant
+- id: dynet
+  name: Dynet
+- id: edge-ai
+  name: Edge Ai
+- id: agent-server
+  name: Agent Server
+- id: speech-synthesis
+  name: Speech Synthesis
+- id: text-to-speech
+  name: Text To Speech
+- id: keyboard-centric
+  name: Keyboard Centric
+- id: chatbots
+  name: Chatbots
+- id: multi-source
+  name: Multi Source
+- id: embodied-agents
+  name: Embodied Agents
+- id: decision-making
+  name: Decision Making
+- id: generative-software
+  name: Generative Software
+- id: rust-bindings
+  name: Rust Bindings
+- id: context-engineering
+  name: Context Engineering
+- id: rag-optimization
+  name: Rag Optimization
+- id: data-operations
+  name: Data Operations
+- id: workflow-optimization
+  name: Workflow Optimization
+- id: ecosystem
+  name: Ecosystem
+- id: evolutionary-computation
+  name: Evolutionary Computation
+- id: model-merging
+  name: Model Merging
+- id: anomaly-detection
+  name: Anomaly Detection
+- id: isolation-forest
+  name: Isolation Forest
+- id: outlier-detection
+  name: Outlier Detection
+- id: data-extraction
+  name: Data Extraction
+- id: unstructured-data
+  name: Unstructured Data
+- id: document-intelligence
+  name: Document Intelligence
+- id: orm
+  name: Orm
+- id: hiring
+  name: Hiring
+- id: video-interviews
+  name: Video Interviews
+- id: bias-reduction
+  name: Bias Reduction
+- id: fann
+  name: Fann
+- id: approximate-nearest-neighbor
+  name: Approximate Nearest Neighbor
+- id: tool-calling
+  name: Tool Calling
+- id: text-classification
+  name: Text Classification
+- id: fasttext
+  name: Fasttext
+- id: voice-control
+  name: Voice Control
+- id: macos
+  name: Macos
+- id: local-first
+  name: Local First
+- id: iot
+  name: Iot
+- id: agent-hosting
+  name: Agent Hosting
+- id: supervised
+  name: Supervised
+- id: word-embeddings
+  name: Word Embeddings
+- id: subwords
+  name: Subwords
+- id: code-review
+  name: Code Review
+- id: finance
+  name: Finance
+- id: production-grade
+  name: Production Grade
+- id: performance-optimized
+  name: Performance Optimized
+- id: declarative
+  name: Declarative
+- id: blackboard
+  name: Blackboard
+- id: typed-contracts
+  name: Typed Contracts
+- id: ai-gateway
+  name: Ai Gateway
+- id: marketplace
+  name: Marketplace
+- id: workflow-evaluation
+  name: Workflow Evaluation
+- id: emnlp
+  name: EMNLP
+- id: drag-and-drop
+  name: Drag And Drop
+- id: frozen-llm
+  name: Frozen Llm
+- id: pydantic
+  name: Pydantic
+- id: data-normalization
+  name: Data Normalization
+- id: entity-linking
+  name: Entity Linking
+- id: smart-contracts
+  name: Smart Contracts
+- id: micropayments
+  name: Micropayments
+- id: stacks
+  name: Stacks
+- id: speech-language
+  name: Speech Language
+- id: audio
+  name: Audio
+- id: nvidia
+  name: Nvidia
+- id: reference-workflows
+  name: Reference Workflows
+- id: scientific-discovery
+  name: Scientific Discovery
+- id: typed-message-passing
+  name: Typed Message Passing
+- id: telegram
+  name: Telegram
+- id: no-cloud
+  name: No Cloud
+- id: human-ai-collaboration
+  name: Human Ai Collaboration
+- id: web-development
+  name: Web Development
+- id: low-code
+  name: Low Code
+- id: shader
+  name: Shader
+- id: opengl
+  name: Opengl
+- id: git-native
+  name: Git Native
+- id: protocol
+  name: Protocol
+- id: scale
+  name: Scale
+- id: google
+  name: Google
+- id: code-first
+  name: Code First
+- id: computer-automation
+  name: Computer Automation
+- id: free
+  name: Free
+- id: text-annotation
+  name: Text Annotation
+- id: automated-labeling
+  name: Automated Labeling
+- id: code-assistant
+  name: Code Assistant
+- id: natural-language-programming
+  name: Natural Language Programming
+- id: gpt
+  name: Gpt
+- id: autonomous-agents
+  name: Autonomous Agents
+- id: content-generation
+  name: Content Generation
+- id: ai-development
+  name: Ai Development
+- id: autonomous-research
+  name: Autonomous Research
+- id: collaborative-ai
+  name: Collaborative Ai
+- id: parallel-calling
+  name: Parallel Calling
+- id: validation
+  name: Validation
+- id: risk-mitigation
+  name: Risk Mitigation
+- id: constrained-generation
+  name: Constrained Generation
+- id: grammar
+  name: Grammar
+- id: float16
+  name: Float16
+- id: low-precision
+  name: Low Precision
+- id: workflow-automation
+  name: Workflow Automation
+- id: browser-extension
+  name: Browser Extension
+- id: neural-search
+  name: Neural Search
+- id: end-to-end
+  name: End To End
+- id: llm-ops
+  name: Llm Ops
+- id: model-hub
+  name: Model Hub
+- id: downloads
+  name: Downloads
+- id: wordpiece
+  name: Wordpiece
+- id: governance
+  name: Governance
+- id: ann-search
+  name: Ann Search
+- id: algorithm
+  name: Algorithm
+- id: vector-index
+  name: Vector Index
+- id: hugging-face
+  name: Hugging Face
+- id: hosted-models
+  name: Hosted Models
+- id: wearable
+  name: Wearable
+- id: ambient-computing
+  name: Ambient Computing
+- id: emotional-intelligence
+  name: Emotional Intelligence
+- id: empathic-ai
+  name: Empathic Ai
+- id: scalable
+  name: Scalable
+- id: ibm
+  name: Ibm
+- id: ssd
+  name: Ssd
+- id: funded
+  name: Funded
+- id: personal-computing
+  name: Personal Computing
+- id: meta-benchmarking
+  name: Meta Benchmarking
+- id: agent-improvement
+  name: Agent Improvement
+- id: meta-learning
+  name: Meta Learning
+- id: grpc
+  name: Grpc
+- id: multi-hardware
+  name: Multi Hardware
+- id: spir-v
+  name: Spir V
+- id: vulkan
+  name: Vulkan
+- id: structured-extraction
+  name: Structured Extraction
+- id: structured-outputs
+  name: Structured Outputs
+- id: agent-building
+  name: Agent Building
+- id: portal
+  name: Portal
+- id: pii-protection
+  name: Pii Protection
+- id: platform
+  name: Platform
+- id: visual-workflow
+  name: Visual Workflow
+- id: process-monitoring
+  name: Process Monitoring
+- id: json-schema
+  name: Json Schema
+- id: data-transformation
+  name: Data Transformation
+- id: offline
+  name: Offline
+- id: local-llm
+  name: Local Llm
+- id: meetings
+  name: Meetings
+- id: live-participation
+  name: Live Participation
+- id: structured-data
+  name: Structured Data
+- id: kafka
+  name: Kafka
+- id: kd-tree
+  name: Kd Tree
+- id: spatial
+  name: Spatial
+- id: document-processing
+  name: Document Processing
+- id: extraction
+  name: Extraction
+- id: ml-inference
+  name: Ml Inference
+- id: inference-operator
+  name: Inference Operator
+- id: semi-supervised
+  name: Semi Supervised
+- id: graph-based
+  name: Graph Based
+- id: label-propagation
+  name: Label Propagation
+- id: llm-based
+  name: Llm Based
+- id: lightning-network
+  name: Lightning Network
+- id: l402
+  name: L402
+- id: question-answering
+  name: Question Answering
+- id: chains
+  name: Chains
+- id: llm-composability
+  name: Llm Composability
+- id: prompt-management
+  name: Prompt Management
+- id: stateful
+  name: Stateful
+- id: cyclic-graphs
+  name: Cyclic Graphs
+- id: agent-patterns
+  name: Agent Patterns
+- id: low-memory
+  name: Low Memory
+- id: legal-ai
+  name: Legal AI
+- id: embeddable
+  name: Embeddable
+- id: hallucination-detection
+  name: Hallucination Detection
+- id: lightgbm
+  name: Lightgbm
+- id: webrtc
+  name: Webrtc
+- id: screen-capture
+  name: Screen Capture
+- id: llama-stack
+  name: Llama Stack
+- id: low-level
+  name: Low Level
+- id: gguf
+  name: Gguf
+- id: safe-rust
+  name: Safe Rust
+- id: data-parsing
+  name: Data Parsing
+- id: ingestion
+  name: Ingestion
+- id: managed-service
+  name: Managed Service
+- id: gym-environments
+  name: Gym Environments
+- id: meta-cognition
+  name: Meta Cognition
+- id: llm-controlled
+  name: Llm Controlled
+- id: task-decomposition
+  name: Task Decomposition
+- id: comprehensive
+  name: Comprehensive
+- id: llm-chain
+  name: Llm Chain
+- id: data-conversion
+  name: Data Conversion
+- id: dataset-formatting
+  name: Dataset Formatting
+- id: training-data
+  name: Training Data
+- id: common-sense
+  name: Common Sense
+- id: template
+  name: Template
+- id: instruction-tuning
+  name: Instruction Tuning
+- id: uc-berkeley
+  name: UC Berkeley
+- id: multi-step-reasoning
+  name: Multi Step Reasoning
+- id: swift
+  name: Swift
+- id: apple
+  name: Apple
+- id: ggml
+  name: Ggml
+- id: out-of-distribution
+  name: Out Of Distribution
+- id: gemini
+  name: Gemini
+- id: parsers
+  name: Parsers
+- id: benchmark-datasets
+  name: Benchmark Datasets
+- id: llm-apps
+  name: Llm Apps
+- id: distributed-inference
+  name: Distributed Inference
+- id: load-balancing
+  name: Load Balancing
+- id: chat-ui
+  name: Chat Ui
+- id: cross-platform
+  name: Cross Platform
+- id: voice-cloning
+  name: Voice Cloning
+- id: programming-language
+  name: Programming Language
+- id: constraints
+  name: Constraints
+- id: document-chat
+  name: Document Chat
+- id: gpt-35
+  name: Gpt 3.5
+- id: multi-lora
+  name: Multi Lora
+- id: fine-tuned-llms
+  name: Fine Tuned Llms
+- id: inference-server
+  name: Inference Server
+- id: lsh
+  name: Lsh
+- id: python-bindings
+  name: Python Bindings
+- id: vision-first
+  name: Vision First
+- id: deterministic-replay
+  name: Deterministic Replay
+- id: unified-formats
+  name: Unified Formats
+- id: claude-code
+  name: Claude Code
+- id: managed
+  name: Managed
+- id: iso-compliant
+  name: Iso Compliant
+- id: subagents
+  name: Subagents
+- id: generalist
+  name: Generalist
+- id: pytorch-like
+  name: Pytorch Like
+- id: entity-extraction
+  name: Entity Extraction
+- id: text-processing
+  name: Text Processing
+- id: memory-layer
+  name: Memory Layer
+- id: context-retention
+  name: Context Retention
+- id: self-editing-memory
+  name: Self Editing Memory
+- id: contextual
+  name: Contextual
+- id: technical-support
+  name: Technical Support
+- id: nim
+  name: Nim
+- id: self-editing
+  name: Self Editing
+- id: plugin-architecture
+  name: Plugin Architecture
+- id: hashing
+  name: Hashing
+- id: hamming-space
+  name: Hamming Space
+- id: meilisearch
+  name: Meilisearch
+- id: small-business
+  name: Small Business
+- id: done-for-you
+  name: Done For You
+- id: long-context
+  name: Long Context
+- id: sparse-attention
+  name: Sparse Attention
+- id: latency-optimization
+  name: Latency Optimization
+- id: extensible
+  name: Extensible
+- id: parallel-execution
+  name: Parallel Execution
+- id: assistant-framework
+  name: Assistant Framework
+- id: dashboards
+  name: Dashboards
+- id: bi
+  name: Bi
+- id: experimental
+  name: Experimental
+- id: ml-research
+  name: Ml Research
+- id: ml-compilation
+  name: Ml Compilation
+- id: json-configured
+  name: Json Configured
+- id: mobile-agents
+  name: Mobile Agents
+- id: static-embeddings
+  name: Static Embeddings
+- id: webassembly
+  name: Webassembly
+- id: go
+  name: Go
+- id: agent-community
+  name: Agent Community
+- id: web-actions
+  name: Web Actions
+- id: mxnet
+  name: Mxnet
+- id: backpropagation
+  name: Backpropagation
+- id: wip
+  name: Wip
+- id: fair-code
+  name: Fair Code
+- id: mnist
+  name: Mnist
+- id: probabilistic
+  name: Probabilistic
+- id: visual-tasks
+  name: Visual Tasks
+- id: data-flow-analysis
+  name: Data Flow Analysis
+- id: ensembles
+  name: Ensembles
+- id: statistical
+  name: Statistical
+- id: model-compression
+  name: Model Compression
+- id: intel
+  name: Intel
+- id: edge-first
+  name: Edge First
+- id: spelling
+  name: Spelling
+- id: rule-based
+  name: Rule Based
+- id: feedforward
+  name: Feedforward
+- id: hallucination
+  name: Hallucination
+- id: tool-apis
+  name: Tool Apis
+- id: ptx
+  name: Ptx
+- id: nmf
+  name: Nmf
+- id: factorization
+  name: Factorization
+- id: llm-runtime
+  name: Llm Runtime
+- id: multi-label
+  name: Multi Label
+- id: ml-engine
+  name: Ml Engine
+- id: credentials
+  name: Credentials
+- id: assistants-api
+  name: Assistants Api
+- id: computer-control
+  name: Computer Control
+- id: multi-protocol
+  name: Multi Protocol
+- id: network
+  name: Network
+- id: open-platform
+  name: Open Platform
+- id: llm-integration
+  name: Llm Integration
+- id: rltf
+  name: Rltf
+- id: community
+  name: Community
+- id: type-safe
+  name: Type Safe
+- id: official
+  name: Official
+- id: autonomous-coding
+  name: Autonomous Coding
+- id: software-engineering
+  name: Software Engineering
+- id: multi-architecture
+  name: Multi Architecture
+- id: health-informatics
+  name: Health Informatics
+- id: healthcare
+  name: Healthcare
+- id: general-purpose
+  name: General Purpose
+- id: model-optimization
+  name: Model Optimization
+- id: cost-effective
+  name: Cost Effective
+- id: privacy-focused
+  name: Privacy Focused
+- id: screenshot-indexing
+  name: Screenshot Indexing
+- id: model-aggregator
+  name: Model Aggregator
+- id: operators
+  name: Operators
+- id: acceleration
+  name: Acceleration
+- id: server
+  name: Server
+- id: ml-serving
+  name: Ml Serving
+- id: neurips
+  name: NeurIPS
+- id: cooperative-planning
+  name: Cooperative Planning
+- id: speech-to-text
+  name: Speech To Text
+- id: whisper
+  name: Whisper
+- id: isotonic-regression
+  name: Isotonic Regression
+- id: monotonic
+  name: Monotonic
+- id: document-ai
+  name: Document AI
+- id: information-extraction
+  name: Information Extraction
+- id: answer-engine
+  name: Answer Engine
+- id: ai-search
+  name: Ai Search
+- id: citations
+  name: Citations
+- id: hyperwrite
+  name: Hyperwrite
+- id: optics
+  name: Optics
+- id: density-clustering
+  name: Density Clustering
+- id: ball-tree
+  name: Ball Tree
+- id: vantage-point
+  name: Vantage Point
+- id: collaborative-inference
+  name: Collaborative Inference
+- id: decentralized
+  name: Decentralized
+- id: postgresql
+  name: Postgresql
+- id: pgvector
+  name: Pgvector
+- id: sharding
+  name: Sharding
+- id: tools
+  name: Tools
+- id: archived
+  name: Archived
+- id: workspace
+  name: Workspace
+- id: code-snippets
+  name: Code Snippets
+- id: workflow-assistance
+  name: Workflow Assistance
+- id: developer-productivity
+  name: Developer Productivity
+- id: task-marketplace
+  name: Task Marketplace
+- id: agent-comms
+  name: Agent Comms
+- id: one-click-install
+  name: One Click Install
+- id: local-deployment
+  name: Local Deployment
+- id: ai-apps
+  name: Ai Apps
+- id: coding
+  name: Coding
+- id: complex-tasks
+  name: Complex Tasks
+- id: ai-engine
+  name: Ai Engine
+- id: token-optimization
+  name: Token Optimization
+- id: voiceover
+  name: Voiceover
+- id: data-visualization
+  name: Data Visualization
+- id: crypto
+  name: Crypto
+- id: spending-limits
+  name: Spending Limits
+- id: css-stylable
+  name: Css Stylable
+- id: predictable
+  name: Predictable
+- id: authenticated
+  name: Authenticated
+- id: human-in-the-loop
+  name: Human In The Loop
+- id: self-reflection
+  name: Self Reflection
+- id: gnuplot
+  name: Gnuplot
+- id: externalization
+  name: Externalization
+- id: jsx
+  name: Jsx
+- id: document-query
+  name: Document Query
+- id: custom-ai
+  name: Custom Ai
+- id: consulting
+  name: Consulting
+- id: workflow-deployment
+  name: Workflow Deployment
+- id: prompt-to-ui
+  name: Prompt To Ui
+- id: artifact-generation
+  name: Artifact Generation
+- id: cache-efficient
+  name: Cache Efficient
+- id: sequential
+  name: Sequential
+- id: structured-responses
+  name: Structured Responses
+- id: data-validation
+  name: Data Validation
+- id: type-hints
+  name: Type Hints
+- id: graph-editor
+  name: Graph Editor
+- id: llm-workflows
+  name: Llm Workflows
+- id: visual
+  name: Visual
+- id: structured-debates
+  name: Structured Debates
+- id: consensus
+  name: Consensus
+- id: multi-method
+  name: Multi Method
+- id: document-ingestion
+  name: Document Ingestion
+- id: ros-2
+  name: Ros 2
+- id: voice-interaction
+  name: Voice Interaction
+- id: keyword-extraction
+  name: Keyword Extraction
+- id: ensemble
+  name: Ensemble
+- id: headless
+  name: Headless
+- id: rasa
+  name: Rasa
+- id: terminal
+  name: Terminal
+- id: ascii
+  name: Ascii
+- id: zero-dependency
+  name: Zero Dependency
+- id: database
+  name: Database
+- id: embedded
+  name: Embedded
+- id: key-value
+  name: Key Value
+- id: data-cleaning
+  name: Data Cleaning
+- id: llm-powered
+  name: LLM Powered
+- id: routing
+  name: Routing
+- id: multi-registry
+  name: Multi Registry
+- id: reinforcement
+  name: Reinforcement
+- id: llm-driven
+  name: Llm Driven
+- id: neuroevolution
+  name: Neuroevolution
+- id: genetic-algorithm
+  name: Genetic Algorithm
+- id: k-means
+  name: K Means
+- id: generic
+  name: Generic
+- id: cpp
+  name: Cpp
+- id: linguistic
+  name: Linguistic
+- id: matrix-decomposition
+  name: Matrix Decomposition
+- id: collaborative-filtering
+  name: Collaborative Filtering
+- id: csv
+  name: Csv
+- id: parser
+  name: Parser
+- id: serde
+  name: Serde
+- id: type-conversion
+  name: Type Conversion
+- id: coursera
+  name: Coursera
+- id: hands-on-labs
+  name: Hands On Labs
+- id: rust-training
+  name: Rust Training
+- id: apache-arrow
+  name: Apache Arrow
+- id: tabular
+  name: Tabular
+- id: vamana
+  name: Vamana
+- id: memory-mapped
+  name: Memory Mapped
+- id: web-server
+  name: Web Server
+- id: groq
+  name: Groq
+- id: k-medoids
+  name: K Medoids
+- id: fasterpam
+  name: Fasterpam
+- id: kalman-filter
+  name: Kalman Filter
+- id: smoothing
+  name: Smoothing
+- id: state-estimation
+  name: State Estimation
+- id: stemming
+  name: Stemming
+- id: stopwords
+  name: Stopwords
+- id: tfidf
+  name: Tfidf
+- id: information-retrieval
+  name: Information Retrieval
+- id: text
+  name: Text
+- id: tfrecord
+  name: Tfrecord
+- id: xgboost
+  name: Xgboost
+- id: face-detection
+  name: Face Detection
+- id: differential-privacy
+  name: Differential Privacy
+- id: secure-aggregation
+  name: Secure Aggregation
+- id: smpc
+  name: Smpc
+- id: self-organizing-map
+  name: Self Organizing Map
+- id: super-resolution
+  name: Super Resolution
+- id: serialization
+  name: Serialization
+- id: model-weights
+  name: Model Weights
+- id: zero-copy
+  name: Zero Copy
+- id: stream-processing
+  name: Stream Processing
+- id: data-engineering
+  name: Data Engineering
+- id: batch-processing
+  name: Batch Processing
+- id: metaprompt
+  name: Metaprompt
+- id: tree-search
+  name: Tree Search
+- id: minimal-setup
+  name: Minimal Setup
+- id: voice-infrastructure
+  name: Voice Infrastructure
+- id: stt-tts
+  name: Stt Tts
+- id: recommender
+  name: Recommender
+- id: langgraph
+  name: Langgraph
+- id: captcha-bypass
+  name: Captcha Bypass
+- id: stealth-mode
+  name: Stealth Mode
+- id: personal-knowledge
+  name: Personal Knowledge
+- id: streamlit
+  name: Streamlit
+- id: parallel-computation
+  name: Parallel Computation
+- id: sentencepiece
+  name: Sentencepiece
+- id: sales-automation
+  name: Sales Automation
+- id: sdlc
+  name: Sdlc
+- id: api-agents
+  name: Api Agents
+- id: short-form-video
+  name: Short Form Video
+- id: multi-platform
+  name: Multi Platform
+- id: data-display
+  name: Data Display
+- id: cpu-only
+  name: Cpu Only
+- id: sif
+  name: Sif
+- id: legal
+  name: Legal
+- id: fuzzy-search
+  name: Fuzzy Search
+- id: in-memory
+  name: In Memory
+- id: sandboxing
+  name: Sandboxing
+- id: word2vec
+  name: Word2vec
+- id: blas
+  name: Blas
+- id: autogpt
+  name: Autogpt
+- id: unsupervised
+  name: Unsupervised
+- id: sop
+  name: SOP
+- id: real-world-tasks
+  name: Real World Tasks
+- id: evolutionary
+  name: Evolutionary
+- id: tokenizer-utility
+  name: Tokenizer Utility
+- id: no-cpp
+  name: No Cpp
+- id: web-search
+  name: Web Search
+- id: static-sites
+  name: Static Sites
+- id: knowledge-curation
+  name: Knowledge Curation
+- id: citation
+  name: Citation
+- id: gps
+  name: Gps
+- id: story-generation
+  name: Story Generation
+- id: minimal-boilerplate
+  name: Minimal Boilerplate
+- id: continuous-learning
+  name: Continuous Learning
+- id: demo-apps
+  name: Demo Apps
+- id: python-sdk
+  name: Python Sdk
+- id: yc-backed
+  name: Yc Backed
+- id: tool-creation
+  name: Tool Creation
+- id: multi-vector-memory
+  name: Multi Vector Memory
+- id: collaboration
+  name: Collaboration
+- id: bug-fixing
+  name: Bug Fixing
+- id: github-automation
+  name: Github Automation
+- id: pull-requests
+  name: Pull Requests
+- id: code-improvement
+  name: Code Improvement
+- id: pipeline
+  name: Pipeline
+- id: guided-decoding
+  name: Guided Decoding
+- id: structured-output
+  name: Structured Output
+- id: autonomous-development
+  name: Autonomous Development
+- id: full-stack
+  name: Full Stack
+- id: voice-agents
+  name: Voice Agents
+- id: dataset-creation
+  name: Dataset Creation
+- id: speech-recognition
+  name: Speech Recognition
+- id: generative-ui
+  name: Generative Ui
+- id: web-interaction
+  name: Web Interaction
+- id: visual-tagging
+  name: Visual Tagging
+- id: project-management
+  name: Project Management
+- id: task-automation
+  name: Task Automation
+- id: developer-platform
+  name: Developer Platform
+- id: multi-tenant
+  name: Multi Tenant
+- id: baas
+  name: Baas
+- id: search-api
+  name: Search Api
+- id: dashboard
+  name: Dashboard
+- id: tensorboard
+  name: Tensorboard
+- id: tensorrt
+  name: Tensorrt
+- id: pretraining
+  name: Pretraining
+- id: texture-synthesis
+  name: Texture Synthesis
+- id: generative
+  name: Generative
+- id: tensorflow-lite
+  name: Tensorflow Lite
+- id: workplace-simulation
+  name: Workplace Simulation
+- id: augmentation
+  name: Augmentation
+- id: techniques
+  name: Techniques
+- id: cost-optimization
+  name: Cost Optimization
+- id: model-selection
+  name: Model Selection
+- id: agent-economy
+  name: Agent Economy
+- id: n-grams
+  name: N Grams
+- id: dataset-analysis
+  name: Dataset Analysis
+- id: eleutherai
+  name: Eleutherai
+- id: token-alignment
+  name: Token Alignment
+- id: multi-voice
+  name: Multi Voice
+- id: quality-focused
+  name: Quality Focused
+- id: tracing
+  name: Tracing
+- id: browser-inference
+  name: Browser Inference
+- id: browser-based
+  name: Browser Based
+- id: client-side-ml
+  name: Client Side Ml
+- id: hdpsg
+  name: Hdpsg
+- id: symbolic
+  name: Symbolic
+- id: tvm
+  name: Tvm
+- id: communications
+  name: Communications
+- id: messaging
+  name: Messaging
+- id: schema-engineering
+  name: Schema Engineering
+- id: batteries-included
+  name: Batteries Included
+- id: fetch-ai
+  name: Fetch Ai
+- id: cryptographic-security
+  name: Cryptographic Security
+- id: xla
+  name: Xla
+- id: text-preprocessing
+  name: Text Preprocessing
+- id: llm-datasets
+  name: Llm Datasets
+- id: unix
+  name: Unix
+- id: system-administration
+  name: System Administration
+- id: reliability
+  name: Reliability
+- id: browser-use
+  name: Browser Use
+- id: fun
+  name: Fun
+- id: text-transformation
+  name: Text Transformation
+- id: sentiment-analysis
+  name: Sentiment Analysis
+- id: social-media
+  name: Social Media
+- id: voicebots
+  name: Voicebots
+- id: rapid-deployment
+  name: Rapid Deployment
+- id: search-based
+  name: Search Based
+- id: data-pipeline
+  name: Data Pipeline
+- id: logging
+  name: Logging
+- id: vega-lite
+  name: Vega Lite
+- id: grammar-of-graphics
+  name: Grammar Of Graphics
+- id: json
+  name: Json
+- id: google-cloud
+  name: Google Cloud
+- id: data-copilot
+  name: Data Copilot
+- id: vision
+  name: Vision
+- id: vimium
+  name: Vimium
+- id: accessibility
+  name: Accessibility
+- id: agent-framework
+  name: Agent Framework
+- id: vision-algorithms
+  name: Vision Algorithms
+- id: odometry
+  name: Odometry
+- id: high-throughput
+  name: High Throughput
+- id: vowpal-wabbit
+  name: Vowpal Wabbit
+- id: speech-processing
+  name: Speech Processing
+- id: pluggable-backends
+  name: Pluggable Backends
+- id: c-interop
+  name: C Interop
+- id: wallet
+  name: Wallet
+- id: defi
+  name: Defi
+- id: multi-chain
+  name: Multi Chain
+- id: text-to-sql
+  name: Text To Sql
+- id: data-query
+  name: Data Query
+- id: edge-inference
+  name: Edge Inference
+- id: web-navigation
+  name: Web Navigation
+- id: web-auditing
+  name: Web Auditing
+- id: ux-testing
+  name: Ux Testing
+- id: autonomous-testing
+  name: Autonomous Testing
+- id: tmux
+  name: Tmux
+- id: multi-machine
+  name: Multi Machine
+- id: error-recovery
+  name: Error Recovery
+- id: tuning
+  name: Tuning
+- id: agent-connectivity
+  name: Agent Connectivity
+- id: chat-history
+  name: Chat History

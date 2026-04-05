@@ -114,3 +114,37 @@
   name: Speech To Text
 - id: federated-learning
   name: Federated Learning
+- id: recommendation
+  name: Recommendation
+- id: workflow-automation
+  name: Workflow Automation
+- id: monitoring
+  name: Monitoring
+- id: model-serving
+  name: Model Serving
+- id: statistical-modeling
+  name: Statistical Modeling
+- id: developer-tools
+  name: Developer Tools
+- id: frameworks-sdks
+  name: Frameworks & SDKs
+- id: document-processing
+  name: Document Processing
+- id: framework-examples
+  name: Framework Examples
+- id: model-optimization
+  name: Model Optimization
+- id: browser-automation
+  name: Browser Automation
+- id: deep-learning
+  name: Deep Learning
+- id: education
+  name: Education
+- id: scraping
+  name: Scraping
+- id: agentic-sdk
+  name: Agentic SDK
+- id: search-retrieval
+  name: Search & Retrieval
+- id: testing-evaluation
+  name: Testing & Evaluation

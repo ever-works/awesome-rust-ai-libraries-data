@@ -34,11 +34,11 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.0
+version: 0.1.1
 metadata:
   last_request_data:
     generation_method: create-update
-    update_with_pull_request: true
+    update_with_pull_request: false
     website_repository_creation_method: create-using-template
     name: Rust AI Libraries
     prompt: Curated directory of Rust-based libraries and crates for AI model
