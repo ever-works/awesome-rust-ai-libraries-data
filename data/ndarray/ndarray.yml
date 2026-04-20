@@ -1,14 +1,17 @@
 name: ndarray
-description: N-dimensional array library supporting array views,
-  multidimensional slicing, and efficient operations on numerical data.
-  Fundamental for scientific computing, simulations, and machine learning
-  workflows in Rust.
+description: "Ndarray is the foundational N-dimensional array library for Rust
+  scientific computing, supporting tensor ops, linear algebra, broadcasting,
+  parallelism via rayon. Key features: zero-copy views, SIMD acceleration, BLAS
+  integration. Use cases: numerical computing, ML tensor backends, data
+  processing; base for many Rust ML libs like tch-rs, linfa."
 source_url: https://github.com/rust-ndarray/ndarray
-category: Machine Learning
+category: Tensor Libraries
 tags:
-  - multidimensional-arrays
-  - numerical-computing
-  - open-source
+  - N-Dimensional Arrays
+  - Numerical Computing
+  - SIMD
+  - Linear Algebra
+  - Scientific
 featured: false
 markdown: >-
   ## Overview
@@ -43,4 +46,6 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-04-01 12:33
+images:
+  - https://raw.githubusercontent.com/rust-ndarray/ndarray/master/logo/logo_ndarray_color.svg
+updated_at: 2026-04-20 20:24

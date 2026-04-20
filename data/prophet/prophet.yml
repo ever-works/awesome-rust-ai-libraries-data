@@ -3,7 +3,7 @@ description: A neural network implementation in Rust with a focus on
   cache-efficiency and sequential performance. Designed to maximize CPU cache
   utilization for faster inference and training on sequential data.
 source_url: https://crates.io/crates/prophet
-category: Deep Learning
+category: Deep Learning Frameworks
 tags:
   - cache-efficient
   - sequential
@@ -28,4 +28,4 @@ markdown: >-
   - Pure Rust implementation
 
   - Focus on CPU-based neural network computation
-updated_at: 2026-04-05 00:22
+updated_at: 2026-04-20 20:24

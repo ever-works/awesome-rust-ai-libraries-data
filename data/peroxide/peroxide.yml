@@ -3,7 +3,7 @@ description: Peroxide is a Rust numeric library with high performance and
   friendly syntax. It supports numerical analysis, linear algebra, and
   statistics for AI applications. Ranked with score 22 and 550 GitHub stars.
 source_url: https://github.com/Axect/Peroxide
-category: Math
+category: Tensor Libraries
 tags:
   - numerical
   - linear-algebra
@@ -25,4 +25,4 @@ markdown: |-
   - Forks: 32
   - Dependents: 210
   - Updated: 22.11.2024
-updated_at: 2026-04-01 12:33
+updated_at: 2026-04-20 20:24

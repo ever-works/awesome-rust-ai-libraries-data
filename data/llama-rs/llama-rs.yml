@@ -1,12 +1,17 @@
 name: llama-rs
-description: Ecosystem of Rust libraries for running LLMs locally (unmaintained,
-  see README). Supports inference for Llama models and more.
+description: "Rustformers/llm provides a unified interface for running 100+ LLMs
+  locally (Llama, Mistral, Phi) with backends like candle, llama.cpp via ggml.
+  Key features: model loading from HF Hub, chat/completion APIs, quantization
+  support. Use cases: local AI agents, chatbots without cloud; simpler
+  alternative to candle for quick LLM inference."
 source_url: https://github.com/rustformers/llm
-category: NLP
+category: LLM Tools
 tags:
-  - llm-inference
-  - open-source
-  - local
+  - LLM Inference
+  - Local Models
+  - Multi-Model
+  - Quantization
+  - Chat API
 markdown: >-
   ## Overview
 
@@ -18,4 +23,6 @@ markdown: >-
   ## License
 
   Apache-2.0/MIT
-updated_at: 2026-04-01 12:33
+images:
+  - https://raw.githubusercontent.com/rustformers/llm/main/assets/banner.png
+updated_at: 2026-04-20 20:24

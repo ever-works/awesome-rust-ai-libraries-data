@@ -1,14 +1,17 @@
 name: nalgebra
-description: nalgebra is a linear algebra library for Rust. It features
-  high-dimensional vectors, matrices, and mathematical objects with a focus on
-  performance and usability. Ranked with a project-quality score of 22 and 4.1K
-  GitHub stars, essential for numerical computations in AI.
+description: "Nalgebra offers generic linear algebra with
+  matrices/vectors/quaternions, geometry primitives, optimized for
+  games/physics/ML. Key features: SIMD, sparse matrices, decompositions (SVD,
+  QR). Use cases: 3D graphics, robotics kinematics, tensor bases; performant
+  alternative to faer for general-purpose LA."
 source_url: https://github.com/dimforge/nalgebra
-category: Math
+category: Linear Algebra
 tags:
-  - linear-algebra
-  - numerical
-  - open-source
+  - Linear Algebra
+  - Geometry
+  - Matrices
+  - SIMD
+  - Sparse
 featured: true
 markdown: |-
   ## Overview
@@ -26,4 +29,6 @@ markdown: |-
   - Forks: 480
   - Dependents: 43K
   - Updated: 31.10.2024
-updated_at: 2026-04-01 12:33
+images:
+  - https://raw.githubusercontent.com/dimforge/nalgebra/main/logo.png
+updated_at: 2026-04-20 20:24

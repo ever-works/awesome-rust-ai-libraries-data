@@ -1,11 +1,17 @@
 name: faer
-description: Linear algebra foundation for Rust, providing high-performance
-  primitives for numerical computations in AI and machine learning.
+description: "Faer is a fast, ergonomic linear algebra library focusing on
+  dense/sparse solvers, factorizations for numerical stability in ML/scientific
+  computing. Key features: BLAS-free, no_std options, parallel solvers. Use
+  cases: large-scale simulations, preconditioners for optimizers; competes with
+  nalgebra on speed for dense ops."
 source_url: https://github.com/sarah-quinones/faer-rs
-category: Machine Learning
+category: Linear Algebra
 tags:
-  - open-source
-  - linear-algebra
+  - Fast Linear Algebra
+  - Solvers
+  - Sparse Matrices
+  - No Std
+  - Numerical Stability
 featured: false
 markdown: |-
   ## Overview
@@ -15,4 +21,6 @@ markdown: |-
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-01 12:33
+images:
+  - https://github.com/sarah-quinones/faer-rs/raw/main/logo.png
+updated_at: 2026-04-20 20:24

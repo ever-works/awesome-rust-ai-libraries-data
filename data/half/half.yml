@@ -3,7 +3,7 @@ description: Crate providing f16 (half-precision float) type support in Rust.
   Essential for working with 16-bit model weights, quantization, and GPU
   inference where reduced precision is acceptable.
 source_url: https://crates.io/crates/half
-category: Math
+category: Linear Algebra
 tags:
   - float16
   - quantization
@@ -29,4 +29,4 @@ markdown: >-
   - Useful for 16-bit model weights and quantization
 
   - Standard numeric trait implementations
-updated_at: 2026-04-05 00:22
+updated_at: 2026-04-20 20:24

@@ -1,17 +1,18 @@
 name: tract
-description: A tiny, no-nonsense, self-contained inference engine for TensorFlow
-  and ONNX models written in Rust. It has zero external dependencies and
-  compiles models into optimized computation graphs for fast inference, making
-  it significantly smaller and more portable than ONNX Runtime. Ideal for edge
-  deployment, server-side model serving, and embedded machine learning workloads
-  where size and simplicity matter.
+description: "Tract is an ONNX inference library in pure Rust, supporting a wide
+  range of operators for model execution on CPU with optimizations like fusion
+  and quantization. Key features: no unsafe code, WASM support, CLI tools for
+  model inspection/conversion. Use cases: edge inference, ONNX model serving
+  without Python deps, lightweight deployment; alternative to ONNX Runtime with
+  Rust safety and Candle for ONNX-specific focus."
 source_url: https://github.com/sonos/tract
 category: Model Inference
 tags:
-  - onnx
-  - tensorflow
-  - inference
-  - open-source
+  - ONNX
+  - Inference
+  - Pure Rust
+  - Edge AI
+  - Quantization
 featured: true
 markdown: |-
   ## Overview
@@ -25,4 +26,6 @@ markdown: |-
   ## Repository Stats
 
   - Stars: 2.2K
-updated_at: 2026-04-05 00:22
+images:
+  - https://github.com/sonos/tract/raw/main/media/tract_logo.svg
+updated_at: 2026-04-20 20:24

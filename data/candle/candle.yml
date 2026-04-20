@@ -1,18 +1,20 @@
 name: Candle
-description: Candle is Hugging Face's minimalist ML framework for Rust, designed
-  with zero dependencies and GPU acceleration via CUDA and Metal to make easy
-  deployment a priority. It supports GGUF and Safetensors formats, enabling
-  inference for transformer models that power LLMs, computer vision, and speech
-  recognition workloads. Significantly lighter than PyTorch, Candle is
-  purpose-built for edge deployment scenarios where a small footprint and
-  performance matter most.
+description: "Candle is a pure Rust machine learning framework designed for
+  performance and portability, enabling seamless training and inference of
+  neural networks including transformers and diffusion models. Key features
+  include tensor operations with multiple backends (CPU, CUDA, Metal, Vulkan),
+  autograd for differentiation, serialization support for safetensors and ggml,
+  and no external dependencies unlike PyTorch bindings. Use cases: efficient
+  local LLM inference, model fine-tuning, on-device AI; compares favorably to
+  tch-rs for pure-Rust simplicity and Burn for backend flexibility."
 source_url: https://github.com/huggingface/candle
-category: Frameworks
+category: Deep Learning Frameworks
 tags:
-  - minimalist
-  - inference
-  - deep-learning
-  - open-source
+  - Pure Rust
+  - Tensor Framework
+  - LLM Inference
+  - Autograd
+  - Multi-Backend
 featured: true
 markdown: |-
   ## Overview
@@ -32,4 +34,6 @@ markdown: |-
   - Updated: 30.11.2024
 brand: Hugging Face
 brand_logo_url: https://github.com/huggingface/candle
-updated_at: 2026-04-05 00:22
+images:
+  - https://raw.githubusercontent.com/huggingface/candle/main/assets/banner.png
+updated_at: 2026-04-20 20:24

@@ -1,16 +1,17 @@
 name: smartcore
-description: Comprehensive machine learning library in Rust with algorithms for
-  classification, regression, clustering, NLP, and optimization. Features wide
-  algorithm coverage including random forests, gradient boosting, SVM, KNN, PCA,
-  and linear algebra. Suitable for data science, statistical modeling, and
-  predictive analytics use cases. Pure Rust implementation with ndarray support,
-  designed to handle large datasets efficiently.
+description: "SmartCore is a comprehensive ML library in pure Rust with 50+
+  algorithms for supervised/unsupervised learning, including SVM, random
+  forests, KNN, PCA, neural nets. Key features: no dependencies, serialization,
+  datasets. Use cases: embedded ML, cross-platform apps; similar to linfa but
+  more algorithms, no external deps."
 source_url: https://github.com/smartcorelib/smartcore
-category: Frameworks
+category: Machine Learning
 tags:
-  - machine-learning
-  - numerical-computing
-  - open-source
+  - ML Algorithms
+  - Pure Rust
+  - Supervised Learning
+  - Unsupervised
+  - Embedded
 featured: false
 markdown: |-
   ## Overview
@@ -29,4 +30,6 @@ markdown: |-
   - Dependents: 240
   - Updated: 25.11.2024
 brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-updated_at: 2026-04-05 00:22
+images:
+  - https://raw.githubusercontent.com/smartcorelib/smartcore/main/smartcore_logo.svg
+updated_at: 2026-04-20 20:24

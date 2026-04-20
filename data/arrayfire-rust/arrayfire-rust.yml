@@ -1,12 +1,18 @@
 name: arrayfire-rust
-description: Rust bindings for ArrayFire, a high-performance software library
-  for parallel computing with an easy-to-use API.
+description: "Arrayfire Rust bindings provide GPU-accelerated computing with
+  multi-dimensional arrays, supporting CPU/OpenCL/CUDA backends for array ops,
+  linear algebra, stats. Key features: JIT compilation, high-level array syntax,
+  FFT/image processing. Use cases: high-perf numerical workloads, ML kernels;
+  alternative to ndarray with GPU focus, precursor to modern Rust DL
+  frameworks."
 source_url: https://github.com/arrayfire/arrayfire-rust
-category: Machine Learning
+category: Tensor Libraries
 tags:
-  - open-source
-  - gpu
-  - parallel-computing
+  - GPU Computing
+  - Array Ops
+  - Parallel Computing
+  - OpenCL
+  - CUDA
 featured: false
 markdown: |-
   ## Overview
@@ -16,4 +22,6 @@ markdown: |-
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-01 12:33
+images:
+  - https://arrayfire.com/arrayfire_logo.png
+updated_at: 2026-04-20 20:24

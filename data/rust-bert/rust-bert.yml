@@ -1,12 +1,18 @@
 name: rust-bert
-description: Rust-native ready-to-use NLP pipelines and transformer-based models
-  for inference and fine-tuning.
+description: "Rust-bert offers safe Rust bindings to Hugging Face Transformers
+  models for BERT, DistilBERT, etc., enabling tokenization, embeddings,
+  inference without Python. Key features: ONNX/TensorFlow backends via
+  tch-rs/tract, pre-trained models. Use cases: NLP tasks like classification,
+  NER in Rust; compares to candle for LLM focus but specialized for
+  BERT-family."
 source_url: https://github.com/guillaume-be/rust-bert
 category: NLP
 tags:
-  - transformers
-  - bert
-  - open-source
+  - NLP
+  - Transformers
+  - BERT
+  - Embeddings
+  - Hugging Face
 featured: true
 markdown: >-
   ## Overview
@@ -19,4 +25,6 @@ markdown: >-
   ## License
 
   Apache-2.0
-updated_at: 2026-04-01 12:33
+images:
+  - https://github.com/guillaume-be/rust-bert/raw/main/assets/rust-bert.png
+updated_at: 2026-04-20 20:24

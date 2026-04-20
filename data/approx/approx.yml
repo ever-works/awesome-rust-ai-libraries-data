@@ -4,7 +4,7 @@ description: Crate for approximate floating-point comparisons in Rust, providing
   tolerances. Essential for testing ML models where exact float equality is
   impractical.
 source_url: https://crates.io/crates/approx
-category: Math
+category: Linear Algebra
 tags:
   - testing
   - floating-point
@@ -56,4 +56,4 @@ markdown: >-
 
   Free and open-source under the BSD-3-Clause license.
 brand: Brendan Zabarauskas
-updated_at: 2026-04-05 00:22
+updated_at: 2026-04-20 20:24

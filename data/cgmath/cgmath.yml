@@ -2,7 +2,7 @@ name: cgmath
 description: Linear algebra and mathematics library for computer graphics,
   useful in AI for 3D data processing.
 source_url: https://github.com/rustgd/cgmath
-category: Math
+category: Linear Algebra
 tags:
   - linear-algebra
   - graphics
@@ -14,4 +14,4 @@ markdown: |-
 
   ## License
   Apache-2.0/MIT
-updated_at: 2026-04-01 12:33
+updated_at: 2026-04-20 20:24

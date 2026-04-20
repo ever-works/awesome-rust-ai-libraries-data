@@ -1,12 +1,16 @@
 name: rust-autograd
-description: rust-autograd provides tensors and differentiable operations like
-  TensorFlow in Rust. Dead project. Score 12, 490 stars.
+description: "Rust-autograd implements reverse-mode automatic differentiation
+  for ML research, supporting tensors, gradients, custom ops. Key features:
+  tape-based AD, GPU via CUDA, optimizer integration. Use cases: building custom
+  NNs from scratch, prototyping; lighter than dfdx, focused purely on AD."
 source_url: https://github.com/raskr/rust-autograd
-category: Frameworks
+category: Differentiation
 tags:
-  - autograd
-  - tensors
-  - open-source
+  - Automatic Differentiation
+  - Reverse Mode
+  - Tensors
+  - Research
+  - Custom Ops
 featured: false
 markdown: |-
   ## Overview
@@ -20,4 +24,6 @@ markdown: |-
   ## Repository Stats
 
   - Stars: 490
-updated_at: 2026-04-01 12:33
+images:
+  - https://github.com/raskr/rust-autograd/raw/master/logo.png
+updated_at: 2026-04-20 20:24
