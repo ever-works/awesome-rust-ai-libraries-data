@@ -148,3 +148,7 @@
   name: Search & Retrieval
 - id: testing-evaluation
   name: Testing & Evaluation
+- id: tensor-libraries
+  name: Tensor Libraries
+- id: deep-learning-frameworks
+  name: Deep Learning Frameworks

@@ -31,7 +31,7 @@
 - id: solvers
   name: Solvers
 - id: gpu
-  name: Gpu
+  name: GPU
 - id: parallel-computing
   name: Parallel Computing
 - id: sql
@@ -89,7 +89,7 @@
 - id: gpt-4
   name: Gpt 4
 - id: onnx
-  name: Onnx
+  name: ONNX
 - id: deep-learning
   name: Deep Learning
 - id: rust-crate
@@ -119,7 +119,7 @@
 - id: flash-attention
   name: Flash Attention
 - id: cuda
-  name: Cuda
+  name: CUDA
 - id: kernels
   name: Kernels
 - id: lora
@@ -141,7 +141,7 @@
 - id: text-to-video
   name: Text To Video
 - id: llm-inference
-  name: Llm Inference
+  name: LLM Inference
 - id: model-serving
   name: Model Serving
 - id: minimalist
@@ -215,7 +215,7 @@
 - id: knowledge-graphs
   name: Knowledge Graphs
 - id: gpu-computing
-  name: Gpu Computing
+  name: GPU Computing
 - id: numerical
   name: Numerical
 - id: autodiff
@@ -429,7 +429,7 @@
 - id: neural
   name: Neural
 - id: simd
-  name: Simd
+  name: SIMD
 - id: vector-distances
   name: Vector Distances
 - id: reverse-engineering
@@ -521,7 +521,7 @@
 - id: scientific-computing
   name: Scientific Computing
 - id: bert
-  name: Bert
+  name: BERT
 - id: gpu-acceleration
   name: Gpu Acceleration
 - id: diffusion-models
@@ -535,7 +535,7 @@
 - id: client
   name: Client
 - id: opencl
-  name: Opencl
+  name: OpenCL
 - id: sentence-embeddings
   name: Sentence Embeddings
 - id: quant-finance
@@ -615,7 +615,7 @@
 - id: tokenization
   name: Tokenization
 - id: bpe
-  name: Bpe
+  name: BPE
 - id: prototyping
   name: Prototyping
 - id: huggingface
@@ -1177,7 +1177,7 @@
 - id: cohere
   name: Cohere
 - id: nlp
-  name: Nlp
+  name: NLP
 - id: rlhf
   name: Rlhf
 - id: comfyui
@@ -1371,7 +1371,7 @@
 - id: dynet
   name: Dynet
 - id: edge-ai
-  name: Edge Ai
+  name: Edge AI
 - id: agent-server
   name: Agent Server
 - id: speech-synthesis
@@ -2534,3 +2534,51 @@
   name: Agent Connectivity
 - id: chat-history
   name: Chat History
+- id: numerical-optimization
+  name: Numerical Optimization
+- id: gradient-descent
+  name: Gradient Descent
+- id: array-ops
+  name: Array Ops
+- id: backend-agnostic
+  name: Backend Agnostic
+- id: custom-kernels
+  name: Custom Kernels
+- id: tensor-framework
+  name: Tensor Framework
+- id: differentiable-programming
+  name: Differentiable Programming
+- id: dynamic-graphs
+  name: Dynamic Graphs
+- id: fast-linear-algebra
+  name: Fast Linear Algebra
+- id: sparse-matrices
+  name: Sparse Matrices
+- id: numerical-stability
+  name: Numerical Stability
+- id: classical-ml
+  name: Classical ML
+- id: scikit-learn-like
+  name: Scikit Learn Like
+- id: no-gpu
+  name: No GPU
+- id: local-models
+  name: Local Models
+- id: chat-api
+  name: Chat API
+- id: geometry
+  name: Geometry
+- id: n-dimensional-arrays
+  name: N Dimensional Arrays
+- id: scientific
+  name: Scientific
+- id: onnx-runtime
+  name: ONNX Runtime
+- id: custom-ops
+  name: Custom Ops
+- id: ml-algorithms
+  name: ML Algorithms
+- id: pytorch-bindings
+  name: PyTorch Bindings
+- id: nlp-preprocessing
+  name: NLP Preprocessing
