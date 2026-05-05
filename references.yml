@@ -1,0 +1,100 @@
+- url: https://crates.io/crates/candle
+  normalized_url: https://crates.io/crates/candle
+  first_seen_at: 2026-05-05T12:34:25.884Z
+  last_attempted_at: 2026-05-05T12:34:25.884Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://docs.rs/candle
+  normalized_url: https://docs.rs/candle
+  first_seen_at: 2026-05-05T12:53:49.760Z
+  last_attempted_at: 2026-05-05T12:53:49.760Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://github.com/ever-works/awesome-rust-ai-libraries-data
+  normalized_url: https://github.com/ever-works/awesome-rust-ai-libraries-data
+  first_seen_at: 2026-05-05T12:03:55.773Z
+  last_attempted_at: 2026-05-05T12:03:55.773Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://github.com/huggingface/candle
+  normalized_url: https://github.com/huggingface/candle
+  first_seen_at: 2026-05-05T11:53:25.633Z
+  last_attempted_at: 2026-05-05T11:53:25.633Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://github.com/jondot/awesome-rust-llm
+  normalized_url: https://github.com/jondot/awesome-rust-llm
+  first_seen_at: 2026-05-05T12:06:30.418Z
+  last_attempted_at: 2026-05-05T12:06:30.418Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://github.com/tracel-ai/burn
+  normalized_url: https://github.com/tracel-ai/burn
+  first_seen_at: 2026-05-05T12:00:36.586Z
+  last_attempted_at: 2026-05-05T12:00:36.586Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://lib.rs/science/ml
+  normalized_url: https://lib.rs/science/ml
+  first_seen_at: 2026-05-05T12:32:02.115Z
+  last_attempted_at: 2026-05-05T12:32:02.115Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
+- url: https://raw.githubusercontent.com/ever-works/awesome-rust-ai-libraries-data/master/data.json
+  normalized_url: https://raw.githubusercontent.com/ever-works/awesome-rust-ai-libraries-data/master/data.json
+  first_seen_at: 2026-05-05T12:45:26.248Z
+  last_attempted_at: 2026-05-05T12:45:26.248Z
+  status: error
+  items_created: 0
+  pipeline: agent-pipeline
+  error: "Content extraction failed for URL:
+    https://raw.githubusercontent.com/ever-works/awesome-rust-ai-libraries-data\
+    /master/data.json"
+- url: https://raw.githubusercontent.com/huggingface/candle/master/README.md
+  normalized_url: https://raw.githubusercontent.com/huggingface/candle/master/README.md
+  first_seen_at: 2026-05-05T12:41:35.476Z
+  last_attempted_at: 2026-05-05T12:41:35.476Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
+- url: https://raw.githubusercontent.com/jondot/awesome-rust-llm/master/README.md
+  normalized_url: https://raw.githubusercontent.com/jondot/awesome-rust-llm/master/README.md
+  first_seen_at: 2026-05-05T12:44:25.852Z
+  last_attempted_at: 2026-05-05T12:44:25.852Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
+- url: https://raw.githubusercontent.com/vaaaaanquish/Awesome-Rust-MachineLearning/master/README.md
+  normalized_url: https://raw.githubusercontent.com/vaaaaanquish/Awesome-Rust-MachineLearning/master/README.md
+  first_seen_at: 2026-05-05T12:50:25.639Z
+  last_attempted_at: 2026-05-05T12:50:25.639Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
