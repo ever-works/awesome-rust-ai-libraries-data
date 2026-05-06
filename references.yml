@@ -1,7 +1,25 @@
+- url: https://crates.io/crates/burn
+  normalized_url: https://crates.io/crates/burn
+  first_seen_at: 2026-05-06T12:00:20.221Z
+  last_attempted_at: 2026-05-06T12:00:20.221Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
 - url: https://crates.io/crates/candle
   normalized_url: https://crates.io/crates/candle
   first_seen_at: 2026-05-05T12:34:25.884Z
   last_attempted_at: 2026-05-05T12:34:25.884Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://crates.io/crates/candle-core
+  normalized_url: https://crates.io/crates/candle-core
+  first_seen_at: 2026-05-06T11:57:32.836Z
+  last_attempted_at: 2026-05-06T11:57:32.836Z
   status: empty
   items_created: 0
   pipeline: agent-pipeline
@@ -16,10 +34,36 @@
   pipeline: agent-pipeline
   provider: Local (Readability)
   error: No items extracted
+- url: https://github.com/AdamStrojek/rust-agentai
+  normalized_url: https://github.com/AdamStrojek/rust-agentai
+  first_seen_at: 2026-05-06T11:51:39.713Z
+  last_attempted_at: 2026-05-06T11:51:39.713Z
+  last_success_at: 2026-05-06T11:51:39.713Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://github.com/chelsea0x3b/dfdx
+  normalized_url: https://github.com/chelsea0x3b/dfdx
+  first_seen_at: 2026-05-06T11:55:17.694Z
+  last_attempted_at: 2026-05-06T11:55:17.694Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
 - url: https://github.com/ever-works/awesome-rust-ai-libraries-data
   normalized_url: https://github.com/ever-works/awesome-rust-ai-libraries-data
   first_seen_at: 2026-05-05T12:03:55.773Z
   last_attempted_at: 2026-05-05T12:03:55.773Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://github.com/graniet/llm
+  normalized_url: https://github.com/graniet/llm
+  first_seen_at: 2026-05-06T12:03:04.452Z
+  last_attempted_at: 2026-05-06T12:03:04.452Z
   status: empty
   items_created: 0
   pipeline: agent-pipeline
@@ -38,6 +82,24 @@
   normalized_url: https://github.com/jondot/awesome-rust-llm
   first_seen_at: 2026-05-05T12:06:30.418Z
   last_attempted_at: 2026-05-05T12:06:30.418Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://github.com/ldclabs/anda
+  normalized_url: https://github.com/ldclabs/anda
+  first_seen_at: 2026-05-06T11:53:43.942Z
+  last_attempted_at: 2026-05-06T11:53:43.942Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://github.com/tinyms-ai/awesome-rusted-ai
+  normalized_url: https://github.com/tinyms-ai/awesome-rusted-ai
+  first_seen_at: 2026-05-06T11:49:33.899Z
+  last_attempted_at: 2026-05-06T11:49:33.899Z
   status: empty
   items_created: 0
   pipeline: agent-pipeline
