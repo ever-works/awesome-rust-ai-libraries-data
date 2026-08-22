@@ -1,4 +1,4 @@
-company_name: Acme
+company_name: Awesome Rust AI Libraries
 content_table: true
 item_name: Item
 items_name: Items
@@ -24,6 +24,10 @@ settings:
     search_enabled: true
     default_view: classic
     default_sort: popularity
+    hero_badge_text: Rust · Machine Learning · Inference · Agents
+    hero_title: AI and Machine Learning
+    hero_title_gradient: in Rust
+    hero_description: A curated directory of Rust crates and tools for AI — model training and inference, LLM tooling, agentic systems, NLP, generative AI and data processing — including candle, burn, dfdx, tract and many more.
   footer:
     subscribe_enabled: true
     version_enabled: true
@@ -41,10 +45,7 @@ metadata:
     update_with_pull_request: false
     website_repository_creation_method: create-using-template
     name: Rust AI Libraries
-    prompt: Curated directory of Rust-based libraries and crates for AI model
-      training, inference, agentic systems, and related tools. Include popular
-      crates like candle, burn, dfdx, tract, and more. Focus on open-source,
-      high-quality projects with GitHub stars, docs, and examples.
+    prompt: Curated directory of Rust-based libraries and crates for AI model training, inference, agentic systems, and related tools. Include popular crates like candle, burn, dfdx, tract, and more. Focus on open-source, high-quality projects with GitHub stars, docs, and examples.
     providers: {}
     pluginConfig:
       target_keywords: []
@@ -57,16 +58,13 @@ metadata:
       max_results_per_query: 5
       max_pages_to_process: 10
       ai_first_generation_enabled: false
-  initial_prompt: Curated directory of Rust-based libraries and crates for AI
-    model training, inference, agentic systems, and related tools. Include
-    popular crates like candle, burn, dfdx, tract, and more. Focus on
-    open-source, high-quality projects with GitHub stars, docs, and examples.
+  initial_prompt: Curated directory of Rust-based libraries and crates for AI model training, inference, agentic systems, and related tools. Include popular crates like candle, burn, dfdx, tract, and more. Focus on open-source, high-quality projects with GitHub stars, docs, and examples.
 name: Awesome Rust Ai Libraries
-initial_prompt: Curated directory of Rust-based libraries and crates for AI
-  model training, inference, agentic systems, and related tools. Include popular
-  crates like candle, burn, dfdx, tract, and more. Focus on open-source,
-  high-quality projects with GitHub stars, docs, and examples.
+initial_prompt: Curated directory of Rust-based libraries and crates for AI model training, inference, agentic systems, and related tools. Include popular crates like candle, burn, dfdx, tract, and more. Focus on open-source, high-quality projects with GitHub stars, docs, and examples.
 website_repo: ever-works/awesome-rust-ai-libraries-website
 deployProvider: vercel
 activity_sync:
   mode: pull
+logo:
+  logo_image: https://raw.githubusercontent.com/ever-works/awesome-rust-ai-libraries-data/master/pages/logo-light.png
+  logo_image_dark: https://raw.githubusercontent.com/ever-works/awesome-rust-ai-libraries-data/master/pages/logo-dark.png
