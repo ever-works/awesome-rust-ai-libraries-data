@@ -61,14 +61,12 @@ metadata:
     model training, inference, agentic systems, and related tools. Include
     popular crates like candle, burn, dfdx, tract, and more. Focus on
     open-source, high-quality projects with GitHub stars, docs, and examples.
-name: Rust AI Libraries
+name: Awesome Rust Ai Libraries
 initial_prompt: Curated directory of Rust-based libraries and crates for AI
   model training, inference, agentic systems, and related tools. Include popular
   crates like candle, burn, dfdx, tract, and more. Focus on open-source,
   high-quality projects with GitHub stars, docs, and examples.
-providers: {}
 website_repo: ever-works/awesome-rust-ai-libraries-website
-schedule:
-  enabled: true
-  cadence: daily
 deployProvider: vercel
+activity_sync:
+  mode: pull
