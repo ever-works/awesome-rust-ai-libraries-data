@@ -27,7 +27,7 @@ settings:
     hero_badge_text: Rust · Machine Learning · Inference · Agents
     hero_title: AI and Machine Learning
     hero_title_gradient: in Rust
-    hero_description: A curated directory of Rust crates and tools for AI — model training and inference, LLM tooling, agentic systems, NLP, generative AI and data processing — including candle, burn, dfdx, tract and many more.
+    hero_description: A curated directory of AI and machine-learning tooling with a Rust focus — training and inference crates such as candle, burn, dfdx and tract, plus the LLM tooling, agentic systems, NLP, generative AI and data-processing projects used around them.
   footer:
     subscribe_enabled: true
     version_enabled: true
