@@ -1,0 +1,19 @@
+name: AI Image Cleaner
+description: "AI Image Cleaner: Remove Objects from Photos"
+source_url: https://ai-image-cleaner.com/
+category:
+  - agentic-systems
+  - stream-processing
+  - embeddings
+  - optimization
+  - text-processing
+tags:
+  - open-source
+  - prompts
+  - query-engine
+collections: []
+featured: false
+updated_at: 2026-10-17 08:16
+status: pending
+submitted_by: 04f94abe-a1cd-4c23-aefd-d9e3f8d83b9a
+submitted_at: 2026-10-17 08:16
