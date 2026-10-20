@@ -1,0 +1,10 @@
+name: Hyperconsciousness
+description: Developer-alpha Rust knowledge store for humans and agents, with encrypted append-only records, device sync, scoped expiring grants, and CLI/MCP/HTTP access.
+source_url: https://github.com/louis030195/hyperconsciousness
+category: Memory
+tags:
+  - rust
+  - memory
+  - encryption
+  - mcp
+updated_at: 2026-10-02 00:58
